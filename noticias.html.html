@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CourtKing — Noticias, Partidos & Videos</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --black: #0a0a0a;
+  --white: #f0ede8;
+  --orange: #ff5a1f;
+  --gray: #141414;
+  --gray2: #222;
+  --gray3: #2e2e2e;
+  --muted: #666;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--black); color:var(--white); font-family:'DM Sans',sans-serif; }
+
+.page-header {
+  padding: 40px 48px 28px;
+  border-bottom: 1px solid var(--gray2);
+  display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; gap: 8px;
+}
+.page-header h1 { font-family:'Bebas Neue',sans-serif; font-size:clamp(2rem,4vw,3rem); letter-spacing:3px; line-height:1; }
+.page-header h1 span { color:var(--orange); }
+.page-updated { font-size:.68rem; color:var(--muted); letter-spacing:1.5px; text-transform:uppercase; }
+
+.sport-block { padding:40px 48px; border-bottom:1px solid var(--gray2); }
+.sport-block:last-child { border-bottom:none; }
+
+.sport-header { display:flex; align-items:center; gap:12px; margin-bottom:24px; }
+.sport-icon { font-size:1.5rem; }
+.sport-name { font-family:'Bebas Neue',sans-serif; font-size:1.9rem; letter-spacing:3px; }
+.sport-line { flex:1; height:1px; background:var(--gray2); }
+
+.section-label { font-size:.66rem; letter-spacing:2.5px; text-transform:uppercase; color:var(--orange); margin-bottom:12px; margin-top:26px; }
+.section-label:first-of-type { margin-top:0; }
+
+.matches-row { display:flex; gap:10px; overflow-x:auto; padding-bottom:4px; scrollbar-width:thin; scrollbar-color:var(--gray3) transparent; }
+.match-card {
+  flex:0 0 190px; background:var(--gray); border:1px solid var(--gray2); border-radius:4px;
+  padding:14px 15px; text-decoration:none; color:inherit;
+  display:flex; flex-direction:column; gap:7px;
+  transition:border-color .2s,transform .2s;
+}
+.match-card:hover { border-color:var(--orange); transform:translateY(-2px); }
+.match-date { font-size:.63rem; letter-spacing:1.5px; text-transform:uppercase; color:var(--muted); }
+.match-teams { font-size:.86rem; font-weight:600; line-height:1.4; display:flex; flex-direction:column; gap:3px; }
+.match-vs { font-size:.68rem; color:var(--orange); font-weight:400; }
+.match-league { font-size:.65rem; color:var(--muted); }
+.match-status { font-size:.63rem; letter-spacing:1px; text-transform:uppercase; color:var(--orange); }
+.match-status.live { color:#22c55e; animation:pulse 1.5s ease-in-out infinite; }
+@keyframes pulse { 0%,100%{opacity:1}50%{opacity:.35} }
+
+.c-outer { overflow:hidden; }
+.c-track { display:flex; gap:14px; transition:transform .4s cubic-bezier(.25,.46,.45,.94); }
+
+.news-card {
+  flex:0 0 calc(33.333% - 10px); min-width:210px;
+  background:var(--gray); border:1px solid var(--gray2); border-radius:4px;
+  padding:18px 16px 14px; display:flex; flex-direction:column; gap:10px;
+  text-decoration:none; color:inherit; transition:border-color .2s,transform .2s;
+}
+.news-card:hover { border-color:var(--orange); transform:translateY(-2px); }
+.news-date { font-size:.63rem; letter-spacing:1.5px; text-transform:uppercase; color:var(--orange); }
+.news-title { font-size:.86rem; font-weight:500; line-height:1.45; }
+.news-more { margin-top:auto; font-size:.68rem; color:var(--muted); display:flex; align-items:center; gap:5px; }
+.news-more svg { transition:transform .2s; }
+.news-card:hover .news-more svg { transform:translateX(4px); }
+
+.video-card {
+  flex:0 0 calc(33.333% - 10px); min-width:210px;
+  background:var(--gray); border:1px solid var(--gray2); border-radius:4px;
+  overflow:hidden; cursor:pointer; transition:border-color .2s,transform .2s;
+}
+.video-card:hover { border-color:var(--orange); transform:translateY(-2px); }
+.vthumb { position:relative; padding-top:56.25%; background:#111; overflow:hidden; }
+.vthumb img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; transition:transform .3s; }
+.video-card:hover .vthumb img { transform:scale(1.05); }
+.vplay { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; background:rgba(0,0,0,.3); }
+.vinfo { padding:11px 13px 13px; }
+.vtitle { font-size:.82rem; font-weight:500; line-height:1.4; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+.vdate { margin-top:6px; font-size:.63rem; color:var(--muted); letter-spacing:1px; text-transform:uppercase; }
+
+.c-nav { display:flex; justify-content:flex-end; gap:6px; margin-top:10px; }
+.c-btn {
+  width:32px; height:32px; background:transparent; border:1px solid var(--gray3);
+  color:var(--white); cursor:pointer; border-radius:2px;
+  display:flex; align-items:center; justify-content:center; transition:all .2s;
+}
+.c-btn:hover { background:var(--orange); border-color:var(--orange); }
+
+.modal-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,.88); z-index:999; align-items:center; justify-content:center; padding:20px; }
+.modal-overlay.open { display:flex; }
+.modal-box { width:100%; max-width:880px; background:var(--gray); border:1px solid var(--gray2); border-radius:4px; overflow:hidden; position:relative; }
+.modal-close { position:absolute; top:10px; right:12px; background:rgba(0,0,0,.6); border:none; color:var(--white); width:28px; height:28px; border-radius:50%; cursor:pointer; font-size:.9rem; display:flex; align-items:center; justify-content:center; z-index:10; transition:background .2s; }
+.modal-close:hover { background:var(--orange); }
+.modal-box iframe { width:100%; aspect-ratio:16/9; border:none; display:block; }
+
+.ck-loading { display:flex; align-items:center; gap:10px; color:var(--muted); font-size:.8rem; padding:28px 0; }
+.ck-spin { width:15px; height:15px; border:2px solid var(--gray3); border-top-color:var(--orange); border-radius:50%; animation:spin .7s linear infinite; }
+@keyframes spin { to{transform:rotate(360deg)} }
+
+@media(max-width:768px){
+  .page-header,.sport-block { padding-left:20px; padding-right:20px; }
+  .news-card,.video-card { flex:0 0 76vw; }
+  .match-card { flex:0 0 165px; }
+}
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>COURT<span>KING</span> — EN VIVO</h1>
+  <span class="page-updated" id="ck-updated"></span>
+</div>
+
+<div class="sport-block">
+  <div class="sport-header">
+    <span class="sport-icon">🏀</span><span class="sport-name">BASKETBALL</span><div class="sport-line"></div>
+  </div>
+  <div class="section-label">Partidos de la Semana</div>
+  <div class="matches-row" id="matches-bk"><div class="ck-loading"><div class="ck-spin"></div>Cargando partidos...</div></div>
+  <div class="section-label">Noticias</div>
+  <div class="c-outer"><div class="c-track" id="news-bk"><div class="ck-loading"><div class="ck-spin"></div>Cargando...</div></div></div>
+  <div class="c-nav"><button class="c-btn" onclick="slide('news-bk','nbk',-1)">&#8592;</button><button class="c-btn" onclick="slide('news-bk','nbk',1)">&#8594;</button></div>
+  <div class="section-label">Videos</div>
+  <div class="c-outer"><div class="c-track" id="vids-bk"><div class="ck-loading"><div class="ck-spin"></div>Cargando...</div></div></div>
+  <div class="c-nav"><button class="c-btn" onclick="slide('vids-bk','vbk',-1)">&#8592;</button><button class="c-btn" onclick="slide('vids-bk','vbk',1)">&#8594;</button></div>
+</div>
+
+<div class="sport-block">
+  <div class="sport-header">
+    <span class="sport-icon">⚽</span><span class="sport-name">FÚTBOL</span><div class="sport-line"></div>
+  </div>
+  <div class="section-label">Partidos de la Semana</div>
+  <div class="matches-row" id="matches-fx"><div class="ck-loading"><div class="ck-spin"></div>Cargando partidos...</div></div>
+  <div class="section-label">Noticias</div>
+  <div class="c-outer"><div class="c-track" id="news-fx"><div class="ck-loading"><div class="ck-spin"></div>Cargando...</div></div></div>
+  <div class="c-nav"><button class="c-btn" onclick="slide('news-fx','nfx',-1)">&#8592;</button><button class="c-btn" onclick="slide('news-fx','nfx',1)">&#8594;</button></div>
+  <div class="section-label">Videos</div>
+  <div class="c-outer"><div class="c-track" id="vids-fx"><div class="ck-loading"><div class="ck-spin"></div>Cargando...</div></div></div>
+  <div class="c-nav"><button class="c-btn" onclick="slide('vids-fx','vfx',-1)">&#8592;</button><button class="c-btn" onclick="slide('vids-fx','vfx',1)">&#8594;</button></div>
+</div>
+
+<div class="sport-block">
+  <div class="sport-header">
+    <span class="sport-icon">🎾</span><span class="sport-name">PADEL</span><div class="sport-line"></div>
+  </div>
+  <div class="section-label">Partidos de la Semana</div>
+  <div class="matches-row" id="matches-pd"><div class="ck-loading"><div class="ck-spin"></div>Cargando partidos...</div></div>
+  <div class="section-label">Noticias</div>
+  <div class="c-outer"><div class="c-track" id="news-pd"><div class="ck-loading"><div class="ck-spin"></div>Cargando...</div></div></div>
+  <div class="c-nav"><button class="c-btn" onclick="slide('news-pd','npd',-1)">&#8592;</button><button class="c-btn" onclick="slide('news-pd','npd',1)">&#8594;</button></div>
+  <div class="section-label">Videos</div>
+  <div class="c-outer"><div class="c-track" id="vids-pd"><div class="ck-loading"><div class="ck-spin"></div>Cargando...</div></div></div>
+  <div class="c-nav"><button class="c-btn" onclick="slide('vids-pd','vpd',-1)">&#8592;</button><button class="c-btn" onclick="slide('vids-pd','vpd',1)">&#8594;</button></div>
+</div>
+
+<div class="modal-overlay" id="ck-modal">
+  <div class="modal-box">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <iframe id="modal-iframe" allowfullscreen></iframe>
+  </div>
+</div>
+
+<script>
+const NOTICIAS_URL = 'https://raw.githubusercontent.com/CourtkingMX/courtking-news-bot/main/noticias.json';
+const YT_KEY = 'AIzaSyABQSy5j3HOeFVFxijwZUw5SNFNyLbdAIw';
+const YT_CH  = { bk:'UCWJ2lWNubArHWmf3FIHbfcQ', fx:'UCq8BPLXtFeiSFOvmJrknWGg', pd:'UCK59dYVs3Wgwoe73nDTH6jw' };
+const cpos   = {};
+
+const ESPN = {
+  bk: { url:'https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard', label:'NBA', link:'https://www.espn.com/nba/scoreboard' },
+  fx: { url:'https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/scoreboard?limit=10', label:'Liga MX', link:'https://www.espn.com/soccer/scoreboard/_/league/mex.1' }
+};
+
+async function loadMatches(sport) {
+  const el = document.getElementById('matches-' + sport);
+
+  if (sport === 'pd') {
+    const items = [
+      ['1–8 Mar 2026','Gijón P2','Premier Padel — España','https://www.padelfip.com/es/evento/gijon-p2-2026/','live'],
+      ['16–22 Mar 2026','Cancún P2','Premier Padel — México','https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026',''],
+      ['23–29 Mar 2026','Miami P1','Premier Padel — EUA','https://www.miamipremierpadel.com/',''],
+      ['6–11 Abr 2026','Qatar Major','Premier Padel — Doha','https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026',''],
+      ['Nov 2026','Mexico Major','Premier Padel — Acapulco','https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026',''],
+    ];
+    el.innerHTML = items.map(([d,t,l,u,live]) => `<a class="match-card" href="${u}" target="_blank" rel="noopener"><div class="match-date">${d}</div><div class="match-teams"><span>${t}</span></div><div class="match-league">${l}</div><div class="match-status ${live}">${live?'● EN VIVO':'Próximo →'}</div></a>`).join('');
+    return;
+  }
+
+  const src = ESPN[sport];
+  try {
+    const res  = await fetch(src.url);
+    const data = await res.json();
+    const evs  = (data.events || []).slice(0, 8);
+    if (!evs.length) {
+      el.innerHTML = `<a class="match-card" href="${src.link}" target="_blank"><div class="match-date">Sin partidos hoy</div><div class="match-teams"><span>${src.label}</span></div><div class="match-status">Ver calendario →</div></a>`;
+      return;
+    }
+    el.innerHTML = evs.map(ev => {
+      const comp  = ev.competitions?.[0];
+      const home  = comp?.competitors?.find(c => c.homeAway==='home');
+      const away  = comp?.competitors?.find(c => c.homeAway==='away');
+      const live  = ev.status?.type?.state === 'in';
+      const done  = ev.status?.type?.completed;
+      const date  = new Date(ev.date).toLocaleDateString('es-MX',{weekday:'short',day:'numeric',month:'short'});
+      const time  = new Date(ev.date).toLocaleTimeString('es-MX',{hour:'2-digit',minute:'2-digit',timeZone:'America/Monterrey'});
+      const hn    = home?.team?.shortDisplayName || '?';
+      const an    = away?.team?.shortDisplayName || '?';
+      const hs    = home?.score ?? '';
+      const as_   = away?.score ?? '';
+      const link  = ev.links?.[0]?.href || src.link;
+      const statLabel = live ? '● EN VIVO' : (done ? `Final ${hs}-${as_}` : `${date} ${time}`);
+      return `<a class="match-card" href="${link}" target="_blank" rel="noopener">
+        <div class="match-date">${date}</div>
+        <div class="match-teams">
+          <span>${hn}${(live||done)?' '+hs:''}</span>
+          <span class="match-vs">vs</span>
+          <span>${an}${(live||done)?' '+as_:''}</span>
+        </div>
+        <div class="match-league">${src.label}</div>
+        <div class="match-status ${live?'live':''}">${statLabel}</div>
+      </a>`;
+    }).join('');
+  } catch(e) {
+    el.innerHTML = `<a class="match-card" href="${src.link}" target="_blank"><div class="match-date">Ver partidos</div><div class="match-teams"><span>${src.label}</span></div><div class="match-status">ESPN →</div></a>`;
+  }
+}
+
+async function loadNews() {
+  try {
+    const res  = await fetch(NOTICIAS_URL + '?t=' + Date.now());
+    const data = await res.json();
+    document.getElementById('ck-updated').textContent = 'Act: ' + data.updated;
+    for (const s of ['bk','fx','pd']) {
+      const track = document.getElementById('news-' + s);
+      const items = data.sports[s] || [];
+      if (!items.length) { track.innerHTML = '<p style="color:#555;font-size:.8rem;padding:18px 0">Sin noticias.</p>'; continue; }
+      track.innerHTML = items.map(n => `
+        <a class="news-card" href="${n.url}" target="_blank" rel="noopener">
+          <div class="news-date">${n.date}</div>
+          <div class="news-title">${n.title}</div>
+          <div class="news-more">Leer más <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></div>
+        </a>`).join('');
+    }
+  } catch(e) { console.error('News:', e); }
+}
+
+async function loadVideos(sport) {
+  const track = document.getElementById('vids-' + sport);
+  try {
+    const url  = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${YT_CH[sport]}&maxResults=6&order=date&type=video&key=${YT_KEY}`;
+    const res  = await fetch(url);
+    const data = await res.json();
+    if (!data.items?.length) { track.innerHTML = '<p style="color:#555;font-size:.8rem;padding:18px 0">Sin videos.</p>'; return; }
+    track.innerHTML = data.items.map(v => {
+      const vid   = v.id.videoId;
+      const title = v.snippet.title.replace(/</g,'&lt;');
+      const thumb = v.snippet.thumbnails.medium.url;
+      const date  = new Date(v.snippet.publishedAt).toLocaleDateString('es-MX',{day:'numeric',month:'short',year:'numeric'});
+      return `<div class="video-card" onclick="openVideo('${vid}')">
+        <div class="vthumb"><img src="${thumb}" alt="" loading="lazy">
+          <div class="vplay"><svg width="42" height="42" viewBox="0 0 42 42"><circle cx="21" cy="21" r="19" fill="rgba(0,0,0,.55)"/><polygon points="17,13 33,21 17,29" fill="white"/></svg></div>
+        </div>
+        <div class="vinfo"><div class="vtitle">${title}</div><div class="vdate">${date}</div></div>
+      </div>`;
+    }).join('');
+  } catch(e) {
+    track.innerHTML = '<p style="color:#555;font-size:.8rem;padding:18px 0">Error cargando videos.</p>';
+  }
+}
+
+function slide(trackId, key, dir) {
+  const track = document.getElementById(trackId);
+  const cards = track.querySelectorAll('.news-card,.video-card');
+  if (!cards.length) return;
+  if (cpos[key] == null) cpos[key] = 0;
+  const gap   = 14;
+  const cardW = cards[0].offsetWidth + gap;
+  const vis   = Math.max(1, Math.floor((track.parentElement.offsetWidth + gap) / cardW));
+  const max   = Math.max(0, cards.length - vis);
+  cpos[key]   = Math.min(Math.max(cpos[key] + dir, 0), max);
+  track.style.transform = `translateX(-${cpos[key] * cardW}px)`;
+}
+
+function openVideo(id) {
+  if (window.location.protocol === 'file:') { window.open('https://www.youtube.com/watch?v='+id,'_blank'); return; }
+  document.getElementById('modal-iframe').src = `https://www.youtube.com/embed/${id}?autoplay=1`;
+  document.getElementById('ck-modal').classList.add('open');
+}
+function closeModal() {
+  document.getElementById('ck-modal').classList.remove('open');
+  document.getElementById('modal-iframe').src = '';
+}
+document.getElementById('ck-modal').addEventListener('click', e => { if(e.target.id==='ck-modal') closeModal(); });
+
+loadNews();
+['bk','fx','pd'].forEach(s => { loadMatches(s); loadVideos(s); });
+</script>
+</body>
+</html>
