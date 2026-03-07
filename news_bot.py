@@ -1,30 +1,30 @@
 """
-CourtKing News Bot v2
-Genera noticias.json que el portal lee directamente desde GitHub CDN.
-No requiere token de Shopify.
+CourtKing News Bot v3
+Genera noticias.json solo con noticias de los últimos 7 días.
 """
 
 import re, json, time, hashlib
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 FEEDS = {
     'bk': [
-        'https://news.google.com/rss/search?q=NBA+basketball+2025&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=basketball+Mexico+Liga&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=NBA+basketball&hl=es-419&gl=MX&ceid=MX:es-419&tbs=qdr:w',
+        'https://news.google.com/rss/search?q=basketball+Mexico+Liga&hl=es-419&gl=MX&ceid=MX:es-419&tbs=qdr:w',
     ],
     'pd': [
-        'https://news.google.com/rss/search?q=padel+Mexico+torneo+2025&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=World+Padel+Tour+2025&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=padel+Premier+Padel&hl=es-419&gl=MX&ceid=MX:es-419&tbs=qdr:w',
+        'https://news.google.com/rss/search?q=padel+Mexico&hl=es-419&gl=MX&ceid=MX:es-419&tbs=qdr:w',
     ],
     'fx': [
-        'https://news.google.com/rss/search?q=Liga+MX+futbol+mexicano&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=seleccion+mexicana+futbol&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=Liga+MX+futbol&hl=es-419&gl=MX&ceid=MX:es-419&tbs=qdr:w',
+        'https://news.google.com/rss/search?q=seleccion+mexicana+futbol&hl=es-419&gl=MX&ceid=MX:es-419&tbs=qdr:w',
     ],
 }
 
-MAX_PER_SPORT = 4
+MAX_PER_SPORT = 6
+MAX_AGE_DAYS  = 7
 
 def fetch_rss(url):
     try:
@@ -41,7 +41,7 @@ def parse_items(xml_bytes):
     try:
         root = ET.fromstring(xml_bytes)
         items = []
-        for item in root.findall('.//item')[:6]:
+        for item in root.findall('.//item')[:10]:
             title = item.findtext('title', '').strip()
             link  = item.findtext('link', '').strip()
             pub   = item.findtext('pubDate', '').strip()
@@ -51,6 +51,13 @@ def parse_items(xml_bytes):
         return items
     except:
         return []
+
+def parse_pub_date(pub_str):
+    try:
+        from email.utils import parsedate_to_datetime
+        return parsedate_to_datetime(pub_str).astimezone(timezone.utc)
+    except:
+        return None
 
 def format_date(pub_str):
     try:
@@ -63,11 +70,14 @@ def format_date(pub_str):
 
 def main():
     print(f"\n{'='*50}")
-    print(f"CourtKing News Bot — {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}")
+    print(f"CourtKing News Bot v3 — {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}")
     print(f"{'='*50}\n")
 
+    now    = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=MAX_AGE_DAYS)
+
     result = {
-        'updated': datetime.now(timezone.utc).strftime('%d/%m/%Y %H:%M UTC'),
+        'updated': now.strftime('%d/%m/%Y %H:%M UTC'),
         'sports': {}
     }
 
@@ -79,19 +89,21 @@ def main():
             items.extend(parse_items(raw))
             time.sleep(1)
 
-        # Deduplicar
         seen, unique = set(), []
         for item in items:
             key = hashlib.md5(item['title'].encode()).hexdigest()
             if key not in seen:
                 seen.add(key)
+                pub_dt = parse_pub_date(item['pub'])
+                if pub_dt and pub_dt < cutoff:
+                    print(f"  ⏭ Saltando noticia vieja: {item['title'][:50]}...")
+                    continue
                 item['date'] = format_date(item['pub'])
                 unique.append(item)
 
         result['sports'][sport] = unique[:MAX_PER_SPORT]
-        print(f"  {len(result['sports'][sport])} noticias OK")
+        print(f"  {len(result['sports'][sport])} noticias recientes OK")
 
-    # Guardar noticias.json
     with open('noticias.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
