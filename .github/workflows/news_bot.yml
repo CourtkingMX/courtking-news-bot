@@ -2,8 +2,9 @@ name: CourtKing News Bot 🤖
 
 on:
   schedule:
-    - cron: '0 6 * * *'
-    - cron: '0 18 * * *'
+    - cron: '0 6 * * *'     # 12:00 AM Monterrey
+    - cron: '0 14 * * *'    # 08:00 AM Monterrey
+    - cron: '0 22 * * *'    # 04:00 PM Monterrey
   workflow_dispatch:
 
 jobs:
