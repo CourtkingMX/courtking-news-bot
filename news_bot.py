@@ -388,14 +388,21 @@ def build_leaders_fx():
     # ⚠️ ACTUALIZAR cada domingo — ver instrucciones en README
     print('    Usando goleadores hardcoded Clausura 2026 (J10)...')
     leaders = [
-        {'pos':1, 'name':'Joao Pedro',         'team':'Atl. San Luis', 'goles': 10},
-        {'pos':2, 'name':'Armando González',   'team':'Chivas',        'goles': 6},
-        {'pos':3, 'name':'José Paradela',      'team':'Cruz Azul',     'goles': 5},
-        {'pos':4, 'name':'Paulinho',           'team':'Tigres',        'goles': 5},
-        {'pos':5, 'name':'Arturo González',    'team':'Atlas',         'goles': 5},
-        {'pos':6, 'name':'Diber Cambindo',     'team':'Toluca',        'goles': 5},
-        {'pos':7, 'name':'Juninho',            'team':'Pumas',         'goles': 4},
-        {'pos':8, 'name':'Marcelo Flores',     'team':'Tigres',        'goles': 3},
+        {'pos':1,  'name':'Joao Pedro',          'team':'Atl. San Luis', 'goles': 9},
+        {'pos':2,  'name':'Armando González',    'team':'Chivas',        'goles': 6},
+        {'pos':3,  'name':'José Paradela',       'team':'Cruz Azul',     'goles': 5},
+        {'pos':4,  'name':'Joao Paulo Dias',     'team':'Toluca',        'goles': 5},
+        {'pos':5,  'name':'Arturo González',     'team':'Atlas',         'goles': 5},
+        {'pos':6,  'name':'Diber Cambindo',      'team':'León',          'goles': 5},
+        {'pos':7,  'name':'A. Palavecino',       'team':'Cruz Azul',     'goles': 4},
+        {'pos':8,  'name':'Salomón Rondón',      'team':'Pachuca',       'goles': 4},
+        {'pos':9,  'name':'Juninho',             'team':'Pumas',         'goles': 4},
+        {'pos':10, 'name':'L. Di Yorio',         'team':'Santos',        'goles': 4},
+        {'pos':11, 'name':'G. Fernández',        'team':'Cruz Azul',     'goles': 3},
+        {'pos':12, 'name':'Oussama Idrissi',     'team':'Pachuca',       'goles': 3},
+        {'pos':13, 'name':'Robert Morales',      'team':'Pumas',         'goles': 3},
+        {'pos':14, 'name':'Álvaro Angulo',       'team':'Pumas',         'goles': 3},
+        {'pos':15, 'name':'Marcelo Flores',      'team':'Tigres',        'goles': 3},
     ]
     print(f'    OK {len(leaders)} goleadores (hardcoded)')
     return leaders
