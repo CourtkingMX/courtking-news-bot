@@ -1,10 +1,10 @@
 {
-  "updated": "08/03/2026 21:56 UTC",
+  "updated": "08/03/2026 22:03 UTC",
   "nba": {
     "standings": {
       "east": [
         {
-          "pos": "",
+          "pos": 1,
           "team": "IND",
           "name": "Pacers",
           "w": "15",
@@ -13,7 +13,7 @@
           "gb": "30.5"
         },
         {
-          "pos": "",
+          "pos": 2,
           "team": "BKN",
           "name": "Nets",
           "w": "16",
@@ -22,7 +22,7 @@
           "gb": "29.5"
         },
         {
-          "pos": "",
+          "pos": 3,
           "team": "WSH",
           "name": "Wizards",
           "w": "16",
@@ -31,7 +31,7 @@
           "gb": "29"
         },
         {
-          "pos": "",
+          "pos": 4,
           "team": "CHI",
           "name": "Bulls",
           "w": "26",
@@ -40,7 +40,7 @@
           "gb": "19.5"
         },
         {
-          "pos": "",
+          "pos": 5,
           "team": "MIL",
           "name": "Bucks",
           "w": "27",
@@ -49,7 +49,7 @@
           "gb": "18"
         },
         {
-          "pos": "",
+          "pos": 6,
           "team": "CHA",
           "name": "Hornets",
           "w": "32",
@@ -58,7 +58,7 @@
           "gb": "14"
         },
         {
-          "pos": "",
+          "pos": 7,
           "team": "ATL",
           "name": "Hawks",
           "w": "33",
@@ -67,7 +67,7 @@
           "gb": "13"
         },
         {
-          "pos": "",
+          "pos": 8,
           "team": "PHI",
           "name": "76ers",
           "w": "34",
@@ -78,7 +78,7 @@
       ],
       "west": [
         {
-          "pos": "",
+          "pos": 1,
           "team": "SAC",
           "name": "Kings",
           "w": "14",
@@ -87,7 +87,7 @@
           "gb": "35.5"
         },
         {
-          "pos": "",
+          "pos": 2,
           "team": "UTAH",
           "name": "Jazz",
           "w": "19",
@@ -96,7 +96,7 @@
           "gb": "30.5"
         },
         {
-          "pos": "",
+          "pos": 3,
           "team": "NO",
           "name": "Pelicans",
           "w": "20",
@@ -105,7 +105,7 @@
           "gb": "30"
         },
         {
-          "pos": "",
+          "pos": 4,
           "team": "DAL",
           "name": "Mavericks",
           "w": "21",
@@ -114,7 +114,7 @@
           "gb": "28"
         },
         {
-          "pos": "",
+          "pos": 5,
           "team": "MEM",
           "name": "Grizzlies",
           "w": "23",
@@ -123,7 +123,7 @@
           "gb": "25.5"
         },
         {
-          "pos": "",
+          "pos": 6,
           "team": "POR",
           "name": "Trail Blazers",
           "w": "30",
@@ -132,7 +132,7 @@
           "gb": "19.5"
         },
         {
-          "pos": "",
+          "pos": 7,
           "team": "LAC",
           "name": "Clippers",
           "w": "31",
@@ -141,7 +141,7 @@
           "gb": "18"
         },
         {
-          "pos": "",
+          "pos": 8,
           "team": "GS",
           "name": "Warriors",
           "w": "32",
