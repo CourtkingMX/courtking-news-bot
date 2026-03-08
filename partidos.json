@@ -1,0 +1,166 @@
+{
+  "updated": "08/03/2026 03:04 UTC",
+  "sports": {
+    "bk": [
+      {
+        "fecha": "Sat 07 Mar",
+        "local": "MIN",
+        "visita": "ORL",
+        "score": "119-92",
+        "liga": "NBA",
+        "estado": "post",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sat 07 Mar",
+        "local": "DET",
+        "visita": "BKN",
+        "score": "107-105",
+        "liga": "NBA",
+        "estado": "post",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sat 07 Mar",
+        "local": "ATL",
+        "visita": "PHI",
+        "score": "116-125",
+        "liga": "NBA",
+        "estado": "post",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 08 Mar",
+        "local": "MEM",
+        "visita": "LAC",
+        "score": "89-90",
+        "liga": "NBA",
+        "estado": "live",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 08 Mar",
+        "local": "MIL",
+        "visita": "UTAH",
+        "score": "83-91",
+        "liga": "NBA",
+        "estado": "live",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 08 Mar",
+        "local": "OKC",
+        "visita": "GS",
+        "score": "65-73",
+        "liga": "NBA",
+        "estado": "live",
+        "url": "https://www.espn.com/nba/scoreboard"
+      }
+    ],
+    "fx": [
+      {
+        "fecha": "Sat 07 Mar",
+        "local": "Cruz Azul",
+        "visita": "Atl. San Luis",
+        "score": "0-3",
+        "liga": "Liga MX",
+        "estado": "post",
+        "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
+      },
+      {
+        "fecha": "Sat 07 Mar",
+        "local": "Queretaro",
+        "visita": "América",
+        "score": "2-1",
+        "liga": "Liga MX",
+        "estado": "post",
+        "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
+      },
+      {
+        "fecha": "Sun 08 Mar",
+        "local": "Atlas",
+        "visita": "Guadalajara",
+        "score": "1-1",
+        "liga": "Liga MX",
+        "estado": "live",
+        "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
+      },
+      {
+        "fecha": "Sun 08 Mar",
+        "local": "Pachuca",
+        "visita": "Puebla",
+        "score": "0-0",
+        "liga": "Liga MX",
+        "estado": "live",
+        "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
+      },
+      {
+        "fecha": "Sun 08 Mar",
+        "local": "Tigres",
+        "visita": "Monterrey",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
+      }
+    ],
+    "pd": [
+      {
+        "fecha": "1-8 Mar 2026",
+        "torneo": "Gijon P2",
+        "liga": "Premier Padel Espana",
+        "url": "https://www.padelfip.com/es/evento/gijon-p2-2026/",
+        "live": true
+      },
+      {
+        "fecha": "16-22 Mar 2026",
+        "torneo": "Cancun P2",
+        "liga": "Premier Padel Mexico",
+        "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026",
+        "live": false
+      },
+      {
+        "fecha": "23-29 Mar 2026",
+        "torneo": "Miami P1",
+        "liga": "Premier Padel EUA",
+        "url": "https://www.miamipremierpadel.com/",
+        "live": false
+      },
+      {
+        "fecha": "6-11 Abr 2026",
+        "torneo": "Qatar Major",
+        "liga": "Premier Padel Doha",
+        "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026",
+        "live": false
+      },
+      {
+        "fecha": "Abr 2026",
+        "torneo": "Bruselas P2",
+        "liga": "Premier Padel Belgica",
+        "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026",
+        "live": false
+      },
+      {
+        "fecha": "May 2026",
+        "torneo": "Madrid Major",
+        "liga": "Premier Padel Espana",
+        "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026",
+        "live": false
+      },
+      {
+        "fecha": "Jun 2026",
+        "torneo": "Paris P1",
+        "liga": "Premier Padel Francia",
+        "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026",
+        "live": false
+      },
+      {
+        "fecha": "Nov 2026",
+        "torneo": "Mexico Major",
+        "liga": "Premier Padel Acapulco",
+        "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026",
+        "live": false
+      }
+    ]
+  }
+}
