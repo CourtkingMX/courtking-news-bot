@@ -1,5 +1,5 @@
 {
-  "updated": "08/03/2026 03:27 UTC",
+  "updated": "08/03/2026 08:59 UTC",
   "sports": {
     "bk": [
       {
@@ -33,9 +33,9 @@
         "fecha": "Sun 08 Mar",
         "local": "MEM",
         "visita": "LAC",
-        "score": "117-116",
+        "score": "123-120",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -51,9 +51,9 @@
         "fecha": "Sun 08 Mar",
         "local": "OKC",
         "visita": "GS",
-        "score": "83-86",
+        "score": "97-104",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -98,9 +98,9 @@
         "fecha": "Sun 08 Mar",
         "local": "Tigres",
         "visita": "Monterrey",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
       }
     ],
