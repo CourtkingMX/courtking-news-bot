@@ -10,9 +10,6 @@ import re, json, time, hashlib, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-# ══════════════════════════════════════════════════════════════
-# CANALES YOUTUBE OFICIALES — RSS no necesita API key
-# ══════════════════════════════════════════════════════════════
 YT_CHANNELS = {
     'bk': [
         'UCWJ2lWNubArHWmf3FIHbfcQ',  # NBA official
@@ -23,12 +20,13 @@ YT_CHANNELS = {
         'UCK59dYVs3Wgwoe73nDTH6jw',  # World Padel Tour
     ],
     'fx': [
-        'UCENlPaQeGAMnDiqByIWyFSQ',  # LaLiga official
-        'UCBcRF18a7Qf58cCRy5xuWwQ',  # Champions League UEFA
+        'UCTv-XvfzLX3i4IGWAm4sbmA',  # LaLiga oficial
+        'UCyGa1YEx9ST66rYrJTGIKOw',  # UEFA oficial
+        'UCq8BPLXtFeiSFOvmJrknWGg',  # Liga BBVA MX
+        'UCTIyEyDNHPrwVFPhpi5dm0A',  # TUDN Mexico
     ],
 }
 
-# Feeds RSS de noticias
 NEWS_FEEDS = {
     'bk': [
         'https://news.google.com/rss/search?q=NBA+basketball+2026&hl=es-419&gl=MX&ceid=MX:es-419',
@@ -64,9 +62,6 @@ MAX_NEWS    = 6
 MAX_VIDEOS  = 8
 MAX_MATCHES = 8
 
-# ══════════════════════════════════════════════════════════════
-# HELPERS
-# ══════════════════════════════════════════════════════════════
 def fetch(url, timeout=15):
     try:
         req = urllib.request.Request(url, headers={
@@ -97,9 +92,6 @@ def format_date(pub_str):
     except:
         return datetime.now().strftime('%d/%m/%Y')
 
-# ══════════════════════════════════════════════════════════════
-# 1. NOTICIAS — Google News RSS
-# ══════════════════════════════════════════════════════════════
 def build_noticias():
     print('\nGenerando noticias.json...')
     result = {}
@@ -135,79 +127,58 @@ def build_noticias():
         print(f'    OK {len(result[sport])} noticias')
     return result
 
-# ══════════════════════════════════════════════════════════════
-# 2. VIDEOS — YouTube RSS (SIN API KEY)
-# Formato: https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
-# ══════════════════════════════════════════════════════════════
 def build_videos():
-    print('\nGenerando videos.json (via YouTube RSS - sin API key)...')
+    print('\nGenerando videos.json (YouTube RSS sin API key)...')
     result = {}
-
     for sport, channel_ids in YT_CHANNELS.items():
         print(f'  [{sport.upper()}]')
         all_videos = []
-
         for channel_id in channel_ids:
             rss_url = f'https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}'
             data = fetch(rss_url)
             if not data:
-                print(f'    aviso: no se pudo obtener RSS de {channel_id}')
+                print(f'    aviso: no RSS de {channel_id}')
                 continue
-
             try:
-                # Namespaces del feed de YouTube
                 ns = {
-                    'atom':   'http://www.w3.org/2005/Atom',
-                    'yt':     'http://www.youtube.com/xml/schemas/2015',
-                    'media':  'http://search.yahoo.com/mrss/',
+                    'atom':  'http://www.w3.org/2005/Atom',
+                    'yt':    'http://www.youtube.com/xml/schemas/2015',
+                    'media': 'http://search.yahoo.com/mrss/',
                 }
                 root = ET.fromstring(data)
-
-                for entry in root.findall('atom:entry', ns)[:6]:
+                count = 0
+                for entry in root.findall('atom:entry', ns)[:5]:
                     vid_id = entry.findtext('yt:videoId', '', ns)
                     title  = entry.findtext('atom:title', '', ns)
                     pub    = entry.findtext('atom:published', '', ns)
-
-                    # Thumbnail desde media:group o construido
-                    thumb = f'https://img.youtube.com/vi/{vid_id}/mqdefault.jpg'
+                    thumb  = f'https://img.youtube.com/vi/{vid_id}/mqdefault.jpg'
                     media_group = entry.find('media:group', ns)
                     if media_group is not None:
-                        media_thumb = media_group.find('media:thumbnail', ns)
-                        if media_thumb is not None:
-                            thumb = media_thumb.get('url', thumb)
-
+                        mt = media_group.find('media:thumbnail', ns)
+                        if mt is not None:
+                            thumb = mt.get('url', thumb)
                     if vid_id and title:
-                        date_str = pub[:10] if pub else ''
                         all_videos.append({
                             'vid':   vid_id,
                             'title': title,
                             'thumb': thumb,
-                            'date':  date_str,
+                            'date':  pub[:10] if pub else '',
                             'url':   f'https://www.youtube.com/watch?v={vid_id}',
                         })
-
-                print(f'    OK canal {channel_id[:12]}... -> {len(all_videos)} videos acumulados')
-
+                        count += 1
+                print(f'    canal {channel_id[:14]}... -> {count} videos')
             except Exception as e:
-                print(f'    aviso parse RSS: {e}')
-
+                print(f'    aviso parse: {e}')
             time.sleep(0.5)
-
-        # Deduplicar
         seen, unique = set(), []
         for v in all_videos:
             if v['vid'] not in seen:
                 seen.add(v['vid'])
                 unique.append(v)
-
         result[sport] = unique[:MAX_VIDEOS]
-        print(f'    TOTAL {len(result[sport])} videos para {sport.upper()}')
-
+        print(f'    TOTAL {len(result[sport])} videos {sport.upper()}')
     return result
 
-# ══════════════════════════════════════════════════════════════
-# 3. PARTIDOS — ESPN API publica
-# ══════════════════════════════════════════════════════════════
 def build_partidos():
     print('\nGenerando partidos.json...')
     result = {}
@@ -268,13 +239,10 @@ def build_partidos():
     print(f'    OK {len(matches)} partidos Liga MX')
 
     result['pd'] = PADEL_CALENDAR
-    print(f'    OK {len(PADEL_CALENDAR)} torneos Premier Padel')
+    print(f'    OK {len(PADEL_CALENDAR)} torneos Padel')
 
     return result
 
-# ══════════════════════════════════════════════════════════════
-# MAIN
-# ══════════════════════════════════════════════════════════════
 def main():
     ts = datetime.now(timezone.utc).strftime('%d/%m/%Y %H:%M UTC')
     print(f'\n{"="*50}')
@@ -292,14 +260,10 @@ def main():
     with open('partidos.json', 'w', encoding='utf-8') as f:
         json.dump({'updated': ts, 'sports': partidos}, f, ensure_ascii=False, indent=2)
 
-    total_v = sum(len(v) for v in videos.values())
-    total_n = sum(len(v) for v in noticias.values())
-    total_p = sum(len(v) for v in partidos.values())
-
     print(f'\n{"="*50}')
-    print(f'  OK noticias.json  -> {total_n} noticias')
-    print(f'  OK videos.json    -> {total_v} videos')
-    print(f'  OK partidos.json  -> {total_p} partidos')
+    print(f'  OK noticias.json  -> {sum(len(v) for v in noticias.values())} noticias')
+    print(f'  OK videos.json    -> {sum(len(v) for v in videos.values())} videos')
+    print(f'  OK partidos.json  -> {sum(len(v) for v in partidos.values())} partidos')
     print(f'{"="*50}\n')
 
 if __name__ == '__main__':
