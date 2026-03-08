@@ -1,8 +1,137 @@
 {
-  "updated": "08/03/2026 03:04 UTC",
+  "updated": "08/03/2026 03:14 UTC",
   "sports": {
-    "bk": [],
-    "pd": [],
-    "fx": []
+    "bk": [
+      {
+        "vid": "js1yBdNmqAM",
+        "title": "Jalen Johnson flies inside for the big putback jam‼️",
+        "thumb": "https://i3.ytimg.com/vi/js1yBdNmqAM/hqdefault.jpg",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=js1yBdNmqAM"
+      },
+      {
+        "vid": "GNnyYVE9ljk",
+        "title": "YEAR 6 ANTHONY EDWARDS IS ON A MISSION 😤",
+        "thumb": "https://i4.ytimg.com/vi/GNnyYVE9ljk/hqdefault.jpg",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=GNnyYVE9ljk"
+      },
+      {
+        "vid": "jB4oLGo3XmM",
+        "title": "Ant's ALL-TIME NBA starting 5 👀",
+        "thumb": "https://i3.ytimg.com/vi/jB4oLGo3XmM/hqdefault.jpg",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=jB4oLGo3XmM"
+      },
+      {
+        "vid": "sDqlOPGViqY",
+        "title": "Jalen Johnson's Double-Double (35 PTS & 10 REBS) Soars Hawks to Win | March 7, 2026",
+        "thumb": "https://i4.ytimg.com/vi/sDqlOPGViqY/hqdefault.jpg",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=sDqlOPGViqY"
+      },
+      {
+        "vid": "XycYGleLRic",
+        "title": "76ERS at HAWKS | FULL GAME HIGHLIGHTS | March 7, 2026",
+        "thumb": "https://i1.ytimg.com/vi/XycYGleLRic/hqdefault.jpg",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=XycYGleLRic"
+      },
+      {
+        "vid": "6zC45XNUSJ0",
+        "title": "NETS at PISTONS | FULL GAME HIGHLIGHTS | March 7, 2026",
+        "thumb": "https://i3.ytimg.com/vi/6zC45XNUSJ0/hqdefault.jpg",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=6zC45XNUSJ0"
+      }
+    ],
+    "pd": [
+      {
+        "vid": "xGUhXTCZAm4",
+        "title": "Gijon Premier Padel P2 🇪🇸🎾: Center Court (🇪🇸)",
+        "thumb": "https://i1.ytimg.com/vi/xGUhXTCZAm4/hqdefault.jpg",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=xGUhXTCZAm4"
+      },
+      {
+        "vid": "tDb6oj4BClg",
+        "title": "Gijon  Premier Padel P2 🇪🇸🎾: Center Court (🇬🇧)",
+        "thumb": "https://i1.ytimg.com/vi/tDb6oj4BClg/hqdefault.jpg",
+        "date": "2026-03-08",
+        "url": "https://www.youtube.com/watch?v=tDb6oj4BClg"
+      },
+      {
+        "vid": "Q1mGT0OQYIs",
+        "title": "Incredible x4 by Alejandro Galan in the Gijon P2 #padel #premierpadel",
+        "thumb": "https://i2.ytimg.com/vi/Q1mGT0OQYIs/hqdefault.jpg",
+        "date": "2026-03-07",
+        "url": "https://www.youtube.com/watch?v=Q1mGT0OQYIs"
+      },
+      {
+        "vid": "SO_wcwoBMOc",
+        "title": "𝗠𝗼𝗺𝗼 mia, what a stunning out the court point by 𝗚𝗼𝗻𝘇𝗮𝗹𝗲𝘇 🤌#GijonPremierPadelP2",
+        "thumb": "https://i4.ytimg.com/vi/SO_wcwoBMOc/hqdefault.jpg",
+        "date": "2026-03-07",
+        "url": "https://www.youtube.com/watch?v=SO_wcwoBMOc"
+      },
+      {
+        "vid": "7Yy1YzXpZ64",
+        "title": "This backhand cruzado by Marina Guin𝘼𝙍𝙏 🎨😮‍💨 #GijonPremierPadelP2",
+        "thumb": "https://i4.ytimg.com/vi/7Yy1YzXpZ64/hqdefault.jpg",
+        "date": "2026-03-07",
+        "url": "https://www.youtube.com/watch?v=7Yy1YzXpZ64"
+      },
+      {
+        "vid": "4NRGrTHKQ_M",
+        "title": "Insane return from out the court by Augsburger in Gijon P2",
+        "thumb": "https://i1.ytimg.com/vi/4NRGrTHKQ_M/hqdefault.jpg",
+        "date": "2026-03-06",
+        "url": "https://www.youtube.com/watch?v=4NRGrTHKQ_M"
+      }
+    ],
+    "fx": [
+      {
+        "vid": "-YYMyAxUgus",
+        "title": "Opening Keynote: Building the Marketing Function of Tomorrow | Gartner Marketing Symposium/Xpo",
+        "thumb": "https://i2.ytimg.com/vi/-YYMyAxUgus/hqdefault.jpg",
+        "date": "2024-06-10",
+        "url": "https://www.youtube.com/watch?v=-YYMyAxUgus"
+      },
+      {
+        "vid": "1tYGeT9FdAY",
+        "title": "Lead Marketing Through Disruption’s Next Wave",
+        "thumb": "https://i2.ytimg.com/vi/1tYGeT9FdAY/hqdefault.jpg",
+        "date": "2024-04-04",
+        "url": "https://www.youtube.com/watch?v=1tYGeT9FdAY"
+      },
+      {
+        "vid": "PZkmNKgoPug",
+        "title": "Validate Your Annual Strategy With Gartner Marketing Symposium/Xpo",
+        "thumb": "https://i1.ytimg.com/vi/PZkmNKgoPug/hqdefault.jpg",
+        "date": "2024-02-28",
+        "url": "https://www.youtube.com/watch?v=PZkmNKgoPug"
+      },
+      {
+        "vid": "VKtDHeZPDv0",
+        "title": "How Gartner Equips CMOs To Lead With Actionable Insights l Gartner Marketing Symposium/Xpo",
+        "thumb": "https://i3.ytimg.com/vi/VKtDHeZPDv0/hqdefault.jpg",
+        "date": "2024-01-31",
+        "url": "https://www.youtube.com/watch?v=VKtDHeZPDv0"
+      },
+      {
+        "vid": "iEYRwU_JxSY",
+        "title": "GML Q&A Jason McNellis | How can marketers protect their media budgets during economic uncertainty?",
+        "thumb": "https://i2.ytimg.com/vi/iEYRwU_JxSY/hqdefault.jpg",
+        "date": "2023-01-31",
+        "url": "https://www.youtube.com/watch?v=iEYRwU_JxSY"
+      },
+      {
+        "vid": "douMfzLC8YE",
+        "title": "Ask Gartner anything... about Marketing | How is the fragmented privacy landscape impacting marketer",
+        "thumb": "https://i1.ytimg.com/vi/douMfzLC8YE/hqdefault.jpg",
+        "date": "2022-11-09",
+        "url": "https://www.youtube.com/watch?v=douMfzLC8YE"
+      }
+    ]
   }
 }
