@@ -400,14 +400,21 @@ def build_leaders_fx():
     api_football_key = os.environ.get('API_FOOTBALL_KEY', '')
     if api_football_key:
         try:
-            # api-football.com directo (no RapidAPI)
-            url = 'https://v3.football.api-sports.io/players/topscorers?league=262&season=2025'
-            data = fetch_json(url, headers={
-                'x-apisports-key': api_football_key,
-                'x-rapidapi-host': 'v3.football.api-sports.io'
-            })
-            if data and data.get('response'):
-                for item in data['response'][:8]:
+            # api-football.com directo
+            # Intentar temporada 2026 primero, luego 2025
+            gol_data = None
+            for season in ['2026', '2025']:
+                test_url = f'https://v3.football.api-sports.io/players/topscorers?league=262&season={season}'
+                test_data = fetch_json(test_url, headers={'x-apisports-key': api_football_key})
+                if test_data and test_data.get('response'):
+                    gol_data = test_data
+                    print(f'    API-Football: season {season} OK')
+                    break
+                else:
+                    err = (test_data or {}).get('errors', {})
+                    print(f'    API-Football season {season}: {err or "sin datos"}')
+            if gol_data and gol_data.get('response'):
+                for item in gol_data['response'][:8]:
                     p = item.get('player', {})
                     s = (item.get('statistics') or [{}])[0]
                     t = s.get('team', {})
