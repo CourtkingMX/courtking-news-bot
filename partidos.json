@@ -1,5 +1,5 @@
 {
-  "updated": "08/03/2026 03:25 UTC",
+  "updated": "08/03/2026 03:27 UTC",
   "sports": {
     "bk": [
       {
@@ -42,16 +42,16 @@
         "fecha": "Sun 08 Mar",
         "local": "MIL",
         "visita": "UTAH",
-        "score": "99-107",
+        "score": "99-113",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 08 Mar",
         "local": "OKC",
         "visita": "GS",
-        "score": "81-84",
+        "score": "83-86",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
