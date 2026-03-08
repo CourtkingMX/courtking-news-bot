@@ -1,5 +1,4 @@
 name: CourtKing News Bot
-
 on:
   schedule:
     - cron: '0 0,8,16 * * *'   # 00:00, 08:00, 16:00 UTC (18:00, 02:00, 10:00 MX)
@@ -10,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -20,9 +18,10 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run CourtKing Bot v6
+      - name: Run CourtKing Bot v8
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}    # ✅ AGREGADO
         run: python news_bot.py
 
       - name: Commit & push JSONs
