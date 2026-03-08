@@ -349,10 +349,9 @@ def build_leaders_fx():
     print('  [FX] Goleadores Liga MX...')
     leaders = []
 
-    # ✅ FIX 1: Usar la variable global API_FOOTBALL_KEY
-    # ✅ FIX 2: Clausura 2026 = season 2025 en api-football
-    # ✅ FIX 3: Agregar header x-rapidapi-host requerido
-    if API_FOOTBALL_KEY:
+    # api-football plan gratuito solo da season 2024 (datos de temporada pasada)
+    # Deshabilitado. Cambiar False por API_FOOTBALL_KEY cuando tengas plan de pago.
+    if False:
         print(f'    API_FOOTBALL_KEY encontrado, consultando api-football...')
         try:
             for season in ['2025', '2024']:
