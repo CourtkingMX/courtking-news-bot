@@ -1,5 +1,5 @@
 {
-  "updated": "08/03/2026 22:58 UTC",
+  "updated": "08/03/2026 23:17 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -395,9 +395,130 @@
         "gf": "16",
         "gc": "18",
         "pts": "10"
+      },
+      {
+        "pos": 13,
+        "team": "LEO",
+        "name": "León",
+        "pj": "9",
+        "g": "3",
+        "e": "1",
+        "p": "5",
+        "gf": "11",
+        "gc": "15",
+        "pts": "10"
+      },
+      {
+        "pos": 14,
+        "team": "MAZ",
+        "name": "Mazatlán",
+        "pj": "10",
+        "g": "3",
+        "e": "1",
+        "p": "6",
+        "gf": "13",
+        "gc": "20",
+        "pts": "10"
+      },
+      {
+        "pos": 15,
+        "team": "TIJ",
+        "name": "Tijuana",
+        "pj": "9",
+        "g": "1",
+        "e": "6",
+        "p": "2",
+        "gf": "8",
+        "gc": "9",
+        "pts": "9"
+      },
+      {
+        "pos": 16,
+        "team": "NCX",
+        "name": "Necaxa",
+        "pj": "10",
+        "g": "3",
+        "e": "0",
+        "p": "7",
+        "gf": "11",
+        "gc": "16",
+        "pts": "9"
+      },
+      {
+        "pos": 17,
+        "team": "QRO",
+        "name": "Queretaro",
+        "pj": "9",
+        "g": "1",
+        "e": "3",
+        "p": "5",
+        "gf": "8",
+        "gc": "16",
+        "pts": "6"
+      },
+      {
+        "pos": 18,
+        "team": "SAN",
+        "name": "Santos",
+        "pj": "9",
+        "g": "0",
+        "e": "2",
+        "p": "7",
+        "gf": "10",
+        "gc": "25",
+        "pts": "2"
       }
     ],
-    "leaders": []
+    "leaders": [
+      {
+        "pos": 1,
+        "name": "Paulinho",
+        "team": "Toluca",
+        "goles": 25
+      },
+      {
+        "pos": 2,
+        "name": "G. Berterame",
+        "team": "Monterrey",
+        "goles": 20
+      },
+      {
+        "pos": 3,
+        "name": "R. Zúñiga",
+        "team": "Club America",
+        "goles": 20
+      },
+      {
+        "pos": 4,
+        "name": "Sergio Canales",
+        "team": "Monterrey",
+        "goles": 17
+      },
+      {
+        "pos": 5,
+        "name": "A. Vega",
+        "team": "Toluca",
+        "goles": 16
+      },
+      {
+        "pos": 6,
+        "name": "I. Rivero",
+        "team": "Cruz Azul",
+        "goles": 15
+      },
+      {
+        "pos": 7,
+        "name": "S. Rondón",
+        "team": "Pachuca",
+        "goles": 14
+      },
+      {
+        "pos": 8,
+        "name": "Á. Sepúlveda",
+        "team": "Cruz Azul",
+        "goles": 14
+      }
+    ]
   },
   "pd": {
     "ranking": {
