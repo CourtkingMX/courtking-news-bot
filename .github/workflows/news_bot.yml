@@ -1,34 +1,36 @@
-name: CourtKing News Bot 🤖
+name: CourtKing News Bot
 
 on:
   schedule:
-    - cron: '0 6 * * *'     # 12:00 AM Monterrey
-    - cron: '0 14 * * *'    # 08:00 AM Monterrey
-    - cron: '0 22 * * *'    # 04:00 PM Monterrey
+    - cron: '0 */8 * * *'
   workflow_dispatch:
 
 jobs:
-  update-news:
+  update-data:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Run News Bot
-        run: python news_bot.py
+      - name: Ejecutar bot
+        run: python courtking_bot.py
 
-      - name: Commit noticias.json
+      - name: Commit y push JSONs
         run: |
-          git config user.name "CourtKing Bot"
+          git config user.name  "CourtKing Bot"
           git config user.email "bot@courtking.mx"
-          git add noticias.json
-          git diff --staged --quiet || git commit -m "🤖 Noticias actualizadas $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git add noticias.json videos.json partidos.json
+          git diff --staged --quiet || git commit -m "Auto-update $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
