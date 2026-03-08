@@ -1,10 +1,16 @@
 {
-  "updated": "08/03/2026 22:38 UTC",
+  "updated": "08/03/2026 22:49 UTC",
   "sports": {
     "bk": [
       {
         "title": "All-Star Game NBA 2026: Resultados y calendario de partidos",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3aEZyY0lWZGxGZjkzRFdUS2lpOURyQndWYVNkRW5nV3NYQ2o0aE5tdkdIMkRCelRuN1JoNGMxVkJYNnRjNFZTcHpOYnNORUo1TTJCVXl6ZGJ5NlphbFJlQTRIUkVvZVQ2YkdOM3hrUnpmTXFPbTVBTjBR?oc=5",
+        "date": "15 feb 2026",
+        "image": ""
+      },
+      {
+        "title": "USA Stars triunfa en nuevo formato competitivo de ASG",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXBuMjNuNk5Obm4xS3FfVlJmeEFXTVVBQlFHYjRBeTNaUTZBZkRqc3paYVExN1lKQjhOXzdyQkgyeUZ5SDBKM09iRXhFY2pCTDFqTGpmUU9RNFJiVjBsQ0szNlEyMTB3RzRvaGNFdWhqQmRhYkZ0ZGVhc3dmWkxVYVR0TjM4RmtBMlZzZC00WTRxcUtMLW56THc5YzhheWtPWkRjUGN1ODA5eHBvRER3R2lKVEhBYi1GalhwMWpRUzZZRDM2?oc=5",
         "date": "15 feb 2026",
         "image": ""
       },
@@ -27,6 +33,12 @@
         "image": ""
       },
       {
+        "title": "NBA: los partidos de hoy en la temporada regular 2025-2026",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGY3dHJXSDgzZWpMQVRUeDFYTXRkRWhaQ0NZWk9kVk9rZW81Rks3UG9nT2lYd21weXZKcDZOUy0tdVk2Rm84Q0xYNHVHX19QNzk1WFhUVGhXdGx1eWl3QVQ3M2ludFdZeUlpZmdmdWhHQXplT1NGcW5nQkRSWnNka3hSZDl4WjRseTduY3VMT1MtZTMteUtwcWlKelVnUQ?oc=5",
+        "date": "5 mar 2026",
+        "image": ""
+      },
+      {
         "title": "Así quedan los equipos para el NBA All-Star 2026: titulares, suplentes y nuevo formato",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YnlWaWRvVE5SMDlNbDBIc3RTTnpZamhxOFFiNE4xU1NUYXVZWGE0ek10WkE2M2lfQmpyX0ozM21ENjNhTlIyNnNWMjJhRjNPUURHWHpZa29qQjJlZjBQbUxBY1cxZHp2NWVOakh0Y242a25C?oc=5",
         "date": "15 feb 2026",
@@ -45,21 +57,9 @@
         "image": ""
       },
       {
-        "title": "NBA All-Star 2026: Quintetos titulares, suplentes y la lucha por un puesto en la plantilla según Bontemps",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOVFhN2FON1ZrY2dhZDc2OXZxa0tPenMyQUV0by1QbmYtNFpZZWNBenFHTDlNY29sdjdjd3AwZUhiT3NpY2ZVTjE1OGRWNkJ5Tl9xMWo5Q3FMbE1NYVB1UkZ6NF9Ld3JRaGVJMW94WlVTWEpOcS1ick5rUU43OTdYWm5FTndncnYtSExGUFNvYnIyeV9uM3FNUms5bWc3WTg3N3FIT0ZBT21lUy1K?oc=5",
-        "date": "14 ene 2026",
-        "image": ""
-      },
-      {
         "title": "NBA All-Star Game 2026 EN VIVO: resultado de USA Stripes vs Ganador Juego 1",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2ZBNW5mcjBNRnFqUUtBNmd4X09TYUNfc3VHQ0NUdnBpYTlYeTJvVWkzR21WTVFkZ0JiVzRqcEFHU1dQdC1zZ3FocXFrRXJDNkNHZnVHczZjRlltanQwS2hmazRQbE1GTlBheGNOSEEyTGVIcXdta25DcmY0NmlOcg?oc=5",
         "date": "15 feb 2026",
-        "image": ""
-      },
-      {
-        "title": "NBA All-Star, Juego de las Estrellas 2026. La 75.ª edición se celebra este fin de semana",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXNOaXBCR3dobzVYVzJUQ0VZeW1RMC1JczNFQXNkR0h1ZENDWllIb3lmSTRHWWhRLWRDNHBybzI4SmREMWdhUUg1UE5kSXdWY3hzY0pXd1JFR3hzbXF4Z3poTXlCdWliZ1RNdjZURDQxZVprUTRMRVBTZDYxbjRjOUNDbUhuTUU2c0NBRWwxeXVsMHpTMm5NdkUwSjJtU2JuM0UwUG41RkFXdE5tZUJfbkxNcXowWUFHdWp6WHVNRXlZd1E2azlIaFJR0gHKAUFVX3lxTE5lc05pcEJHd2hvNVhXMlRDRVl5bVEwLUlzM0VBc2RHSHVkQ0NaWUhveWZJNEdZaFEtZEM0cHJvMjhKZEQxZ2FRSDVQTmRJd1ZjeHNjSld3UkVHeHNtcXhnemhNeUJ1aWJnVE12NlRENDFlWmtRNExFUFNkNjFuNGM5Q0NtSG5NRTZzQ0FFbDF5dWwwelMybk12RTBKMm1TYm4zRTBQbjVGQVd0Tm1lQl9uTE1xejBZQUd1anpYdU1FeVl3UTZrOUhoUlE?oc=5",
-        "date": "14 feb 2026",
         "image": ""
       },
       {
@@ -169,15 +169,21 @@
         "image": ""
       },
       {
-        "title": "¿A qué hora es el Toluca vs FC Juárez? TV, horario, dónde y cómo ver la Liga MX, Clausura 2026",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ0VFRTNDOTRwcVZGZ0wwb0NEaEVKMzZZWUoyR0U3aWpVSm9CNGdvUGZOdnYzTkxBWmtaSzljYzRsVjJJMkhRZkNpNDJCX0xJSzVrZHdCcE9YRjVwak9CY2ZpajNVUWh3eEV1Mmc4N21oY3ZOdUNWN3FJWE8tY042bDhUdjllUk4yQ2VJbGxGd1BLUHV2VGJKNkZJdUtBMnoyaERtb3JjaFNGZW9YRGZPNjhQSUpKbUdCeVVmaEwtamtjSEZtQlp3c0R1UFdRSmM3VEJxQ0FrY1BsNk40QVHSAfIBQVVfeXFMUGZZTTVFcktSQjdtV0UyYnJvbEVfVlc4ZmlrRUpnYVBnbFcwaUl3WDlwbXl1MnB5ZTRwU2dXaFAwQVJjMVAzY0Z3YndEUk45UGtKbmRCWGx4bGtGb3RVSVFJRzJhY244WENZaTdOeVg4QlVVand6N29RSjhyYl9TaUdFTkgyU3RxSzREQ2l6RmxqSUdjcVRsYW95N3RQOGxxYUxkc29KVXRydUVuZXJkYm9CYVBCLTRqZnNxTTZ4Tl9fd1h0Z2tHY0NzaVJjZjNOaWRtZnBjUHlESnoxVG1tVnlmalloZVYyUWRMSE04cnkySUE?oc=5",
-        "date": "7 mar 2026",
+        "title": "Liga MX: Toluca vs FC Juárez - EN VIVO - Jornada 10 - Clausura 2026",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlJYNlZkZExHSVJQbEx5d3FwNGMwOXprNVRIQjk0QTYzTk82QnJvbkFUSGI0d3AyYlg0T3cxRk9NajFQRFQ2VkNYcHZhTXBnak9XMUR6NHVmQ08zTDFtUmU0RUVzaTlCWVpTSFlVcDUyd2xaLUpxNUtxM0RUWC1scm14cWh2TW1OcGFIY1RNTlFqcGxaUE5BNEFEZjVFU0R5X24w0gG3AUFVX3lxTE5nTW5GXy1ucU9ycEF3c1FGTTVKeXlYem9salY1VUhhcUN4a0s0ZEJWYWNmUTN5OHBfMlpDSjY2WmsyYk1CQ09TZFFXMXZwYkRXcGV5S3EyamF0bE1NckYxdDBpazkxbzdEam1FdFh4ZzZWWUp2ZjNnWGUxcE1mRXBVWHNJVVNtSGNjdzZ2UzV2MFJQa2puS21DcVRDWHhsZFNLanEzaEptdDFORGpSUUxGQUs1SzZLQQ?oc=5",
+        "date": "8 mar 2026",
         "image": ""
       },
       {
         "title": "Así va la Tabla de Goleo del Clausura 2026 de Liga MX: ¡Hormiga González se acerca a Joao Pedro!",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnRWeXVOelJSTFAtWUtwV3R1aXFaOHRWT2JVd1BQdkV4VUNMOVJxWXJET1FrZ0Vld2VobmZkMmZ6dUNZRTV3aHc0RUkyUkdLUVVZSDVFdDFKYWFyMmxYbER0cV9vVVUwanB2ZmFEUHF1WUdUeURkZE05WkQtU3Q2UGNtVGtqQW9mLUV0aUotWVJrT0taZ2t5UmhiU0huc1lOQzZGRlgwN0xwTGxfWlJxNEJsY2dGbVEzekc2LXM5S0FENjJNMVNucGJRM2JtX1k?oc=5",
         "date": "8 mar 2026",
+        "image": ""
+      },
+      {
+        "title": "¿A qué hora es el Cruz Azul vs San Luis? TV, horario, dónde y cómo ver la Liga MX, Clausura 2026",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX1I5RTR1cERaWmhGdkZOXzJaak1scjU3SGoxSXBaSFk2bDMwRmdGLW5qaFIzOFdlVTdjNXFkVG9ST1c0RjI2MHJKS1lTYUtmQjB3MUtEZU9NS2FmMS1sbDhjM2xGNnBQdGRKUDFUU2ZPdjVkUFV1SXJFaS1UWTVuNXR3SmhBVXZCVndCaTc1WkcyM0E1clVITXZTVDRSa1o0bkVBUFlURGNnX2hkUW0wamh5LXQ0Mkkyd1llUGxZSlAtRldhMXJjVldRX0dNNnBFc3ByRkZLcFJXWmY1NDVpeNIB9AFBVV95cUxOWkxST0F1RE1rVTBGZkU2bXpDX2JZdEN6dGhaeHRSMHVTb2I1ZEFZNUx3SjZDRDNOcHlLSXF1X3BOVVZ5bTZhX0g3dXVlOHJCMTh3cllDQ0F1TGdPWklaWVdlSWxidTVNdno3bTdiMl83NDhhVVJZbGVBTGFYZ01OV1hsWUFZbkVqVHVfZG1QQVlfVGpaSkp5OGhzTnd5cE5aN2pSSWlHVkJqUmRnNkh5NEZkUHdfWHdfampXSEdGc25pdm1PbksybU9LRHBoMUtMZkh0SlVwZnAySnBYdTBRSVc0STdsbThQbnRtYnkxVEJBN0Zq?oc=5",
+        "date": "7 mar 2026",
         "image": ""
       },
       {
@@ -201,12 +207,6 @@
       {
         "title": "Horario y dónde ver el Cruz Azul vs. Atlético de San Luis de la Jornada 10 del Clausura 2026",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRTFLOUNyaXEtd3ZMaEZwMmtDOHJJM0w0VlVrX1JVdkNXd0RscXNlZ2pIaVhlUjR4M0xxbWxkTmtBMzgyNFRYN2tzcXgtcWNHYWxGSE95VFlzcV9BOGNEc25RRnBFTEo1OE5jY0RHanJ4TWlXalh1SEV6QTBXN1Y0RzNEbTZYSGRNcjAwSU9HZW5xSmVnVFR1bDFabWxCOV9wTndma3dTV1o1aDFjcnpUdDdmdDM1T1dNbW13SjE5X2pRNVNKYlQ4ZFRYUXhudG5Bd3BZMFo4TkExOW02QWc?oc=5",
-        "date": "7 mar 2026",
-        "image": ""
-      },
-      {
-        "title": "Así queda la Tabla General del Clausura 2026 de Liga MX: ¡Pumas rebasó a Chivas!",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkhlQVJ6R1VmSzNHVGktdWl4UDRaM0E4RkVxb0VEdjA5NmhhbVlqdGJGYWdVQVp0cTFUN0dZNzhFT1BCVXZxTFVsMlZuVV95eHNoNGpMbGhPNEdNZU1xR3dyS0RJbDdFcG8xMHpaT2FBaWZQOWdkWFlmOUdteTJramJtdmZFbWlVUnQ2X1ZjMWxJRGdkX3ZVbEh5a0tQNE5HLVo4b2lCM1M5czNraExqaHcyTTJWbjc3dEE?oc=5",
         "date": "7 mar 2026",
         "image": ""
       },
