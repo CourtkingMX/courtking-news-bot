@@ -1,106 +1,97 @@
 {
-  "updated": "08/03/2026 08:59 UTC",
+  "updated": "08/03/2026 16:55 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sat 07 Mar",
-        "local": "MIN",
-        "visita": "ORL",
-        "score": "119-92",
+        "fecha": "Sun 08 Mar",
+        "local": "CLE",
+        "visita": "BOS",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 07 Mar",
-        "local": "DET",
-        "visita": "BKN",
-        "score": "107-105",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 07 Mar",
-        "local": "ATL",
-        "visita": "PHI",
-        "score": "116-125",
-        "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 08 Mar",
-        "local": "MEM",
-        "visita": "LAC",
-        "score": "123-120",
+        "local": "LAL",
+        "visita": "NY",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 08 Mar",
+        "local": "MIA",
+        "visita": "DET",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 08 Mar",
+        "local": "TOR",
+        "visita": "DAL",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 08 Mar",
+        "local": "NO",
+        "visita": "WSH",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Mon 09 Mar",
         "local": "MIL",
-        "visita": "UTAH",
-        "score": "99-113",
+        "visita": "ORL",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sun 08 Mar",
-        "local": "OKC",
-        "visita": "GS",
-        "score": "97-104",
+        "fecha": "Mon 09 Mar",
+        "local": "SA",
+        "visita": "HOU",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Mon 09 Mar",
+        "local": "POR",
+        "visita": "IND",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
     "fx": [
       {
-        "fecha": "Sat 07 Mar",
-        "local": "Cruz Azul",
-        "visita": "Atl. San Luis",
-        "score": "0-3",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
-      },
-      {
-        "fecha": "Sat 07 Mar",
-        "local": "Queretaro",
-        "visita": "América",
-        "score": "2-1",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
-      },
-      {
         "fecha": "Sun 08 Mar",
-        "local": "Atlas",
-        "visita": "Guadalajara",
-        "score": "2-1",
+        "local": "Toluca",
+        "visita": "Juarez",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
       },
       {
-        "fecha": "Sun 08 Mar",
-        "local": "Pachuca",
-        "visita": "Puebla",
-        "score": "1-2",
+        "fecha": "Mon 09 Mar",
+        "local": "Tijuana",
+        "visita": "Santos",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
-      },
-      {
-        "fecha": "Sun 08 Mar",
-        "local": "Tigres",
-        "visita": "Monterrey",
-        "score": "0-1",
-        "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
       }
     ],
