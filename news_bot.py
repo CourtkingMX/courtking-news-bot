@@ -384,17 +384,18 @@ def build_leaders_fx():
     else:
         print('    API_FOOTBALL_KEY no encontrado en entorno, usando fallback...')
 
-    # Fallback hardcoded — goleadores Clausura 2026 conocidos
-    print('    Usando goleadores hardcoded Clausura 2026...')
+    # Fallback hardcoded — goleadores Clausura 2026 actualizados J10 (08/Mar/2026)
+    # ⚠️ ACTUALIZAR cada domingo — ver instrucciones en README
+    print('    Usando goleadores hardcoded Clausura 2026 (J10)...')
     leaders = [
-        {'pos':1, 'name':'Germán Berterame',  'team':'Monterrey',     'goles': 9},
-        {'pos':2, 'name':'Julián Quiñones',   'team':'América',       'goles': 8},
-        {'pos':3, 'name':'Henry Martín',      'team':'América',       'goles': 7},
-        {'pos':4, 'name':'Rodrigo Aguirre',   'team':'Tigres',        'goles': 6},
-        {'pos':5, 'name':'Ángel Mena',        'team':'León',          'goles': 5},
-        {'pos':6, 'name':'Alexis Vega',       'team':'Toluca',        'goles': 5},
-        {'pos':7, 'name':'Salomón Rondón',    'team':'Pachuca',       'goles': 4},
-        {'pos':8, 'name':'Roberto de la Rosa','team':'Cruz Azul',     'goles': 4},
+        {'pos':1, 'name':'Joao Pedro',         'team':'Atl. San Luis', 'goles': 10},
+        {'pos':2, 'name':'Armando González',   'team':'Chivas',        'goles': 6},
+        {'pos':3, 'name':'José Paradela',      'team':'Cruz Azul',     'goles': 5},
+        {'pos':4, 'name':'Paulinho',           'team':'Tigres',        'goles': 5},
+        {'pos':5, 'name':'Arturo González',    'team':'Atlas',         'goles': 5},
+        {'pos':6, 'name':'Diber Cambindo',     'team':'Toluca',        'goles': 5},
+        {'pos':7, 'name':'Juninho',            'team':'Pumas',         'goles': 4},
+        {'pos':8, 'name':'Marcelo Flores',     'team':'Tigres',        'goles': 3},
     ]
     print(f'    OK {len(leaders)} goleadores (hardcoded)')
     return leaders
