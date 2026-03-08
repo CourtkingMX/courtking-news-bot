@@ -1,0 +1,437 @@
+{
+  "updated": "08/03/2026 21:56 UTC",
+  "nba": {
+    "standings": {
+      "east": [
+        {
+          "pos": "",
+          "team": "IND",
+          "name": "Pacers",
+          "w": "15",
+          "l": "48",
+          "pct": ".238",
+          "gb": "30.5"
+        },
+        {
+          "pos": "",
+          "team": "BKN",
+          "name": "Nets",
+          "w": "16",
+          "l": "47",
+          "pct": ".254",
+          "gb": "29.5"
+        },
+        {
+          "pos": "",
+          "team": "WSH",
+          "name": "Wizards",
+          "w": "16",
+          "l": "46",
+          "pct": ".258",
+          "gb": "29"
+        },
+        {
+          "pos": "",
+          "team": "CHI",
+          "name": "Bulls",
+          "w": "26",
+          "l": "37",
+          "pct": ".413",
+          "gb": "19.5"
+        },
+        {
+          "pos": "",
+          "team": "MIL",
+          "name": "Bucks",
+          "w": "27",
+          "l": "35",
+          "pct": ".435",
+          "gb": "18"
+        },
+        {
+          "pos": "",
+          "team": "CHA",
+          "name": "Hornets",
+          "w": "32",
+          "l": "32",
+          "pct": ".500",
+          "gb": "14"
+        },
+        {
+          "pos": "",
+          "team": "ATL",
+          "name": "Hawks",
+          "w": "33",
+          "l": "31",
+          "pct": ".516",
+          "gb": "13"
+        },
+        {
+          "pos": "",
+          "team": "PHI",
+          "name": "76ers",
+          "w": "34",
+          "l": "29",
+          "pct": ".540",
+          "gb": "11.5"
+        }
+      ],
+      "west": [
+        {
+          "pos": "",
+          "team": "SAC",
+          "name": "Kings",
+          "w": "14",
+          "l": "50",
+          "pct": ".219",
+          "gb": "35.5"
+        },
+        {
+          "pos": "",
+          "team": "UTAH",
+          "name": "Jazz",
+          "w": "19",
+          "l": "45",
+          "pct": ".297",
+          "gb": "30.5"
+        },
+        {
+          "pos": "",
+          "team": "NO",
+          "name": "Pelicans",
+          "w": "20",
+          "l": "45",
+          "pct": ".308",
+          "gb": "30"
+        },
+        {
+          "pos": "",
+          "team": "DAL",
+          "name": "Mavericks",
+          "w": "21",
+          "l": "42",
+          "pct": ".333",
+          "gb": "28"
+        },
+        {
+          "pos": "",
+          "team": "MEM",
+          "name": "Grizzlies",
+          "w": "23",
+          "l": "39",
+          "pct": ".371",
+          "gb": "25.5"
+        },
+        {
+          "pos": "",
+          "team": "POR",
+          "name": "Trail Blazers",
+          "w": "30",
+          "l": "34",
+          "pct": ".469",
+          "gb": "19.5"
+        },
+        {
+          "pos": "",
+          "team": "LAC",
+          "name": "Clippers",
+          "w": "31",
+          "l": "32",
+          "pct": ".492",
+          "gb": "18"
+        },
+        {
+          "pos": "",
+          "team": "GS",
+          "name": "Warriors",
+          "w": "32",
+          "l": "31",
+          "pct": ".508",
+          "gb": "17"
+        }
+      ]
+    },
+    "leaders": {
+      "pts": [],
+      "reb": [],
+      "ast": []
+    }
+  },
+  "fx": {
+    "standings": [
+      {
+        "pos": 1,
+        "team": "CAZ",
+        "name": "Cruz Azul",
+        "pj": "10",
+        "g": "8",
+        "e": "1",
+        "p": "1",
+        "gf": "20",
+        "gc": "9",
+        "pts": "25"
+      },
+      {
+        "pos": 2,
+        "team": "TOL",
+        "name": "Toluca",
+        "pj": "9",
+        "g": "6",
+        "e": "3",
+        "p": "0",
+        "gf": "14",
+        "gc": "4",
+        "pts": "21"
+      },
+      {
+        "pos": 3,
+        "team": "GDL",
+        "name": "Guadalajara",
+        "pj": "9",
+        "g": "7",
+        "e": "0",
+        "p": "2",
+        "gf": "14",
+        "gc": "9",
+        "pts": "21"
+      },
+      {
+        "pos": 4,
+        "team": "PAC",
+        "name": "Pachuca",
+        "pj": "10",
+        "g": "6",
+        "e": "2",
+        "p": "2",
+        "gf": "13",
+        "gc": "8",
+        "pts": "20"
+      },
+      {
+        "pos": 5,
+        "team": "UNAM",
+        "name": "UNAM",
+        "pj": "10",
+        "g": "5",
+        "e": "4",
+        "p": "1",
+        "gf": "18",
+        "gc": "10",
+        "pts": "19"
+      },
+      {
+        "pos": 6,
+        "team": "UANL",
+        "name": "Tigres",
+        "pj": "10",
+        "g": "5",
+        "e": "1",
+        "p": "4",
+        "gf": "17",
+        "gc": "12",
+        "pts": "16"
+      },
+      {
+        "pos": 7,
+        "team": "ATS",
+        "name": "Atlas",
+        "pj": "10",
+        "g": "5",
+        "e": "1",
+        "p": "4",
+        "gf": "13",
+        "gc": "15",
+        "pts": "16"
+      },
+      {
+        "pos": 8,
+        "team": "AME",
+        "name": "América",
+        "pj": "10",
+        "g": "4",
+        "e": "2",
+        "p": "4",
+        "gf": "11",
+        "gc": "10",
+        "pts": "14"
+      },
+      {
+        "pos": 9,
+        "team": "MTY",
+        "name": "Monterrey",
+        "pj": "10",
+        "g": "4",
+        "e": "1",
+        "p": "5",
+        "gf": "14",
+        "gc": "10",
+        "pts": "13"
+      },
+      {
+        "pos": 10,
+        "team": "PUE",
+        "name": "Puebla",
+        "pj": "10",
+        "g": "3",
+        "e": "2",
+        "p": "5",
+        "gf": "9",
+        "gc": "13",
+        "pts": "11"
+      },
+      {
+        "pos": 11,
+        "team": "JUA",
+        "name": "Juarez",
+        "pj": "8",
+        "g": "3",
+        "e": "1",
+        "p": "4",
+        "gf": "13",
+        "gc": "14",
+        "pts": "10"
+      },
+      {
+        "pos": 12,
+        "team": "ASL",
+        "name": "Atl. San Luis",
+        "pj": "10",
+        "g": "3",
+        "e": "1",
+        "p": "6",
+        "gf": "16",
+        "gc": "18",
+        "pts": "10"
+      }
+    ],
+    "leaders": []
+  },
+  "pd": {
+    "ranking": {
+      "men": [
+        {
+          "pos": 1,
+          "name": "Arturo Coello",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 2,
+          "name": "Martín Di Nenno",
+          "country": "ARG",
+          "pts": ""
+        },
+        {
+          "pos": 3,
+          "name": "Agustín Tapia",
+          "country": "ARG",
+          "pts": ""
+        },
+        {
+          "pos": 4,
+          "name": "Federico Chingotto",
+          "country": "ARG",
+          "pts": ""
+        },
+        {
+          "pos": 5,
+          "name": "Juan Lebrón",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 6,
+          "name": "Pablo Lima",
+          "country": "BRA",
+          "pts": ""
+        },
+        {
+          "pos": 7,
+          "name": "Ale Galán",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 8,
+          "name": "Jon Sanz",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 9,
+          "name": "Fede Stupaczuk",
+          "country": "ARG",
+          "pts": ""
+        },
+        {
+          "pos": 10,
+          "name": "Álex Ruiz",
+          "country": "ESP",
+          "pts": ""
+        }
+      ],
+      "women": [
+        {
+          "pos": 1,
+          "name": "Gemma Triay",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 2,
+          "name": "Claudia Jensen",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 3,
+          "name": "Ariana Sánchez",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 4,
+          "name": "Marta Ortega",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 5,
+          "name": "Paula Josemaría",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 6,
+          "name": "Tamara Icardo",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 7,
+          "name": "Delfi Brea",
+          "country": "ARG",
+          "pts": ""
+        },
+        {
+          "pos": 8,
+          "name": "Bea González",
+          "country": "ESP",
+          "pts": ""
+        },
+        {
+          "pos": 9,
+          "name": "Martina Capra",
+          "country": "ARG",
+          "pts": ""
+        },
+        {
+          "pos": 10,
+          "name": "Lucía Sainz",
+          "country": "ESP",
+          "pts": ""
+        }
+      ]
+    }
+  }
+}
