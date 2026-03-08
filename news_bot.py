@@ -1,5 +1,5 @@
 """
-CourtKing News Bot v6
+CourtKing News Bot v7
 - Noticias: Google News RSS (12 por deporte, más fuentes)
 - Videos: YouTube RSS (sin API key)
 - Partidos: ESPN API pública
