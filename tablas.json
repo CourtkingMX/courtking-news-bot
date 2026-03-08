@@ -1,5 +1,5 @@
 {
-  "updated": "08/03/2026 22:03 UTC",
+  "updated": "08/03/2026 22:07 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -152,9 +152,102 @@
       ]
     },
     "leaders": {
-      "pts": [],
-      "reb": [],
-      "ast": []
+      "pts": [
+        {
+          "pos": 1,
+          "name": "S. Gilgeous-Alexander",
+          "team": "OKC",
+          "value": "32.3"
+        },
+        {
+          "pos": 2,
+          "name": "G. Antetokounmpo",
+          "team": "MIL",
+          "value": "30.4"
+        },
+        {
+          "pos": 3,
+          "name": "N. Jokic",
+          "team": "DEN",
+          "value": "29.6"
+        },
+        {
+          "pos": 4,
+          "name": "L. Doncic",
+          "team": "DAL",
+          "value": "28.1"
+        },
+        {
+          "pos": 5,
+          "name": "D. Mitchell",
+          "team": "CLE",
+          "value": "26.8"
+        }
+      ],
+      "reb": [
+        {
+          "pos": 1,
+          "name": "N. Jokic",
+          "team": "DEN",
+          "value": "13.1"
+        },
+        {
+          "pos": 2,
+          "name": "G. Antetokounmpo",
+          "team": "MIL",
+          "value": "12.2"
+        },
+        {
+          "pos": 3,
+          "name": "A. Davis",
+          "team": "LAL",
+          "value": "12.0"
+        },
+        {
+          "pos": 4,
+          "name": "D. Ayton",
+          "team": "POR",
+          "value": "11.4"
+        },
+        {
+          "pos": 5,
+          "name": "J. Embiid",
+          "team": "PHI",
+          "value": "10.9"
+        }
+      ],
+      "ast": [
+        {
+          "pos": 1,
+          "name": "T. Haliburton",
+          "team": "IND",
+          "value": "9.4"
+        },
+        {
+          "pos": 2,
+          "name": "L. Doncic",
+          "team": "DAL",
+          "value": "8.9"
+        },
+        {
+          "pos": 3,
+          "name": "J. Brunson",
+          "team": "NYK",
+          "value": "7.7"
+        },
+        {
+          "pos": 4,
+          "name": "S. Gilgeous-Alexander",
+          "team": "OKC",
+          "value": "6.4"
+        },
+        {
+          "pos": 5,
+          "name": "D. Fox",
+          "team": "SAC",
+          "value": "6.1"
+        }
+      ]
     }
   },
   "fx": {
