@@ -1,16 +1,10 @@
 {
-  "updated": "08/03/2026 22:07 UTC",
+  "updated": "08/03/2026 22:15 UTC",
   "sports": {
     "bk": [
       {
         "title": "All-Star Game NBA 2026: Resultados y calendario de partidos",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3aEZyY0lWZGxGZjkzRFdUS2lpOURyQndWYVNkRW5nV3NYQ2o0aE5tdkdIMkRCelRuN1JoNGMxVkJYNnRjNFZTcHpOYnNORUo1TTJCVXl6ZGJ5NlphbFJlQTRIUkVvZVQ2YkdOM3hrUnpmTXFPbTVBTjBR?oc=5",
-        "date": "15 feb 2026",
-        "image": ""
-      },
-      {
-        "title": "USA Stars triunfa en nuevo formato competitivo de ASG",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXBuMjNuNk5Obm4xS3FfVlJmeEFXTVVBQlFHYjRBeTNaUTZBZkRqc3paYVExN1lKQjhOXzdyQkgyeUZ5SDBKM09iRXhFY2pCTDFqTGpmUU9RNFJiVjBsQ0szNlEyMTB3RzRvaGNFdWhqQmRhYkZ0ZGVhc3dmWkxVYVR0TjM4RmtBMlZzZC00WTRxcUtMLW56THc5YzhheWtPWkRjUGN1ODA5eHBvRER3R2lKVEhBYi1GalhwMWpRUzZZRDM2?oc=5",
         "date": "15 feb 2026",
         "image": ""
       },
@@ -24,12 +18,6 @@
         "title": "Votación al NBA All-Star Game 2026: Las conclusiones tras conocerse los primeros resultados",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYm5EcV9RVk1udnBEV2puekZtYXV6dzFNWk5pZHU5aldNN25vWjhTQ1V3V2RGZ0pxb2dfanN1MWZ3SW8wYTBzSkZMTTB2RW13TVgxYTVZZUs0ckcwd0VwRWJBNzBUcTRteFgtYW9iSG1wa3B2bTFHaDhVd0NPb1h6TkNpSU85MVRNYm4xQzlwZDhRNG1PU3VWZFJ5Ty1xMzRGei11TmFCT0pwdV90b0FLT1liamQyMWlSTlJPcERPRW9HVEgwcm9qNTlR?oc=5",
         "date": "29 dic 2025",
-        "image": ""
-      },
-      {
-        "title": "NBA: los partidos de hoy en la temporada regular 2025-2026",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDNYRDB2UjlxMVRkTG02VFVtOExjNTBKNVp2OVBpZUFkRUtwdmFZY3duMWJxYWd1di1sMWJKa1JLR3NGWGVpeFhJdEs0TGd6eUR0eWxFUE1fUDljOWZQOHdsMHQ0cHNzX2RaRHE0X0w2NU42UW1fTkFfbnZqdkpnd1VwbFgzM2NEcWwxV1RzdFFIN0ZPWTRkY3gyTUJHQQ?oc=5",
-        "date": "5 mar 2026",
         "image": ""
       },
       {
@@ -57,9 +45,21 @@
         "image": ""
       },
       {
+        "title": "NBA All-Star 2026: Quintetos titulares, suplentes y la lucha por un puesto en la plantilla según Bontemps",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOVFhN2FON1ZrY2dhZDc2OXZxa0tPenMyQUV0by1QbmYtNFpZZWNBenFHTDlNY29sdjdjd3AwZUhiT3NpY2ZVTjE1OGRWNkJ5Tl9xMWo5Q3FMbE1NYVB1UkZ6NF9Ld3JRaGVJMW94WlVTWEpOcS1ick5rUU43OTdYWm5FTndncnYtSExGUFNvYnIyeV9uM3FNUms5bWc3WTg3N3FIT0ZBT21lUy1K?oc=5",
+        "date": "14 ene 2026",
+        "image": ""
+      },
+      {
         "title": "NBA All-Star Game 2026 EN VIVO: resultado de USA Stripes vs Ganador Juego 1",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS2ZBNW5mcjBNRnFqUUtBNmd4X09TYUNfc3VHQ0NUdnBpYTlYeTJvVWkzR21WTVFkZ0JiVzRqcEFHU1dQdC1zZ3FocXFrRXJDNkNHZnVHczZjRlltanQwS2hmazRQbE1GTlBheGNOSEEyTGVIcXdta25DcmY0NmlOcg?oc=5",
         "date": "15 feb 2026",
+        "image": ""
+      },
+      {
+        "title": "NBA All-Star, Juego de las Estrellas 2026. La 75.ª edición se celebra este fin de semana",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXNOaXBCR3dobzVYVzJUQ0VZeW1RMC1JczNFQXNkR0h1ZENDWllIb3lmSTRHWWhRLWRDNHBybzI4SmREMWdhUUg1UE5kSXdWY3hzY0pXd1JFR3hzbXF4Z3poTXlCdWliZ1RNdjZURDQxZVprUTRMRVBTZDYxbjRjOUNDbUhuTUU2c0NBRWwxeXVsMHpTMm5NdkUwSjJtU2JuM0UwUG41RkFXdE5tZUJfbkxNcXowWUFHdWp6WHVNRXlZd1E2azlIaFJR0gHKAUFVX3lxTE5lc05pcEJHd2hvNVhXMlRDRVl5bVEwLUlzM0VBc2RHSHVkQ0NaWUhveWZJNEdZaFEtZEM0cHJvMjhKZEQxZ2FRSDVQTmRJd1ZjeHNjSld3UkVHeHNtcXhnemhNeUJ1aWJnVE12NlRENDFlWmtRNExFUFNkNjFuNGM5Q0NtSG5NRTZzQ0FFbDF5dWwwelMybk12RTBKMm1TYm4zRTBQbjVGQVd0Tm1lQl9uTE1xejBZQUd1anpYdU1FeVl3UTZrOUhoUlE?oc=5",
+        "date": "14 feb 2026",
         "image": ""
       },
       {
