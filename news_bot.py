@@ -1,11 +1,9 @@
 """
-CourtKing News Bot v4 — COMPLETO
-Genera 3 archivos JSON que el portal lee desde GitHub CDN:
-  - noticias.json  → noticias por deporte (Google News RSS)
-  - videos.json    → videos YouTube por deporte (YouTube Data API v3)
-  - partidos.json  → partidos NBA + Liga MX + Premier Padel (ESPN API)
-
-Se ejecuta automáticamente cada 8 horas via GitHub Actions.
+CourtKing News Bot v5
+- Noticias: Google News RSS
+- Videos: YouTube RSS (SIN API KEY, gratis, sin limite)
+- Partidos: ESPN API publica
+Corre cada 8h via GitHub Actions.
 """
 
 import re, json, time, hashlib, urllib.request, urllib.parse
@@ -13,26 +11,28 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 # ══════════════════════════════════════════════════════════════
-# CONFIGURACIÓN
+# CANALES YOUTUBE OFICIALES — RSS no necesita API key
 # ══════════════════════════════════════════════════════════════
-YT_API_KEY = 'AIzaSyABQSy5j3HOeFVFxijwZUw5SNFNyLbdAIw'
-
 YT_CHANNELS = {
-    'bk': 'UCWJ2lWNubArHWmf3FIHbfcQ',
-    'pd': 'UCaJRfYmUhhBjt0VbVuJoNxw',
-    'fx': 'UCENlPaQeGAMnDiqByIWyFSQ',
+    'bk': [
+        'UCWJ2lWNubArHWmf3FIHbfcQ',  # NBA official
+        'UCzNQbFGNDFBIBPMI68bFZkQ',  # House of Highlights
+    ],
+    'pd': [
+        'UCaJRfYmUhhBjt0VbVuJoNxw',  # Premier Padel FIP
+        'UCK59dYVs3Wgwoe73nDTH6jw',  # World Padel Tour
+    ],
+    'fx': [
+        'UCENlPaQeGAMnDiqByIWyFSQ',  # LaLiga official
+        'UCBcRF18a7Qf58cCRy5xuWwQ',  # Champions League UEFA
+    ],
 }
 
-YT_QUERIES = {
-    'bk': ['NBA highlights 2026', 'basketball mejores jugadas'],
-    'pd': ['Premier Padel 2026 highlights', 'padel mejores puntos'],
-    'fx': ['Champions League 2026 highlights', 'LaLiga goles 2026'],
-}
-
+# Feeds RSS de noticias
 NEWS_FEEDS = {
     'bk': [
         'https://news.google.com/rss/search?q=NBA+basketball+2026&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=basketball+highlights+NBA+hoy&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=NBA+highlights+jugadas+semana&hl=es-419&gl=MX&ceid=MX:es-419',
     ],
     'pd': [
         'https://news.google.com/rss/search?q=Premier+Padel+2026&hl=es-419&gl=MX&ceid=MX:es-419',
@@ -41,7 +41,7 @@ NEWS_FEEDS = {
     'fx': [
         'https://news.google.com/rss/search?q=Champions+League+UEFA+2026&hl=es-419&gl=MX&ceid=MX:es-419',
         'https://news.google.com/rss/search?q=Premier+League+LaLiga+futbol+2026&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=Copa+del+Mundo+FIFA+seleccion+futbol&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=Liga+MX+futbol+mexicano+2026&hl=es-419&gl=MX&ceid=MX:es-419',
     ],
 }
 
@@ -51,14 +51,13 @@ ESPN_APIS = {
 }
 
 PADEL_CALENDAR = [
-    {'fecha': '1-8 Mar 2026',   'torneo': 'Gijon P2',    'liga': 'Premier Padel Espana',  'url': 'https://www.padelfip.com/es/evento/gijon-p2-2026/',                          'live': True},
-    {'fecha': '16-22 Mar 2026', 'torneo': 'Cancun P2',   'liga': 'Premier Padel Mexico',  'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026',     'live': False},
-    {'fecha': '23-29 Mar 2026', 'torneo': 'Miami P1',    'liga': 'Premier Padel EUA',     'url': 'https://www.miamipremierpadel.com/',                                         'live': False},
-    {'fecha': '6-11 Abr 2026',  'torneo': 'Qatar Major', 'liga': 'Premier Padel Doha',    'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026',     'live': False},
-    {'fecha': 'Abr 2026',       'torneo': 'Bruselas P2', 'liga': 'Premier Padel Belgica', 'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026',     'live': False},
-    {'fecha': 'May 2026',       'torneo': 'Madrid Major','liga': 'Premier Padel Espana',  'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026',     'live': False},
-    {'fecha': 'Jun 2026',       'torneo': 'Paris P1',    'liga': 'Premier Padel Francia', 'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026',     'live': False},
-    {'fecha': 'Nov 2026',       'torneo': 'Mexico Major','liga': 'Premier Padel Acapulco','url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026',     'live': False},
+    {'fecha': '1-8 Mar 2026',   'torneo': 'Gijon P2',    'liga': 'Premier Padel Espana',   'url': 'https://www.padelfip.com/es/evento/gijon-p2-2026/',                      'live': True},
+    {'fecha': '16-22 Mar 2026', 'torneo': 'Cancun P2',   'liga': 'Premier Padel Mexico',   'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026', 'live': False},
+    {'fecha': '23-29 Mar 2026', 'torneo': 'Miami P1',    'liga': 'Premier Padel EUA',      'url': 'https://www.miamipremierpadel.com/',                                     'live': False},
+    {'fecha': '6-11 Abr 2026',  'torneo': 'Qatar Major', 'liga': 'Premier Padel Doha',     'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026', 'live': False},
+    {'fecha': 'May 2026',       'torneo': 'Madrid Major','liga': 'Premier Padel Espana',   'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026', 'live': False},
+    {'fecha': 'Jun 2026',       'torneo': 'Paris P1',    'liga': 'Premier Padel Francia',  'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026', 'live': False},
+    {'fecha': 'Nov 2026',       'torneo': 'Mexico Major','liga': 'Premier Padel Acapulco', 'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026', 'live': False},
 ]
 
 MAX_NEWS    = 6
@@ -71,7 +70,7 @@ MAX_MATCHES = 8
 def fetch(url, timeout=15):
     try:
         req = urllib.request.Request(url, headers={
-            'User-Agent': 'Mozilla/5.0 (compatible; CourtkingBot/4.0)'
+            'User-Agent': 'Mozilla/5.0 (compatible; CourtkingBot/5.0)'
         })
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return r.read()
@@ -99,7 +98,7 @@ def format_date(pub_str):
         return datetime.now().strftime('%d/%m/%Y')
 
 # ══════════════════════════════════════════════════════════════
-# 1. NOTICIAS
+# 1. NOTICIAS — Google News RSS
 # ══════════════════════════════════════════════════════════════
 def build_noticias():
     print('\nGenerando noticias.json...')
@@ -137,72 +136,77 @@ def build_noticias():
     return result
 
 # ══════════════════════════════════════════════════════════════
-# 2. VIDEOS
+# 2. VIDEOS — YouTube RSS (SIN API KEY)
+# Formato: https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
 # ══════════════════════════════════════════════════════════════
 def build_videos():
-    print('\nGenerando videos.json...')
+    print('\nGenerando videos.json (via YouTube RSS - sin API key)...')
     result = {}
-    for sport in ['bk', 'pd', 'fx']:
+
+    for sport, channel_ids in YT_CHANNELS.items():
         print(f'  [{sport.upper()}]')
         all_videos = []
-        channel_id = YT_CHANNELS.get(sport, '')
-        if channel_id:
-            url = (
-                'https://www.googleapis.com/youtube/v3/search'
-                f'?part=snippet&channelId={channel_id}'
-                f'&maxResults=6&order=date&type=video&key={YT_API_KEY}'
-            )
-            data = fetch_json(url)
-            if data and 'items' in data:
-                for item in data['items']:
-                    vid_id = item.get('id', {}).get('videoId', '')
-                    snip   = item.get('snippet', {})
-                    if not vid_id:
-                        continue
-                    all_videos.append({
-                        'vid':   vid_id,
-                        'title': snip.get('title', ''),
-                        'thumb': snip.get('thumbnails', {}).get('medium', {}).get('url', f'https://img.youtube.com/vi/{vid_id}/mqdefault.jpg'),
-                        'date':  snip.get('publishedAt', '')[:10],
-                        'url':   f'https://www.youtube.com/watch?v={vid_id}',
-                    })
-                print(f'    OK {len(data["items"])} del canal oficial')
-            time.sleep(1)
-        for query in YT_QUERIES.get(sport, []):
-            if len(all_videos) >= MAX_VIDEOS:
-                break
-            q = urllib.parse.quote(query)
-            url = (
-                'https://www.googleapis.com/youtube/v3/search'
-                f'?part=snippet&q={q}'
-                f'&maxResults=4&order=date&type=video&key={YT_API_KEY}'
-            )
-            data = fetch_json(url)
-            if data and 'items' in data:
-                for item in data['items']:
-                    vid_id = item.get('id', {}).get('videoId', '')
-                    snip   = item.get('snippet', {})
-                    if not vid_id:
-                        continue
-                    all_videos.append({
-                        'vid':   vid_id,
-                        'title': snip.get('title', ''),
-                        'thumb': snip.get('thumbnails', {}).get('medium', {}).get('url', f'https://img.youtube.com/vi/{vid_id}/mqdefault.jpg'),
-                        'date':  snip.get('publishedAt', '')[:10],
-                        'url':   f'https://www.youtube.com/watch?v={vid_id}',
-                    })
-            time.sleep(1)
+
+        for channel_id in channel_ids:
+            rss_url = f'https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}'
+            data = fetch(rss_url)
+            if not data:
+                print(f'    aviso: no se pudo obtener RSS de {channel_id}')
+                continue
+
+            try:
+                # Namespaces del feed de YouTube
+                ns = {
+                    'atom':   'http://www.w3.org/2005/Atom',
+                    'yt':     'http://www.youtube.com/xml/schemas/2015',
+                    'media':  'http://search.yahoo.com/mrss/',
+                }
+                root = ET.fromstring(data)
+
+                for entry in root.findall('atom:entry', ns)[:6]:
+                    vid_id = entry.findtext('yt:videoId', '', ns)
+                    title  = entry.findtext('atom:title', '', ns)
+                    pub    = entry.findtext('atom:published', '', ns)
+
+                    # Thumbnail desde media:group o construido
+                    thumb = f'https://img.youtube.com/vi/{vid_id}/mqdefault.jpg'
+                    media_group = entry.find('media:group', ns)
+                    if media_group is not None:
+                        media_thumb = media_group.find('media:thumbnail', ns)
+                        if media_thumb is not None:
+                            thumb = media_thumb.get('url', thumb)
+
+                    if vid_id and title:
+                        date_str = pub[:10] if pub else ''
+                        all_videos.append({
+                            'vid':   vid_id,
+                            'title': title,
+                            'thumb': thumb,
+                            'date':  date_str,
+                            'url':   f'https://www.youtube.com/watch?v={vid_id}',
+                        })
+
+                print(f'    OK canal {channel_id[:12]}... -> {len(all_videos)} videos acumulados')
+
+            except Exception as e:
+                print(f'    aviso parse RSS: {e}')
+
+            time.sleep(0.5)
+
+        # Deduplicar
         seen, unique = set(), []
         for v in all_videos:
             if v['vid'] not in seen:
                 seen.add(v['vid'])
                 unique.append(v)
+
         result[sport] = unique[:MAX_VIDEOS]
-        print(f'    OK {len(result[sport])} videos')
+        print(f'    TOTAL {len(result[sport])} videos para {sport.upper()}')
+
     return result
 
 # ══════════════════════════════════════════════════════════════
-# 3. PARTIDOS
+# 3. PARTIDOS — ESPN API publica
 # ══════════════════════════════════════════════════════════════
 def build_partidos():
     print('\nGenerando partidos.json...')
@@ -214,13 +218,13 @@ def build_partidos():
     if data and 'events' in data:
         for ev in (data.get('events') or [])[:MAX_MATCHES]:
             try:
-                comp  = ev['competitions'][0]
-                home  = next(c for c in comp['competitors'] if c['homeAway'] == 'home')
-                away  = next(c for c in comp['competitors'] if c['homeAway'] == 'away')
-                st    = ev['status']['type']
+                comp    = ev['competitions'][0]
+                home    = next(c for c in comp['competitors'] if c['homeAway'] == 'home')
+                away    = next(c for c in comp['competitors'] if c['homeAway'] == 'away')
+                st      = ev['status']['type']
                 is_live = st['state'] == 'in'
                 is_post = st['state'] == 'post'
-                score = f"{away.get('score','')}-{home.get('score','')}" if st['state'] != 'pre' else ''
+                score   = f"{away.get('score','')}-{home.get('score','')}" if st['state'] != 'pre' else ''
                 matches.append({
                     'fecha':  datetime.fromisoformat(ev['date'].replace('Z','+00:00')).strftime('%a %d %b'),
                     'local':  home['team']['abbreviation'],
@@ -231,7 +235,7 @@ def build_partidos():
                     'url':    'https://www.espn.com/nba/scoreboard',
                 })
             except Exception as e:
-                print(f'    aviso partido: {e}')
+                print(f'    aviso: {e}')
     result['bk'] = matches
     print(f'    OK {len(matches)} partidos NBA')
 
@@ -242,13 +246,13 @@ def build_partidos():
     if data and 'events' in data:
         for ev in (data.get('events') or [])[:MAX_MATCHES]:
             try:
-                comp  = ev['competitions'][0]
-                home  = next(c for c in comp['competitors'] if c['homeAway'] == 'home')
-                away  = next(c for c in comp['competitors'] if c['homeAway'] == 'away')
-                st    = ev['status']['type']
+                comp    = ev['competitions'][0]
+                home    = next(c for c in comp['competitors'] if c['homeAway'] == 'home')
+                away    = next(c for c in comp['competitors'] if c['homeAway'] == 'away')
+                st      = ev['status']['type']
                 is_live = st['state'] == 'in'
                 is_post = st['state'] == 'post'
-                score = f"{away.get('score','')}-{home.get('score','')}" if st['state'] != 'pre' else ''
+                score   = f"{away.get('score','')}-{home.get('score','')}" if st['state'] != 'pre' else ''
                 matches.append({
                     'fecha':  datetime.fromisoformat(ev['date'].replace('Z','+00:00')).strftime('%a %d %b'),
                     'local':  home['team'].get('shortDisplayName', home['team']['abbreviation']),
@@ -259,7 +263,7 @@ def build_partidos():
                     'url':    'https://www.espn.com/soccer/scoreboard/_/league/mex.1',
                 })
             except Exception as e:
-                print(f'    aviso partido: {e}')
+                print(f'    aviso: {e}')
     result['fx'] = matches
     print(f'    OK {len(matches)} partidos Liga MX')
 
@@ -274,7 +278,7 @@ def build_partidos():
 def main():
     ts = datetime.now(timezone.utc).strftime('%d/%m/%Y %H:%M UTC')
     print(f'\n{"="*50}')
-    print(f'  CourtKing Bot v4 — {ts}')
+    print(f'  CourtKing Bot v5 — {ts}')
     print(f'{"="*50}')
 
     noticias = build_noticias()
@@ -288,10 +292,14 @@ def main():
     with open('partidos.json', 'w', encoding='utf-8') as f:
         json.dump({'updated': ts, 'sports': partidos}, f, ensure_ascii=False, indent=2)
 
+    total_v = sum(len(v) for v in videos.values())
+    total_n = sum(len(v) for v in noticias.values())
+    total_p = sum(len(v) for v in partidos.values())
+
     print(f'\n{"="*50}')
-    print(f'  OK noticias.json  -> {sum(len(v) for v in noticias.values())} noticias')
-    print(f'  OK videos.json    -> {sum(len(v) for v in videos.values())} videos')
-    print(f'  OK partidos.json  -> {sum(len(v) for v in partidos.values())} partidos')
+    print(f'  OK noticias.json  -> {total_n} noticias')
+    print(f'  OK videos.json    -> {total_v} videos')
+    print(f'  OK partidos.json  -> {total_p} partidos')
     print(f'{"="*50}\n')
 
 if __name__ == '__main__':
