@@ -1,5 +1,5 @@
 {
-  "updated": "08/03/2026 23:39 UTC",
+  "updated": "08/03/2026 23:44 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -472,51 +472,93 @@
     "leaders": [
       {
         "pos": 1,
-        "name": "Paulinho",
-        "team": "Toluca",
-        "goles": 25
+        "name": "Joao Pedro",
+        "team": "Atl. San Luis",
+        "goles": 9
       },
       {
         "pos": 2,
-        "name": "G. Berterame",
-        "team": "Monterrey",
-        "goles": 20
+        "name": "Armando González",
+        "team": "Chivas",
+        "goles": 6
       },
       {
         "pos": 3,
-        "name": "R. Zúñiga",
-        "team": "Club America",
-        "goles": 20
+        "name": "José Paradela",
+        "team": "Cruz Azul",
+        "goles": 5
       },
       {
         "pos": 4,
-        "name": "Sergio Canales",
-        "team": "Monterrey",
-        "goles": 17
+        "name": "Joao Paulo Dias",
+        "team": "Toluca",
+        "goles": 5
       },
       {
         "pos": 5,
-        "name": "A. Vega",
-        "team": "Toluca",
-        "goles": 16
+        "name": "Arturo González",
+        "team": "Atlas",
+        "goles": 5
       },
       {
         "pos": 6,
-        "name": "I. Rivero",
-        "team": "Cruz Azul",
-        "goles": 15
+        "name": "Diber Cambindo",
+        "team": "León",
+        "goles": 5
       },
       {
         "pos": 7,
-        "name": "S. Rondón",
-        "team": "Pachuca",
-        "goles": 14
+        "name": "A. Palavecino",
+        "team": "Cruz Azul",
+        "goles": 4
       },
       {
         "pos": 8,
-        "name": "Á. Sepúlveda",
+        "name": "Salomón Rondón",
+        "team": "Pachuca",
+        "goles": 4
+      },
+      {
+        "pos": 9,
+        "name": "Juninho",
+        "team": "Pumas",
+        "goles": 4
+      },
+      {
+        "pos": 10,
+        "name": "L. Di Yorio",
+        "team": "Santos",
+        "goles": 4
+      },
+      {
+        "pos": 11,
+        "name": "G. Fernández",
         "team": "Cruz Azul",
-        "goles": 14
+        "goles": 3
+      },
+      {
+        "pos": 12,
+        "name": "Oussama Idrissi",
+        "team": "Pachuca",
+        "goles": 3
+      },
+      {
+        "pos": 13,
+        "name": "Robert Morales",
+        "team": "Pumas",
+        "goles": 3
+      },
+      {
+        "pos": 14,
+        "name": "Álvaro Angulo",
+        "team": "Pumas",
+        "goles": 3
+      },
+      {
+        "pos": 15,
+        "name": "Marcelo Flores",
+        "team": "Tigres",
+        "goles": 3
       }
     ]
   },
