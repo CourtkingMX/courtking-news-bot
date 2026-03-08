@@ -38,23 +38,47 @@ YT_CHANNELS = {
 # ══════════════════════════════════════════════════════════════
 NEWS_FEEDS = {
     'bk': [
+        # Google News — varias queries NBA
         'https://news.google.com/rss/search?q=NBA+resultados+hoy&hl=es-419&gl=MX&ceid=MX:es-419',
         'https://news.google.com/rss/search?q=NBA+highlights+jugadas&hl=es-419&gl=MX&ceid=MX:es-419',
         'https://news.google.com/rss/search?q=NBA+playoffs+2026+clasificacion&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=basquetbol+NBA+semana&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=basquetbol+NBA+transferencias+fichajes&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=NBA+lesiones+noticias+equipo&hl=es-419&gl=MX&ceid=MX:es-419',
+        # ESPN RSS directo
+        'https://www.espn.com/espn/rss/nba/news',
+        # Bleacher Report RSS
+        'https://bleacherreport.com/nba.rss',
+        # Yahoo Sports NBA
+        'https://sports.yahoo.com/nba/rss.xml',
     ],
     'pd': [
+        # Google News — pádel
         'https://news.google.com/rss/search?q=Premier+Padel+2026+resultados&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=padel+torneo+ranking+semana&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=padel+Mexico+2026&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=Coello+Tapia+padel+FIP&hl=es&gl=ES&ceid=ES:es',
+        'https://news.google.com/rss/search?q=padel+torneo+ranking+jugadores&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=padel+Mexico+Cancun+2026&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=Coello+Tapia+Di+Nenno+padel&hl=es&gl=ES&ceid=ES:es',
+        'https://news.google.com/rss/search?q=Triay+Jensen+padel+femenino&hl=es&gl=ES&ceid=ES:es',
+        # Padel World Press RSS
+        'https://www.padelmundo.com/feed/',
+        # Noticias pádel Marca
+        'https://news.google.com/rss/search?q=padel+site:marca.com&hl=es&gl=ES&ceid=ES:es',
     ],
     'fx': [
-        'https://news.google.com/rss/search?q=Liga+MX+jornada+goles+hoy&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=Liga+MX+Clausura+2026+resultados&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=Champions+League+2026+resultados&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=futbol+mexicano+seleccion+noticias&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=LaLiga+Premier+League+resultados+semana&hl=es-419&gl=MX&ceid=MX:es-419',
+        # Google News — Liga MX
+        'https://news.google.com/rss/search?q=Liga+MX+jornada+goles+resultados&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=Liga+MX+Clausura+2026+noticias&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=futbol+mexicano+Chivas+America+Cruz+Azul&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=seleccion+mexicana+futbol+2026&hl=es-419&gl=MX&ceid=MX:es-419',
+        # Google News — Champions + Europa
+        'https://news.google.com/rss/search?q=Champions+League+2026+resultados+goles&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=LaLiga+2026+resultados+jornada&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=Premier+League+2026+resultados&hl=es-419&gl=MX&ceid=MX:es-419',
+        # ESPN RSS directo fútbol
+        'https://www.espn.com/espn/rss/soccer/news',
+        # Record MX RSS
+        'https://www.record.com.mx/rss/futbol-mexicano',
+        # TUDN RSS
+        'https://news.google.com/rss/search?q=futbol+site:tudn.com&hl=es-419&gl=MX&ceid=MX:es-419',
     ],
 }
 
@@ -80,7 +104,7 @@ PADEL_CALENDAR = [
     {'fecha': 'Nov 2026',       'torneo': 'Mexico Major', 'liga': 'Premier Padel — Acapulco', 'url': 'https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026', 'live': False},
 ]
 
-MAX_NEWS    = 12
+MAX_NEWS    = 20
 MAX_VIDEOS  = 8
 MAX_MATCHES = 10
 
