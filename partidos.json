@@ -1,5 +1,5 @@
 {
-  "updated": "08/03/2026 03:14 UTC",
+  "updated": "08/03/2026 03:25 UTC",
   "sports": {
     "bk": [
       {
@@ -33,7 +33,7 @@
         "fecha": "Sun 08 Mar",
         "local": "MEM",
         "visita": "LAC",
-        "score": "108-105",
+        "score": "117-116",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -42,7 +42,7 @@
         "fecha": "Sun 08 Mar",
         "local": "MIL",
         "visita": "UTAH",
-        "score": "95-97",
+        "score": "99-107",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -51,7 +51,7 @@
         "fecha": "Sun 08 Mar",
         "local": "OKC",
         "visita": "GS",
-        "score": "77-77",
+        "score": "81-84",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -82,16 +82,16 @@
         "visita": "Guadalajara",
         "score": "2-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
       },
       {
         "fecha": "Sun 08 Mar",
         "local": "Pachuca",
         "visita": "Puebla",
-        "score": "2-2",
+        "score": "1-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
       },
       {
