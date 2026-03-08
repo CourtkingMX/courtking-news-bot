@@ -394,44 +394,86 @@ def build_standings_fx():
 # ══════════════════════════════════════════════════════════════
 def build_leaders_fx():
     print('  [FX] Goleadores Liga MX...')
-    # ESPN no tiene endpoint directo de goleadores para Liga MX sin auth
-    # Usamos football-data.org si hay key, sino hardcoded top conocidos
     leaders = []
-    if FOOTBALL_DATA_KEY:
+
+    # Opción 1: API-Football (si hay key — plan free incluye Liga MX)
+    api_football_key = os.environ.get('API_FOOTBALL_KEY', '')
+    if api_football_key:
         try:
-            url = 'https://api.football-data.org/v4/competitions/MX1/scorers?limit=10'
-            data = fetch_json(url, headers={'X-Auth-Token': FOOTBALL_DATA_KEY})
-            if data:
-                for s in (data.get('scorers') or [])[:8]:
-                    p = s.get('player', {})
+            # api-football.com directo (no RapidAPI)
+            url = 'https://v3.football.api-sports.io/players/topscorers?league=262&season=2025'
+            data = fetch_json(url, headers={
+                'x-apisports-key': api_football_key,
+                'x-rapidapi-host': 'v3.football.api-sports.io'
+            })
+            if data and data.get('response'):
+                for item in data['response'][:8]:
+                    p = item.get('player', {})
+                    s = (item.get('statistics') or [{}])[0]
                     t = s.get('team', {})
+                    goals = s.get('goals', {}).get('total', 0) or 0
                     leaders.append({
                         'pos':   len(leaders) + 1,
                         'name':  p.get('name', ''),
-                        'team':  t.get('shortName', t.get('name','')),
-                        'goles': s.get('goals', 0),
+                        'team':  t.get('name', ''),
+                        'goles': goals,
                     })
-                print(f'    OK {len(leaders)} goleadores')
+                print(f'    OK {len(leaders)} goleadores (API-Football)')
                 return leaders
         except Exception as e:
-            print(f'    aviso goleadores fd: {e}')
-    # Fallback: ESPN leaders endpoint para soccer
+            print(f'    aviso API-Football: {e}')
+
+    # Opción 2: ESPN leaders endpoint
     try:
         url = 'https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/leaders'
         data = fetch_json(url)
         if data:
-            for cat in (data.get('categories') or [])[:1]:
-                for i, ldr in enumerate((cat.get('leaders') or [])[:8]):
-                    ath = ldr.get('athlete', {})
+            cats = data.get('categories') or data.get('leaders') or []
+            for cat in cats:
+                cname = (cat.get('name','') or cat.get('displayName','')).lower()
+                if not any(x in cname for x in ['goal','gol','score']):
+                    continue
+                items = cat.get('leaders', cat.get('athletes', []))
+                for i, ldr in enumerate(items[:8]):
+                    ath = ldr.get('athlete', ldr.get('player', {}))
+                    team = ldr.get('team', {})
                     leaders.append({
                         'pos':   i + 1,
-                        'name':  ath.get('shortName', ath.get('displayName','')),
-                        'team':  ldr.get('team', {}).get('abbreviation',''),
-                        'goles': ldr.get('displayValue',''),
+                        'name':  ath.get('shortName', ath.get('displayName', '')),
+                        'team':  team.get('abbreviation', team.get('shortName', '')),
+                        'goles': ldr.get('displayValue', ldr.get('value', '')),
                     })
+                if leaders:
+                    break
             print(f'    OK {len(leaders)} goleadores (ESPN)')
     except Exception as e:
-        print(f'    aviso goleadores ESPN: {e}')
+        print(f'    aviso ESPN leaders FX: {e}')
+
+    # Opción 3: Scoreboard ESPN — líderes por partido
+    if not leaders:
+        try:
+            sb = fetch_json('https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/scoreboard?limit=10')
+            seen = set()
+            for ev in (sb or {}).get('events', [])[:10]:
+                for comp in ev.get('competitions', []):
+                    for lcat in comp.get('leaders', []):
+                        cname = (lcat.get('name','') or lcat.get('displayName','')).lower()
+                        if not any(x in cname for x in ['goal','gol','score']): continue
+                        for ldr in lcat.get('leaders',[])[:1]:
+                            ath = ldr.get('athlete',{})
+                            name = ath.get('shortName', ath.get('displayName',''))
+                            if name and name not in seen:
+                                seen.add(name)
+                                leaders.append({
+                                    'pos':   len(leaders)+1,
+                                    'name':  name,
+                                    'team':  ldr.get('team',{}).get('abbreviation',''),
+                                    'goles': ldr.get('displayValue',''),
+                                })
+            print(f'    OK {len(leaders)} goleadores (scoreboard)')
+        except Exception as e:
+            print(f'    aviso scoreboard FX: {e}')
+
     return leaders
 
 # ══════════════════════════════════════════════════════════════
