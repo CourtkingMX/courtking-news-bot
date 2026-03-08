@@ -23,7 +23,7 @@ jobs:
           python-version: '3.11'
 
       - name: Ejecutar bot
-        run: python courtking_bot.py
+        run: python news_bot.py
 
       - name: Commit y push JSONs
         run: |
