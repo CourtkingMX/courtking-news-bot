@@ -225,8 +225,9 @@ def build_standings_nba():
             for entry in conf.get('standings', {}).get('entries', [])[:8]:
                 team = entry.get('team', {})
                 stats = {s['name']: s.get('displayValue','') for s in entry.get('stats', [])}
+                pos_idx = len(standings[key]) + 1
                 standings[key].append({
-                    'pos':    entry.get('rank', ''),
+                    'pos':    entry.get('rank', pos_idx) or pos_idx,
                     'team':   team.get('abbreviation', team.get('displayName','')),
                     'name':   team.get('shortDisplayName', team.get('displayName','')),
                     'w':      stats.get('wins', stats.get('wins','')),
@@ -290,8 +291,9 @@ def build_standings_fx():
         for entry in entries[:12]:
             team  = entry.get('team', {})
             stats = {s['name']: s.get('displayValue', s.get('value','')) for s in entry.get('stats', [])}
+            pos_fx = entry.get('rank', len(standings)+1) or len(standings)+1
             standings.append({
-                'pos':  entry.get('rank', len(standings)+1),
+                'pos':  pos_fx,
                 'team': team.get('abbreviation', team.get('displayName','')),
                 'name': team.get('shortDisplayName', team.get('displayName','')),
                 'pj':   stats.get('gamesPlayed', ''),
