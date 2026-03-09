@@ -252,11 +252,57 @@ def fetch_unsplash_image(title, sport, orientation='landscape'):
     return ''
 
 # ══════════════════════════════════════════════════════════════
+# Dominios bloqueados para imágenes — logos genéricos
+IMG_BLOCKED = [
+    'googleusercontent.com/news', 'google.com/news', 'gstatic.com',
+    'placeholder', 'default', 'logo', 'icon', 'favicon',
+    'lh3.googleusercontent', 'encrypted-tbn',
+]
+
+def is_valid_img(url):
+    """Retorna True si la URL parece una imagen real (no logo de Google u otro genérico)."""
+    if not url or not url.startswith('http'):
+        return False
+    return not any(b in url.lower() for b in IMG_BLOCKED)
+
+def resolve_google_news_url(url, timeout=5):
+    """
+    Google News usa URLs tipo news.google.com/rss/articles/... que redirigen al artículo real.
+    Sigue el redirect para obtener la URL final del artículo.
+    """
+    if 'news.google.com' not in url:
+        return url
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        # No seguir redirect automáticamente — leer Location header
+        import http.client
+        parsed = urllib.parse.urlparse(url)
+        conn = http.client.HTTPSConnection(parsed.netloc, timeout=timeout)
+        conn.request('HEAD', parsed.path + ('?' + parsed.query if parsed.query else ''))
+        resp = conn.getresponse()
+        if resp.status in (301, 302, 303, 307, 308):
+            location = resp.getheader('Location', '')
+            if location and location.startswith('http'):
+                return location
+        conn.close()
+    except:
+        pass
+    # Fallback: usar urllib con redirect automático
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.url  # URL final después de todos los redirects
+    except:
+        pass
+    return url
+
 # OG:IMAGE — extrae imagen del artículo original
 # ══════════════════════════════════════════════════════════════
 def fetch_og_image(url, timeout=6):
     try:
-        data = fetch(url, timeout=timeout)
+        # Si es URL de Google News, resolver primero al artículo real
+        real_url = resolve_google_news_url(url, timeout=4)
+        data = fetch(real_url, timeout=timeout)
         if not data:
             return ''
         html = data.decode('utf-8', errors='ignore')
@@ -269,9 +315,7 @@ def fetch_og_image(url, timeout=6):
             m = re.search(r'name="twitter:image"[^>]+content="([^"]+)"', html)
         if m:
             img = m.group(1).strip()
-            blocked = ['googleusercontent.com/news', 'google.com/news',
-                       'placeholder', 'default', 'logo', 'icon', 'favicon']
-            if img.startswith('http') and not any(b in img.lower() for b in blocked):
+            if is_valid_img(img):
                 return img
     except:
         pass
@@ -301,7 +345,8 @@ def build_noticias():
                     pub   = item.findtext('pubDate', '').strip()
                     desc  = item.findtext('description', '')
                     img_match = re.search(r'<img[^>]+src=[\"\'](https?://[^\"\']+)[\"\']', desc)
-                    image = img_match.group(1) if img_match else ''
+                    raw_img = img_match.group(1) if img_match else ''
+                    image = raw_img if is_valid_img(raw_img) else ''
                     title = re.sub(r'\s*-\s*[^-]+$', '', title).strip()
                     if title and link:
                         raw_items.append({
