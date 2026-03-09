@@ -1,32 +1,32 @@
 {
-  "updated": "09/03/2026 22:59 UTC",
+  "updated": "09/03/2026 23:53 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Mon 09 Mar",
         "local": "Cavaliers",
         "visita": "76ers",
-        "score": "",
+        "score": "35-25",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 09 Mar",
         "local": "Nets",
         "visita": "Grizzlies",
-        "score": "",
+        "score": "16-20",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 09 Mar",
         "local": "Thunder",
         "visita": "Nuggets",
-        "score": "",
+        "score": "8-19",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
