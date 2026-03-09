@@ -1,5 +1,5 @@
 {
-  "updated": "09/03/2026 18:06 UTC",
+  "updated": "09/03/2026 20:01 UTC",
   "sports": {
     "bk": [
       {
@@ -170,9 +170,9 @@
         "fecha": "Mon 09 Mar",
         "local": "Lazio",
         "visita": "Sassuolo",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
