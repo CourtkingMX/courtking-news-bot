@@ -1,5 +1,5 @@
 {
-  "updated": "09/03/2026 02:28 UTC",
+  "updated": "09/03/2026 02:33 UTC",
   "sports": {
     "bk": [
       {
@@ -60,7 +60,7 @@
         "fecha": "Mon 09 Mar",
         "local": "SA",
         "visita": "HOU",
-        "score": "125-108",
+        "score": "130-108",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -69,7 +69,7 @@
         "fecha": "Mon 09 Mar",
         "local": "POR",
         "visita": "IND",
-        "score": "75-62",
+        "score": "86-70",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -78,7 +78,7 @@
         "fecha": "Mon 09 Mar",
         "local": "SAC",
         "visita": "CHI",
-        "score": "72-55",
+        "score": "75-63",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -87,7 +87,7 @@
         "fecha": "Mon 09 Mar",
         "local": "PHX",
         "visita": "CHA",
-        "score": "19-22",
+        "score": "21-22",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
