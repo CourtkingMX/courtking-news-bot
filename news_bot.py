@@ -142,6 +142,16 @@ def format_date(pub_str):
     except:
         return datetime.now().strftime('%d/%m/%Y')
 
+def parse_pub_date(pub_str):
+    """Retorna datetime UTC o None si falla."""
+    try:
+        from email.utils import parsedate_to_datetime
+        dt = parsedate_to_datetime(pub_str)
+        # Convertir a UTC sin zona horaria para comparar
+        return dt.astimezone(timezone.utc).replace(tzinfo=None)
+    except:
+        return None
+
 # ══════════════════════════════════════════════════════════════
 # 1. NOTICIAS — Google News RSS
 # ══════════════════════════════════════════════════════════════
@@ -218,7 +228,7 @@ def build_noticias():
                     image = img_match.group(1) if img_match else ''
                     title = re.sub(r'\s*-\s*[^-]+$', '', title).strip()
                     if title and link:
-                        raw_items.append({'title': title, 'url': link, 'date': format_date(pub), 'image': image})
+                        raw_items.append({'title': title, 'url': link, 'date': format_date(pub), 'image': image, '_pub_raw': pub})
             except Exception as e:
                 print(f'    aviso parse: {e}')
             time.sleep(0.5)
@@ -230,6 +240,31 @@ def build_noticias():
             if key not in seen:
                 seen.add(key)
                 unique.append(item)
+
+        # Filtrar solo noticias de las últimas 48h
+        # (48h en lugar de 24h para asegurar contenido suficiente los fines de semana)
+        now_utc = datetime.utcnow()
+        filtered = []
+        old_count = 0
+        for item in unique:
+            pub_dt = parse_pub_date(item.get('_pub_raw', ''))
+            if pub_dt is None:
+                filtered.append(item)  # sin fecha = incluir por si acaso
+            elif (now_utc - pub_dt).total_seconds() <= 48 * 3600:
+                filtered.append(item)
+            else:
+                old_count += 1
+        if old_count:
+            print(f'    Filtradas {old_count} noticias viejas (>48h)')
+        # Si quedan muy pocas, ampliar a 7 días para no mostrar vacío
+        if len(filtered) < 4:
+            print(f'    Pocas noticias recientes, ampliando a 7 días...')
+            filtered = []
+            for item in unique:
+                pub_dt = parse_pub_date(item.get('_pub_raw', ''))
+                if pub_dt is None or (now_utc - pub_dt).total_seconds() <= 7 * 24 * 3600:
+                    filtered.append(item)
+        unique = filtered
 
         # Intentar og:image para las que no tienen imagen (max 8 fetches por deporte)
         fallbacks = SPORT_FALLBACK_IMGS.get(sport, SPORT_FALLBACK_IMGS['bk'])
