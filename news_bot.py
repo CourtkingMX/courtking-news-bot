@@ -38,18 +38,18 @@ YT_CHANNELS = {
 # ══════════════════════════════════════════════════════════════
 NEWS_FEEDS = {
     'bk': [
-        # Google News — varias queries NBA
-        'https://news.google.com/rss/search?q=NBA+resultados+hoy&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=NBA+highlights+jugadas&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=NBA+playoffs+2026+clasificacion&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=basquetbol+NBA+transferencias+fichajes&hl=es-419&gl=MX&ceid=MX:es-419',
-        'https://news.google.com/rss/search?q=NBA+lesiones+noticias+equipo&hl=es-419&gl=MX&ceid=MX:es-419',
-        # ESPN RSS directo
+        # Google News — queries en español forzado
+        'https://news.google.com/rss/search?q=NBA+basquetbol+hoy+resultados&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=NBA+jugadas+destacadas+semana&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=basquetbol+NBA+noticias+hoy&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=NBA+2026+clasificacion+equipos&hl=es-419&gl=MX&ceid=MX:es-419',
+        'https://news.google.com/rss/search?q=basquetbol+NBA+lesion+traspaso&hl=es-419&gl=MX&ceid=MX:es-419',
+        # ESPN Deportes RSS (español)
         'https://www.espn.com/espn/rss/nba/news',
-        # Bleacher Report RSS
-        'https://bleacherreport.com/nba.rss',
-        # Yahoo Sports NBA
-        'https://sports.yahoo.com/nba/rss.xml',
+        # ESPN México
+        'https://news.google.com/rss/search?q=NBA+site:espndeportes.espn.com&hl=es-419&gl=MX&ceid=MX:es-419',
+        # Récord basquetbol
+        'https://news.google.com/rss/search?q=NBA+site:record.com.mx&hl=es-419&gl=MX&ceid=MX:es-419',
     ],
     'pd': [
         # Google News — pádel
@@ -199,7 +199,10 @@ def fetch_og_image(url, timeout=6):
             m = re.search(r'name="twitter:image"[^>]+content="([^"]+)"', html)
         if m:
             img = m.group(1).strip()
-            if img.startswith("http"):
+            # Ignorar logo de Google News y placeholders genéricos
+            blocked = ['googleusercontent.com/news', 'google.com/news', 
+                      'placeholder', 'default', 'logo', 'icon', 'favicon']
+            if img.startswith("http") and not any(b in img.lower() for b in blocked):
                 return img
     except:
         pass
