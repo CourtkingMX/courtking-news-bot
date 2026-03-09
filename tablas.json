@@ -1,5 +1,5 @@
 {
-  "updated": "09/03/2026 15:49 UTC",
+  "updated": "09/03/2026 15:57 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -484,14 +484,14 @@
       },
       {
         "pos": 3,
-        "name": "José Paradela",
-        "team": "Cruz Azul",
-        "goles": 5
+        "name": "Paulinho",
+        "team": "Toluca",
+        "goles": 6
       },
       {
         "pos": 4,
-        "name": "Joao Paulo Dias",
-        "team": "Toluca",
+        "name": "José Paradela",
+        "team": "Cruz Azul",
         "goles": 5
       },
       {
@@ -514,27 +514,27 @@
       },
       {
         "pos": 8,
+        "name": "G. Fernández",
+        "team": "Cruz Azul",
+        "goles": 4
+      },
+      {
+        "pos": 9,
         "name": "Salomón Rondón",
         "team": "Pachuca",
         "goles": 4
       },
       {
-        "pos": 9,
+        "pos": 10,
         "name": "Juninho",
         "team": "Pumas",
         "goles": 4
       },
       {
-        "pos": 10,
+        "pos": 11,
         "name": "L. Di Yorio",
         "team": "Santos",
         "goles": 4
-      },
-      {
-        "pos": 11,
-        "name": "G. Fernández",
-        "team": "Cruz Azul",
-        "goles": 3
       },
       {
         "pos": 12,
