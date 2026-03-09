@@ -1,5 +1,5 @@
 {
-  "updated": "09/03/2026 07:35 UTC",
+  "updated": "09/03/2026 10:30 UTC",
   "sports": {
     "bk": [
       {
@@ -109,7 +109,7 @@
         "visita": "Santos",
         "score": "1-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
       }
     ],
