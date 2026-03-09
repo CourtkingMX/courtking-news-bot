@@ -1,5 +1,5 @@
 """
-CourtKing News Bot v9 — Unsplash integrado para imágenes relevantes
+CourtKing News Bot v11 — YouTube Data API v3 para videos confiables
 CAMBIOS vs v8:
 - UNSPLASH_KEY: nueva variable de entorno para la Access Key
 - fetch_unsplash_image(): busca imagen relevante al título de la noticia
@@ -12,8 +12,10 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 # ══════════════════════════════════════════════════════════════
-# CANALES YOUTUBE — RSS sin API key
+# CANALES YOUTUBE — YouTube Data API v3
 # ══════════════════════════════════════════════════════════════
+YT_API_KEY = os.environ.get('YT_API_KEY', 'AIzaSyABQSy5j3HOeFVFxijwZUw5SNFNyLbdAIw')
+
 YT_CHANNELS = {
     'bk': [
         'UCWJ2lWNubArHWmf3FIHbfcQ',  # NBA official
@@ -441,37 +443,70 @@ def build_videos():
         print(f'  [{sport.upper()}]')
         all_videos = []
         for channel_id in channel_ids:
-            rss_url = f'https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}'
-            data = fetch(rss_url)
-            if not data:
-                continue
-            try:
-                ns = {
-                    'atom':  'http://www.w3.org/2005/Atom',
-                    'yt':    'http://www.youtube.com/xml/schemas/2015',
-                    'media': 'http://search.yahoo.com/mrss/',
-                }
-                root = ET.fromstring(data)
-                for entry in root.findall('atom:entry', ns)[:5]:
-                    vid_id = entry.findtext('yt:videoId', '', ns)
-                    title  = entry.findtext('atom:title', '', ns)
-                    pub    = entry.findtext('atom:published', '', ns)
-                    thumb  = f'https://img.youtube.com/vi/{vid_id}/mqdefault.jpg'
-                    mg = entry.find('media:group', ns)
-                    if mg is not None:
-                        mt = mg.find('media:thumbnail', ns)
-                        if mt is not None:
-                            thumb = mt.get('url', thumb)
-                    if vid_id and title:
-                        all_videos.append({
-                            'vid': vid_id, 'title': title,
-                            'thumb': thumb, 'date': pub[:10] if pub else '',
-                            'url': f'https://www.youtube.com/watch?v={vid_id}',
-                        })
-                print(f'    canal {channel_id[:12]}... OK')
-            except Exception as e:
-                print(f'    aviso: {e}')
-            time.sleep(0.5)
+            # Primero intentar YouTube Data API v3
+            api_ok = False
+            if YT_API_KEY:
+                try:
+                    api_url = (
+                        'https://www.googleapis.com/youtube/v3/search'
+                        f'?part=snippet&channelId={channel_id}'
+                        '&type=video&order=date&maxResults=5'
+                        f'&key={YT_API_KEY}'
+                    )
+                    data = fetch_json(api_url)
+                    if data and data.get('items'):
+                        for item in data['items']:
+                            vid_id = item.get('id', {}).get('videoId', '')
+                            snip   = item.get('snippet', {})
+                            title  = snip.get('title', '')
+                            pub    = snip.get('publishedAt', '')[:10]
+                            thumb  = (snip.get('thumbnails', {})
+                                      .get('medium', {})
+                                      .get('url', f'https://img.youtube.com/vi/{vid_id}/mqdefault.jpg'))
+                            if vid_id and title:
+                                all_videos.append({
+                                    'vid': vid_id, 'title': title,
+                                    'thumb': thumb, 'date': pub,
+                                    'url': f'https://www.youtube.com/watch?v={vid_id}',
+                                })
+                        print(f'    API canal {channel_id[:12]}... {len(data["items"])} videos')
+                        api_ok = True
+                except Exception as e:
+                    print(f'    API aviso {channel_id[:12]}: {e}')
+
+            # Fallback: RSS si API falla
+            if not api_ok:
+                rss_url = f'https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}'
+                data = fetch(rss_url)
+                if data:
+                    try:
+                        ns = {
+                            'atom':  'http://www.w3.org/2005/Atom',
+                            'yt':    'http://www.youtube.com/xml/schemas/2015',
+                            'media': 'http://search.yahoo.com/mrss/',
+                        }
+                        root = ET.fromstring(data)
+                        for entry in root.findall('atom:entry', ns)[:5]:
+                            vid_id = entry.findtext('yt:videoId', '', ns)
+                            title  = entry.findtext('atom:title', '', ns)
+                            pub    = entry.findtext('atom:published', '', ns)
+                            thumb  = f'https://img.youtube.com/vi/{vid_id}/mqdefault.jpg'
+                            mg = entry.find('media:group', ns)
+                            if mg is not None:
+                                mt = mg.find('media:thumbnail', ns)
+                                if mt is not None:
+                                    thumb = mt.get('url', thumb)
+                            if vid_id and title:
+                                all_videos.append({
+                                    'vid': vid_id, 'title': title,
+                                    'thumb': thumb, 'date': pub[:10] if pub else '',
+                                    'url': f'https://www.youtube.com/watch?v={vid_id}',
+                                })
+                        print(f'    RSS canal {channel_id[:12]}... OK')
+                    except Exception as e:
+                        print(f'    RSS aviso: {e}')
+            time.sleep(0.3)
+
         seen, unique = set(), []
         for v in all_videos:
             if v['vid'] not in seen:
@@ -787,14 +822,27 @@ def _fx_espn_fallback():
 # MAIN
 # ══════════════════════════════════════════════════════════════
 def main():
-    ts = datetime.now(timezone.utc).strftime('%d/%m/%Y %H:%M UTC')
+    ts   = datetime.now(timezone.utc).strftime('%d/%m/%Y %H:%M UTC')
+    mode = os.environ.get('MODE', 'full')   # 'full' o 'partidos'
+
     print(f'\n{"="*55}')
-    print(f'  CourtKing Bot v9 — {ts}')
+    print(f'  CourtKing Bot v10 — {ts}  [MODE={mode}]')
     print(f'  FOOTBALL_DATA_KEY: {"✅" if FOOTBALL_DATA_KEY else "❌ no encontrado"}')
-    print(f'  API_FOOTBALL_KEY:  {"✅" if API_FOOTBALL_KEY else "❌ no encontrado"}')
-    print(f'  UNSPLASH_KEY:      {"✅" if UNSPLASH_KEY else "❌ no encontrado (agregar en Secrets)"}')
+    print(f'  UNSPLASH_KEY:      {"✅" if UNSPLASH_KEY else "❌ no encontrado"}')
     print(f'{"="*55}')
 
+    if mode == 'partidos':
+        # ── Modo rápido: solo actualizar partidos.json (cada hora) ──
+        partidos = build_partidos()
+        with open('partidos.json', 'w', encoding='utf-8') as f:
+            json.dump({'updated': ts, 'sports': partidos}, f, ensure_ascii=False, indent=2)
+        total_p = sum(len(v) for v in partidos.values())
+        print(f'\n{"="*55}')
+        print(f'  ✅ partidos.json  → {total_p} partidos')
+        print(f'{"="*55}\n')
+        return
+
+    # ── Modo full: todo ──
     noticias  = build_noticias()
     videos    = build_videos()
     partidos  = build_partidos()
