@@ -573,6 +573,29 @@ def build_standings_fx():
             })
     except Exception as e:
         print(f'    aviso: {e}')
+    # Fallback hardcoded J10 Clausura 2026 si ESPN falla
+    if not standings:
+        standings = [
+            {'pos':1,  'team':'CRU', 'name':'Cruz Azul',    'pj':10,'g':8,'e':1,'p':1,'gf':20,'gc':9, 'pts':25},
+            {'pos':2,  'team':'TOL', 'name':'Toluca',        'pj':10,'g':7,'e':3,'p':0,'gf':17,'gc':5, 'pts':24},
+            {'pos':3,  'team':'GDL', 'name':'Guadalajara',   'pj':9, 'g':7,'e':0,'p':2,'gf':14,'gc':9, 'pts':21},
+            {'pos':4,  'team':'PAC', 'name':'Pachuca',       'pj':10,'g':6,'e':2,'p':2,'gf':13,'gc':8, 'pts':20},
+            {'pos':5,  'team':'PUM', 'name':'Pumas',         'pj':10,'g':5,'e':4,'p':1,'gf':18,'gc':10,'pts':19},
+            {'pos':6,  'team':'TIG', 'name':'Tigres',        'pj':10,'g':5,'e':1,'p':4,'gf':17,'gc':12,'pts':16},
+            {'pos':7,  'team':'ATL', 'name':'Atlas',         'pj':10,'g':4,'e':4,'p':2,'gf':12,'gc':10,'pts':16},
+            {'pos':8,  'team':'AME', 'name':'América',       'pj':10,'g':4,'e':2,'p':4,'gf':13,'gc':14,'pts':14},
+            {'pos':9,  'team':'MTY', 'name':'Monterrey',     'pj':10,'g':4,'e':1,'p':5,'gf':12,'gc':13,'pts':13},
+            {'pos':10, 'team':'PUE', 'name':'Puebla',        'pj':10,'g':3,'e':3,'p':4,'gf':10,'gc':13,'pts':12},
+            {'pos':11, 'team':'SLU', 'name':'Atl. San Luis', 'pj':10,'g':3,'e':2,'p':5,'gf':12,'gc':18,'pts':11},
+            {'pos':12, 'team':'JUA', 'name':'FC Juárez',     'pj':10,'g':3,'e':2,'p':5,'gf':9, 'gc':14,'pts':11},
+            {'pos':13, 'team':'LEO', 'name':'León',          'pj':10,'g':3,'e':1,'p':6,'gf':11,'gc':18,'pts':10},
+            {'pos':14, 'team':'MAZ', 'name':'Mazatlán',      'pj':10,'g':3,'e':1,'p':6,'gf':14,'gc':19,'pts':10},
+            {'pos':15, 'team':'NEC', 'name':'Necaxa',        'pj':10,'g':2,'e':3,'p':5,'gf':8, 'gc':13,'pts':9},
+            {'pos':16, 'team':'TIJ', 'name':'Tijuana',       'pj':10,'g':2,'e':2,'p':6,'gf':8, 'gc':17,'pts':8},
+            {'pos':17, 'team':'QRO', 'name':'Querétaro',     'pj':10,'g':1,'e':3,'p':6,'gf':7, 'gc':18,'pts':6},
+            {'pos':18, 'team':'SAN', 'name':'Santos',        'pj':10,'g':1,'e':2,'p':7,'gf':6, 'gc':18,'pts':5},
+        ]
+        print('    Usando fallback hardcoded J10')
     return standings
 
 # ══════════════════════════════════════════════════════════════
@@ -580,18 +603,19 @@ def build_standings_fx():
 # ══════════════════════════════════════════════════════════════
 def build_leaders_fx():
     print('  [FX] Goleadores Liga MX...')
+    # ⚠️ ACTUALIZADO J10 Clausura 2026 — 9 mar 2026
     leaders = [
         {'pos':1,  'name':'Joao Pedro',          'team':'Atl. San Luis', 'goles': 9},
         {'pos':2,  'name':'Armando González',    'team':'Chivas',        'goles': 6},
-        {'pos':3,  'name':'José Paradela',       'team':'Cruz Azul',     'goles': 5},
-        {'pos':4,  'name':'Joao Paulo Dias',     'team':'Toluca',        'goles': 5},
+        {'pos':3,  'name':'Paulinho',            'team':'Toluca',        'goles': 6},
+        {'pos':4,  'name':'José Paradela',       'team':'Cruz Azul',     'goles': 5},
         {'pos':5,  'name':'Arturo González',     'team':'Atlas',         'goles': 5},
         {'pos':6,  'name':'Diber Cambindo',      'team':'León',          'goles': 5},
         {'pos':7,  'name':'A. Palavecino',       'team':'Cruz Azul',     'goles': 4},
-        {'pos':8,  'name':'Salomón Rondón',      'team':'Pachuca',       'goles': 4},
-        {'pos':9,  'name':'Juninho',             'team':'Pumas',         'goles': 4},
-        {'pos':10, 'name':'L. Di Yorio',         'team':'Santos',        'goles': 4},
-        {'pos':11, 'name':'G. Fernández',        'team':'Cruz Azul',     'goles': 3},
+        {'pos':8,  'name':'G. Fernández',        'team':'Cruz Azul',     'goles': 4},
+        {'pos':9,  'name':'Salomón Rondón',      'team':'Pachuca',       'goles': 4},
+        {'pos':10, 'name':'Juninho',             'team':'Pumas',         'goles': 4},
+        {'pos':11, 'name':'L. Di Yorio',         'team':'Santos',        'goles': 4},
         {'pos':12, 'name':'Oussama Idrissi',     'team':'Pachuca',       'goles': 3},
         {'pos':13, 'name':'Robert Morales',      'team':'Pumas',         'goles': 3},
         {'pos':14, 'name':'Álvaro Angulo',       'team':'Pumas',         'goles': 3},
