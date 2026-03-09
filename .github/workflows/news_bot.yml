@@ -4,7 +4,6 @@ on:
     - cron: '0 0,8,16 * * *'    # 00:00, 08:00, 16:00 UTC — datos (18:00, 02:00, 10:00 MX)
     - cron: '0 2 * * 1'         # Lunes 02:00 UTC = Domingo 20:00 MX — recordatorio semanal
   workflow_dispatch:              # Run manually desde GitHub Actions
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -14,18 +13,16 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: Run CourtKing Bot v8
+      - name: Run CourtKing Bot v9
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          UNSPLASH_KEY: ${{ secrets.UNSPLASH_KEY }}
         run: python news_bot.py
-
       - name: Commit & push JSONs
         run: |
           git config user.name  "courtking-bot"
@@ -33,7 +30,6 @@ jobs:
           git add noticias.json videos.json partidos.json tablas.json
           git diff --cached --quiet || git commit -m "bot: update $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
-
   # ── Recordatorio dominical ──────────────────────────────────
   recordatorio-goleadores:
     runs-on: ubuntu-latest
@@ -51,15 +47,12 @@ jobs:
           from: CourtKing Bot <${{ secrets.MAIL_USERNAME }}>
           body: |
             Hola! 👋
-
             Es domingo por la noche — hora de actualizar los goleadores de Liga MX
             en el archivo news_bot.py para que tu sitio muestre datos frescos.
-
             📋 QUÉ HACER:
             1. Ve a: https://github.com/CourtkingMX/courtking-news-bot/blob/main/news_bot.py
             2. Busca la línea que dice: "# ⚠️ ACTUALIZAR cada domingo"
             3. Edita los goles de cada jugador con los datos actuales
             4. Fuente rápida: https://www.tudn.com/futbol/liga-mx (tabla de goleo)
             5. Haz commit y el bot se actualiza solo en el próximo ciclo
-
             — CourtKing Bot 🤖
