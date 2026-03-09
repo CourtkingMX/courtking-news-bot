@@ -1,35 +1,42 @@
 name: CourtKing News Bot
 on:
   schedule:
-    - cron: '0 0,8,16 * * *'    # Noticias completas: 00:00, 08:00, 16:00 UTC
-    - cron: '*/30 * * * *'    # Partidos: cada 30 min
-    - cron: '0 2 * * 1'          # Recordatorio semanal goleadores
-  workflow_dispatch:              # Run manually desde GitHub Actions
+    - cron: '0 0,8,16 * * *'   # Noticias completas: 00:00, 08:00, 16:00 UTC
+    - cron: '0 * * * *'         # Partidos: cada hora (6 ligas, más estable)
+    - cron: '0 2 * * 1'         # Recordatorio semanal goleadores (lunes 02:00 UTC)
+  workflow_dispatch:             # Run manual desde GitHub Actions
 
 jobs:
   update-full:
     runs-on: ubuntu-latest
     if: >
       github.event_name == 'workflow_dispatch' ||
-      (github.event_name == 'schedule' && 
-       (github.event.schedule == '0 0,8,16 * * *' || github.event.schedule == '0 0 * * *' || github.event.schedule == '0 8 * * *' || github.event.schedule == '0 16 * * *'))
+      (github.event_name == 'schedule' &&
+       (github.event.schedule == '0 0,8,16 * * *' ||
+        github.event.schedule == '0 0 * * *'  ||
+        github.event.schedule == '0 8 * * *'  ||
+        github.event.schedule == '0 16 * * *'))
     permissions:
       contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Run CourtKing Bot — Full Update
+        timeout-minutes: 20
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          UNSPLASH_KEY: ${{ secrets.UNSPLASH_KEY }}
-          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          API_FOOTBALL_KEY:  ${{ secrets.API_FOOTBALL_KEY }}
+          UNSPLASH_KEY:      ${{ secrets.UNSPLASH_KEY }}
+          YT_API_KEY:        ${{ secrets.YT_API_KEY }}
           MODE: full
         run: python news_bot.py
+
       - name: Commit & push JSONs
         run: |
           git config user.name  "courtking-bot"
@@ -41,22 +48,26 @@ jobs:
   update-partidos:
     runs-on: ubuntu-latest
     if: >
-      github.event_name == 'schedule' && 
-      github.event.schedule == '*/30 * * * *'
+      github.event_name == 'schedule' &&
+      github.event.schedule == '0 * * * *'
     permissions:
       contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Run CourtKing Bot — Partidos Only
+        timeout-minutes: 8
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
           MODE: partidos
         run: python news_bot.py
+
       - name: Commit partidos.json
         run: |
           git config user.name  "courtking-bot"
@@ -67,7 +78,9 @@ jobs:
 
   recordatorio-goleadores:
     runs-on: ubuntu-latest
-    if: github.event_name == 'schedule' && github.event.schedule == '0 2 * * 1'
+    if: >
+      github.event_name == 'schedule' &&
+      github.event.schedule == '0 2 * * 1'
     steps:
       - name: Enviar recordatorio por email
         uses: dawidd6/action-send-mail@v3
@@ -77,16 +90,18 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "⚽ CourtKing — Actualiza los goleadores del Clausura 2026"
-          to: ${{ secrets.MAIL_TO }}
-          from: CourtKing Bot <${{ secrets.MAIL_USERNAME }}>
+          to:       ${{ secrets.MAIL_TO }}
+          from:     CourtKing Bot <${{ secrets.MAIL_USERNAME }}>
           body: |
             Hola! 👋
-            Es domingo por la noche — hora de actualizar los goleadores de Liga MX
+            Es lunes — hora de actualizar los goleadores de Liga MX
             en el archivo news_bot.py para que tu sitio muestre datos frescos.
+
             📋 QUÉ HACER:
             1. Ve a: https://github.com/CourtkingMX/courtking-news-bot/blob/main/news_bot.py
-            2. Busca la línea que dice: "# ⚠️ ACTUALIZAR cada domingo"
+            2. Busca la función build_leaders_fx()
             3. Edita los goles de cada jugador con los datos actuales
             4. Fuente rápida: https://www.tudn.com/futbol/liga-mx (tabla de goleo)
-            5. Haz commit y el bot se actualiza solo en el próximo ciclo
+            5. Haz commit — el bot se actualiza solo en el próximo ciclo
+
             — CourtKing Bot 🤖
