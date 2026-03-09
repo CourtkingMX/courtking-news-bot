@@ -184,25 +184,26 @@ SPORT_FALLBACK_IMGS = {
 }
 
 def fetch_og_image(url, timeout=6):
-    """Extrae og:image de la página de la noticia para imagen real."""
+    """Extrae og:image de la pagina de la noticia."""
     try:
         data = fetch(url, timeout=timeout)
         if not data:
-            return ''
-        html = data.decode('utf-8', errors='ignore')
-        for pattern in [
-            r'<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']',
-            r'<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']',
-            r'<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']',
-        ]:
-            m = re.search(pattern, html)
-            if m:
-                img = m.group(1).strip()
-                if img.startswith('http'):
-                    return img
+            return ""
+        html = data.decode("utf-8", errors="ignore")
+        m = re.search(r'property="og:image"[^>]+content="([^"]+)"', html)
+        if not m:
+            m = re.search(r'content="([^"]+)"[^>]+property="og:image"', html)
+        if not m:
+            m = re.search(r"name='og:image'[^>]+content='([^']+)'", html)
+        if not m:
+            m = re.search(r'name="twitter:image"[^>]+content="([^"]+)"', html)
+        if m:
+            img = m.group(1).strip()
+            if img.startswith("http"):
+                return img
     except:
         pass
-    return ''
+    return ""
 
 # ══════════════════════════════════════════════════════════════
 # 1. NOTICIAS — Google News RSS + imágenes reales (og:image)
