@@ -1,5 +1,5 @@
 {
-  "updated": "09/03/2026 03:50 UTC",
+  "updated": "09/03/2026 05:13 UTC",
   "sports": {
     "bk": [
       {
@@ -87,9 +87,9 @@
         "fecha": "Mon 09 Mar",
         "local": "PHX",
         "visita": "CHA",
-        "score": "76-70",
+        "score": "111-99",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
