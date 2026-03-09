@@ -1,10 +1,9 @@
 """
-CourtKing News Bot v11 — YouTube Data API v3 para videos confiables
-CAMBIOS vs v8:
-- UNSPLASH_KEY: nueva variable de entorno para la Access Key
-- fetch_unsplash_image(): busca imagen relevante al título de la noticia
-- Lógica de imagen: og:image → Unsplash search → fallback Unsplash estático
-- Caché de búsquedas Unsplash para no repetir queries iguales en el mismo run
+CourtKing News Bot v12 — Múltiples ligas de fútbol
+CAMBIOS vs v11:
+- build_partidos_fx(): ahora carga Liga MX + LaLiga + Champions + Premier League
+- ESPN_FX_LEAGUES: dict con todas las ligas y sus endpoints ESPN
+- Marcador guardado como "local-visita" (consistente con HTML)
 """
 
 import re, json, time, hashlib, urllib.request, urllib.parse, os
@@ -73,16 +72,21 @@ ESPN_NBA             = 'https://site.api.espn.com/apis/site/v2/sports/basketball
 ESPN_NBA_STANDINGS   = 'https://site.api.espn.com/apis/v2/sports/basketball/nba/standings'
 ESPN_NBA_LEADERS     = 'https://site.api.espn.com/apis/site/v2/sports/basketball/nba/leaders'
 ESPN_FX_STANDINGS    = 'https://site.api.espn.com/apis/v2/sports/soccer/mex.1/standings'
-ESPN_FX_SCOREBOARD   = 'https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/scoreboard?limit=10'
+
+# ── Ligas de fútbol — endpoint ESPN + nombre para mostrar ──
+ESPN_FX_LEAGUES = {
+    'Liga MX':        'https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1/scoreboard?limit=10',
+    'LaLiga':         'https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?limit=8',
+    'Champions':      'https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?limit=8',
+    'Premier League': 'https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?limit=8',
+    'Ligue 1':        'https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?limit=6',
+    'Serie A':        'https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?limit=6',
+}
 
 FOOTBALL_DATA_KEY = os.environ.get('FOOTBALL_DATA_KEY', '')
 FOOTBALL_DATA_MX  = 'https://api.football-data.org/v4/competitions/MX1/matches?status=LIVE,IN_PLAY,PAUSED,FINISHED,SCHEDULED&limit=12'
 API_FOOTBALL_KEY  = os.environ.get('API_FOOTBALL_KEY', '')
 
-# ════════════════════════════════════════════════════════
-# UNSPLASH — Access Key desde variable de entorno
-# En GitHub Actions: Settings → Secrets → UNSPLASH_KEY
-# ════════════════════════════════════════════════════════
 UNSPLASH_KEY = os.environ.get('UNSPLASH_KEY', '')
 
 PADEL_CALENDAR = [
@@ -99,7 +103,6 @@ MAX_NEWS    = 20
 MAX_VIDEOS  = 8
 MAX_MATCHES = 10
 
-# Imágenes fallback estáticas (si Unsplash también falla)
 SPORT_FALLBACK_IMGS = {
     'bk': [
         'https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70',
@@ -127,16 +130,12 @@ SPORT_FALLBACK_IMGS = {
     ],
 }
 
-# ════════════════════════════════════════════════════════
-# Palabras clave base por deporte para Unsplash
-# ════════════════════════════════════════════════════════
 SPORT_BASE_QUERY = {
     'bk': 'basketball NBA',
     'pd': 'padel tennis sport',
     'fx': 'soccer football Mexico',
 }
 
-# Caché para no repetir búsquedas Unsplash idénticas en un mismo run
 _unsplash_cache = {}
 
 # ══════════════════════════════════════════════════════════════
@@ -144,7 +143,7 @@ _unsplash_cache = {}
 # ══════════════════════════════════════════════════════════════
 def fetch(url, timeout=15, headers=None):
     try:
-        h = {'User-Agent': 'Mozilla/5.0 (compatible; CourtkingBot/9.0)'}
+        h = {'User-Agent': 'Mozilla/5.0 (compatible; CourtkingBot/12.0)'}
         if headers:
             h.update(headers)
         req = urllib.request.Request(url, headers=h)
@@ -181,49 +180,31 @@ def parse_pub_date(pub_str):
     except:
         return None
 
-# ══════════════════════════════════════════════════════════════
-# UNSPLASH — búsqueda de imagen relevante por título
-# ══════════════════════════════════════════════════════════════
 def build_unsplash_query(title, sport):
-    """
-    Extrae palabras clave del título y las combina con el término base del deporte.
-    Elimina palabras comunes en español (stopwords) para mejorar relevancia.
-    """
     stopwords = {
         'de','la','el','los','las','en','con','por','para','del','al',
         'una','un','que','se','su','sus','como','más','pero','esto','este',
         'esta','son','fue','era','han','hay','muy','ya','si','no','le','les',
-        'lo','y','a','e','o','u','vs','vs.','gana','ganan','pierde','pierde',
+        'lo','y','a','e','o','u','vs','vs.','gana','ganan','pierde',
     }
-    # Limpiar título: quitar caracteres especiales, bajar a minúsculas
     clean = re.sub(r'[^a-zA-ZáéíóúñüÁÉÍÓÚÑÜ\s]', ' ', title.lower())
     words = [w for w in clean.split() if len(w) > 3 and w not in stopwords]
-    # Tomar las primeras 3 palabras más relevantes + base del deporte
     keywords = words[:3]
     base = SPORT_BASE_QUERY.get(sport, 'sport')
     query = ' '.join(keywords) + ' ' + base if keywords else base
     return query.strip()
 
 def fetch_unsplash_image(title, sport, orientation='landscape'):
-    """
-    Busca en Unsplash una imagen relevante al título.
-    Retorna la URL de la foto regular (400-800px) o '' si falla.
-    Plan gratuito: 50 requests/hora — se usa caché para no desperdiciarlos.
-    """
     if not UNSPLASH_KEY:
         return ''
-
     query = build_unsplash_query(title, sport)
-
-    # Usar caché para queries repetidas
     cache_key = query.lower()
     if cache_key in _unsplash_cache:
         return _unsplash_cache[cache_key]
-
     try:
         params = urllib.parse.urlencode({
             'query':       query,
-            'per_page':    5,           # Traer 5, elegir por posición para variedad
+            'per_page':    5,
             'orientation': orientation,
             'content_filter': 'high',
         })
@@ -232,29 +213,21 @@ def fetch_unsplash_image(title, sport, orientation='landscape'):
             'Authorization': f'Client-ID {UNSPLASH_KEY}',
             'Accept-Version': 'v1',
         })
-
         if data and data.get('results'):
-            # Elegir foto según hash del título para variedad consistente
             idx = int(hashlib.md5(title.encode()).hexdigest(), 16) % min(5, len(data['results']))
             photo = data['results'][idx]
             img_url = photo['urls'].get('regular', photo['urls'].get('small', ''))
-            # Optimizar: forzar w=600 para velocidad
             if img_url and '?' in img_url:
                 img_url = re.sub(r'w=\d+', 'w=600', img_url)
             elif img_url:
                 img_url += '&w=600'
-
             _unsplash_cache[cache_key] = img_url
             return img_url
-
     except Exception as e:
         print(f'    aviso Unsplash: {e}')
-
     _unsplash_cache[cache_key] = ''
     return ''
 
-# ══════════════════════════════════════════════════════════════
-# Dominios bloqueados para imágenes — logos genéricos
 IMG_BLOCKED = [
     'googleusercontent.com/news', 'google.com/news', 'gstatic.com',
     'placeholder', 'default', 'logo', 'icon', 'favicon',
@@ -262,21 +235,14 @@ IMG_BLOCKED = [
 ]
 
 def is_valid_img(url):
-    """Retorna True si la URL parece una imagen real (no logo de Google u otro genérico)."""
     if not url or not url.startswith('http'):
         return False
     return not any(b in url.lower() for b in IMG_BLOCKED)
 
 def resolve_google_news_url(url, timeout=5):
-    """
-    Google News usa URLs tipo news.google.com/rss/articles/... que redirigen al artículo real.
-    Sigue el redirect para obtener la URL final del artículo.
-    """
     if 'news.google.com' not in url:
         return url
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        # No seguir redirect automáticamente — leer Location header
         import http.client
         parsed = urllib.parse.urlparse(url)
         conn = http.client.HTTPSConnection(parsed.netloc, timeout=timeout)
@@ -289,20 +255,16 @@ def resolve_google_news_url(url, timeout=5):
         conn.close()
     except:
         pass
-    # Fallback: usar urllib con redirect automático
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         with urllib.request.urlopen(req, timeout=timeout) as r:
-            return r.url  # URL final después de todos los redirects
+            return r.url
     except:
         pass
     return url
 
-# OG:IMAGE — extrae imagen del artículo original
-# ══════════════════════════════════════════════════════════════
 def fetch_og_image(url, timeout=6):
     try:
-        # Si es URL de Google News, resolver primero al artículo real
         real_url = resolve_google_news_url(url, timeout=4)
         data = fetch(real_url, timeout=timeout)
         if not data:
@@ -324,17 +286,14 @@ def fetch_og_image(url, timeout=6):
     return ''
 
 # ══════════════════════════════════════════════════════════════
-# 1. NOTICIAS — Google News RSS + og:image + Unsplash
+# 1. NOTICIAS
 # ══════════════════════════════════════════════════════════════
 def build_noticias():
     print('\nGenerando noticias.json...')
-    print(f'  Unsplash: {"✅ activo" if UNSPLASH_KEY else "❌ sin key — usando fallback estático"}')
     result = {}
-
     for sport, urls in NEWS_FEEDS.items():
         print(f'  [{sport.upper()}]')
         raw_items = []
-
         for url in urls:
             data = fetch(url)
             if not data:
@@ -360,7 +319,6 @@ def build_noticias():
                 print(f'    aviso parse: {e}')
             time.sleep(0.4)
 
-        # Deduplicar
         seen, unique = set(), []
         for item in raw_items:
             key = hashlib.md5(item['title'].lower().encode()).hexdigest()
@@ -368,20 +326,13 @@ def build_noticias():
                 seen.add(key)
                 unique.append(item)
 
-        # Filtrar últimas 48h (ampliar a 7d si hay pocas)
         now_utc = datetime.utcnow()
         filtered = []
-        old_count = 0
         for item in unique:
             pub_dt = parse_pub_date(item.get('_pub_raw', ''))
             if pub_dt is None or (now_utc - pub_dt).total_seconds() <= 48 * 3600:
                 filtered.append(item)
-            else:
-                old_count += 1
-        if old_count:
-            print(f'    Filtradas {old_count} noticias viejas (>48h)')
         if len(filtered) < 4:
-            print(f'    Pocas noticias recientes, ampliando a 7 días...')
             filtered = []
             for item in unique:
                 pub_dt = parse_pub_date(item.get('_pub_raw', ''))
@@ -389,12 +340,6 @@ def build_noticias():
                     filtered.append(item)
         unique = filtered
 
-        # ────────────────────────────────────────────────
-        # Estrategia de imagen por prioridad:
-        # 1. og:image del artículo (gratis, específica)
-        # 2. Unsplash search con palabras clave del título
-        # 3. Fallback Unsplash estático por deporte
-        # ────────────────────────────────────────────────
         fallbacks   = SPORT_FALLBACK_IMGS.get(sport, SPORT_FALLBACK_IMGS['bk'])
         og_count    = 0
         uns_count   = 0
@@ -402,10 +347,7 @@ def build_noticias():
 
         for i, item in enumerate(unique[:MAX_NEWS]):
             if item.get('image'):
-                # Ya tiene imagen del RSS — no hacer nada
                 continue
-
-            # Intento 1: og:image (max 6 por deporte para no tardar demasiado)
             if og_count < 6:
                 og_img = fetch_og_image(item['url'])
                 time.sleep(0.25)
@@ -413,8 +355,6 @@ def build_noticias():
                     item['image'] = og_img
                     og_count += 1
                     continue
-
-            # Intento 2: Unsplash search (max 15/deporte para respetar rate limit)
             if UNSPLASH_KEY and uns_count < 15:
                 uns_img = fetch_unsplash_image(item['title'], sport)
                 time.sleep(0.2)
@@ -422,19 +362,15 @@ def build_noticias():
                     item['image'] = uns_img
                     uns_count += 1
                     continue
-
-            # Fallback: imagen estática variada
             item['image'] = fallbacks[i % len(fallbacks)]
             fallb_count += 1
 
         result[sport] = unique[:MAX_NEWS]
-        print(f'    OK {len(result[sport])} noticias '
-              f'(og:{og_count} / unsplash:{uns_count} / fallback:{fallb_count})')
-
+        print(f'    OK {len(result[sport])} noticias (og:{og_count} / unsplash:{uns_count} / fallback:{fallb_count})')
     return result
 
 # ══════════════════════════════════════════════════════════════
-# 2. VIDEOS — YouTube RSS sin API key
+# 2. VIDEOS
 # ══════════════════════════════════════════════════════════════
 def build_videos():
     print('\nGenerando videos.json...')
@@ -443,7 +379,6 @@ def build_videos():
         print(f'  [{sport.upper()}]')
         all_videos = []
         for channel_id in channel_ids:
-            # Primero intentar YouTube Data API v3
             api_ok = False
             if YT_API_KEY:
                 try:
@@ -469,12 +404,10 @@ def build_videos():
                                     'thumb': thumb, 'date': pub,
                                     'url': f'https://www.youtube.com/watch?v={vid_id}',
                                 })
-                        print(f'    API canal {channel_id[:12]}... {len(data["items"])} videos')
                         api_ok = True
                 except Exception as e:
                     print(f'    API aviso {channel_id[:12]}: {e}')
 
-            # Fallback: RSS si API falla
             if not api_ok:
                 rss_url = f'https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}'
                 data = fetch(rss_url)
@@ -502,7 +435,6 @@ def build_videos():
                                     'thumb': thumb, 'date': pub[:10] if pub else '',
                                     'url': f'https://www.youtube.com/watch?v={vid_id}',
                                 })
-                        print(f'    RSS canal {channel_id[:12]}... OK')
                     except Exception as e:
                         print(f'    RSS aviso: {e}')
             time.sleep(0.3)
@@ -513,7 +445,6 @@ def build_videos():
                 seen.add(v['vid'])
                 unique.append(v)
         result[sport] = unique[:MAX_VIDEOS]
-        print(f'    TOTAL {len(result[sport])} videos')
     return result
 
 # ══════════════════════════════════════════════════════════════
@@ -542,16 +473,15 @@ def build_standings_nba():
                     'pct':  stats.get('winPercent', ''),
                     'gb':   stats.get('gamesBehind', ''),
                 })
-        print(f'    OK Este:{len(standings["east"])} Oeste:{len(standings["west"])}')
     except Exception as e:
-        print(f'    aviso standings NBA: {e}')
+        print(f'    aviso: {e}')
     return standings
 
 # ══════════════════════════════════════════════════════════════
 # 4. LÍDERES NBA
 # ══════════════════════════════════════════════════════════════
 def build_leaders_nba():
-    print('  [BK] Líderes estadísticas NBA...')
+    print('  [BK] Líderes NBA...')
     leaders = {'pts': [], 'reb': [], 'ast': []}
     data = fetch_json(ESPN_NBA_LEADERS)
     if data:
@@ -562,8 +492,6 @@ def build_leaders_nba():
                     for league in sport.get('leagues', []):
                         cats = league.get('leaders', [])
                         if cats: break
-            if not cats:
-                cats = data.get('leaders', [])
             for cat in cats:
                 cat_name = (cat.get('name', '') or cat.get('displayName', '')).lower()
                 key = None
@@ -582,9 +510,9 @@ def build_leaders_nba():
                         'team':  team.get('abbreviation', team.get('shortName', '')),
                         'value': str(leader.get('displayValue', leader.get('value', ''))),
                     })
-            print(f'    OK pts:{len(leaders["pts"])} reb:{len(leaders["reb"])} ast:{len(leaders["ast"])}')
         except Exception as e:
-            print(f'    aviso /leaders: {e}')
+            print(f'    aviso: {e}')
+    # Fallbacks hardcoded si falla ESPN
     if not leaders['pts']:
         leaders['pts'] = [
             {'pos':1,'name':'S. Gilgeous-Alexander','team':'OKC','value':'32.3'},
@@ -643,13 +571,12 @@ def build_standings_fx():
                 'gc':   stats.get('pointsAgainst', stats.get('goalsAgainst','')),
                 'pts':  stats.get('points', ''),
             })
-        print(f'    OK {len(standings)} equipos')
     except Exception as e:
-        print(f'    aviso standings FX: {e}')
+        print(f'    aviso: {e}')
     return standings
 
 # ══════════════════════════════════════════════════════════════
-# 6. GOLEADORES LIGA MX
+# 6. GOLEADORES LIGA MX  ⚠️ ACTUALIZAR cada domingo
 # ══════════════════════════════════════════════════════════════
 def build_leaders_fx():
     print('  [FX] Goleadores Liga MX...')
@@ -670,7 +597,6 @@ def build_leaders_fx():
         {'pos':14, 'name':'Álvaro Angulo',       'team':'Pumas',         'goles': 3},
         {'pos':15, 'name':'Marcelo Flores',      'team':'Tigres',        'goles': 3},
     ]
-    print(f'    OK {len(leaders)} goleadores (hardcoded J10)')
     return leaders
 
 # ══════════════════════════════════════════════════════════════
@@ -679,23 +605,6 @@ def build_leaders_fx():
 def build_ranking_padel():
     print('  [PD] Ranking Mundial Pádel...')
     ranking = {'men': [], 'women': []}
-    try:
-        for gender, key in [('M', 'men'), ('F', 'women')]:
-            url  = f'https://api.padelfip.com/v1/ranking/world?gender={gender}&limit=10'
-            data = fetch_json(url)
-            if data and isinstance(data, list):
-                for i, p in enumerate(data[:10]):
-                    ranking[key].append({
-                        'pos':     i + 1,
-                        'name':    p.get('player', {}).get('name', p.get('name','')),
-                        'country': p.get('player', {}).get('country', {}).get('code', p.get('country','')),
-                        'pts':     p.get('points', p.get('rankingPoints','')),
-                    })
-                if ranking[key]:
-                    print(f'    OK {key}: {len(ranking[key])} (API FIP)')
-                    continue
-    except Exception as e:
-        print(f'    aviso FIP API: {e}')
     if not ranking['men']:
         ranking['men'] = [
             {'pos':1,'name':'Arturo Coello','country':'ESP','pts':''},
@@ -725,129 +634,137 @@ def build_ranking_padel():
     return ranking
 
 # ══════════════════════════════════════════════════════════════
-# 8. PARTIDOS
+# 8. PARTIDOS — NBA + MÚLTIPLES LIGAS FÚTBOL
 # ══════════════════════════════════════════════════════════════
+def _espn_events_to_matches(events, liga, url_liga):
+    """Convierte eventos ESPN a formato estándar. Score = local-visita."""
+    matches = []
+    for ev in (events or [])[:MAX_MATCHES]:
+        try:
+            comp  = ev['competitions'][0]
+            home  = next(c for c in comp['competitors'] if c['homeAway'] == 'home')
+            away  = next(c for c in comp['competitors'] if c['homeAway'] == 'away')
+            st    = ev['status']['type']
+            # Score: primero local, luego visita
+            score = f"{home.get('score','')}-{away.get('score','')}" if st['state'] != 'pre' else ''
+            matches.append({
+                'fecha':  datetime.fromisoformat(ev['date'].replace('Z','+00:00')).strftime('%a %d %b'),
+                'local':  home['team'].get('shortDisplayName', home['team']['abbreviation']),
+                'visita': away['team'].get('shortDisplayName', away['team']['abbreviation']),
+                'score':  score,
+                'liga':   liga,
+                'estado': 'live' if st['state']=='in' else ('post' if st['state']=='post' else 'pre'),
+                'url':    url_liga,
+            })
+        except Exception as e:
+            print(f'    aviso evento: {e}')
+    return matches
+
 def build_partidos():
     print('\nGenerando partidos.json...')
     result = {}
-    print('  [BK] NBA partidos...')
+
+    # ── NBA ──
+    print('  [BK] NBA...')
     data = fetch_json(ESPN_NBA)
-    matches = []
+    bk_matches = []
     if data and 'events' in data:
-        for ev in (data.get('events') or [])[:MAX_MATCHES]:
-            try:
-                comp  = ev['competitions'][0]
-                home  = next(c for c in comp['competitors'] if c['homeAway'] == 'home')
-                away  = next(c for c in comp['competitors'] if c['homeAway'] == 'away')
-                st    = ev['status']['type']
-                score = f"{home.get('score','')}-{away.get('score','')}" if st['state'] != 'pre' else ''
-                matches.append({
-                    'fecha':  datetime.fromisoformat(ev['date'].replace('Z','+00:00')).strftime('%a %d %b'),
-                    'local':  home['team']['abbreviation'],
-                    'visita': away['team']['abbreviation'],
-                    'score':  score, 'liga': 'NBA',
-                    'estado': 'live' if st['state']=='in' else ('post' if st['state']=='post' else 'pre'),
-                    'url':    'https://www.espn.com/nba/scoreboard',
-                })
-            except Exception as e:
-                print(f'    aviso: {e}')
-    result['bk'] = matches
-    print(f'    OK {len(matches)} partidos NBA')
+        bk_matches = _espn_events_to_matches(
+            data.get('events', []),
+            'NBA',
+            'https://www.espn.com/nba/scoreboard'
+        )
+    result['bk'] = bk_matches
+    print(f'    OK {len(bk_matches)} partidos NBA')
 
     time.sleep(1)
-    print('  [FX] Liga MX partidos...')
-    matches = []
+
+    # ── FÚTBOL — múltiples ligas ──
+    print('  [FX] Múltiples ligas fútbol...')
+    fx_matches = []
+
+    for liga_name, liga_url in ESPN_FX_LEAGUES.items():
+        try:
+            data = fetch_json(liga_url)
+            if data and 'events' in data:
+                liga_matches = _espn_events_to_matches(
+                    data.get('events', []),
+                    liga_name,
+                    liga_url.replace('/scoreboard', '').replace('?limit=10', '').replace('?limit=8', '').replace('?limit=6', '')
+                )
+                fx_matches.extend(liga_matches)
+                print(f'    {liga_name}: {len(liga_matches)} partidos')
+            time.sleep(0.5)
+        except Exception as e:
+            print(f'    aviso {liga_name}: {e}')
+
+    # Si el bot de football-data.org está configurado, usar para Liga MX (más confiable)
     if FOOTBALL_DATA_KEY:
         try:
             req = urllib.request.Request(FOOTBALL_DATA_MX, headers={'X-Auth-Token': FOOTBALL_DATA_KEY})
             with urllib.request.urlopen(req, timeout=10) as resp:
                 fd_data = json.loads(resp.read())
+            mx_fd = []
             for m in (fd_data.get('matches') or [])[:MAX_MATCHES]:
+                sh = (m.get('score',{}).get('fullTime',{}) or {}).get('home')
+                sa = (m.get('score',{}).get('fullTime',{}) or {}).get('away')
+                if sh is None:
+                    sh = (m.get('score',{}).get('halfTime',{}) or {}).get('home')
+                    sa = (m.get('score',{}).get('halfTime',{}) or {}).get('away')
+                status    = m.get('status','')
+                fecha_str = m.get('utcDate','')[:10]
                 try:
-                    sh = (m.get('score',{}).get('fullTime',{}) or {}).get('home')
-                    sa = (m.get('score',{}).get('fullTime',{}) or {}).get('away')
-                    if sh is None:
-                        sh = (m.get('score',{}).get('halfTime',{}) or {}).get('home')
-                        sa = (m.get('score',{}).get('halfTime',{}) or {}).get('away')
-                    status    = m.get('status','')
-                    fecha_str = m.get('utcDate','')[:10]
-                    try:
-                        fecha_str = datetime.fromisoformat(fecha_str).strftime('%a %d %b')
-                    except: pass
-                    matches.append({
-                        'fecha':  fecha_str,
-                        'local':  m.get('homeTeam',{}).get('shortName', m.get('homeTeam',{}).get('name','')),
-                        'visita': m.get('awayTeam',{}).get('shortName', m.get('awayTeam',{}).get('name','')),
-                        'score':  f"{sh}-{sa}" if sh is not None else '',
-                        'liga':   'Liga MX',
-                        'estado': 'live' if status in ('IN_PLAY','PAUSED') else ('post' if status=='FINISHED' else 'pre'),
-                        'url':    'https://www.ligabbvamx.mx/',
-                    })
+                    fecha_str = datetime.fromisoformat(fecha_str).strftime('%a %d %b')
                 except: pass
-            print(f'    OK {len(matches)} partidos (football-data)')
-        except Exception as e:
-            print(f'    football-data falló: {e}')
-            matches = _fx_espn_fallback()
-    else:
-        matches = _fx_espn_fallback()
-    result['fx'] = matches
-    result['pd'] = PADEL_CALENDAR
-    return result
-
-def _fx_espn_fallback():
-    matches = []
-    try:
-        data = fetch_json(ESPN_FX_SCOREBOARD)
-        if data and 'events' in data:
-            for ev in (data.get('events') or [])[:MAX_MATCHES]:
-                comp  = ev['competitions'][0]
-                home  = next(c for c in comp['competitors'] if c['homeAway'] == 'home')
-                away  = next(c for c in comp['competitors'] if c['homeAway'] == 'away')
-                st    = ev['status']['type']
-                score = f"{home.get('score','')}-{away.get('score','')}" if st['state'] != 'pre' else ''
-                matches.append({
-                    'fecha':  datetime.fromisoformat(ev['date'].replace('Z','+00:00')).strftime('%a %d %b'),
-                    'local':  home['team'].get('shortDisplayName', home['team']['abbreviation']),
-                    'visita': away['team'].get('shortDisplayName', away['team']['abbreviation']),
-                    'score':  score, 'liga': 'Liga MX',
-                    'estado': 'live' if st['state']=='in' else ('post' if st['state']=='post' else 'pre'),
-                    'url':    'https://www.espn.com/soccer/scoreboard/_/league/mex.1',
+                mx_fd.append({
+                    'fecha':  fecha_str,
+                    'local':  m.get('homeTeam',{}).get('shortName', m.get('homeTeam',{}).get('name','')),
+                    'visita': m.get('awayTeam',{}).get('shortName', m.get('awayTeam',{}).get('name','')),
+                    'score':  f"{sh}-{sa}" if sh is not None else '',
+                    'liga':   'Liga MX',
+                    'estado': 'live' if status in ('IN_PLAY','PAUSED') else ('post' if status=='FINISHED' else 'pre'),
+                    'url':    'https://www.ligabbvamx.mx/',
                 })
-        print(f'    OK {len(matches)} partidos (ESPN fallback)')
-    except Exception as e:
-        print(f'    ESPN fallback error: {e}')
-    return matches
+            # Reemplazar Liga MX del ESPN con los datos de football-data (más precisos)
+            fx_matches = [m for m in fx_matches if m.get('liga') != 'Liga MX']
+            fx_matches = mx_fd + fx_matches
+            print(f'    Liga MX (football-data): {len(mx_fd)} partidos ✅')
+        except Exception as e:
+            print(f'    football-data falló: {e} — usando ESPN')
+
+    result['fx'] = fx_matches
+    result['pd'] = PADEL_CALENDAR
+
+    total_fx = len(fx_matches)
+    print(f'    TOTAL fútbol: {total_fx} partidos ({len(ESPN_FX_LEAGUES)} ligas)')
+    return result
 
 # ══════════════════════════════════════════════════════════════
 # MAIN
 # ══════════════════════════════════════════════════════════════
 def main():
     ts   = datetime.now(timezone.utc).strftime('%d/%m/%Y %H:%M UTC')
-    mode = os.environ.get('MODE', 'full')   # 'full' o 'partidos'
+    mode = os.environ.get('MODE', 'full')
 
     print(f'\n{"="*55}')
-    print(f'  CourtKing Bot v10 — {ts}  [MODE={mode}]')
-    print(f'  FOOTBALL_DATA_KEY: {"✅" if FOOTBALL_DATA_KEY else "❌ no encontrado"}')
-    print(f'  UNSPLASH_KEY:      {"✅" if UNSPLASH_KEY else "❌ no encontrado"}')
+    print(f'  CourtKing Bot v12 — {ts}  [MODE={mode}]')
+    print(f'  FOOTBALL_DATA_KEY: {"✅" if FOOTBALL_DATA_KEY else "❌"}')
+    print(f'  UNSPLASH_KEY:      {"✅" if UNSPLASH_KEY else "❌"}')
     print(f'{"="*55}')
 
     if mode == 'partidos':
-        # ── Modo rápido: solo actualizar partidos.json (cada hora) ──
         partidos = build_partidos()
         with open('partidos.json', 'w', encoding='utf-8') as f:
             json.dump({'updated': ts, 'sports': partidos}, f, ensure_ascii=False, indent=2)
         total_p = sum(len(v) for v in partidos.values())
-        print(f'\n{"="*55}')
-        print(f'  ✅ partidos.json  → {total_p} partidos')
-        print(f'{"="*55}\n')
+        print(f'\n✅ partidos.json → {total_p} partidos\n')
         return
 
-    # ── Modo full: todo ──
     noticias  = build_noticias()
     videos    = build_videos()
     partidos  = build_partidos()
 
-    print('\nGenerando tablas y rankings...')
+    print('\nGenerando tablas...')
     standings_nba = build_standings_nba()
     leaders_nba   = build_leaders_nba()
     standings_fx  = build_standings_fx()
