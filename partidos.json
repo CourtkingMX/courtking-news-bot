@@ -1,5 +1,5 @@
 {
-  "updated": "09/03/2026 21:58 UTC",
+  "updated": "09/03/2026 22:59 UTC",
   "sports": {
     "bk": [
       {
@@ -71,9 +71,9 @@
         "fecha": "Mon 09 Mar",
         "local": "Espanyol",
         "visita": "Real Oviedo",
-        "score": "",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
