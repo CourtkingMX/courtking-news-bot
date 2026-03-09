@@ -145,6 +145,58 @@ def format_date(pub_str):
 # ══════════════════════════════════════════════════════════════
 # 1. NOTICIAS — Google News RSS
 # ══════════════════════════════════════════════════════════════
+# Imágenes fallback variadas por deporte (6 opciones cada una)
+SPORT_FALLBACK_IMGS = {
+    'bk': [
+        'https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70',
+        'https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70',
+        'https://images.unsplash.com/photo-1577471488278-16eec37ffcc2?w=480&q=70',
+        'https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?w=480&q=70',
+        'https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70',
+        'https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70',
+    ],
+    'pd': [
+        'https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=480&q=70',
+        'https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=480&q=70',
+        'https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=480&q=70',
+        'https://images.unsplash.com/photo-1560012057-4372e14c5085?w=480&q=70',
+        'https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=480&q=70',
+        'https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=480&q=70',
+    ],
+    'fx': [
+        'https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70',
+        'https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70',
+        'https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70',
+        'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70',
+        'https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70',
+        'https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70',
+    ],
+}
+
+def fetch_og_image(url, timeout=6):
+    """Extrae og:image de la página de la noticia para imagen real."""
+    try:
+        data = fetch(url, timeout=timeout)
+        if not data:
+            return ''
+        html = data.decode('utf-8', errors='ignore')
+        for pattern in [
+            r'<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']',
+            r'<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']',
+            r'<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']',
+        ]:
+            m = re.search(pattern, html)
+            if m:
+                img = m.group(1).strip()
+                if img.startswith('http'):
+                    return img
+    except:
+        pass
+    return ''
+
+# ══════════════════════════════════════════════════════════════
+# 1. NOTICIAS — Google News RSS + imágenes reales (og:image)
+# ══════════════════════════════════════════════════════════════
 def build_noticias():
     print('\nGenerando noticias.json...')
     result = {}
@@ -157,27 +209,46 @@ def build_noticias():
                 continue
             try:
                 root = ET.fromstring(data)
-                for item in root.findall('.//item')[:10]:
+                for item in root.findall('.//item')[:8]:
                     title = item.findtext('title', '').strip()
                     link  = item.findtext('link',  '').strip()
                     pub   = item.findtext('pubDate', '').strip()
                     desc  = item.findtext('description', '')
-                    img_match = re.search(r'<img[^>]+src=["\'](https?://[^"\']+)["\']', desc)
+                    img_match = re.search(r'<img[^>]+src=[\"\'](https?://[^\"\']+)[\"\']', desc)
                     image = img_match.group(1) if img_match else ''
                     title = re.sub(r'\s*-\s*[^-]+$', '', title).strip()
                     if title and link:
                         raw_items.append({'title': title, 'url': link, 'date': format_date(pub), 'image': image})
             except Exception as e:
                 print(f'    aviso parse: {e}')
-            time.sleep(0.6)
+            time.sleep(0.5)
+
+        # Deduplicar
         seen, unique = set(), []
         for item in raw_items:
             key = hashlib.md5(item['title'].lower().encode()).hexdigest()
             if key not in seen:
                 seen.add(key)
                 unique.append(item)
+
+        # Intentar og:image para las que no tienen imagen (max 8 fetches por deporte)
+        fallbacks = SPORT_FALLBACK_IMGS.get(sport, SPORT_FALLBACK_IMGS['bk'])
+        og_count = 0
+        for i, item in enumerate(unique[:MAX_NEWS]):
+            if not item['image'] and og_count < 8:
+                og_img = fetch_og_image(item['url'])
+                if og_img:
+                    item['image'] = og_img
+                    og_count += 1
+                else:
+                    # Fallback variado por posición para no repetir imagen
+                    item['image'] = fallbacks[i % len(fallbacks)]
+                time.sleep(0.3)
+            elif not item['image']:
+                item['image'] = fallbacks[i % len(fallbacks)]
+
         result[sport] = unique[:MAX_NEWS]
-        print(f'    OK {len(result[sport])} noticias')
+        print(f'    OK {len(result[sport])} noticias ({og_count} con og:image)')
     return result
 
 # ══════════════════════════════════════════════════════════════
