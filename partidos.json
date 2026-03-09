@@ -1,5 +1,5 @@
 {
-  "updated": "09/03/2026 00:13 UTC",
+  "updated": "09/03/2026 01:42 UTC",
   "sports": {
     "bk": [
       {
@@ -24,34 +24,34 @@
         "fecha": "Sun 08 Mar",
         "local": "MIA",
         "visita": "DET",
-        "score": "113-88",
+        "score": "121-110",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 08 Mar",
         "local": "TOR",
         "visita": "DAL",
-        "score": "112-90",
+        "score": "122-92",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 08 Mar",
         "local": "NO",
         "visita": "WSH",
-        "score": "67-62",
+        "score": "138-118",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 09 Mar",
         "local": "MIL",
         "visita": "ORL",
-        "score": "2-7",
+        "score": "64-95",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -60,7 +60,7 @@
         "fecha": "Mon 09 Mar",
         "local": "SA",
         "visita": "HOU",
-        "score": "3-0",
+        "score": "93-67",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -69,18 +69,18 @@
         "fecha": "Mon 09 Mar",
         "local": "POR",
         "visita": "IND",
-        "score": "",
+        "score": "32-32",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 09 Mar",
         "local": "SAC",
         "visita": "CHI",
-        "score": "",
+        "score": "35-30",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -98,9 +98,9 @@
         "fecha": "Sun 08 Mar",
         "local": "Toluca",
         "visita": "Juarez",
-        "score": "0-0",
+        "score": "3-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/soccer/scoreboard/_/league/mex.1"
       },
       {
