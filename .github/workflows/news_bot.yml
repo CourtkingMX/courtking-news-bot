@@ -1,13 +1,18 @@
 name: CourtKing News Bot
 on:
   schedule:
-    - cron: '0 0,8,16 * * *'    # 00:00, 08:00, 16:00 UTC — datos (18:00, 02:00, 10:00 MX)
-    - cron: '0 2 * * 1'         # Lunes 02:00 UTC = Domingo 20:00 MX — recordatorio semanal
+    - cron: '0 0,8,16 * * *'    # Noticias completas: 00:00, 08:00, 16:00 UTC
+    - cron: '*/30 * * * *'    # Partidos: cada 30 min
+    - cron: '0 2 * * 1'          # Recordatorio semanal goleadores
   workflow_dispatch:              # Run manually desde GitHub Actions
+
 jobs:
-  update:
+  update-full:
     runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && !startsWith(github.event.schedule, '0 2 * * 1'))
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'schedule' && 
+       (github.event.schedule == '0 0,8,16 * * *' || github.event.schedule == '0 0 * * *' || github.event.schedule == '0 8 * * *' || github.event.schedule == '0 16 * * *'))
     permissions:
       contents: write
     steps:
@@ -17,23 +22,51 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Run CourtKing Bot v9
+      - name: Run CourtKing Bot — Full Update
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           UNSPLASH_KEY: ${{ secrets.UNSPLASH_KEY }}
+          MODE: full
         run: python news_bot.py
       - name: Commit & push JSONs
         run: |
           git config user.name  "courtking-bot"
           git config user.email "bot@courtking.mx"
           git add noticias.json videos.json partidos.json tablas.json
-          git diff --cached --quiet || git commit -m "bot: update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git diff --cached --quiet || git commit -m "bot: full update $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
-  # ── Recordatorio dominical ──────────────────────────────────
+
+  update-partidos:
+    runs-on: ubuntu-latest
+    if: >
+      github.event_name == 'schedule' && 
+      github.event.schedule == '*/30 * * * *'
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run CourtKing Bot — Partidos Only
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+          MODE: partidos
+        run: python news_bot.py
+      - name: Commit partidos.json
+        run: |
+          git config user.name  "courtking-bot"
+          git config user.email "bot@courtking.mx"
+          git add partidos.json
+          git diff --cached --quiet || git commit -m "bot: partidos $(date -u +'%H:%M UTC')"
+          git push
+
   recordatorio-goleadores:
     runs-on: ubuntu-latest
-    if: github.event_name == 'schedule' && startsWith(github.event.schedule, '0 2 * * 1')
+    if: github.event_name == 'schedule' && github.event.schedule == '0 2 * * 1'
     steps:
       - name: Enviar recordatorio por email
         uses: dawidd6/action-send-mail@v3
