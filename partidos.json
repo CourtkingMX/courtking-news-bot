@@ -1,5 +1,5 @@
 {
-  "updated": "10/03/2026 05:01 UTC",
+  "updated": "10/03/2026 07:57 UTC",
   "sports": {
     "bk": [
       {
@@ -50,30 +50,30 @@
     ],
     "fx": [
       {
-        "fecha": "Sun 08 Mar",
-        "local": "Toluca",
-        "visita": "Juarez",
-        "score": "3-1",
+        "fecha": "Sat 14 Mar",
+        "local": "Puebla",
+        "visita": "Necaxa",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 09 Mar",
-        "local": "Tijuana",
-        "visita": "Santos",
-        "score": "1-2",
+        "fecha": "Sat 14 Mar",
+        "local": "Juarez",
+        "visita": "Monterrey",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 09 Mar",
-        "local": "Espanyol",
-        "visita": "Real Oviedo",
-        "score": "1-1",
+        "fecha": "Fri 13 Mar",
+        "local": "Alavés",
+        "visita": "Villarreal",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -113,57 +113,57 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Thu 05 Mar",
-        "local": "Spurs",
-        "visita": "C Palace",
-        "score": "1-3",
+        "fecha": "Sat 14 Mar",
+        "local": "Burnley",
+        "visita": "Bournemouth",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 08 Mar",
-        "local": "Lens",
-        "visita": "Metz",
-        "score": "3-0",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+        "fecha": "Sat 14 Mar",
+        "local": "Sunderland",
+        "visita": "Brighton",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 08 Mar",
-        "local": "Brest",
-        "visita": "Le Havre AC",
-        "score": "2-0",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+        "fecha": "Sat 14 Mar",
+        "local": "Arsenal",
+        "visita": "Everton",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 08 Mar",
-        "local": "Lille",
-        "visita": "Lorient",
-        "score": "1-1",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+        "fecha": "Sat 14 Mar",
+        "local": "Chelsea",
+        "visita": "Newcastle",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 08 Mar",
-        "local": "Nice",
-        "visita": "Rennes",
-        "score": "0-4",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+        "fecha": "Sat 14 Mar",
+        "local": "West Ham",
+        "visita": "Man City",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 08 Mar",
-        "local": "Lyon",
-        "visita": "Paris FC",
-        "score": "1-1",
+        "fecha": "Fri 13 Mar",
+        "local": "Marseille",
+        "visita": "Auxerre",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
