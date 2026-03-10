@@ -1,50 +1,50 @@
 {
-  "updated": "09/03/2026 23:53 UTC",
+  "updated": "10/03/2026 05:00 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Mon 09 Mar",
         "local": "Cavaliers",
         "visita": "76ers",
-        "score": "35-25",
+        "score": "115-101",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 09 Mar",
         "local": "Nets",
         "visita": "Grizzlies",
-        "score": "16-20",
+        "score": "126-115",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 09 Mar",
         "local": "Thunder",
         "visita": "Nuggets",
-        "score": "8-19",
+        "score": "129-126",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 10 Mar",
         "local": "Jazz",
         "visita": "Warriors",
-        "score": "",
+        "score": "119-116",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 10 Mar",
         "local": "Clippers",
         "visita": "Knicks",
-        "score": "",
+        "score": "126-118",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -167,12 +167,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Mon 09 Mar",
-        "local": "Lazio",
-        "visita": "Sassuolo",
-        "score": "2-1",
+        "fecha": "Fri 13 Mar",
+        "local": "Torino",
+        "visita": "Parma",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
