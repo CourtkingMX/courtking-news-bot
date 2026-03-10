@@ -1,41 +1,41 @@
 {
-  "updated": "10/03/2026 22:57 UTC",
+  "updated": "10/03/2026 23:52 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Tue 10 Mar",
         "local": "76ers",
         "visita": "Grizzlies",
-        "score": "",
+        "score": "45-45",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 10 Mar",
         "local": "Nets",
         "visita": "Pistons",
-        "score": "",
+        "score": "11-19",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 10 Mar",
         "local": "Heat",
         "visita": "Wizards",
-        "score": "",
+        "score": "13-11",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 10 Mar",
         "local": "Hawks",
         "visita": "Mavericks",
-        "score": "",
+        "score": "16-9",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -134,27 +134,27 @@
         "fecha": "Tue 10 Mar",
         "local": "Atalanta",
         "visita": "Bayern",
-        "score": "0-3",
+        "score": "1-6",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
         "fecha": "Tue 10 Mar",
         "local": "Atlético",
         "visita": "Spurs",
-        "score": "4-1",
+        "score": "5-2",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
         "fecha": "Tue 10 Mar",
         "local": "Newcastle",
         "visita": "Barcelona",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
