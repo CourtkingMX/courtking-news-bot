@@ -1,14 +1,14 @@
 {
-  "updated": "11/03/2026 22:52 UTC",
+  "updated": "11/03/2026 23:52 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Wed 11 Mar",
         "local": "Magic",
         "visita": "Cavaliers",
-        "score": "",
+        "score": "13-17",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -98,18 +98,18 @@
         "fecha": "Wed 11 Mar",
         "local": "Bodo/Glimt",
         "visita": "Sporting",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
         "fecha": "Wed 11 Mar",
         "local": "PSG",
         "visita": "Chelsea",
-        "score": "2-1",
+        "score": "5-2",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
@@ -118,7 +118,7 @@
         "visita": "Man City",
         "score": "3-0",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
