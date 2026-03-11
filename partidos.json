@@ -1,5 +1,5 @@
 {
-  "updated": "11/03/2026 10:07 UTC",
+  "updated": "11/03/2026 11:59 UTC",
   "sports": {
     "bk": [
       {
@@ -122,39 +122,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Tue 10 Mar",
-        "local": "Galatasaray",
-        "visita": "Liverpool",
-        "score": "1-0",
+        "fecha": "Wed 11 Mar",
+        "local": "Leverkusen",
+        "visita": "Arsenal",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Tue 10 Mar",
-        "local": "Atalanta",
-        "visita": "Bayern",
-        "score": "1-6",
+        "fecha": "Wed 11 Mar",
+        "local": "Bodo/Glimt",
+        "visita": "Sporting",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Tue 10 Mar",
-        "local": "Atlético",
-        "visita": "Spurs",
-        "score": "5-2",
+        "fecha": "Wed 11 Mar",
+        "local": "PSG",
+        "visita": "Chelsea",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Tue 10 Mar",
-        "local": "Newcastle",
-        "visita": "Barcelona",
-        "score": "1-1",
+        "fecha": "Wed 11 Mar",
+        "local": "Real Madrid",
+        "visita": "Man City",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
