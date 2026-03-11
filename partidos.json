@@ -1,5 +1,5 @@
 {
-  "updated": "11/03/2026 18:35 UTC",
+  "updated": "11/03/2026 19:53 UTC",
   "sports": {
     "bk": [
       {
@@ -89,9 +89,9 @@
         "fecha": "Wed 11 Mar",
         "local": "Leverkusen",
         "visita": "Arsenal",
-        "score": "",
+        "score": "0-0",
         "liga": "Champions",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
