@@ -1,5 +1,5 @@
 {
-  "updated": "13/03/2026 21:05 UTC",
+  "updated": "13/03/2026 22:57 UTC",
   "sports": {
     "bk": [
       {
@@ -98,9 +98,9 @@
         "fecha": "Fri 13 Mar",
         "local": "Alavés",
         "visita": "Villarreal",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -197,9 +197,9 @@
         "fecha": "Fri 13 Mar",
         "local": "Torino",
         "visita": "Parma",
-        "score": "3-1",
+        "score": "4-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
