@@ -1,86 +1,86 @@
 {
-  "updated": "12/03/2026 23:53 UTC",
+  "updated": "13/03/2026 05:04 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Thu 12 Mar",
         "local": "Pistons",
         "visita": "76ers",
-        "score": "47-33",
+        "score": "131-109",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 12 Mar",
         "local": "Pacers",
         "visita": "Suns",
-        "score": "44-48",
+        "score": "108-123",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 12 Mar",
         "local": "Magic",
         "visita": "Wizards",
-        "score": "51-44",
+        "score": "136-131",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 12 Mar",
         "local": "Hawks",
         "visita": "Nets",
-        "score": "19-12",
+        "score": "108-97",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 12 Mar",
         "local": "Heat",
         "visita": "Bucks",
-        "score": "22-8",
+        "score": "112-105",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 13 Mar",
         "local": "Grizzlies",
         "visita": "Mavericks",
-        "score": "",
+        "score": "112-120",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 13 Mar",
         "local": "Spurs",
         "visita": "Nuggets",
-        "score": "",
+        "score": "131-136",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 13 Mar",
         "local": "Thunder",
         "visita": "Celtics",
-        "score": "",
+        "score": "104-102",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 13 Mar",
         "local": "Lakers",
         "visita": "Bulls",
-        "score": "",
+        "score": "142-130",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
