@@ -1,41 +1,41 @@
 {
-  "updated": "13/03/2026 22:57 UTC",
+  "updated": "13/03/2026 23:55 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Fri 13 Mar",
         "local": "Pistons",
         "visita": "Grizzlies",
-        "score": "",
+        "score": "18-13",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 13 Mar",
         "local": "Pacers",
         "visita": "Knicks",
-        "score": "",
+        "score": "11-17",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 13 Mar",
         "local": "Raptors",
         "visita": "Suns",
-        "score": "",
+        "score": "12-11",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 13 Mar",
         "local": "Mavericks",
         "visita": "Cavaliers",
-        "score": "",
+        "score": "16-20",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -98,9 +98,9 @@
         "fecha": "Fri 13 Mar",
         "local": "Alavés",
         "visita": "Villarreal",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -188,9 +188,9 @@
         "fecha": "Fri 13 Mar",
         "local": "Marseille",
         "visita": "Auxerre",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
