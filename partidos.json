@@ -1,5 +1,5 @@
 {
-  "updated": "14/03/2026 05:02 UTC",
+  "updated": "14/03/2026 07:50 UTC",
   "sports": {
     "bk": [
       {
@@ -104,39 +104,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Wed 11 Mar",
-        "local": "Leverkusen",
-        "visita": "Arsenal",
-        "score": "1-1",
+        "fecha": "Tue 17 Mar",
+        "local": "Sporting",
+        "visita": "Bodo/Glimt",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Wed 11 Mar",
-        "local": "Bodo/Glimt",
-        "visita": "Sporting",
-        "score": "3-0",
+        "fecha": "Tue 17 Mar",
+        "local": "Arsenal",
+        "visita": "Leverkusen",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Wed 11 Mar",
-        "local": "PSG",
-        "visita": "Chelsea",
-        "score": "5-2",
+        "fecha": "Tue 17 Mar",
+        "local": "Chelsea",
+        "visita": "PSG",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Wed 11 Mar",
-        "local": "Real Madrid",
-        "visita": "Man City",
-        "score": "3-0",
+        "fecha": "Tue 17 Mar",
+        "local": "Man City",
+        "visita": "Real Madrid",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
@@ -194,12 +194,30 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Fri 13 Mar",
-        "local": "Torino",
-        "visita": "Parma",
-        "score": "4-1",
+        "fecha": "Sat 14 Mar",
+        "local": "Inter Milan",
+        "visita": "Atalanta",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 14 Mar",
+        "local": "Napoli",
+        "visita": "Lecce",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 14 Mar",
+        "local": "Udinese",
+        "visita": "Juventus",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
