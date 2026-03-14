@@ -1,5 +1,5 @@
 {
-  "updated": "14/03/2026 13:56 UTC",
+  "updated": "14/03/2026 14:58 UTC",
   "sports": {
     "bk": [
       {
@@ -125,9 +125,9 @@
         "fecha": "Sat 14 Mar",
         "local": "Girona",
         "visita": "Athletic",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -269,9 +269,9 @@
         "fecha": "Sat 14 Mar",
         "local": "Inter Milan",
         "visita": "Atalanta",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
