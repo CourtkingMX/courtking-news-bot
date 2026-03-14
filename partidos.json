@@ -78,29 +78,83 @@
     "fx": [
       {
         "fecha": "Sat 14 Mar",
-        "local": "Puebla",
-        "visita": "Necaxa",
-        "score": "0-0",
+        "local": "Atl. San Luis",
+        "visita": "Pachuca",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 14 Mar",
-        "local": "Juarez",
-        "visita": "Monterrey",
-        "score": "2-2",
+        "local": "Guadalajara",
+        "visita": "Santos",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Fri 13 Mar",
-        "local": "Alavés",
-        "visita": "Villarreal",
-        "score": "1-1",
+        "fecha": "Sun 15 Mar",
+        "local": "León",
+        "visita": "Tijuana",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 15 Mar",
+        "local": "Toluca",
+        "visita": "Atlas",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 15 Mar",
+        "local": "UNAM",
+        "visita": "Cruz Azul",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sat 14 Mar",
+        "local": "Girona",
+        "visita": "Athletic",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 14 Mar",
+        "local": "Atlético",
+        "visita": "Getafe",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 14 Mar",
+        "local": "Real Oviedo",
+        "visita": "Valencia",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 14 Mar",
+        "local": "Real Madrid",
+        "visita": "Elche",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -185,12 +239,30 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Fri 13 Mar",
-        "local": "Marseille",
-        "visita": "Auxerre",
-        "score": "1-0",
+        "fecha": "Sat 14 Mar",
+        "local": "Lorient",
+        "visita": "Lens",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sat 14 Mar",
+        "local": "Angers",
+        "visita": "Nice",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sat 14 Mar",
+        "local": "Monaco",
+        "visita": "Brest",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
