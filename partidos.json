@@ -1,23 +1,23 @@
 {
-  "updated": "14/03/2026 17:01 UTC",
+  "updated": "14/03/2026 19:16 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 14 Mar",
         "local": "76ers",
         "visita": "Nets",
-        "score": "",
+        "score": "94-89",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 14 Mar",
         "local": "Hawks",
         "visita": "Bucks",
-        "score": "",
+        "score": "9-2",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -269,9 +269,9 @@
         "fecha": "Sat 14 Mar",
         "local": "Napoli",
         "visita": "Lecce",
-        "score": "0-0",
+        "score": "2-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
