@@ -1,5 +1,5 @@
 {
-  "updated": "14/03/2026 22:56 UTC",
+  "updated": "14/03/2026 23:53 UTC",
   "sports": {
     "bk": [
       {
@@ -33,7 +33,7 @@
         "fecha": "Sat 14 Mar",
         "local": "Celtics",
         "visita": "Wizards",
-        "score": "46-29",
+        "score": "98-79",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -143,9 +143,9 @@
         "fecha": "Sat 14 Mar",
         "local": "Real Madrid",
         "visita": "Elche",
-        "score": "3-1",
+        "score": "4-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -226,7 +226,7 @@
         "visita": "Man City",
         "score": "1-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -253,7 +253,7 @@
         "visita": "Brest",
         "score": "2-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
