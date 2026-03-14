@@ -1,21 +1,21 @@
 {
-  "updated": "14/03/2026 19:16 UTC",
+  "updated": "14/03/2026 20:55 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 14 Mar",
         "local": "76ers",
         "visita": "Nets",
-        "score": "94-89",
+        "score": "104-97",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 14 Mar",
         "local": "Hawks",
         "visita": "Bucks",
-        "score": "9-2",
+        "score": "98-78",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -24,9 +24,9 @@
         "fecha": "Sat 14 Mar",
         "local": "Spurs",
         "visita": "Hornets",
-        "score": "",
+        "score": "59-46",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -127,16 +127,16 @@
         "visita": "Getafe",
         "score": "1-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sat 14 Mar",
         "local": "Real Oviedo",
         "visita": "Valencia",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -206,18 +206,18 @@
         "fecha": "Sat 14 Mar",
         "local": "Arsenal",
         "visita": "Everton",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sat 14 Mar",
         "local": "Chelsea",
         "visita": "Newcastle",
-        "score": "",
+        "score": "0-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -233,18 +233,18 @@
         "fecha": "Sat 14 Mar",
         "local": "Lorient",
         "visita": "Lens",
-        "score": "1-0",
+        "score": "2-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sat 14 Mar",
         "local": "Angers",
         "visita": "Nice",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -278,9 +278,9 @@
         "fecha": "Sat 14 Mar",
         "local": "Udinese",
         "visita": "Juventus",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
