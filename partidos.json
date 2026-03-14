@@ -1,5 +1,5 @@
 {
-  "updated": "14/03/2026 07:50 UTC",
+  "updated": "14/03/2026 09:04 UTC",
   "sports": {
     "bk": [
       {
@@ -89,9 +89,9 @@
         "fecha": "Sat 14 Mar",
         "local": "Juarez",
         "visita": "Monterrey",
-        "score": "1-2",
+        "score": "2-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
