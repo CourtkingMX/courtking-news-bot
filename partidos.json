@@ -1,5 +1,5 @@
 {
-  "updated": "15/03/2026 05:44 UTC",
+  "updated": "15/03/2026 07:55 UTC",
   "sports": {
     "bk": [
       {
@@ -257,30 +257,48 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 14 Mar",
-        "local": "Inter Milan",
-        "visita": "Atalanta",
-        "score": "1-1",
+        "fecha": "Sun 15 Mar",
+        "local": "Verona",
+        "visita": "Genoa",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 14 Mar",
-        "local": "Napoli",
-        "visita": "Lecce",
-        "score": "2-1",
+        "fecha": "Sun 15 Mar",
+        "local": "Pisa",
+        "visita": "Cagliari",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 14 Mar",
-        "local": "Udinese",
-        "visita": "Juventus",
-        "score": "0-1",
+        "fecha": "Sun 15 Mar",
+        "local": "Sassuolo",
+        "visita": "Bologna",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 15 Mar",
+        "local": "Como",
+        "visita": "AS Roma",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 15 Mar",
+        "local": "Lazio",
+        "visita": "Milan",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
