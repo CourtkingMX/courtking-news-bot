@@ -1,5 +1,5 @@
 {
-  "updated": "15/03/2026 13:59 UTC",
+  "updated": "15/03/2026 15:00 UTC",
   "sports": {
     "bk": [
       {
@@ -89,9 +89,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Mallorca",
         "visita": "Espanyol",
-        "score": "",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -251,18 +251,18 @@
         "fecha": "Sun 15 Mar",
         "local": "Pisa",
         "visita": "Cagliari",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Sassuolo",
         "visita": "Bologna",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
