@@ -1,5 +1,5 @@
 {
-  "updated": "15/03/2026 17:00 UTC",
+  "updated": "15/03/2026 17:01 UTC",
   "sports": {
     "bk": [
       {
@@ -98,9 +98,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Barcelona",
         "visita": "Sevilla",
-        "score": "",
+        "score": "5-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -163,16 +163,16 @@
         "visita": "Leeds",
         "score": "0-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Man United",
         "visita": "Aston Villa",
-        "score": "0-0",
+        "score": "3-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -181,16 +181,16 @@
         "visita": "Fulham",
         "score": "0-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Liverpool",
         "visita": "Spurs",
-        "score": "",
+        "score": "1-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -199,25 +199,25 @@
         "visita": "Paris FC",
         "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Le Havre AC",
         "visita": "Lyon",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Metz",
         "visita": "Toulouse",
-        "score": "",
+        "score": "2-2",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
