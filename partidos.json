@@ -1,14 +1,14 @@
 {
-  "updated": "15/03/2026 17:01 UTC",
+  "updated": "15/03/2026 19:18 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 15 Mar",
         "local": "Thunder",
         "visita": "Timberwolves",
-        "score": "",
+        "score": "111-96",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -269,9 +269,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Como",
         "visita": "AS Roma",
-        "score": "",
+        "score": "2-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
