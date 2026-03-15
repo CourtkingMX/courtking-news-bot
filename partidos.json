@@ -1,5 +1,5 @@
 {
-  "updated": "15/03/2026 20:57 UTC",
+  "updated": "15/03/2026 21:53 UTC",
   "sports": {
     "bk": [
       {
@@ -15,16 +15,16 @@
         "fecha": "Sun 15 Mar",
         "local": "Cavaliers",
         "visita": "Mavericks",
-        "score": "64-69",
+        "score": "120-130",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Raptors",
         "visita": "Pistons",
-        "score": "59-64",
+        "score": "104-97",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -33,9 +33,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Bucks",
         "visita": "Pacers",
-        "score": "74-72",
+        "score": "134-123",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -109,16 +109,16 @@
         "visita": "Celta Vigo",
         "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Real Sociedad",
         "visita": "Osasuna",
-        "score": "",
+        "score": "2-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -233,9 +233,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Rennes",
         "visita": "Lille",
-        "score": "",
+        "score": "0-2",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -280,7 +280,7 @@
         "visita": "Milan",
         "score": "1-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
