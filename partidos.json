@@ -1,5 +1,5 @@
 {
-  "updated": "15/03/2026 11:00 UTC",
+  "updated": "15/03/2026 13:59 UTC",
   "sports": {
     "bk": [
       {
@@ -242,9 +242,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Verona",
         "visita": "Genoa",
-        "score": "",
+        "score": "0-2",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
