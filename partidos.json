@@ -1,68 +1,68 @@
 {
-  "updated": "15/03/2026 15:00 UTC",
+  "updated": "15/03/2026 17:00 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sat 14 Mar",
+        "fecha": "Sun 15 Mar",
+        "local": "Thunder",
+        "visita": "Timberwolves",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 15 Mar",
+        "local": "Cavaliers",
+        "visita": "Mavericks",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 15 Mar",
+        "local": "Raptors",
+        "visita": "Pistons",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 15 Mar",
+        "local": "Bucks",
+        "visita": "Pacers",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 15 Mar",
         "local": "76ers",
-        "visita": "Nets",
-        "score": "104-97",
+        "visita": "Trail Blazers",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sat 14 Mar",
-        "local": "Hawks",
-        "visita": "Bucks",
-        "score": "122-99",
+        "fecha": "Mon 16 Mar",
+        "local": "Knicks",
+        "visita": "Warriors",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sat 14 Mar",
-        "local": "Spurs",
-        "visita": "Hornets",
-        "score": "115-102",
+        "fecha": "Mon 16 Mar",
+        "local": "Kings",
+        "visita": "Jazz",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 14 Mar",
-        "local": "Celtics",
-        "visita": "Wizards",
-        "score": "111-100",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Heat",
-        "visita": "Magic",
-        "score": "117-121",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Lakers",
-        "visita": "Nuggets",
-        "score": "127-125",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Clippers",
-        "visita": "Kings",
-        "score": "109-118",
-        "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -89,9 +89,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Mallorca",
         "visita": "Espanyol",
-        "score": "0-1",
+        "score": "2-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -161,27 +161,27 @@
         "fecha": "Sun 15 Mar",
         "local": "C Palace",
         "visita": "Leeds",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Man United",
         "visita": "Aston Villa",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Nottm Forest",
         "visita": "Fulham",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -197,9 +197,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Strasbourg",
         "visita": "Paris FC",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -251,9 +251,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Pisa",
         "visita": "Cagliari",
-        "score": "1-0",
+        "score": "3-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
@@ -262,7 +262,7 @@
         "visita": "Bologna",
         "score": "0-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
