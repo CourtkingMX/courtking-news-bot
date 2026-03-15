@@ -1,41 +1,41 @@
 {
-  "updated": "15/03/2026 19:18 UTC",
+  "updated": "15/03/2026 20:57 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 15 Mar",
         "local": "Thunder",
         "visita": "Timberwolves",
-        "score": "111-96",
+        "score": "116-103",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Cavaliers",
         "visita": "Mavericks",
-        "score": "",
+        "score": "64-69",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Raptors",
         "visita": "Pistons",
-        "score": "",
+        "score": "59-64",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Bucks",
         "visita": "Pacers",
-        "score": "",
+        "score": "74-72",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -98,18 +98,18 @@
         "fecha": "Sun 15 Mar",
         "local": "Barcelona",
         "visita": "Sevilla",
-        "score": "5-1",
+        "score": "5-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Betis",
         "visita": "Celta Vigo",
-        "score": "",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -188,9 +188,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Liverpool",
         "visita": "Spurs",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -208,16 +208,16 @@
         "visita": "Lyon",
         "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Metz",
         "visita": "Toulouse",
-        "score": "2-2",
+        "score": "3-4",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -278,9 +278,9 @@
         "fecha": "Sun 15 Mar",
         "local": "Lazio",
         "visita": "Milan",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
