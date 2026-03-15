@@ -1,5 +1,5 @@
 {
-  "updated": "14/03/2026 23:53 UTC",
+  "updated": "15/03/2026 05:28 UTC",
   "sports": {
     "bk": [
       {
@@ -33,36 +33,36 @@
         "fecha": "Sat 14 Mar",
         "local": "Celtics",
         "visita": "Wizards",
-        "score": "98-79",
+        "score": "111-100",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Heat",
         "visita": "Magic",
-        "score": "",
+        "score": "117-121",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Lakers",
         "visita": "Nuggets",
-        "score": "",
+        "score": "127-125",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Clippers",
         "visita": "Kings",
-        "score": "",
+        "score": "109-118",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -71,45 +71,45 @@
         "fecha": "Sat 14 Mar",
         "local": "Atl. San Luis",
         "visita": "Pachuca",
-        "score": "",
+        "score": "1-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 14 Mar",
         "local": "Guadalajara",
         "visita": "Santos",
-        "score": "",
+        "score": "3-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "León",
         "visita": "Tijuana",
-        "score": "",
+        "score": "0-3",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "Toluca",
         "visita": "Atlas",
-        "score": "",
+        "score": "1-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 15 Mar",
         "local": "UNAM",
         "visita": "Cruz Azul",
-        "score": "",
+        "score": "2-2",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
