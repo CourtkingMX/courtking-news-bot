@@ -1,5 +1,5 @@
 {
-  "updated": "16/03/2026 11:14 UTC",
+  "updated": "16/03/2026 12:02 UTC",
   "sports": {
     "bk": [
       {
@@ -77,39 +77,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 15 Mar",
-        "local": "Mallorca",
-        "visita": "Espanyol",
-        "score": "2-1",
+        "fecha": "Mon 16 Mar",
+        "local": "Rayo",
+        "visita": "Levante",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Barcelona",
-        "visita": "Sevilla",
-        "score": "5-2",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Betis",
-        "visita": "Celta Vigo",
-        "score": "1-1",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Real Sociedad",
-        "visita": "Osasuna",
-        "score": "3-1",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -149,39 +122,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sun 15 Mar",
-        "local": "C Palace",
-        "visita": "Leeds",
-        "score": "0-0",
+        "fecha": "Mon 16 Mar",
+        "local": "Brentford",
+        "visita": "Wolves",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Man United",
-        "visita": "Aston Villa",
-        "score": "3-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Nottm Forest",
-        "visita": "Fulham",
-        "score": "0-0",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Liverpool",
-        "visita": "Spurs",
-        "score": "1-1",
-        "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
