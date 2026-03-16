@@ -1,5 +1,5 @@
 {
-  "updated": "16/03/2026 06:03 UTC",
+  "updated": "16/03/2026 09:46 UTC",
   "sports": {
     "bk": [
       {
@@ -68,21 +68,12 @@
     ],
     "fx": [
       {
-        "fecha": "Sun 15 Mar",
-        "local": "Tigres",
-        "visita": "Queretaro",
-        "score": "0-0",
+        "fecha": "Thu 19 Mar",
+        "local": "Guadalajara",
+        "visita": "León",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Mon 16 Mar",
-        "local": "América",
-        "visita": "Mazatlán",
-        "score": "2-0",
-        "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -239,48 +230,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 15 Mar",
-        "local": "Verona",
-        "visita": "Genoa",
-        "score": "0-2",
+        "fecha": "Mon 16 Mar",
+        "local": "Cremonese",
+        "visita": "Fiorentina",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Pisa",
-        "visita": "Cagliari",
-        "score": "3-1",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Sassuolo",
-        "visita": "Bologna",
-        "score": "0-1",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Como",
-        "visita": "AS Roma",
-        "score": "2-1",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Lazio",
-        "visita": "Milan",
-        "score": "1-0",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
