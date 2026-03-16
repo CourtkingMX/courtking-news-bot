@@ -1,5 +1,5 @@
 {
-  "updated": "16/03/2026 19:54 UTC",
+  "updated": "16/03/2026 21:56 UTC",
   "sports": {
     "bk": [
       {
@@ -188,9 +188,9 @@
         "fecha": "Mon 16 Mar",
         "local": "Cremonese",
         "visita": "Fiorentina",
-        "score": "0-0",
+        "score": "1-4",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
