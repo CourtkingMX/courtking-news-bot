@@ -1,5 +1,5 @@
 {
-  "updated": "15/03/2026 23:56 UTC",
+  "updated": "16/03/2026 06:00 UTC",
   "sports": {
     "bk": [
       {
@@ -42,27 +42,27 @@
         "fecha": "Sun 15 Mar",
         "local": "76ers",
         "visita": "Trail Blazers",
-        "score": "91-84",
+        "score": "109-103",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 16 Mar",
         "local": "Knicks",
         "visita": "Warriors",
-        "score": "",
+        "score": "110-107",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 16 Mar",
         "local": "Kings",
         "visita": "Jazz",
-        "score": "",
+        "score": "116-111",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -71,18 +71,18 @@
         "fecha": "Sun 15 Mar",
         "local": "Tigres",
         "visita": "Queretaro",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Mon 16 Mar",
         "local": "América",
         "visita": "Mazatlán",
-        "score": "",
+        "score": "2-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
