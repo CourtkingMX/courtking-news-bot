@@ -98,9 +98,9 @@
         "fecha": "Tue 17 Mar",
         "local": "Sporting",
         "visita": "Bodo/Glimt",
-        "score": "",
+        "score": "3-0",
         "liga": "Champions",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
