@@ -1,5 +1,5 @@
 {
-  "updated": "17/03/2026 05:14 UTC",
+  "updated": "17/03/2026 08:06 UTC",
   "sports": {
     "bk": [
       {
@@ -86,12 +86,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 16 Mar",
-        "local": "Rayo",
-        "visita": "Levante",
-        "score": "1-1",
+        "fecha": "Fri 20 Mar",
+        "local": "Villarreal",
+        "visita": "Real Sociedad",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -131,12 +131,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Mon 16 Mar",
-        "local": "Brentford",
-        "visita": "Wolves",
-        "score": "2-2",
+        "fecha": "Fri 20 Mar",
+        "local": "Bournemouth",
+        "visita": "Man United",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
