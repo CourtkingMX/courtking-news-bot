@@ -1,77 +1,77 @@
 {
-  "updated": "16/03/2026 23:00 UTC",
+  "updated": "17/03/2026 05:13 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Mon 16 Mar",
         "local": "Hawks",
         "visita": "Magic",
-        "score": "",
+        "score": "124-112",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 16 Mar",
         "local": "Wizards",
         "visita": "Warriors",
-        "score": "",
+        "score": "117-125",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 16 Mar",
         "local": "Nets",
         "visita": "Trail Blazers",
-        "score": "",
+        "score": "95-114",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 16 Mar",
         "local": "Celtics",
         "visita": "Suns",
-        "score": "",
+        "score": "120-112",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 17 Mar",
         "local": "Bulls",
         "visita": "Grizzlies",
-        "score": "",
+        "score": "132-107",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 17 Mar",
         "local": "Pelicans",
         "visita": "Mavericks",
-        "score": "",
+        "score": "129-111",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 17 Mar",
         "local": "Rockets",
         "visita": "Lakers",
-        "score": "",
+        "score": "92-100",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 17 Mar",
         "local": "Clippers",
         "visita": "Spurs",
-        "score": "",
+        "score": "115-119",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -89,9 +89,9 @@
         "fecha": "Mon 16 Mar",
         "local": "Rayo",
         "visita": "Levante",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -136,61 +136,34 @@
         "visita": "Wolves",
         "score": "2-2",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 15 Mar",
-        "local": "Strasbourg",
-        "visita": "Paris FC",
-        "score": "0-0",
+        "fecha": "Fri 20 Mar",
+        "local": "Lens",
+        "visita": "Angers",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 15 Mar",
-        "local": "Le Havre AC",
-        "visita": "Lyon",
-        "score": "0-0",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Metz",
-        "visita": "Toulouse",
-        "score": "3-4",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "PSG",
-        "visita": "Nantes",
-        "score": "0-0",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 15 Mar",
-        "local": "Rennes",
-        "visita": "Lille",
-        "score": "1-2",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Mon 16 Mar",
-        "local": "Cremonese",
-        "visita": "Fiorentina",
-        "score": "1-4",
+        "fecha": "Fri 20 Mar",
+        "local": "Cagliari",
+        "visita": "Napoli",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Fri 20 Mar",
+        "local": "Genoa",
+        "visita": "Udinese",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
