@@ -1,7 +1,21 @@
 {
-  "updated": "18/03/2026 10:37 UTC",
+  "updated": "18/03/2026 19:30 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "87hLrpRX0kA",
+        "title": "The NBA’s HISTORIC Week 21 🚨 | NBA Recap",
+        "thumb": "https://i.ytimg.com/vi/87hLrpRX0kA/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=87hLrpRX0kA"
+      },
+      {
+        "vid": "ndJsl980lNk",
+        "title": "&quot;that&#39;s dad&#39;s number 1 fan&quot; 😎 (via @timberwolves )",
+        "thumb": "https://i.ytimg.com/vi/ndJsl980lNk/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=ndJsl980lNk"
+      },
       {
         "vid": "AFUaPCfWAD4",
         "title": "NBA&#39;s Nightly Recap | March 17, 2026",
@@ -22,20 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/oxnKeiexE3U/mqdefault.jpg",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=oxnKeiexE3U"
-      },
-      {
-        "vid": "tKdMy_3kr1M",
-        "title": "SPURS at KINGS | FULL GAME HIGHLIGHTS | March 17, 2026",
-        "thumb": "https://i.ytimg.com/vi/tKdMy_3kr1M/mqdefault.jpg",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=tKdMy_3kr1M"
-      },
-      {
-        "vid": "u4EXvSBxLa0",
-        "title": "LaMelo had a BIG game tonight ⭐️",
-        "thumb": "https://i.ytimg.com/vi/u4EXvSBxLa0/mqdefault.jpg",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=u4EXvSBxLa0"
       },
       {
         "vid": "yqSDeNtaaZ8",
@@ -61,42 +61,70 @@
     ],
     "pd": [
       {
+        "vid": "cXZPpC6Sjqk",
+        "title": "We all want to see Chingalan debut in Cancun 🐭🤝👽#PremierPadel #CancunPremierPadelP2",
+        "thumb": "https://i.ytimg.com/vi/cXZPpC6Sjqk/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cXZPpC6Sjqk"
+      },
+      {
+        "vid": "adiXkkTr2T0",
+        "title": "Tolito Aguirre with a stunning drop shot in #CancunPremierPadelP2 😮‍💨",
+        "thumb": "https://i.ytimg.com/vi/adiXkkTr2T0/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=adiXkkTr2T0"
+      },
+      {
+        "vid": "Xz9SuvaMOh4",
+        "title": "Cancun Premier Padel P2 🇲🇽🎾: Court 3",
+        "thumb": "https://i.ytimg.com/vi/Xz9SuvaMOh4/mqdefault_live.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=Xz9SuvaMOh4"
+      },
+      {
+        "vid": "0mhj6DogLOA",
+        "title": "Cancun Premier Padel P2 🇲🇽🎾: Court 2 - Cancha Bullpadel",
+        "thumb": "https://i.ytimg.com/vi/0mhj6DogLOA/mqdefault_live.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=0mhj6DogLOA"
+      },
+      {
         "vid": "30KtLd3UWc4",
         "title": "Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇪🇸)",
         "thumb": "https://i.ytimg.com/vi/30KtLd3UWc4/mqdefault_live.jpg",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=30KtLd3UWc4"
-      },
-      {
-        "vid": "fNnBgHN5hAQ",
-        "title": "Cancun Premier Padel P2🇲🇽🎾: Day 3 - Men Highlight",
-        "thumb": "https://i.ytimg.com/vi/fNnBgHN5hAQ/mqdefault.jpg",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=fNnBgHN5hAQ"
-      },
-      {
-        "vid": "8Sd2e7M424k",
-        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇪🇸) (March 17th)",
-        "thumb": "https://i.ytimg.com/vi/8Sd2e7M424k/mqdefault.jpg",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=8Sd2e7M424k"
-      },
-      {
-        "vid": "Fz6leg-7nCQ",
-        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇬🇧) (March 17th)",
-        "thumb": "https://i.ytimg.com/vi/Fz6leg-7nCQ/mqdefault.jpg",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=Fz6leg-7nCQ"
-      },
-      {
-        "vid": "V1wIlRwgH-4",
-        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Court 2 - Cancha Bullpadel (March 17th)",
-        "thumb": "https://i.ytimg.com/vi/V1wIlRwgH-4/mqdefault.jpg",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=V1wIlRwgH-4"
       }
     ],
     "fx": [
+      {
+        "vid": "Zzix326_NYM",
+        "title": "Los 3 jugadores con más regates exitosos son...",
+        "thumb": "https://i.ytimg.com/vi/Zzix326_NYM/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=Zzix326_NYM"
+      },
+      {
+        "vid": "8m69NfMeyoU",
+        "title": "Cómo de IMPORTANTE es FEDE VALVERDE en el Real Madrid: con DATOS",
+        "thumb": "https://i.ytimg.com/vi/8m69NfMeyoU/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=8m69NfMeyoU"
+      },
+      {
+        "vid": "z5iG0b0wlLM",
+        "title": "Volvió GAVI. 💪🏽",
+        "thumb": "https://i.ytimg.com/vi/z5iG0b0wlLM/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=z5iG0b0wlLM"
+      },
+      {
+        "vid": "WRgX86OdO64",
+        "title": "CARA a CARA | COURTOIS vs OBLAK en LALIGA",
+        "thumb": "https://i.ytimg.com/vi/WRgX86OdO64/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=WRgX86OdO64"
+      },
       {
         "vid": "xO1jtMt1sz0",
         "title": "A la tercera fue la vencida para Arda Güler. 🚀",
@@ -105,32 +133,18 @@
         "url": "https://www.youtube.com/watch?v=xO1jtMt1sz0"
       },
       {
-        "vid": "9hp7wQVOfyY",
-        "title": "TODOS LOS RESÚMENES de la JORNADA 28 de LALIGA EA SPORTS 2025/26",
-        "thumb": "https://i.ytimg.com/vi/9hp7wQVOfyY/mqdefault.jpg",
+        "vid": "uMX6dfw4b_I",
+        "title": "Peter Crouch madness 🤯",
+        "thumb": "https://i.ytimg.com/vi/uMX6dfw4b_I/mqdefault.jpg",
         "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=9hp7wQVOfyY"
+        "url": "https://www.youtube.com/watch?v=uMX6dfw4b_I"
       },
       {
-        "vid": "ST8wnBmYlno",
-        "title": "Golazos que te dejan así… 🤯⚽",
-        "thumb": "https://i.ytimg.com/vi/ST8wnBmYlno/mqdefault.jpg",
+        "vid": "GnKI1RDIjjc",
+        "title": "Uğurcan Çakır ⛔️",
+        "thumb": "https://i.ytimg.com/vi/GnKI1RDIjjc/mqdefault.jpg",
         "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=ST8wnBmYlno"
-      },
-      {
-        "vid": "qN2DcUb3sok",
-        "title": "Con esta jugada de equipo completó Raphinha su hat-trick ⚽️⚽️⚽️",
-        "thumb": "https://i.ytimg.com/vi/qN2DcUb3sok/mqdefault.jpg",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=qN2DcUb3sok"
-      },
-      {
-        "vid": "0gs9Nk1_MWo",
-        "title": "¿Demasiado lejos? ¡NUNCA! 🚀 | ARDA GÜLER y otros golazos de larga distancia en LALIGA",
-        "thumb": "https://i.ytimg.com/vi/0gs9Nk1_MWo/mqdefault.jpg",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=0gs9Nk1_MWo"
+        "url": "https://www.youtube.com/watch?v=GnKI1RDIjjc"
       },
       {
         "vid": "-CDMLqc1w8g",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/-CDMLqc1w8g/mqdefault.jpg",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=-CDMLqc1w8g"
-      },
-      {
-        "vid": "D0BkuT4sbdQ",
-        "title": "Donnarumma Guesses Missing Players: Impossible Edition",
-        "thumb": "https://i.ytimg.com/vi/D0BkuT4sbdQ/mqdefault.jpg",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=D0BkuT4sbdQ"
-      },
-      {
-        "vid": "VEqbwTelwsc",
-        "title": "Best touch you’ve ever seen?! 😅",
-        "thumb": "https://i.ytimg.com/vi/VEqbwTelwsc/mqdefault.jpg",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=VEqbwTelwsc"
       }
     ]
   }
