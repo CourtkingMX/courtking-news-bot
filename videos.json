@@ -1,7 +1,21 @@
 {
-  "updated": "18/03/2026 05:23 UTC",
+  "updated": "18/03/2026 10:37 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "AFUaPCfWAD4",
+        "title": "NBA&#39;s Nightly Recap | March 17, 2026",
+        "thumb": "https://i.ytimg.com/vi/AFUaPCfWAD4/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=AFUaPCfWAD4"
+      },
+      {
+        "vid": "6Gtp_d7ocW0",
+        "title": "NBA&#39;s Top 10 Plays Of The Night | March 17, 2026",
+        "thumb": "https://i.ytimg.com/vi/6Gtp_d7ocW0/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=6Gtp_d7ocW0"
+      },
       {
         "vid": "oxnKeiexE3U",
         "title": "76ERS at NUGGETS | FULL GAME HIGHLIGHTS | March 17, 2026",
@@ -22,20 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/u4EXvSBxLa0/mqdefault.jpg",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=u4EXvSBxLa0"
-      },
-      {
-        "vid": "SbRv_fDARIg",
-        "title": "SUNS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | March 17, 2026",
-        "thumb": "https://i.ytimg.com/vi/SbRv_fDARIg/mqdefault.jpg",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=SbRv_fDARIg"
-      },
-      {
-        "vid": "HpwRYxPrCqg",
-        "title": "Russell Westbrook passes Steve Nash for 5th All-Time in assists",
-        "thumb": "https://i.ytimg.com/vi/HpwRYxPrCqg/mqdefault.jpg",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=HpwRYxPrCqg"
       },
       {
         "vid": "yqSDeNtaaZ8",
@@ -61,63 +61,49 @@
     ],
     "pd": [
       {
-        "vid": "8Sd2e7M424k",
+        "vid": "30KtLd3UWc4",
         "title": "Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇪🇸)",
+        "thumb": "https://i.ytimg.com/vi/30KtLd3UWc4/mqdefault_live.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=30KtLd3UWc4"
+      },
+      {
+        "vid": "fNnBgHN5hAQ",
+        "title": "Cancun Premier Padel P2🇲🇽🎾: Day 3 - Men Highlight",
+        "thumb": "https://i.ytimg.com/vi/fNnBgHN5hAQ/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=fNnBgHN5hAQ"
+      },
+      {
+        "vid": "8Sd2e7M424k",
+        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇪🇸) (March 17th)",
         "thumb": "https://i.ytimg.com/vi/8Sd2e7M424k/mqdefault.jpg",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=8Sd2e7M424k"
       },
       {
         "vid": "Fz6leg-7nCQ",
-        "title": "Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇬🇧)",
+        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇬🇧) (March 17th)",
         "thumb": "https://i.ytimg.com/vi/Fz6leg-7nCQ/mqdefault.jpg",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=Fz6leg-7nCQ"
       },
       {
         "vid": "V1wIlRwgH-4",
-        "title": "Cancun Premier Padel P2 🇲🇽🎾: Court 2 - Cancha Bullpadel",
+        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Court 2 - Cancha Bullpadel (March 17th)",
         "thumb": "https://i.ytimg.com/vi/V1wIlRwgH-4/mqdefault.jpg",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=V1wIlRwgH-4"
-      },
-      {
-        "vid": "B6HZV1RoW6s",
-        "title": "Bea González: The Pearl from “El Palo” | Official Trailer",
-        "thumb": "https://i.ytimg.com/vi/B6HZV1RoW6s/mqdefault.jpg",
-        "date": "2026-03-15",
-        "url": "https://www.youtube.com/watch?v=B6HZV1RoW6s"
-      },
-      {
-        "vid": "yosZQOIr9o4",
-        "title": "(Replay) Gijon Premier Padel P2 🇪🇸🎾: Center Court (🇪🇸) (March 5th)",
-        "thumb": "https://i.ytimg.com/vi/yosZQOIr9o4/mqdefault.jpg",
-        "date": "2026-03-05",
-        "url": "https://www.youtube.com/watch?v=yosZQOIr9o4"
-      },
-      {
-        "vid": "e3EwrCIzj88",
-        "title": "(Replay) Gijon  Premier Padel P2 🇪🇸🎾: Court 2 (March 4th - Part 1)",
-        "thumb": "https://i.ytimg.com/vi/e3EwrCIzj88/mqdefault.jpg",
-        "date": "2026-03-04",
-        "url": "https://www.youtube.com/watch?v=e3EwrCIzj88"
-      },
-      {
-        "vid": "h_9Dw9SRaII",
-        "title": "(Replay) Gijon Premier Padel P2 🇪🇸🎾: Center Court (🇪🇸) (March 4th)",
-        "thumb": "https://i.ytimg.com/vi/h_9Dw9SRaII/mqdefault.jpg",
-        "date": "2026-03-04",
-        "url": "https://www.youtube.com/watch?v=h_9Dw9SRaII"
-      },
-      {
-        "vid": "qPOyKZhsBWs",
-        "title": "(Replay) Gijon Premier Padel P2 🇪🇸🎾: Center Court (🇪🇸) (March 3rd)",
-        "thumb": "https://i.ytimg.com/vi/qPOyKZhsBWs/mqdefault.jpg",
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=qPOyKZhsBWs"
       }
     ],
     "fx": [
+      {
+        "vid": "xO1jtMt1sz0",
+        "title": "A la tercera fue la vencida para Arda Güler. 🚀",
+        "thumb": "https://i.ytimg.com/vi/xO1jtMt1sz0/mqdefault.jpg",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=xO1jtMt1sz0"
+      },
       {
         "vid": "9hp7wQVOfyY",
         "title": "TODOS LOS RESÚMENES de la JORNADA 28 de LALIGA EA SPORTS 2025/26",
@@ -147,13 +133,6 @@
         "url": "https://www.youtube.com/watch?v=0gs9Nk1_MWo"
       },
       {
-        "vid": "uszK7oNQz5Q",
-        "title": "El golazo de Arda Güler que ya es historia de LALIGA y del fútbol 🎯",
-        "thumb": "https://i.ytimg.com/vi/uszK7oNQz5Q/mqdefault.jpg",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=uszK7oNQz5Q"
-      },
-      {
         "vid": "-CDMLqc1w8g",
         "title": "Assist of the century! 😮‍💨",
         "thumb": "https://i.ytimg.com/vi/-CDMLqc1w8g/mqdefault.jpg",
@@ -169,7 +148,7 @@
       },
       {
         "vid": "VEqbwTelwsc",
-        "title": "Most ridiculous touch you’ve ever seen?! 😅",
+        "title": "Best touch you’ve ever seen?! 😅",
         "thumb": "https://i.ytimg.com/vi/VEqbwTelwsc/mqdefault.jpg",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=VEqbwTelwsc"
