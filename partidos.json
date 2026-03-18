@@ -1,77 +1,77 @@
 {
-  "updated": "17/03/2026 23:05 UTC",
+  "updated": "18/03/2026 05:19 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Tue 17 Mar",
         "local": "Hornets",
         "visita": "Heat",
-        "score": "",
+        "score": "136-106",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 17 Mar",
         "local": "Magic",
         "visita": "Thunder",
-        "score": "",
+        "score": "108-113",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 17 Mar",
         "local": "Wizards",
         "visita": "Pistons",
-        "score": "",
+        "score": "117-130",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 17 Mar",
         "local": "Knicks",
         "visita": "Pacers",
-        "score": "",
+        "score": "136-110",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 18 Mar",
         "local": "Bucks",
         "visita": "Cavaliers",
-        "score": "",
+        "score": "116-123",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 18 Mar",
         "local": "Timberwolves",
         "visita": "Suns",
-        "score": "",
+        "score": "116-104",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 18 Mar",
         "local": "Nuggets",
         "visita": "76ers",
-        "score": "",
+        "score": "124-96",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 18 Mar",
         "local": "Kings",
         "visita": "Spurs",
-        "score": "",
+        "score": "104-132",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
