@@ -1,76 +1,76 @@
 {
-  "updated": "19/03/2026 05:16 UTC",
+  "updated": "19/03/2026 18:10 UTC",
   "sports": {
     "bk": [
       {
-        "title": "¿Qué partidos de NBA hay hoy? Calendario y horarios del miércoles 18 de marzo",
+        "title": "¿Qué partidos de NBA hay hoy? Calendario y horarios del jueves 19 de marzo",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUThUODdmRHNYcEVHcERyaXItMmJMcVNzcjZSMVFPaFpiQWxNelhWZjFaal93NF9qdFFTZHdSenBQaHZnekpReUM0Yi1rMVp3eG9KZzJITDU5OGZuLV9WSjhjeEt2RmJxYlFVeHZqZjdOamJidzlEMjNSNHBxbTVRMV9rSEoxaERxdU5JNzA2aUdudFhzckVpOGVUdFl4ZGhzcXdfNVhjSE5PQXRTSUFJNTdxNXotdkhNdGVCZVVFVVJiV3VVaWtYTlc5cHdQRm5XS3IxbXRsNVZaZmE3Y0N4YzZCcUdsckIxT2I4T2I2c1A3TXI1YkQ5Uw?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1562865112-26a14b46577e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxwYXJ0aWRvcyUyMGNhbGVuZGFyaW8lMjBob3JhcmlvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3Mzg5NzQyNnww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 18 Mar 2026 03:30:00 GMT"
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1590367113916-42fe51e32906?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxwYXJ0aWRvcyUyMGNhbGVuZGFyaW8lMjBob3JhcmlvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3Mzg5NzQyNnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 10:55:00 GMT"
       },
       {
         "title": "NBA: los partidos de hoy en la temporada regular 2025-2026",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpBdm9hdWJRVHNrSktraEJqZUxhelhYZkpVa1NQRU1xZnE4S09jQzhseTB2dlp3bEJia1JOV090S1lqbktFcFJRUEZRTjM4QktaMk1IbF94RG1mRFlacUVMVWdyT0J1WGQzeGc4UldXWDh4VkRtV1ZjaXB5ZkhDeTRYVGFQN19EN0JyS29pbnR3VFNmU3haRmhqT1hrdw?oc=5",
-        "date": "17 mar 2026",
+        "date": "18 mar 2026",
         "image": "https://images.unsplash.com/photo-1694437590805-cf944ceb41c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxwYXJ0aWRvcyUyMHRlbXBvcmFkYSUyMHJlZ3VsYXIlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzM4NjIyNTF8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 17 Mar 2026 07:00:00 GMT"
+        "_pub_raw": "Wed, 18 Mar 2026 07:00:00 GMT"
+      },
+      {
+        "title": "LeBron is back in Miami, where he was at his career best",
+        "url": "https://www.espn.com/nba/story/_/id/48174027/27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments",
+        "date": "19 mar 2026",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0312%2Fnba_lebron_16x9.jpg",
+        "_pub_raw": "Thu, 19 Mar 2026 13:18:51 EST"
+      },
+      {
+        "title": "Pistons star Cunningham out with collapsed lung",
+        "url": "https://www.espn.com/nba/story/_/id/48248405/sources-pistons-cade-cunningham-collapsed-lung",
+        "date": "19 mar 2026",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0225%2Fr1619944_1296x729_16%2D9.jpg",
+        "_pub_raw": "Thu, 19 Mar 2026 14:03:17 EST"
+      },
+      {
+        "title": "LeBron, Doncic, Reaves questionable for Lakers",
+        "url": "https://www.espn.com/nba/story/_/id/48250543/lebron-doncic-reaves-questionable-lakers-thursday-vs-heat",
+        "date": "19 mar 2026",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0319%2Fr1630784_1296x729_16%2D9.jpg",
+        "_pub_raw": "Thu, 19 Mar 2026 14:00:57 EST"
+      },
+      {
+        "title": "Sources: Heat to waive Rozier before playoffs",
+        "url": "https://www.espn.com/nba/story/_/id/48250127/sources-heat-expected-waive-terry-rozier-playoffs",
+        "date": "19 mar 2026",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1207%2Fr1586013_1296x729_16%2D9.jpg",
+        "_pub_raw": "Thu, 19 Mar 2026 14:00:57 EST"
       },
       {
         "title": "Sources: Giannis refuses Bucks' shutdown pitch",
         "url": "https://www.espn.com/nba/story/_/id/48242289/sources-bucks-want-shut-giannis-antetokounmpo-season",
-        "date": "18 mar 2026",
+        "date": "19 mar 2026",
         "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0208%2Fr1612101_1296x729_16%2D9.jpg",
-        "_pub_raw": "Wed, 18 Mar 2026 23:47:53 EST"
+        "_pub_raw": "Thu, 19 Mar 2026 14:00:57 EST"
+      },
+      {
+        "title": "LeBron says no interest in Vegas expansion bid",
+        "url": "https://www.espn.com/nba/story/_/id/48246442/lebron-says-no-plans-part-vegas-expansion-team-bid",
+        "date": "19 mar 2026",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0319%2Fr1630567_1296x729_16%2D9.jpg",
+        "_pub_raw": "Thu, 19 Mar 2026 14:00:57 EST"
       },
       {
         "title": "Kerr to the point: Dubs 'going to be in the play",
         "url": "https://www.espn.com/nba/story/_/id/48245791/steve-kerr-says-warriors-know-going-play-in",
-        "date": "18 mar 2026",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0319%2Fr1630545_1296x729_16%2D9.jpg",
-        "_pub_raw": "Wed, 18 Mar 2026 23:47:53 EST"
-      },
-      {
-        "title": "Other shoe drops: Caruso T'd up for desperate D",
-        "url": "https://www.espn.com/nba/story/_/id/48238900/alex-caruso-draws-technical-swatting-ball-shoe",
-        "date": "18 mar 2026",
-        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0318%2Fr1630075_1296x729_16%2D9.jpg",
-        "_pub_raw": "Wed, 18 Mar 2026 23:47:52 EST"
-      },
-      {
-        "title": "Wolves' Edwards to miss time with knee soreness",
-        "url": "https://www.espn.com/nba/story/_/id/48232817/timberwolves-anthony-edwards-miss-knee-soreness",
-        "date": "18 mar 2026",
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0314%2Fr1628132_1296x729_16%2D9.jpg",
-        "_pub_raw": "Wed, 18 Mar 2026 23:47:53 EST"
-      },
-      {
-        "title": "Pistons' Cunningham leaves win with back spasms",
-        "url": "https://www.espn.com/nba/story/_/id/48235317/pistons-guard-cade-cunningham-leaves-game-back-spasms",
-        "date": "18 mar 2026",
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0318%2Fr1629953_1024x576_16%2D9.jpg",
-        "_pub_raw": "Wed, 18 Mar 2026 23:47:53 EST"
-      },
-      {
-        "title": "Pippen, Aldama have season",
-        "url": "https://www.espn.com/nba/story/_/id/48234677/scotty-pippen-jr-santi-aldama-season-ending-surgery",
-        "date": "18 mar 2026",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0329%2Fr1470825_1296x729_16%2D9.jpg",
-        "_pub_raw": "Wed, 18 Mar 2026 23:47:53 EST"
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1577471488278-16eec37ffcc2?w=480&q=70",
+        "_pub_raw": "Thu, 19 Mar 2026 14:00:57 EST"
       },
       {
         "title": "🏀 Everything we know about NBA expansion",
         "url": "https://www.espn.com/nba/story/_/id/48223005/nba-expansion-seattle-las-vegas-draft-format-more-big-questions-teams-2028",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1608779130178-9c2632a1837f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxldmVyeXRoaW5nJTIwa25vdyUyMGFib3V0JTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzczODYyMjU1fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 18 Mar 2026 23:47:53 EST"
-      },
-      {
-        "title": "Biggest questions, projections and more: Storylines to watch ahead of NBA playoffs",
-        "url": "https://www.espn.com/nba/story/_/id/48185582/nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1530232486731-ce38cb698519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxiaWdnZXN0JTIwcXVlc3Rpb25zJTIwcHJvamVjdGlvbnMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzM4OTc0MzB8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 19 Mar 2026 00:37:30 EST"
+        "image": "https://images.unsplash.com/photo-1608779130178-9c2632a1837f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxldmVyeXRoaW5nJTIwa25vdyUyMGFib3V0JTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzczODYyMjU1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 14:00:57 EST"
       },
       {
         "title": "Mié. 3/18 - NBA Today (3/18/26) - Stream en vivo",
@@ -80,11 +80,32 @@
         "_pub_raw": "Wed, 18 Mar 2026 19:00:00 GMT"
       },
       {
-        "title": "Steve Kerr afirma que los Warriors están destinados al play-in",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbElLdDFzS0dfeTVMMFhYUUJNWGFCbnk4RXhFU0JNRTAwQmdCR2xHXzZuZ3VqcXYwMHRKb2ROZUpFR0JGRkJJa3dTNEZiM2tYWTNFdmFNcXBnUFRQTGhXbEY1dlE0eWM2cGYxbmJKUTlXRGtINUd0RHFLbnZXSFdhMm1jVjR0YjhzNHE4TEFNX1ZNaHRvbVE?oc=5",
+        "title": "Heat dejará libre a Terry Rozier antes de los playoffs, fuentes",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmstY3Z4bThuRXZMUEhXZmRqX2NydnhnNS1USl8wS0o0WmdmbXk0T2dNQ2R0bjhMQ2JYLW9uajV6UDhKX2dhckctcU41SEFYRnV0MzltckNDazQ4N0JBMUoxdlUzSmpqeEdsYWZ0OHc4X3BhUGM5SFhXTWZCelM1NGtPRGlER0xib19lVVZfTmFRdF9wb1hMOTYyMHkxZ09EZlNoc004dGhCcFFwb0E?oc=5",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1608779130178-9c2632a1837f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxzdGV2ZSUyMGtlcnIlMjBhZmlybWElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzM4OTc0MzF8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 19 Mar 2026 04:05:05 GMT"
+        "image": "https://images.unsplash.com/photo-1677747078166-42cdce90eb0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxoZWF0JTIwZGVqYXIlQzMlQTElMjBsaWJyZSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3Mzk0MzgzNnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 17:48:40 GMT"
+      },
+      {
+        "title": "Los Lakers volvieron a ganar en Houston, los Nuggets cayeron en Memphis y los Hawks siguen imparables",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQczRFSlJEaHJOUzZCcDZEZF9rcnJlbXdiajdRUUZGWUhMeElMcFpVby1CaUJRSUhSdF92REhqZG0xRlJ4cXdQX0pVcHhSMEduSG54RzZiVkFTVEppQzI5QTkzUHNwMGdKc0RZS1dSSmo2bWQzci1QR0tlTjgwVURMalB5UlRlMFY1VmpZN2p3MjBTajRSMUJQLXR2d2NxQm41dDNPSTRPN3NTRDV0X2IyLUhmS25ad2VZQ2loVUJmTzk5LUZVTEF3Sm9vYmhjdXFHUk9IZVZXVjdsdFhBRnM3YXU4YjFsNE54VUhjdWJITzcwVnROazVz?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1562865112-26a14b46577e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsYWtlcnMlMjB2b2x2aWVyb24lMjBnYW5hciUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3Mzk0MzgzN3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 12:25:00 GMT"
+      },
+      {
+        "title": "Cade Cunningham de los Pistons está de baja por colapso pulmonar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRk9zdG45OTZyVkhhTy1HZ3FMMjQwVHVTLUkzeVhtc1RGMFN1dEF4OWtJZTVhc3U4dWIzQVJLemxXR0luQUhWb193Z01qR1NCVC0wdUtjTXRQdWRxQWFBNkZTWHFSVU9tb2xOUjUwVUVtdXNLRWVSdzhzZlBwZGhxcG5NX2xyOHdCeEprZ1NkZHVkOTdhb1JvaHlMY09IbXAtWVBKZDdxbHQ0WHpfRkE?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
+        "_pub_raw": "Thu, 19 Mar 2026 14:53:00 GMT"
+      },
+      {
+        "title": "LeBron James: Recordando la racha más dominante de su carrera",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUp3UXVxUjZ0QnR3VnQzWVN4WXZTeC1vTXQxS2o0ekhWdFVvOFFNdmlob0Y0RENsSUZqUHVyOTVGUWFVWERSXzd2UUFIYjhPWlVqTEtEYnhnd2FUR2FaRmhQZmVvYm02b3lzUlZmR2lqODVJZ0lfZ0NGMVU4RExxSmhYSzNtOHpHQ3pKWi1ONjNFSkQ3OGZVanV4bWxMYlp0RmYzUUdHdkQzcnd2TjNQdXFJdmIxWHo4LXlGNkJwMVhBdw?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1753491921055-2cef9ef23546?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsZWJyb24lMjBqYW1lcyUyMHJlY29yZGFuZG8lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzM5NDM4Mzh8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 12:50:00 GMT"
       },
       {
         "title": "Playoffs NBA: Grandes interrogantes, proyecciones, qué seguir",
@@ -94,11 +115,11 @@
         "_pub_raw": "Wed, 18 Mar 2026 23:00:00 GMT"
       },
       {
-        "title": "En la noche de NBA, ganaron los favoritos y Shai Gilgeous-Alexander brilló con 40 puntos",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3JaQnh3VUJWLUVLOFlsRDJab3hsR3dTWmE4THc1Vk1MY091enJaRmlUUjEyZVcwbmFEOWZJeUI5M09oczd2ZDRUVUVQTHFPcTZHUVQwVV9VRTBSeG1ROW5EOHI5OGVocHl3NndLNmp6V0Mxa2Q0YnNjdGYyd3pwMmIxams1eFdNVjNlQzhXRmJsZUo1ZlhIZjZ2aVRERE9FcEdhV2E3dGhTME45bWVjUHFXMC1fSWZiWVZNejR0WGQ?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1608779130178-9c2632a1837f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxub2NoZSUyMGdhbmFyb24lMjBmYXZvcml0b3MlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzM4NjIyNTZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 18 Mar 2026 12:06:00 GMT"
+        "title": "Steve Kerr afirma que los Warriors están destinados al play-in",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbElLdDFzS0dfeTVMMFhYUUJNWGFCbnk4RXhFU0JNRTAwQmdCR2xHXzZuZ3VqcXYwMHRKb2ROZUpFR0JGRkJJa3dTNEZiM2tYWTNFdmFNcXBnUFRQTGhXbEY1dlE0eWM2cGYxbmJKUTlXRGtINUd0RHFLbnZXSFdhMm1jVjR0YjhzNHE4TEFNX1ZNaHRvbVE?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1608779130178-9c2632a1837f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxzdGV2ZSUyMGtlcnIlMjBhZmlybWElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzM4OTc0MzF8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 04:56:00 GMT"
       },
       {
         "title": "Fuentes: Bucks quieren dar por terminada la temporada de Giannis Antetokounmpo",
@@ -108,62 +129,83 @@
         "_pub_raw": "Wed, 18 Mar 2026 21:52:00 GMT"
       },
       {
-        "title": "Expansión NBA: todo lo que necesitas saber de Las Vegas y Seattle",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWXhIS1ptMGVmeDQ0WW9xWE9COFNaajI1OVlmM0NRRzIyUlU0WmVMaXdjTWlNV3l5ZE1HeTVWSjZObTZGU01MWkFMVW5iVlhEbDlrRGtHSGVKczNyM2tjMTlMdElpdTlDRHhFSEV2RElVdkVUSmdaY1ZTbC1ILUxteVNjX2pRQ2RKSmdXcEU1VmxFUTVWaklVT3dYSmhsSHh0Y3JsWER3?oc=5",
-        "date": "17 mar 2026",
-        "image": "https://images.unsplash.com/photo-1557258580-39831fef1593?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxleHBhbnNpJUMzJUIzbiUyMHRvZG8lMjBuZWNlc2l0YXMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzM4OTc0MzN8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 17 Mar 2026 18:07:00 GMT"
-      },
-      {
-        "title": "NBA Power Rankings: Los héroes anónimos de los 30 equipos",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSldYb3RzTlg0czJqSkRyd0JSSFdfSmRXYnkyMF84NmN4WmtSTmJoZ0JTRzY3Yk5heV85OFlUczJzc25QN2M2bzJCYTltMm53bzRVejBrUUNqQ2Rtam9KTENOMldwMnQzaHVqRHM0aGNRelpSblhmdE1rTFJrU1ZraWk3WUJuVHNEZmNVQVdKT1REWDVUMG5VX2F5dzFJcUEtYXNReWxjem9XdFBXTUhHYllJU1BiOXVCYUMwUXRqUQ?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1608779130178-9c2632a1837f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxwb3dlciUyMHJhbmtpbmdzJTIwaCVDMyVBOXJvZXMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzM4NjIyNTd8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 18 Mar 2026 14:55:00 GMT"
-      },
-      {
-        "title": "WNBA y sindicato de jugadoras llegan a un acuerdo verbal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWjlvQ0FGSkN5bUVDbFo2RXNhLUZNeHJfd2ZTTVU5X1NqQ3lYeHFlVTNjd1lxZUVDM1UxVktrZnFFdHZ3bGV1eHMxVTZ4WmV5cnJEUk03em9DcVJ6N2ZtVmpXOG1paVY5TnRrNXAxbkpjVUpJWHdUTkI5bnVFNGliV2RvMDdxOGFrd08wcFp4SE9UTnBYWE81bDBTR2FSNy1iMG1IZHZuVVFobk5adFJjRQ?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1694437590805-cf944ceb41c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx3bmJhJTIwc2luZGljYXRvJTIwanVnYWRvcmFzJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzczODk3NDM0fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 18 Mar 2026 11:57:00 GMT"
-      },
-      {
         "title": "Capitanes busca cerrar como líder y quiere juego en la Arena CDMX en los Playoffs de la G-League",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlNrVWxXZkxSTF9uV2ZxR180aHZhOVBBVm1ZYW5IdTl5UVJ0bkt3UE5wU09DSmFsR0FXR1ZraHdPZ09BS3IzZEdFcVVKTTVoRmY3c3JNUTdtQmRuZzk4NUk2bkM2REUyalIzUmNvaGhtVkdtQzBqcGRTVDZtcngtYXhJQ3R6WFRCaE44S3U3YnRKaDlmWEgzczU5bUQ2bktRRS1OWWlzdjVGUzI2Vld0QzhFWXZhVkpCTXlBeEVhZGtLTVk1bnllcGRmTTd1VU1qT2pwUjJUb1FVMHZ0RHA4ZkhMV29yUQ?oc=5",
         "date": "18 mar 2026",
         "image": "https://images.unsplash.com/photo-1556600335-ca1100b59879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxjYXBpdGFuZXMlMjBidXNjYSUyMGNlcnJhciUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3Mzg5NzQzNXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 18 Mar 2026 23:37:00 GMT"
-      },
-      {
-        "title": "Reportan que NBA votará sobre expandirse en Las Vegas y Seattle",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMlRVSnJLLURnZllaRXd2aVBsbklzSXVkSGQ0ZmFxc2pUREd4bXhkTnkyd1F2WE8yWl9LSDBYaTdQZXN6aGNDQ1BXNkg5QzJ5bU81M0M3NXV3ZXhLRGhyaHBsbGFyZklKaXdsQXA1NDByWUpQYldXLVZtUzRVUnkzNmNmMjgyQTR1dXVxX3Q5YkVzNjFMODZmb21CN0xFTTlpUDN2eEs4TVZzX3RtWHkwVDItYUtOMXF3MUE?oc=5",
-        "date": "17 mar 2026",
-        "image": "https://images.unsplash.com/photo-1676315636766-7b129985c537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxyZXBvcnRhbiUyMHZvdGFyJUMzJUExJTIwc29icmUlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzM4OTc0MzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 17 Mar 2026 15:10:00 GMT"
       }
     ],
     "pd": [
       {
         "title": "Cancún Premier Padel P2 2026: horarios de hoy, resultados en directo y dónde ver",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2FwdV9uTjBFR0lSZWsxbFZqTlQ4cHlPVUYtaU1VdWtRa3kwbk1IVXNhQWc3bVVhT09Kc1E3UFJaM0JwR1dINktQX3FjbWlsLWx5R3NZY3lnMm1fdXZBWU9QN3llVDdWQUZGRmFPZHVKMHUtU09QSV96OFVSY0c5VkJHb9IBgwFBVV95cUxOaEN1M3JlSFAtMHRlNl83ZE5ZXzczWHR0NlRIdlN2RFJVLXJBWlg2eFc2NGIzbzNTaFpnVGVPc0ZlQ3R0MXQ5UVpaRW9TdWJUU3RhT1BGaXFWckptbWtyRUd1ZzhnMjBCZXJ5TWpZWkRjRDM4blo2Rm9NY0tpYmhRYTNmRQ?oc=5",
-        "date": "18 mar 2026",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGFndm9wdFFLeUJPMG5tLUtHbDZweUtvcE9jM21rSWNabzJyaW40ekFoeTh4c2JXU1RwMzh3ZUlvWnRiM0FjTHhaT0FWZ25Mem5kX1BWTm0xMy1Zakk3aXByTkljak5JbTlqanZwSHZ3ay1YQ2Z2RWJ2YkZnUlhfVkM4cGVqS0J2dHdOeXN0NTRBWnNwQjY3QWU2cm5Rc1ZQdlFEMTdObG8tXzhnNFktS1RONkRmTzhaSU5mZm5SZGNKNHdvZ1ZJOU5jUHE1Vnc4NkZSaTlOeU8?oc=5",
+        "date": "19 mar 2026",
         "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=480&q=70",
-        "_pub_raw": "Wed, 18 Mar 2026 07:32:53 GMT"
+        "_pub_raw": "Thu, 19 Mar 2026 11:51:07 GMT"
+      },
+      {
+        "title": "Viento, lluvia y sorpresas en Cancún: eliminados Coki Nieto/Jon Sanz y Momo González/Martín Di Nenno",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05N3BUaXZOQVpRWEtnNldGY2Z5TGJaYW9OSTBhSF9aS3g5dmZQYXdyaEQ2cXlmM2h3RjRLMGJCUFYwTjhyQW1MckRYLTN0LUtQVU56UzRyZUpuQXRaVVdCcEVnRFV0VENCd1pndnY1VmM?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx2aWVudG8lMjBsbHV2aWElMjBzb3JwcmVzYXMlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3NzM5MTQ5NDd8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 04:08:43 GMT"
+      },
+      {
+        "title": "P2000 Superior Padel Toulouse – Resultados / En directo / Horarios - padel",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdF9WQkV3dGVmREU0Vmk2cXM1T2hTVEo2ZmtwUW1nTWNLZ2Y0cDZSRHM1ZWE5R3poV2ZSdVFhMmtkMWlKVXduQVU2NUt4dnQ4NUNCdnlGSnhlTDEtbFJfdE4wd1VEV2kzYUVTQWV4X2h6MDhlWVpfY3lxek5WaVJoSkZHOFBiOS1GczhaUGRGa1poZw?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=480&q=70",
+        "_pub_raw": "Thu, 19 Mar 2026 08:16:00 GMT"
+      },
+      {
+        "title": "Horarios y retransmisión de los octavos de final del Cancún Premier Padel P2 2026",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNckR3bGdqeDJYdDVpYUxBbXFfMkxmdHFBM2ZITm5IRHd5VEZjUDZKbVh6MWZoX0RTVkltOEFrc1lfa3pMOUhwWm1OSkNRY2xiMExaWEdleW0wWXB6Qi1uZHQxNmk3XzFHSE9MOElGMEstd0F5X2w2MVB1aGxLNW1vNWltZDEwT2dEeGtoclNyUzM0OEZvWWJmSHV6eUM2WDNqdVJSMGE1THNQZ0IwMEE?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1646503429996-3b7df2706145?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxob3JhcmlvcyUyMHJldHJhbnNtaXNpJUMzJUIzbiUyMG9jdGF2b3MlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3NzM5MTQ5NDh8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 04:31:48 GMT"
+      },
+      {
+        "title": "Premier Padel Cancun P2 Mexico marzo 2026",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUkdySDJnZjN2SFJXVG51T2xHWnctNmFDOXZlb09uc0RXUG1tNnNqMmFGVVVlNUxJTFJlTE1TWUNnSGVIc3d2bTlvdGdZVGtSZEY0OVh4TFJTbFNxeVIyOTZKamhaVEt5WGc?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1675095270981-0836f881186c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxwcmVtaWVyJTIwcGFkZWwlMjBjYW5jdW4lMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3NzM5NDM4NTN8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 17:28:12 GMT"
+      },
+      {
+        "title": "Dieciseisavos del Cancún P2: Partidos, horarios y streaming",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2VvcjJtLS1hVGtZOWgtTHNkTzlpa3dIOFk1Q2ROeWVWRERuSkZoYXhqSGNUNVEtMElhV3FEdjFfeE5Ic0RpcnY5MUdYOHFQdGdLUzktS0FmVUJ5TUpGckVNRkFkRVNwaUVXbnhjMzNfcDNETkw1ejBkb2tycmdlcmNGeEVmWkdiaTY2c0psakwwY1dhbmJQTTBiYzN4LWo5?oc=5",
+        "date": "18 mar 2026",
+        "image": "https://images.unsplash.com/photo-1590591092470-37e9fe614b60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxkaWVjaXNlaXNhdm9zJTIwY2FuYyVDMyVCQW4lMjBwYXJ0aWRvcyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc3Mzk0Mzg1NHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 18 Mar 2026 20:18:08 GMT"
       },
       {
         "title": "Horarios y retransmisión de la segunda jornada de los dieciseisavos de final del Cancún Premier Padel P2 2026",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFhvbzdTZ3RVUWlUcmpuZ1VjRkdTMTRoWFNGTzFCWU41V19MTnZYSzczWW5IY0MzWWJOdlgxb3dIXy1wOFpIUldjRHYxcjVXLVhUdDlCWkQxbm9PRUxLaGVIRkRKREpWM2NucGFyX3M1aEo4WW44X0ptSGc3VnNlV1hqMExDWmtzNjdDQ0FLVjlmWVpWeEZWSlNHZDNzclVUT2ZF?oc=5",
         "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1646503429996-3b7df2706145?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxob3JhcmlvcyUyMHJldHJhbnNtaXNpJUMzJUIzbiUyMHNlZ3VuZGElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3NzM4MzAyODd8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1634475666514-31f2b7ac6644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxob3JhcmlvcyUyMHJldHJhbnNtaXNpJUMzJUIzbiUyMHNlZ3VuZGElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3NzM5NDM4NTZ8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 18 Mar 2026 01:38:16 GMT"
       },
       {
-        "title": "Horario y dónde ver el Cancún P2 2026 en directo, online y por TV",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFNBSFpoYzJYRWlxbzM3Z1RRYnEycVRBcU5wLVJwLWZ2Q1plUFEzcUJ5ekVnSzN6WUhBY1QwN2pvZVRGZ3JUSEkweHdYdnNOUlFIOWlSMUp4OFl3a3RoN0tudkZlQUxobUZxNzd5b1FHZ2R4Y1NSMUtzbW1NeHdEb9IBgAFBVV95cUxQczdwX3BKMng5YmtQQ3JwWVRkZXlWS1BzcUhlZG1tTkVNQkRrWjIyZlpGV2tDS1F6cjFfcVlVVTlHTWRmWXYyd05qeFFqa2kwZnd2ZmN2bVd6YWlmTEVkSm5ub1RaWVhhZzViTTRkTXhFdU1EMW9rLTFNbFBCeUxiVA?oc=5",
-        "date": "17 mar 2026",
-        "image": "https://images.unsplash.com/photo-1646503429996-3b7df2706145?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxob3JhcmlvJTIwZCVDMyVCM25kZSUyMGNhbmMlQzMlQkFuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzczODYyMjY5fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 17 Mar 2026 07:16:43 GMT"
+        "title": "Prueba de fuego para Tapia-Coello en su debut en el Cancún P2: partidos, horarios y dónde verlo gratis",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbFBhMk9zaFhEMWNmWEwxQm1EWU9HY0MyaFkxWEVvdXJWdzE0VzNNamNZa0htSXotendDNXIyd3JjQndRWHNZOTR5cWwzTEdqV2puX0E3OExCVkV3ZllVWW1WcnBSeGVVWm5STzlXdE1yOXAyRVVYTnl3di04LTFhSS0xR3RERFJmSURMS0FnQ1lOd1V0bDVnTTNWLVhPSEFXWHY0elR6TThUeXdWUzVFQWd2bUJaNDNEOVl0bWtVeFIwVjFmR2gxaVRhLUktRTFqc3YtcU50ZWE4c3laSzZlVWtR0gHvAUFVX3lxTFB2TXhISEFtWElobWNYb1FRbzNVUWpiUkhYUHNRZEF4VjdRWUpRUFN6OTNaLTF5X3ZURmM2M1pRcUYwMjU1bTQzNGxnUVhFelF4eW53cTc2RWx0aGZ3dndtSElHUUtkWlFBSTFvcnMzYUcyUTBLeEJCODdmcDhlU2ZqUVVnNURkbHJnR29Qem11bVdrNHc1eGtlNkhVcnZzRE1mVkpiYm1oZVFweGZkNlJTYmg1MHVWT0puZm93NmhoZWtzdlJ5VWFWYm40eC13UVd5elRUR0s2Qld2MFVTSUItVXRZSW9mSk1jSUtNeWlV?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1660463527860-b66aebd362c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxwcnVlYmElMjBmdWVnbyUyMHRhcGlhJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzczOTQzODU3fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 13:56:15 GMT"
+      },
+      {
+        "title": "Jon Sanz: \"Son dos extraterrestres, están por encima de los otros\"",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmUwV25PRHNQVFFlanRuSzRmNnRZOGJlRTBHOVd2cG5UU3FKVXgzaEs5VVdtblo5cUcxNkJ1ZkdSTXVvU0VKSEQ1NUlGWDZQLWhNSU55Z1NJWWltelpRUWdOcE9iSXowWnFWQmhDblNHOVZOOHM1TDNzQjY2UGRBVkdQcWNfSmlVeDB3b0Zkb1BwVDhVdU5JSXhFcEhrdEM0VHEtcWE1Sk9XTXQ3ay0zS3hLcmwwSVhCZlIwTkI0NGcxSnRtTU53QS02Y9IBywFBVV95cUxPcmUwV25PRHNQVFFlanRuSzRmNnRZOGJlRTBHOVd2cG5UU3FKVXgzaEs5VVdtblo5cUcxNkJ1ZkdSTXVvU0VKSEQ1NUlGWDZQLWhNSU55Z1NJWWltelpRUWdOcE9iSXowWnFWQmhDblNHOVZOOHM1TDNzQjY2UGRBVkdQcWNfSmlVeDB3b0Zkb1BwVDhVdU5JSXhFcEhrdEM0VHEtcWE1Sk9XTXQ3ay0zS3hLcmwwSVhCZlIwTkI0NGcxSnRtTU53QS02Yw?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=480&q=70",
+        "_pub_raw": "Thu, 19 Mar 2026 11:20:19 GMT"
+      },
+      {
+        "title": "El viento y la lluvia complican el P2 de Cancún",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmhoS2I5b3Jid0hMaGw5aXJJdXhyVG9CSE9ZWnZ3djdoTHAwNWd3d0xTUFREOGtuSjAzM0c5RnBzX2hqY0I2OXZOWlQ5YjViOEk0dlVvSnhKVnNQQ2FwNXZhSXhXV0wwUWlkVFZxeDNKUE5SdE1ZSHFmTzQ4U2FsaWJoONIBgwFBVV95cUxPU2VVeDB0UU93T25oWG5YSzQzbVVKZUZuaTNSM0s4bHpxN0xGQVAtUTAwc1ZHMGpEYWhha3hBVWVZU3VzRGN0UF94Nm1LamFzRlZGQkNQOFU3SEZFMi1VOTVxY0hCbTc5bGh5MUxkZ2NqUHdEWmpRMXl5Q1o5SW1GTXU4dw?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1508832853614-be55e0b8fdec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx2aWVudG8lMjBsbHV2aWElMjBjb21wbGljYW4lMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3NzM5MTQ5NTB8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 07:32:26 GMT"
       },
       {
         "title": "Fútbol y pádel vuelven a unirse en el World Pádel Soccer",
@@ -173,55 +215,104 @@
         "_pub_raw": "Wed, 18 Mar 2026 15:06:27 GMT"
       },
       {
-        "title": "Tino Libaak y Álex Chozas: \"El objetivo es entrar en el Master\"",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0VwWFBIQzlCX1plWXJTSF95OXJDdXBxVDE1ajBQNHRoUEdsSXROX0RyTVlzMG56NDZSUkdvUHJlc2hTWUdNOW1wWkluVWkzTjdLUS1nSEY4VTh2RzNaT1BXNF9UdHpDbUVsVmJuNVUwR0I3YXVyd0NnNDN2Yzc1ZWJjV2FXVWdMMk0yOGNGc2Mta1di0gGUAUFVX3lxTE9oTmlCUVNyY1pPTU9sVEg2V1ZCb1lCaS1YcGU3TDZSNlp0M05kZXhXaFZDeTczcFp2Sk5IVFlDYVBmOEFuTEI4ZWt6R0wzUW1QUVFuT2JIcVNmdGgzcjlvSWZ2M1Y2U2hxaUZ3NmhkZU5ydVdHSUM5QVVldGx1a084NWdwakRzRUtGWkd6dmltdDVHSUM?oc=5",
-        "date": "17 mar 2026",
-        "image": "https://images.unsplash.com/photo-1660463527860-b66aebd362c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx0aW5vJTIwbGliYWFrJTIwJUMzJUExbGV4JTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzczODk3NDQ4fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 17 Mar 2026 07:12:33 GMT"
-      },
-      {
-        "title": "Oysho continúa su firme apuesta por el pádel y entra de lleno en el P1 de Madrid",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmg5el9ZR0lwV216eVk4WHNnOENCWFczekZpTUhGUWNQRmhxM0JCX2RvdVUxSXRrUkxJSTNLeWlOQ2U2ZUZRVDd4cDFtNnV6OGZPSnR3eDlaT1F1Y1hhczZpeXZUTmZDb0tScDFyTVVWZTZNSEIwTkJaVmNHaGo3NHpiOEdzNTBmVXBuT0lJc19Wa2N2dGt0c0ptS0xnYTE3UVHSAaIBQVVfeXFMTk5sanY0VTJvUW8xcmw2ak9Ea0NkemxrQUE4WUltbmVoQXdDZUVYZU53TVdoa3c0OHh0QmZGZmFsNU1JaU5naVBielhqT3V2bUZRYl9MVTR6SGEydWhsSjZyZ2pHMWtRcldzYlFscEVhUUZIWTE0OUVWRi1OSGZlcjVJWGZ2cU1NSEkyT0kxUjVnMHpCRXlpYTlxM1VkVjNrelN3?oc=5",
-        "date": "17 mar 2026",
-        "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=480&q=70",
-        "_pub_raw": "Tue, 17 Mar 2026 09:02:01 GMT"
+        "title": "Esta es la pala para empezar en el pádel con buen pie y no abandonar a la tercera clase por falta de control",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2dtZTRtbDNQUENpb1YteXZNWkJHYmlqYnVtRURkcjdJb2VQVVJadkZSTmFxeEZhN0x6YVF0enVjRkMtUTZZN2w5cjdleW1vQUJQZWpaMVI3dV95TWZFakh1UUxQbFJoZU5USTB6eVQ2Wl8zUG02VHhlWGZ6TnZueE1nSHI3VkJEdzhJS1MzYmI5aUJvTk1qU2pzSmnSAZwBQVVfeXFMUFFPT3FNLTNjTTNkNXlsOVh1b2NXeXlXSmM2TzR6Sk9VNW1rY3JxdUR6NkJSLU5JYjEzT0d2bEZ1ZEpONXE4MXpsc3AxcjVMcnoxRlphZkdHTkVwU0xNM2xScTdXOGloOFRSbjVkel8tVDNsQnhQY1Z0SUgxSVUtTGhwUURMb0phYmNTUktmNWpNUXBCQ1FwVGNyeUdf?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1714741980870-f5295b2cbc07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwYWxhJTIwZW1wZXphciUyMHAlQzMlQTFkZWwlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3NzM5NDM4NjF8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 11:05:17 GMT"
       }
     ],
     "fx": [
       {
-        "title": "Chivas vs. León - Clausura 2026 ¡EN VIVO!",
+        "title": "Liga MX Femenil: Resultados de la Jornada 12",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDJ0Ympab2dTSHRKbHRaaFphTHVKSzBhcC1lOXhrbm9fY3N1OGRpbFF1YW5ib3FjUGlnODhNTWg5ZG00dGt4UUpNYXhxZUU1MEM1VWZ2YjBDRWRaRjd0TnlGcHlBWTUyOTBBRWphRlByOWJtb1g3M3d4cUU5XzlMMUw4alB4dkxqeHZyd203NFpJekN3d2VROHVoZXVMZTJRZFZzc2pTVzhvWGNJc2otcUdhUWoyakx0WThZX0pUVmhPNHM?oc=5",
+        "date": "18 mar 2026",
+        "image": "https://images.unsplash.com/photo-1537222961176-50d25fff78ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwZmVtZW5pbCUyMHJlc3VsdGFkb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzczOTQzODcxfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 18 Mar 2026 04:52:00 GMT"
+      },
+      {
+        "title": "¡Hace frío en la cima! Chivas golea y es líder del Clausura 2026",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV09Va2xWNlUwa3NXRzNiMTlGeWEtcDljR2x1ZDZUYXJUcHdlR0hnMFZwTFpjUzFLM0VUWm04VVY4WTdWN1dmbDNpMnpvNGl4eUEtb3BSX2NVSExfRlBhSWNSSGtJYlJkV3kxOFltMEY1ZHQ5M3RuaE11eTZIckt6a0JuZkFXUG5WdXNwRUhkSWhHT3hHeVdKNDExSEF4TjlHdEYtd1E2MmY2WDhIaWdxRFRCVnpOb2QzYnE4ZUsteWk?oc=5",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
         "_pub_raw": "Thu, 19 Mar 2026 02:01:51 GMT"
       },
       {
         "title": "Chivas vs León: resultado EN VIVO, goles y minuto a minuto por la Liga MX",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZdDNqZmJ2dWRNZ2NrWEVILWtydnhZb2o4UjFPSnZhNnJPSm1hbjd4ZV92aG9NWnJoa241OTRBTm5hSmoxN2ZXNnpUSVoycXFhdnk3MGRKazB4VFVORnFJM2xMelRtNkZaV3BSTVVQWVJiMHFsaHJzdWd1bGxJQQ?oc=5",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
         "_pub_raw": "Thu, 19 Mar 2026 02:07:00 GMT"
       },
       {
-        "title": "Liga MX Femenil: Resultados de la Jornada 12",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDJ0Ympab2dTSHRKbHRaaFphTHVKSzBhcC1lOXhrbm9fY3N1OGRpbFF1YW5ib3FjUGlnODhNTWg5ZG00dGt4UUpNYXhxZUU1MEM1VWZ2YjBDRWRaRjd0TnlGcHlBWTUyOTBBRWphRlByOWJtb1g3M3d4cUU5XzlMMUw4alB4dkxqeHZyd203NFpJekN3d2VROHVoZXVMZTJRZFZzc2pTVzhvWGNJc2otcUdhUWoyakx0WThZX0pUVmhPNHM?oc=5",
+        "title": "Liga MX: Así marcha la tabla del Clausura 2026, tras la victoria de Chivas en la Jornada 9",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTExNQmttQ3hSb1M1UW5IaFpHbFJQVmU5UFZjeHBmQzIxcEJIMkZxM0QwU0ctaFhVd3hWSEFVaXE3RVdSdjF4eG1fbHB6UWI0eW03QWdObjVEXzVlcHd3cUVxVV9JVy1jb0JoZHUwYWJoY3pLX3Zjb19taWFjTUd4dW9LWVh6VzUwV1JmSENtQWNvUkR5bml0bVpkMHBZYTFBNTRQVDNmLS1JNXlJYUdhTmpkQ3h5V3BKWGRjTjJ0cHZJdF9Zd29TTNIB3AFBVV95cUxPMlVlSUgyQ0hOVDZHbEM5TnBsRVlJQ19Pc01WN2sxV3AzRHZ1NjV2NTJwWXhIZ216WVA2VmhBak1CMzR2X2xVelFERmxLS1JiRUtzaEpwbGRWZDZULTlpS0FDRzZVeVVSckU1eC14YUx3WVJ4Z01qUDZSNEhLQzVSS3lJUHpDa1ZUbmcxSDFocVBwdXlLZ0dldnQ4a2N6S0l2Q3hfTTJWYVNZejcxSXJObEV2V1JLenRWYXVSekJuVWJFenViRXFoR3ktdFF3bHhIVzZLVDNoOTEwY0h6?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1578882057257-d30058aa5e5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwbWFyY2hhJTIwdGFibGElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzczOTQzODczfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 16:40:00 GMT"
+      },
+      {
+        "title": "Chivas golea en casa a León para asumir el liderato del torneo Clausura de la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSFQxaUp3amtUUkNnUVp0UGpQQ0pEeGxjcFlLMV93UlhfbVJsbENkeHpSY3MzenIwR1ViZkYtMEd4SjhQcFhtLUpZYWtONkJPN094WTNzcktfXzRTYkozeXliSHlGYUZZY3hEclJlSW81dE01WGo3ak5tZHV0NUdtVGQ5cUozVk1GdkM3OTgteGd1WmF1a3Q5aFhHNWljYW1WX3Njdnh1V3RZbXpVN2xhMmZkOG1mMWhpQTQtd21wa2R5RlU0bXBLUDNORzNnak0yWTZvYjRyMWNVRHBD?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjaGl2YXMlMjBnb2xlYSUyMGNhc2ElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzczOTQzODc0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 05:40:00 GMT"
+      },
+      {
+        "title": "El impensado máximo asistidor de Cruz Azul y de toda la Liga MX en el Clausura 2026",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmozYzQxV0I1c1pPaGlQLThQNGdQUDdWWklVTmdudHNTVjBzR1pEN0dQcDN0M1VIRkZCY3ZUcTdlZG01Z085ODlhVmZaZmJqLXJkS1RfZnh3VUc2YzM4cHVFbXE2bEE2RVZYS3R6T0x5X0ZsMDA5RjJLY0NabWpwZDhsWFpzQmF0ZkplSUw4WG9kZzBlY1Z0MmZRemJGTVNaUjVOWWpITXRkX25vZkk2Z2RpcTVmZWhCWWhfcXZCYU56VlJM0gHKAUFVX3lxTFB4OHhlUGRudU4xS1hQNGJ0REtmY2oyUjNKVno1blVFNTBKS0k1TlpEZHRMUkFKQ29EdVRJVkRkMXI1N1BWQmd0UnJNam53SDZlRFNsY3Z4REE2d3p2SVJKa2IzU05jUTVmeXJublktcXNmWi1ScVNaMDV0ekxkeDJPRTg5NnZvWTNMcHFRUkVKNlN5X2pTVEZ6NU82WFhCbzR5Z00xclA2SlMwOVJRaHZQNEVaZTQxQmhnS01MX1ZHSFc4NW05OXZSVGc?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxpbXBlbnNhZG8lMjBtJUMzJUExeGltbyUyMGFzaXN0aWRvciUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzM5NDM4NzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 14:28:43 GMT"
+      },
+      {
+        "title": "Así va la tabla general de la Liga BBVA MX tras el partido pendiente de Chivas en el Clausura 2026",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGxpSDBVaG55dUNtcDU5VlBzSUdLNGt6NFh1bFg3QVFEbVFTb243dmdmX1JhMVAwTzJSUzFiZ3NjVXJZNVljRXFlSDdRZVBjQ2pvdkczMEtiR0RIV0UzRjVjamlGcl9vb1hVTlNJTUpjcFlUVk5oTG9Wb0xBODZVZGRfUVd1eUg1Mm5aWFk1RHpZeGRTN1A2bThXSlhaNmFsMTI4?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1732037618180-b858701bc106?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHx0YWJsYSUyMGdlbmVyYWwlMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3Mzk0Mzg3N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 04:08:32 GMT"
+      },
+      {
+        "title": "Calendario de la jornada 12, Clausura 2026 de la Liga MX: horarios y dónde ver",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjBoNWdBbVdaTlVLbnFDTW03ejVBMk5sVzVSNjZOSFRIc0xzVWJqMlpoQ3E1ZzhQN01VYkRTelhkYkY5WnZBSmtmTU9DT3owNGlMNXc3YzdRczVPNmY0TV9wUTh4emFrTHF0NWQ4NFo1WEQybUJscWp3dXJVbGFwSzRxMUhjNjZGMEpaOHhGOGtZTmg5Uzczc1BhaDRsSDRRMkpDRF83YkxfZFcwMGZHWGJWN2l4Nm1MWm4tWA?oc=5",
         "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1537222961176-50d25fff78ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwZmVtZW5pbCUyMHJlc3VsdGFkb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzczODExNDUwfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 18 Mar 2026 04:52:00 GMT"
+        "image": "https://images.unsplash.com/photo-1762541024437-34409122c745?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjYWxlbmRhcmlvJTIwam9ybmFkYSUyMGNsYXVzdXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3Mzk0Mzg3OHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 18 Mar 2026 22:39:11 GMT"
+      },
+      {
+        "title": "Mazatlán vs Cruz Azul: EN VIVO, horario y dónde ver el partido de la J12 del Clausura 2026",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObVIwRTk2Z2FzNHdfYUE5dXJNRmJTR2UtUV8wdjNRYzEzaUo5endFMVdOdVBMVE5fZjI3NmoyRmRmMjU0R2Q4NUZQdUdGeWJhbmdfajIySmI0Y2h1YWZZLVg3MHFiNXBjT3o3WERnWjVJVEdnanh3WF90TUk0aG5ESk02OGY1Mmd5WVFxaEhUVzUyblM2VkdMVjRDb2NoaE9fd1J5Q1VEZTRtaXpZdUMyZTExRHdIaDhMRGd4bFpJM0xpUzM5ZmdualJaSzMyYllWUnBDVDJSRWVUZ9IB3wFBVV95cUxNVTl4ekZNVWRaYXB4Z2FVbHdzdGg3b0RpMDRBNWstbzdSQVVTTUlNVjRXZGdLTWxTU1J3UXV0aDBJNmRtOVpGeWQ2SDUzRk9jSVZIUG1qWkE5YlF4c0tjd1hjZURSTzg0S2xBTDhpXzFrcEFQQThudE01VVBra1FQNFlpM0gwNFJUQVA2SG1zOUppRDhxeUZwQXZ6SzZSUDVYTHJRX0xyX0JPR0FMR3N0bTJWS2JlWGM5VU9Fd1E4Yi1VaFVNX2NIMnFSbjIzWUpWSkhjeW5YR2ZoYnZHTDdR?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
+        "_pub_raw": "Thu, 19 Mar 2026 17:09:02 GMT"
       },
       {
         "title": "Liga MX: Así quedó la Tabla General y la Tabla de Goleo tras la Jornada 11 del Clausura 2026 y el duelo de Chivas",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd3dMX3JwZzM0MG5xdlJjNVBOU3YxTFlaUEk3OHQtWGdnVDVoLVNsV2JzNDcyeDM2d1E4aEVHLXduZjZFRF9tSmJ4ODdJNWl1bzRUcFpXak1aZExxNERHdzVVRF95b3RtUkUzSURjSUhpUWlIN01sNDVTRWROczFHUlVMcno5VXp0VWFSOVJKUDEyS05FRXZmRHYwckZrVUNEZVNpbFBVdEVJelhNWUpyTmxPMGFaT1F6b3g3U3hmVFZPOWUwdEp4UkIydVZVc1BFRlU0NG00MjhEYmc?oc=5",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1659239195671-61e1ca305b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwcXVlZCVDMyVCMyUyMHRhYmxhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3MzgzMDMwN3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1659239195671-61e1ca305b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwcXVlZCVDMyVCMyUyMHRhYmxhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3Mzk0Mzg4MHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Thu, 19 Mar 2026 04:09:07 GMT"
       },
       {
-        "title": "América vs Philadelphia Union: pronósticos y dónde ver Concachampions",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2JRTHByRDVlUTFuWmtDckt4LTBNZDVYbzUxdGZEV1FJTGhmUGNMcFNXa0tlc0s5a0dFSlFndFlLR3FEeFVDMlVmQUxwVlZPemlXWWxzS2VuTnUxM3B5dHFXOThYbkk4ZS1lRHcwRzJqZWJUeHpaTWV2QnRDbGtLS0dLNnhHT0NxX0dSd2lPbzcwTWxLdE11T0lrYW5DNGJrMGdZT3hjMWVodHhmWFRFMGIyeEk4azdYOFBrUlN30gG-AUFVX3lxTE9fYlFMcHJENWVRMW5aa0NyS3gtME1kNVhvNTF0ZkRXUUlMaGZQY0xwU1drS2VzSzlrR0VKUWd0WUtHcUR4VUMyVWZBTHBWVk96aVdZbHNLZW5OdTEzcHl0cVc5OFhuSThlLWVEdzBHMmplYlR4elpNZXZCdENsa0tLR0s2eEdPQ3FfR1J3aU9vNzBNbEt0TXVPSWthbkM0YmswZ1lPeGMxZWh0eGZYVEUwYjJ4SThrN1g4UGtSU3c?oc=5",
+        "title": "¡Nuevo líder! Chivas golea, Hormiga anota y el Clausura 2026 les pertenece",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlFyTWJPd0dKQlotRzRZR0huU3VXeUpQZmRWUmJyTlNXOGVrRVZNYVFCNnRuOG1LRUlLd3VSeXhwakZoMHFaQ09vbUVyQVJ1M2tqX3FCR0tiWEtwWlJWUnJmX3NUUXp6U1pOanJDUElrZmhzeVkyTVpBZk0xdlQ5RmtUMXN4OGJlcTdhMklOSXFXcDkzekNXTE5JRXd2WTI5YnVzdGcwQzMwcXRVdkQxOUktUG1pazZF?oc=5",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhbSVDMyVBOXJpY2ElMjBwaGlsYWRlbHBoaWElMjB1bmlvbiUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzM4NjIyODR8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 19 Mar 2026 00:18:00 GMT"
+        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
+        "_pub_raw": "Thu, 19 Mar 2026 04:30:00 GMT"
+      },
+      {
+        "title": "Liga MX: tabla general del Clausura 2026 previo a la Jornada 12",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFphZ0VQeGFjVlBIWXVOa3o0MjRjZ1VVRHV6SnpSWHg2Qm11UzNNRExDakdjNHBkN0lHS3BCZDBNbVNWNTY1RHJxUzhWXzdadkxSUG15QWlTc2RWX3FhU08xcGdHMnJRMkl6Mk02MHpZa19tdHYyMXgyZERzQmpjbHluWHBnTnZfN0l1Nmp4MjdWbnJHeWk4ZldyT1pqRlRLSFB1Qmc4ODBieEZYUHJF?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsaWdhJTIwdGFibGElMjBnZW5lcmFsJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3Mzk0Mzg4Mnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 14:19:43 GMT"
+      },
+      {
+        "title": "¿Cuándo juega y dónde ver a Chivas? Día, hora, canal de TV y streaming online del partido vs. Rayados por el Clausura 2026",
+        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPODlJdlltdkhORl9MallVUHpIaEc4R1B5TnVqSERPSlBGcDE4M3JKOTk1cXF0ck5xbEwtT19tTkk5OHRKbXZHdEg2ZUhrLUhNX2tLV05HLXYyVUhVaEhxZEprX3pGSVczZW5UVGU0d29SbThKZUVJdmJvLW1ucTY3enlSdnVMQ0x4Y1VCQlVxWGs4bWkzSFlMVDBmU1IxQlI4NldHcGlVVmJOM2ZkcDk3WUp0dHQ4WnpXa1ZhYjhKUjhWS0JBQjlRR1pwSDlwZThadV9qS1VVZHd3Q1M1NXp2a3QxbU55UFVsQm43ZjNvd2VRcHBMLTcwYXVBN3Q1LWJSZjVDU1VPWmFLako1YkhsSmpPTmhBVXFHcXZrcGYtRVpwYWdaZWgzQ2x6YWk0b01oWGtJMFRFSUwtNmM4N1pkdDhKTzRaQ2ZzUElaWFpCeXVxTl8wNkhqWEpBR2lZbDJYeURj?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjdSVDMyVBMW5kbyUyMGp1ZWdhJTIwZCVDMyVCM25kZSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzM4OTc0NjR8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 04:00:00 GMT"
       },
       {
         "title": "AMÉRICA a impedir el BICAMPEONATO de CRUZ AZUL; CHIVAS por el liderato de LIGA MX",
@@ -231,102 +322,46 @@
         "_pub_raw": "Wed, 18 Mar 2026 16:57:00 GMT"
       },
       {
-        "title": "Carrera por el liderato de la Liga Mx: calendario restante para los equipos que buscan ser primer lugar de la tabla general",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdW1sSmZCZlJLT0NHVHNTZWw1MDdUdURHSWZUZjFvckNuUXNuNzJ6N2JISzMwSjlmQzlodTFwVmViQ2lsWGtDdk1veGdRekw5eDZwZERMZ1Ayb2h5NXdXdDR6ODlseE9tclVJVElzZDQ0ZGRyQ3lvZ2RQMURNUU1RektySVQzVmpwQlJ2SHZJcGxRQ3pVeHF1UllnWlRUbkt0cjlTd2p3TmNEdElwMXlDbTZNN1Q1QkV1dk5tbTExSWVJNld1Rmh0aHJvNnh6QklFR2JzTTUzWUt1NWt2dFdIUHFfZDkwZnpHQ2dBd3BCTGZLMENKeVAwUXlfSzZRLWVhZ2xGcNIBnwJBVV95cUxNdnlPOVpDejhhNXJhNEZ0TGY2RUVQcHNXc181bkhqNmhwQWJmN1otdXd5QlBwYkpaYl9DMVJTZkd0VExOTXlKYTRTZ0d6RXhRLWFJYUZBYjRmaEY4TURRNlRlRDFMYjJtWkdCdWNmTHVlbzlfeWc0VzNkMDUyMXkyNVlqb2ZKb0pqMHBxcFNYOVlvcWZBX2JlSjdPdVJDNkYyMDRVQ0F2OE5qR25XRzJVaFFVeVV5SHZ4SlVKWnBiMUltSXJ3d0s3Z1pnMktEN25hbmNndk4wNVJQcS1fdWdYb0U1cW1NOWxUdVJwZWVySk5pSHJKX3paS0lJRkxubHJyZklkMW8zMUZtS05wdUpfd0owX3FjSHpRMGlPZlVXUQ?oc=5",
-        "date": "17 mar 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjYXJyZXJhJTIwbGlkZXJhdG8lMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3Mzg5NzQ2M3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 17 Mar 2026 17:23:24 GMT"
-      },
-      {
-        "title": "¿Cuándo juega y dónde ver a Chivas? Día, hora, canal de TV y streaming online del partido vs. León por el Clausura 2026",
-        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPODlJdlltdkhORl9MallVUHpIaEc4R1B5TnVqSERPSlBGcDE4M3JKOTk1cXF0ck5xbEwtT19tTkk5OHRKbXZHdEg2ZUhrLUhNX2tLV05HLXYyVUhVaEhxZEprX3pGSVczZW5UVGU0d29SbThKZUVJdmJvLW1ucTY3enlSdnVMQ0x4Y1VCQlVxWGs4bWkzSFlMVDBmU1IxQlI4NldHcGlVVmJOM2ZkcDk3WUp0dHQ4WnpXa1ZhYjhKUjhWS0JBQjlRR1pwSDlwZThadV9qS1VVZHd3Q1M1NXp2a3QxbU55UFVsQm43ZjNvd2VRcHBMLTcwYXVBN3Q1LWJSZjVDU1VPWmFLako1YkhsSmpPTmhBVXFHcXZrcGYtRVpwYWdaZWgzQ2x6YWk0b01oWGtJMFRFSUwtNmM4N1pkdDhKTzRaQ2ZzUElaWFpCeXVxTl8wNkhqWEpBR2lZbDJYeURj?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjdSVDMyVBMW5kbyUyMGp1ZWdhJTIwZCVDMyVCM25kZSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzM4OTc0NjR8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 18 Mar 2026 11:26:00 GMT"
-      },
-      {
-        "title": "El Tri tiene fecha para iniciar su camino al Mundial 2026",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWW5oOUlPdWdBQjFnSGRiSmdmN3NHdkZIRUJ3UDdVU2xEQW0xdnFROEtWV1NLSDc1T1pPM1FMR2Q0R3M1UzAteW9VaUd1QllONkN2TzVWd2FvMW12TFcxUU1qOWR6RUw3Unh0UWFiYXFDZlBxS29ic3MzQjc2OGw0b2lzWUN3VncxSjdPX1VSSzhMSWFwX2pPbU1pSkE4TGlUU3BfQTNJSWNRV0xKckE?oc=5",
+        "title": "Cristiano Ronaldo, ¿cuántas ocasiones ha enfrentado al Tri?",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlF0TkxsbFNxT2JDdFFrODlyOTluel90NHE4dTVydkdKcVVzVzVua1EtTzFsYUJWaTl0Q3JaRVJGdlJWdU5Pc2gwSzVFYmhIWlFLT2lGS0NJMzByR2U0WlRGREo2dE5QMlkzZUpYTVVxd2xVX0U2U1pJMURMS2hsVE8za29BaFRpWUllUFVEMW10TVRwUFdTZnk0VklTSHNRVjdlUUNVY0FaZXpGX1Q3WVdfZFMxN1AyNS1tZDQ0TQ?oc=5",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHx0aWVuZSUyMGZlY2hhJTIwaW5pY2lhciUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzM4OTc0NjV8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 19 Mar 2026 02:16:51 GMT"
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
+        "_pub_raw": "Thu, 19 Mar 2026 05:47:00 GMT"
       },
       {
-        "title": "Durante Festival de Villahermosa se instalarán pantallas para transmitir partidos de México en Mundial 2026: Osuna",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS2U0ZF9rb1JtaHV6bFlvekxZbDhfSU9aWjd2ZDFuTmllOTJydmFfVE9mUnk4SXJZQnd6RXZKbXdteks5WVVjZjhObUVMNUM4R3hvYjFweW9nMjh5bldEbVlXVWR6QXdyY1I4YlBiZ3dDM1RkZDFvR0d4R3JZdnlUUlpDeUJIaFdjSy1sZDZoRDNNUGpiN0NIaWcyQUczVmZoRVBjNFY3a09fak5TajBmYkdyRGlKZWZGZnBNa2FsdDdkRXBHMTdtX1JhNUNhaUZTdjJKSGd6ejktQnJzSHJZam1xSnQ?oc=5",
+        "title": "Javier Aguirre define a los tres porteros de la Selección Mexicana para el Mundial 2026",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVhXVVBtNDZWV2ZXMnlUZTN5TnNWUVN2aDI4UVM3LV9iOEdoWnc3a2dUU0pvMl92UlVFWXhxTnRibVNPa19hQ2NPTFliY2RCSEN3TWNmZXRVWThPVnlza05yWUo5QzdobmpWN1BlUzJCVTNicFJXdFktVjRNSUw5am5lV3psMVJMazZvMm1OWEEzNHZiVFdKemdqczdPRF9FUl96Y3NEZ1hfMFVnc25n0gG0AUFVX3lxTE9IU2tncm80UWtLNHNfSjJSWk9fZTg2bzNRWU43RVk1MTkwdkg4U28zQ01zMEhXbk9iOVl3ellGRmQ3YWRvTWhzV3VIY3JtSHN6a25jZUl4NGxMWFFsV1kyVjZFX05UR3psYVZYbUxVdFc3S1VPZHFEZXRyajEwMzBRMEZ5djFBd1BwZkttVk16aWprZVJFZlA0dTJHaTIwbUtxMnF5Yi0xRWdReDYzMVN4SU1Gbg?oc=5",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1659239195671-61e1ca305b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxkdXJhbnRlJTIwZmVzdGl2YWwlMjB2aWxsYWhlcm1vc2ElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzczODk3NDY2fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 19 Mar 2026 04:00:35 GMT"
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "_pub_raw": "Thu, 19 Mar 2026 17:48:12 GMT"
       },
       {
-        "title": "Mundial 2026: ¿Cuánto cuesta comprar todos los jerseys que se usarán en la Copa del Mundo? - ESTO en línea",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSjhOZnhiSW1qbE51cDBjbnFyQkJpaW1Kbjg1STVqcmliNnJJZ2tqeHctNWFfT3FPd2w4cnd6UEl3NVdwaC1OZlRjNDZ0OG5GNldIb21DX1FfNURmajJmWEtxOEhDeHNwdDI3WkQ3MkpJblR5WGVZU3JyWWx1NXNYc0RvWkk2cUFsU1YyU25Vc05tV1Iyb1U4aVhxSkNuVUVTOC1IZXVGOWpGcU1WTG5fWm5Qcm5oZThUVWc0WFBlblh2Z0RZS0ZEYU1kZkd1QQ?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Wed, 18 Mar 2026 18:39:10 GMT"
-      },
-      {
-        "title": "¡Hidalgo es mundialista! Sudáfrica entrenará en Pachuca",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcEdnaDdMVExRVDBEX2stazNfRGtQZ2NKTE9aa0V5NVQtTF8tVFhhWmVFWVdVRWpTeEJFM3hfVFB4MUtZUHVYelRtWVN3Vk0yRWRZWnp0N2tqd0hUZUw4Znc5SEJzdkRjakgzY2pGYVVXYzQ0cFYzZ0NiY1FHVlluMldlZHUyOXNQWGx2dGFiZ21uYVpJZTVvY3ZydkRmazNIWXJiVndsR3k0bTU1dHdpbGJBS19xS2hHOW5mbTRmWUZhbTZXTGtZRHp0czZtZU5pV1huWTBR0gHbAUFVX3lxTFBhcmxrQUxDMjNoZFd6NS1OTUU0UHNJN3RJSUFyczVaNjdGX0tHRnJ4NEZoQVdhbjM1YmQwM0JpZ1Z3UE9hUmdCLUNJeE1MblJUajg1YnFVdmRxS3RxdGt0ZVpQX3o2YWprMkljZTdfcE5JbFNNMERqMW8zeExSeGk2UzFDQlRaWVpqa3JCMWxxUmlsVHlfZ0VNT0hRNVg4aGNqNGVGMnV6QV93R0RzZi1XZ1ZtNDBoQmZXN2VqdGlHQ2QzclRNR1hjZjdtYnR3WEtwUEg4VDc2MmdZWQ?oc=5",
+        "title": "¿Se afianza rumbo al Mundial 2026? Marcelo Flores recibe su primera convocatoria con Canadá",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbTlJRmlxRUJEN05TMC16RWNTOS1QQnZzb1pQd1J6NENYeFcyZmlKcGUtb0tHM1Uyc2MzVkZfVHNNMkd2dm5CUG5ObEMzY3pFWXFqTlc0MUV1a2QyV05HNzgtRFR1ejlnUU5ZV3FZUmx6RkEza1lZQ2VacWJUTFltQmhsSU1DQk1TVTBRNGVtZ09VRldhZTc5bGNaZ1hqVnVSNHdCdnEzN05iSGstOG5sVHp3V1dsNDc4UHl5VUdkRDJaNl90Mm9qOURza1U5ZEMwYUhtaWFjM2ViNjJK?oc=5",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
-        "_pub_raw": "Thu, 19 Mar 2026 03:20:00 GMT"
+        "image": "https://images.unsplash.com/photo-1762541024437-34409122c745?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxhZmlhbnphJTIwcnVtYm8lMjBtdW5kaWFsJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3Mzk0Mzg4Nnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 15:35:00 GMT"
       },
       {
-        "title": "Panamá vs México: ¿Dónde y a qué hora ver el partido de la Eliminatoria Mundial Sub-17 Femenil de la Concacaf?",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa3FXSW9XTlRnRUhXazlxcW9wQzM3cXJ3Y1cwY3ZqOUZLcjE4U0NmajctTDJNa0pKSllYbHlZY0FqcURkd29rVmZOU1BWdkxpYmtxX0tBN2ctU25RNmxzTXdKMmwtSEF4eUJZMXRRMWFNS1cyRlg5RVNMQl83emNuM0FCbzdER2cxNngxZHRYemtRdzRVWGxDODY0Vi1uNTlfM3hETWVzSHhIXzVRVUFzSzdSMWt1NFFGRmh4VnJuRFI2VDY0dTZmODE4d19JYm1KUTZOT2l1XzdybzRjNkFmVVBrT0Zmd2ZiNkFwZ1ZDM1dSU0Nq?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
-        "_pub_raw": "Wed, 18 Mar 2026 18:16:00 GMT"
-      },
-      {
-        "title": "Resultados Champions League 2026 Hoy: ¿Qué Equipos Avanzaron a Cuartos de Final?",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXZRN290bVFZLWpBRDh5S3BubEFIT0hVdGcyWVhkN3h1ejd2OXRvODVQbzBzMU5DT1JGQU5Yb1lvRzZIUnpLb1ZlUzBZMU9KZW9lanBWZEN5SHNGa0x4ZzJLOHdIQXZDUWFfVXo1Zzlkdy1PN1FqdE1aZU9IQl9fSTZKZE4ybmNFSkJEZ2tYZzhNQUpqMlA5bHpxRlR2ZTZRRU5OUGw0UFoyQUVibHgzeHpHVElYa2c?oc=5",
-        "date": "17 mar 2026",
-        "image": "https://images.unsplash.com/photo-1619301912381-76a94f8b28c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxyZXN1bHRhZG9zJTIwY2hhbXBpb25zJTIwbGVhZ3VlJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3MzgxMTQ2NXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 17 Mar 2026 22:56:36 GMT"
-      },
-      {
-        "title": "Champions hoy EN VIVO: partidos, resultados y minuto a minuto",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2FETGtGU2twQktueGtJQUhkM0lPNGVyUk94bnI0V1A3YXJHdl9tN1ZSTVNKWEp6NmdwbmNsaHlXNXQwRUQwN254VlFYN1hJaGFiR3M4OVdpTW4tbVpYNWNWd3M2SWVzOEhYWUdtSkRUeG9iOFBCZ1hoeFFWRjR0X0YzMVR6LWZqaUpUSy1VaE8yNWhVNnFfbFFSa0xzTjVWWUU0M0lhSkludUJV?oc=5",
-        "date": "17 mar 2026",
-        "image": "https://images.unsplash.com/photo-1671573901240-d35a90ec71d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjaGFtcGlvbnMlMjB2aXZvJTIwcGFydGlkb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzczODExNDY3fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 17 Mar 2026 14:14:43 GMT"
-      },
-      {
-        "title": "UEFA Champions League: Resultados en vivo, partidos y tablas",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14Q3lHcG96Z3E3OHlacjR6Yk9RNkJnLTZ0NG1Id2lNQUZzWXQtcHcxc2hxOWhlVmZYRkxQUjZ2U1BsQUJPcXdveHQ5SWxHM0QydFpWcjFmNVdmRDFLSGRLcTJoR0lCenJBRmc1V1h1MlBtOVJYYlVyOW53?oc=5",
+        "title": "Armando González lleva ventaja sobre Germán Berterame para el Mundial 2026",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNVNtcDZVSTZSX0R4bjNtVDU5Wlk4WXpVU2dIaDVtQUlwWEJGWGltTFpsMGhHUFRWcHMwVmZiS0NpejVnZ1NxLTIzUHNUd2FCMU95RU5IQzVDd29iWnhWUy1nSDBpSlpVU0dXWDNmZXljcVFSdnpacXhDNEswVHZkX2twR1ZJN3Z3aTlrejB4bElYaFBmMlBOOXhJNDRhaHh0UGl5YkdQTUJZOVIzbEt1VkM2Zi14T1hVbklyUTBDNUNJLWZWTGowMExubw?oc=5",
         "date": "19 mar 2026",
-        "image": "https://images.unsplash.com/photo-1537222961176-50d25fff78ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx1ZWZhJTIwY2hhbXBpb25zJTIwbGVhZ3VlJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3Mzg5NzQ3MXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 19 Mar 2026 02:18:27 GMT"
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhcm1hbmRvJTIwZ29ueiVDMyVBMWxleiUyMGxsZXZhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3Mzk0Mzg4N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 18:08:08 GMT"
       },
       {
-        "title": "Resultado y goles Barcelona vs. Newcastle: FC Barcelona aplasta con exhibición de Lamine Yamal, Robert Lewandowski y Raphinha en Champions",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWnlnSlBvQU5oNUhadlp2VzFfWVFwM2VteE45SHRtZUxXZDdfWXlzUHRlbHF0MTNKeFFDZThIRmZXZnI2VUJwTHNTUXVacjZkT3hjZUk1TUNBblRBNXVqZVBzczBkalhvMzlKYnRCcnA1bEJrd25NRFFvUWx3a1ppV1JPN3ZFQ2pBWjM2aGVIVHZlTmZlQm9kejJ0TTFXVE43a1JQRmdlUmRfakxSRTByUTJ6RWpMaGdOZDVLa2xOLVM5XzNhd25lVEVNdHRmajlKOTVhRE5wUExibzRXTk0zU0FaZXdrWkx1Sy04NldvbUItNkVCdnpKSDdkeXdNajlyRC1vejUyUlM0djJFTkZKV2p2U3hZS0x5aUV1MnNTVdIBpAJBVV95cUxOUVdsSlRQaFlyQ0VfQWc2bzJoZTZRRkt4YnZEdXh5dzVFU28zVDVqX0ltMW5GeXAzSmVYX19JRE1oSXVCRlZ1LVAwVWVOYU9ydnJoUWZ2aEk5Z3pXVUpMU29RMl81S1d2Rk9PQjU0MXFXc3Q4S2hDTmNtaTNwVXJKMUxyQVJaa1dWTDdBcnY5eWFFY29tY0J6NmQ1dzlVekhrVEtjeklpUkotY3Jsckdvb0x1bEx1UjczMTRMdURJRU4yaWZMU2tnaGhGR0VnM0NHNExTS2ktMjFQUk9IcTFNSVIzOURJc3dTdlhPRERpdVkzZlB1ZFkzS0YtMHA3LUNHZTZOaGRtaFRvVDRlbWlxR25KWlotXzYyeURlYU44ejZ0akNN?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Wed, 18 Mar 2026 19:45:00 GMT"
+        "title": "Ni Gudiño ni Acevedo: él es el arquero que debería suplir a Malagón en el Mundial 2026 según las estadísticas",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSlpfMGxsamlMVV9vMHFjaUJQWFdNM29HTl9OQ3BzTnBhNVFoNnRuLVVZQnhkZHEtOWxrT080cTZNRFBhN3MxRlNDRTh0NmZNcGU5ek9COS12S0ZySzEzWkJxVF9PN3hPcVlKZU1pVlFhOGVrS2ZUc3BkVVlQM09YbXR6WHkzNHBtS0w3MlpDazdtQUxzTVJDNWd1em95OWZpM1NjaXdhQzdNU01OWVMyOUF4NUFMeGxkSW5wYTNOUlVKek5RT21jVVNRT2t6U3pkaERNc1BuQ1FrVUVsMGNKUXZfcHptQ2cxUk0tR1ZVc3JSd9IBjAJBVV95cUxNOUU5RThXc2lmaVg2bmM5T0Y4XzNDbWVpQXNycERkd0tPRDNZUDF3am1qNnFfVC1nQWdncGZkY0pEdFB4WWliRm1QYVBmR1FJLUJnV25LRnZJTFlRZy1XZ0NjM2JiNThjTWd5VXFuS2NudmtOSktXYlBfQkdIR196emdIZk03bTVHTmRfRjdOUlE1MEhmOXA3eEViUlhMVkpRT2I2QmRwRWZybG50MXQxTk9CVHppU1VEcDdMUHhtT2tIRUNMamI3REl1cktXZUZZRkJJeE8tSkhZcU1nd3ZMdWM5bFFZWkxkRlhMUWpwS1NDbFljczFzbnNMeFpITERTcTZMeEd3OG1Ka1Bu?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxndWRpJUMzJUIxbyUyMGFjZXZlZG8lMjBhcnF1ZXJvJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3Mzk0Mzg4OHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 16:33:56 GMT"
       },
       {
-        "title": "Barcelona vs Newcastle: resumen, resultado y goles de los octavos de final de la Champions League 2026",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZFJDLU5ETjBTeW5ZOUFfeDdEN1FwMF8yR19Xcm1RdjVubG9samVndWZpSmtGOVRQQmNXalcxbmNJYm9iTEdraG8xWjF5VVRfZEFxdVNuNjhRLTJUcUxJS0U1aW11ckE0NmYwQWxGdWhJRW9wTlRxWGNRT3N6NTNVeHNHdDdSYVo1eHFJdnNtTmxpR3ljcGdza05ENkppdHktTnhxOWZTLVBURDlub3VCajZpZko0SFBKR09QV0s1LXVHMVg1Vm0wTjMxcGI2Yi01SmU0VnJZTHdtbnA1OHFmc1NMdHFPd29TMEJhMQ?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
-        "_pub_raw": "Wed, 18 Mar 2026 17:45:28 GMT"
-      },
-      {
-        "title": "Resumen Bayern de Múnich-Atalanta: Harry Kane avisa al Real Madrid (4-1, global 10-2)",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUmtLb0JNeUFKY2g0dlJxbnM0X2NoS3dyY1ptRzF3VlY5R0Y4NkZNak9LWFNsTlp1M2tMVzA3S3lJc1RWTVk0c0xHam9CdW04WWlUMkkyS1NESlU1clgyY1dZdnRxMFR3MVBabzkxRjdOVEFqempqT1I2Z3o5Rjk5VmV1ZzlkVkhmSXpZRks3enc3ZHB6SjRRdW5FZXdrbVZBaDh3d2hNUjdSOGFlb09TOXpBVHdPanA0SDllOXMyZ0k2Nmx4ZG93UmEwTGEtaDVBLUt6NEtLdTRWOHlSZC04OTJRMDlLQlVXUElWYWFRY0VFZks2TzVLMXdvejNndVExeW5URlRraFY2OHE0cTloN0pUa2did01WTXhleHp3?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
-        "_pub_raw": "Wed, 18 Mar 2026 22:14:00 GMT"
-      },
-      {
-        "title": "Resultados de la vuelta de los octavos de final de la Champions 2026",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk5BMk80YmJwc2dWVDlaNy1TZDJwdGZVSzdXRVI2RW10Mlp6QUdOY00xUEdUZGJaYjRLMi1WYU9DcmpjVldDNkJxRGQ4QTNNTWM4LUNwUHVuT1k5dlNwUVIyTi1FSndWWUpfd25YY012RUZZVWZLQnpTa19pdlhwdXRtSC11OUVxYWhtaFo2RXdscHFfWkp0djhzZ2FhRnlTMEE?oc=5",
-        "date": "18 mar 2026",
-        "image": "https://images.unsplash.com/photo-1619702134729-e5e082e58b13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxyZXN1bHRhZG9zJTIwdnVlbHRhJTIwb2N0YXZvcyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzM4OTc0NzV8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 18 Mar 2026 22:56:35 GMT"
+        "title": "Mundial 2026: La FIFA rechaza petición iraní de jugar en México",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWFQek54MWhOUHd1akF2TE02bzgxY3puZTd5Ri1QaU1LU1l0c24zUmtTOVB3SG1TaEJvWkJVLWhtTWZKM2lrdEIzZDh0dE5fdGxjWFI2cWJXYjlyVXF6RnlEdWtWbjFBaGczTlRNa21WelNMZFQzTnBxU1VSaVQ5aHBzYmQyemc4LTFlLUcwNUk3MzVuaGYyMHd2cjBJU2N2UXhBczBIc2w5NnE1Rnphdk55SmRqZDDSAbwBQVVfeXFMUDUydXRFYU9nU3RzU3BOT25aZmk4SjUzQ2VCYVdqaGl3UXFSTS1uTmU0d0RJc3c3U1ZWdGlCNzg4V2hkNGV1Y1Q3V0tQQ2szS2JNNzNPWUkxNTlQc3NETENwVjUxMng5UFRSME5wTGktVEYzekl5MGhFZzZ6bzIzbDVSWXpNczVqRnR0TTVMNVplUHppSE02LXBScTRkRDlqbkhacTFWeEt1eFdQRXA3ZFpaazJoWlhwbVVlUEE?oc=5",
+        "date": "19 mar 2026",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxtdW5kaWFsJTIwZmlmYSUyMHJlY2hhemElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzczOTE0OTc2fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 19 Mar 2026 06:02:00 GMT"
       }
     ]
   }
