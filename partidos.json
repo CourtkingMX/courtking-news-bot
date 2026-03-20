@@ -1,23 +1,23 @@
 {
-  "updated": "20/03/2026 22:59 UTC",
+  "updated": "20/03/2026 23:54 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Fri 20 Mar",
         "local": "Nets",
         "visita": "Knicks",
-        "score": "",
+        "score": "9-7",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 20 Mar",
         "local": "Pistons",
         "visita": "Warriors",
-        "score": "",
+        "score": "14-9",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -80,9 +80,9 @@
         "fecha": "Fri 20 Mar",
         "local": "Villarreal",
         "visita": "Real Sociedad",
-        "score": "3-0",
+        "score": "3-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -125,18 +125,18 @@
         "fecha": "Fri 20 Mar",
         "local": "Bournemouth",
         "visita": "Man United",
-        "score": "0-0",
+        "score": "2-2",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Fri 20 Mar",
         "local": "Lens",
         "visita": "Angers",
-        "score": "4-0",
+        "score": "5-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
