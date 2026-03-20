@@ -1,5 +1,5 @@
 {
-  "updated": "20/03/2026 17:55 UTC",
+  "updated": "20/03/2026 19:50 UTC",
   "sports": {
     "bk": [
       {
@@ -145,16 +145,16 @@
         "visita": "Napoli",
         "score": "0-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Fri 20 Mar",
         "local": "Genoa",
         "visita": "Udinese",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
