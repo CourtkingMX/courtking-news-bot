@@ -1,5 +1,5 @@
 {
-  "updated": "20/03/2026 17:10 UTC",
+  "updated": "20/03/2026 17:55 UTC",
   "sports": {
     "bk": [
       {
@@ -143,9 +143,9 @@
         "fecha": "Fri 20 Mar",
         "local": "Cagliari",
         "visita": "Napoli",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
