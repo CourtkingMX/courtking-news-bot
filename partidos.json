@@ -1,5 +1,5 @@
 {
-  "updated": "20/03/2026 21:01 UTC",
+  "updated": "20/03/2026 22:59 UTC",
   "sports": {
     "bk": [
       {
@@ -80,9 +80,9 @@
         "fecha": "Fri 20 Mar",
         "local": "Villarreal",
         "visita": "Real Sociedad",
-        "score": "",
+        "score": "3-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -125,16 +125,16 @@
         "fecha": "Fri 20 Mar",
         "local": "Bournemouth",
         "visita": "Man United",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Fri 20 Mar",
         "local": "Lens",
         "visita": "Angers",
-        "score": "0-0",
+        "score": "4-0",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -152,9 +152,9 @@
         "fecha": "Fri 20 Mar",
         "local": "Genoa",
         "visita": "Udinese",
-        "score": "0-0",
+        "score": "0-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
