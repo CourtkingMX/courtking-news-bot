@@ -1,7 +1,28 @@
 {
-  "updated": "20/03/2026 05:08 UTC",
+  "updated": "20/03/2026 10:03 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "5FxdC-QWfzA",
+        "title": "NBA&#39;s Nightly Recap | March 19, 2026",
+        "thumb": "https://i.ytimg.com/vi/5FxdC-QWfzA/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=5FxdC-QWfzA"
+      },
+      {
+        "vid": "HCPL7DD6Y9Q",
+        "title": "NBA&#39;s Top 10 Plays of the Night | March 19, 2026",
+        "thumb": "https://i.ytimg.com/vi/HCPL7DD6Y9Q/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=HCPL7DD6Y9Q"
+      },
+      {
+        "vid": "cqoaDdtdNr8",
+        "title": "LeBron sounds off on Luka&#39;s big night! 🙌",
+        "thumb": "https://i.ytimg.com/vi/cqoaDdtdNr8/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=cqoaDdtdNr8"
+      },
       {
         "vid": "B1cCFmLBHYk",
         "title": "WILD COINCIDENCE ALMOST 10 YEARS LATER!",
@@ -17,25 +38,11 @@
         "url": "https://www.youtube.com/watch?v=z1yn21tJqE8"
       },
       {
-        "vid": "1_CzN0KIzG4",
-        "title": "Luka Dončić becomes the first Laker to score 60-points since Kobe Bryant almost a decade ago 🤯",
-        "thumb": "https://i.ytimg.com/vi/1_CzN0KIzG4/mqdefault.jpg",
+        "vid": "ANF045KnBaA",
+        "title": "Lakers/Heat Postgame x Analysis: J.Worthy, Luka, Bron, Redick Reactions | March 19",
+        "thumb": "https://i.ytimg.com/vi/ANF045KnBaA/mqdefault.jpg",
         "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=1_CzN0KIzG4"
-      },
-      {
-        "vid": "4ipW6WmptFA",
-        "title": "LeBron loves seeing his teammates win 🙏",
-        "thumb": "https://i.ytimg.com/vi/4ipW6WmptFA/mqdefault.jpg",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=4ipW6WmptFA"
-      },
-      {
-        "vid": "ixj_MraNTHo",
-        "title": "76ERS at KINGS | FULL GAME HIGHLIGHTS | March 19, 2026",
-        "thumb": "https://i.ytimg.com/vi/ixj_MraNTHo/mqdefault.jpg",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=ixj_MraNTHo"
+        "url": "https://www.youtube.com/watch?v=ANF045KnBaA"
       },
       {
         "vid": "JO2l3q2J424",
@@ -50,53 +57,53 @@
         "thumb": "https://i.ytimg.com/vi/oVv70pnwp2o/mqdefault.jpg",
         "date": "2026-03-20",
         "url": "https://www.youtube.com/watch?v=oVv70pnwp2o"
-      },
-      {
-        "vid": "XCsbPe0Wun4",
-        "title": "Lakers/Rockets Postgame x Analysis: J.Worthy, Luka, Bron, Reaves, Redick Reactions | March 18",
-        "thumb": "https://i.ytimg.com/vi/XCsbPe0Wun4/mqdefault.jpg",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=XCsbPe0Wun4"
       }
     ],
     "pd": [
+      {
+        "vid": "yAs1NAntOSc",
+        "title": "Cancun Premier Padel P2🇲🇽🎾: Day 3 -Men Highlight",
+        "thumb": "https://i.ytimg.com/vi/yAs1NAntOSc/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=yAs1NAntOSc"
+      },
+      {
+        "vid": "Q1q9V1ziq3E",
+        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇬🇧) (March 19th)  (Part two)",
+        "thumb": "https://i.ytimg.com/vi/Q1q9V1ziq3E/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=Q1q9V1ziq3E"
+      },
+      {
+        "vid": "NvecjB_gtw4",
+        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇪🇸) (March 19th) (Part two)",
+        "thumb": "https://i.ytimg.com/vi/NvecjB_gtw4/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=NvecjB_gtw4"
+      },
+      {
+        "vid": "0NVySg_YvIE",
+        "title": "Cancun Premier Padel P2🇲🇽🎾: Day 3 -Women Highlight",
+        "thumb": "https://i.ytimg.com/vi/0NVySg_YvIE/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=0NVySg_YvIE"
+      },
       {
         "vid": "KHrnIlp4d1w",
         "title": "An INSANE point from Agustin Tapia 🤯😮‍💨🎻#PremierPadel #CancunPremierPadelP2",
         "thumb": "https://i.ytimg.com/vi/KHrnIlp4d1w/mqdefault.jpg",
         "date": "2026-03-20",
         "url": "https://www.youtube.com/watch?v=KHrnIlp4d1w"
-      },
-      {
-        "vid": "z7i2i-c0pbE",
-        "title": "Cancun Premier Padel P2 🇲🇽🎾: Court 2 - Cancha Bullpadel (Part two)",
-        "thumb": "https://i.ytimg.com/vi/z7i2i-c0pbE/mqdefault.jpg",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=z7i2i-c0pbE"
-      },
-      {
-        "vid": "5Fb1qxJS5FA",
-        "title": "Cancun Premier Padel P2 🇲🇽🎾: Court 3 (Part two)",
-        "thumb": "https://i.ytimg.com/vi/5Fb1qxJS5FA/mqdefault.jpg",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=5Fb1qxJS5FA"
-      },
-      {
-        "vid": "uaMXHe0oJBY",
-        "title": "19 March 2026",
-        "thumb": "https://i.ytimg.com/vi/uaMXHe0oJBY/mqdefault.jpg",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=uaMXHe0oJBY"
-      },
-      {
-        "vid": "B8C1kG5CRgg",
-        "title": "Josemaria resolves the Star Point 𝗱𝘆𝗻𝗮𝗺𝗶𝘁𝗲-𝘀𝘁𝘆𝗹𝗲 🧨🌟 in the #CancunPremierPadelP2",
-        "thumb": "https://i.ytimg.com/vi/B8C1kG5CRgg/mqdefault.jpg",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=B8C1kG5CRgg"
       }
     ],
     "fx": [
+      {
+        "vid": "NV1zXI2pSG4",
+        "title": "La apuesta de ARBELOA por la cantera en el REAL MADRID está siendo un acierto 🤍",
+        "thumb": "https://i.ytimg.com/vi/NV1zXI2pSG4/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=NV1zXI2pSG4"
+      },
       {
         "vid": "MfvFgjFstAU",
         "title": "LALIGA celebra su primera Jornada Retro | En DIRECTO: LALIGA Fashion Night",
@@ -124,13 +131,6 @@
         "thumb": "https://i.ytimg.com/vi/adTZpFlIoCw/mqdefault.jpg",
         "date": "2026-03-19",
         "url": "https://www.youtube.com/watch?v=adTZpFlIoCw"
-      },
-      {
-        "vid": "2UGeJtIoj1Q",
-        "title": "Ronda de golazos pre EL DERBI DE MADRID (VALVERDE y NAHUEL MOLINA) ⚔️",
-        "thumb": "https://i.ytimg.com/vi/2UGeJtIoj1Q/mqdefault.jpg",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=2UGeJtIoj1Q"
       },
       {
         "vid": "RwL6zA0n-q4",
