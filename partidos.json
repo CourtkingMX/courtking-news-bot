@@ -1,5 +1,5 @@
 {
-  "updated": "20/03/2026 19:50 UTC",
+  "updated": "20/03/2026 21:01 UTC",
   "sports": {
     "bk": [
       {
@@ -134,9 +134,9 @@
         "fecha": "Fri 20 Mar",
         "local": "Lens",
         "visita": "Angers",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
