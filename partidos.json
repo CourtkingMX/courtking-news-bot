@@ -1,5 +1,5 @@
 {
-  "updated": "21/03/2026 17:53 UTC",
+  "updated": "21/03/2026 19:02 UTC",
   "sports": {
     "bk": [
       {
@@ -145,25 +145,25 @@
         "visita": "Getafe",
         "score": "1-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Levante",
         "visita": "Real Oviedo",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Osasuna",
         "visita": "Girona",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -242,9 +242,9 @@
         "fecha": "Sat 21 Mar",
         "local": "Everton",
         "visita": "Chelsea",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -260,7 +260,7 @@
         "fecha": "Sat 21 Mar",
         "local": "Toulouse",
         "visita": "Lorient",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -296,9 +296,9 @@
         "fecha": "Sat 21 Mar",
         "local": "Milan",
         "visita": "Torino",
-        "score": "1-1",
+        "score": "3-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
