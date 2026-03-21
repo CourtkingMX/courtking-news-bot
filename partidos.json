@@ -1,5 +1,5 @@
 {
-  "updated": "21/03/2026 16:58 UTC",
+  "updated": "21/03/2026 17:53 UTC",
   "sports": {
     "bk": [
       {
@@ -296,9 +296,9 @@
         "fecha": "Sat 21 Mar",
         "local": "Milan",
         "visita": "Torino",
-        "score": "",
+        "score": "1-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
