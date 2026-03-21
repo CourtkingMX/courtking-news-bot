@@ -1,41 +1,41 @@
 {
-  "updated": "21/03/2026 22:54 UTC",
+  "updated": "21/03/2026 23:48 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 21 Mar",
         "local": "Wizards",
         "visita": "Thunder",
-        "score": "85-89",
+        "score": "111-132",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Hornets",
         "visita": "Grizzlies",
-        "score": "",
+        "score": "45-38",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Magic",
         "visita": "Lakers",
-        "score": "",
+        "score": "43-39",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Pelicans",
         "visita": "Cavaliers",
-        "score": "",
+        "score": "40-43",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -172,7 +172,7 @@
         "visita": "Valencia",
         "score": "0-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -253,7 +253,7 @@
         "visita": "Brentford",
         "score": "0-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -278,9 +278,9 @@
         "fecha": "Sat 21 Mar",
         "local": "Nice",
         "visita": "PSG",
-        "score": "0-3",
+        "score": "0-4",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
