@@ -1,5 +1,5 @@
 {
-  "updated": "21/03/2026 07:10 UTC",
+  "updated": "21/03/2026 09:01 UTC",
   "sports": {
     "bk": [
       {
@@ -73,7 +73,7 @@
         "visita": "Cruz Azul",
         "score": "1-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
