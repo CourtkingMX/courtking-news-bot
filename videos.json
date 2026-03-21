@@ -1,7 +1,14 @@
 {
-  "updated": "21/03/2026 04:55 UTC",
+  "updated": "21/03/2026 09:02 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "2alijKTxri4",
+        "title": "NBA&#39;s Nightly Recap | March 20, 2026",
+        "thumb": "https://i.ytimg.com/vi/2alijKTxri4/mqdefault.jpg",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=2alijKTxri4"
+      },
       {
         "vid": "4nzMg6LfmAM",
         "title": "NBA&#39;s Top 10 Plays Of The Night | March 20, 2026",
@@ -31,13 +38,6 @@
         "url": "https://www.youtube.com/watch?v=uJTTJsnzfO8"
       },
       {
-        "vid": "6itGpuwLU_Q",
-        "title": "CELTICS at GRIZZLIES | FULL GAME HIGHLIGHTS | March 20, 2026",
-        "thumb": "https://i.ytimg.com/vi/6itGpuwLU_Q/mqdefault.jpg",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=6itGpuwLU_Q"
-      },
-      {
         "vid": "ANF045KnBaA",
         "title": "Lakers/Heat Postgame x Analysis: J.Worthy, Luka, Bron, Redick Reactions | March 19",
         "thumb": "https://i.ytimg.com/vi/ANF045KnBaA/mqdefault.jpg",
@@ -61,6 +61,27 @@
     ],
     "pd": [
       {
+        "vid": "_P6vA7wkU_M",
+        "title": "20 March 2026",
+        "thumb": "https://i.ytimg.com/vi/_P6vA7wkU_M/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=_P6vA7wkU_M"
+      },
+      {
+        "vid": "moqZvd6EXBs",
+        "title": "Out the court? No problem for Franco Stupaczuk ⚡️🔥 #CancunPremierPadelP2",
+        "thumb": "https://i.ytimg.com/vi/moqZvd6EXBs/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=moqZvd6EXBs"
+      },
+      {
+        "vid": "esBCazFP4Ik",
+        "title": "Won&#39;t even try to stop that bajada de pared from Carmen Goenaga 🥶 #CancunPremierPadelP2",
+        "thumb": "https://i.ytimg.com/vi/esBCazFP4Ik/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=esBCazFP4Ik"
+      },
+      {
         "vid": "yAs1NAntOSc",
         "title": "Cancun Premier Padel P2🇲🇽🎾: Day 3 -Men Highlight",
         "thumb": "https://i.ytimg.com/vi/yAs1NAntOSc/mqdefault.jpg",
@@ -73,27 +94,6 @@
         "thumb": "https://i.ytimg.com/vi/Q1q9V1ziq3E/mqdefault.jpg",
         "date": "2026-03-20",
         "url": "https://www.youtube.com/watch?v=Q1q9V1ziq3E"
-      },
-      {
-        "vid": "NvecjB_gtw4",
-        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Centre Court (🇪🇸) (March 19th) (Part two)",
-        "thumb": "https://i.ytimg.com/vi/NvecjB_gtw4/mqdefault.jpg",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=NvecjB_gtw4"
-      },
-      {
-        "vid": "0NVySg_YvIE",
-        "title": "Cancun Premier Padel P2🇲🇽🎾: Day 3 -Women Highlight",
-        "thumb": "https://i.ytimg.com/vi/0NVySg_YvIE/mqdefault.jpg",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=0NVySg_YvIE"
-      },
-      {
-        "vid": "z7i2i-c0pbE",
-        "title": "(Replay) Cancun Premier Padel P2 🇲🇽🎾: Court 2 - Cancha Bullpadel (March 19th) (Part two)",
-        "thumb": "https://i.ytimg.com/vi/z7i2i-c0pbE/mqdefault.jpg",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=z7i2i-c0pbE"
       }
     ],
     "fx": [
@@ -126,13 +126,6 @@
         "url": "https://www.youtube.com/watch?v=nx-BZdjMFNw"
       },
       {
-        "vid": "9owToQlmzAI",
-        "title": "Cuando SUÁREZ finalizó la jugada con estilo ✨ | FC Barcelona 3-1 Rayo Vallecano 2018/19",
-        "thumb": "https://i.ytimg.com/vi/9owToQlmzAI/mqdefault.jpg",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=9owToQlmzAI"
-      },
-      {
         "vid": "5jd4Anzqk8M",
         "title": "Best Goals Scored In Europe This Week | Champions League, Europa League &amp; Conference League",
         "thumb": "https://i.ytimg.com/vi/5jd4Anzqk8M/mqdefault.jpg",
@@ -152,6 +145,13 @@
         "thumb": "https://i.ytimg.com/vi/Rzy_KsWqIs4/mqdefault.jpg",
         "date": "2026-03-20",
         "url": "https://www.youtube.com/watch?v=Rzy_KsWqIs4"
+      },
+      {
+        "vid": "WlbK0zSNP50",
+        "title": "Sancho’s chop or Grifo’s delivery, which is better? 🤔",
+        "thumb": "https://i.ytimg.com/vi/WlbK0zSNP50/mqdefault.jpg",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=WlbK0zSNP50"
       }
     ]
   }
