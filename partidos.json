@@ -143,7 +143,7 @@
         "fecha": "Sat 21 Mar",
         "local": "Espanyol",
         "visita": "Getafe",
-        "score": "0-0",
+        "score": "1-2",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -224,9 +224,9 @@
         "fecha": "Sat 21 Mar",
         "local": "Fulham",
         "visita": "Burnley",
-        "score": "0-0",
+        "score": "3-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -260,9 +260,9 @@
         "fecha": "Sat 21 Mar",
         "local": "Toulouse",
         "visita": "Lorient",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
