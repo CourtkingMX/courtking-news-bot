@@ -1,5 +1,5 @@
 {
-  "updated": "21/03/2026 19:02 UTC",
+  "updated": "21/03/2026 20:54 UTC",
   "sports": {
     "bk": [
       {
@@ -152,7 +152,7 @@
         "fecha": "Sat 21 Mar",
         "local": "Levante",
         "visita": "Real Oviedo",
-        "score": "1-0",
+        "score": "3-2",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -242,7 +242,7 @@
         "fecha": "Sat 21 Mar",
         "local": "Everton",
         "visita": "Chelsea",
-        "score": "0-0",
+        "score": "2-0",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -262,16 +262,16 @@
         "visita": "Lorient",
         "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Auxerre",
         "visita": "Brest",
-        "score": "",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -305,9 +305,9 @@
         "fecha": "Sat 21 Mar",
         "local": "Juventus",
         "visita": "Sassuolo",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
