@@ -1,5 +1,5 @@
 {
-  "updated": "21/03/2026 15:49 UTC",
+  "updated": "21/03/2026 16:58 UTC",
   "sports": {
     "bk": [
       {
@@ -136,16 +136,16 @@
         "visita": "Mallorca",
         "score": "2-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Espanyol",
         "visita": "Getafe",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -224,9 +224,9 @@
         "fecha": "Sat 21 Mar",
         "local": "Fulham",
         "visita": "Burnley",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -289,7 +289,7 @@
         "visita": "Cremonese",
         "score": "0-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
