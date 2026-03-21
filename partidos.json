@@ -1,12 +1,12 @@
 {
-  "updated": "21/03/2026 21:48 UTC",
+  "updated": "21/03/2026 22:54 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 21 Mar",
         "local": "Wizards",
         "visita": "Thunder",
-        "score": "42-50",
+        "score": "85-89",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -278,7 +278,7 @@
         "fecha": "Sat 21 Mar",
         "local": "Nice",
         "visita": "PSG",
-        "score": "0-1",
+        "score": "0-3",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
