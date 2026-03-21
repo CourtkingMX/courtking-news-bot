@@ -1,59 +1,59 @@
 {
-  "updated": "20/03/2026 23:54 UTC",
+  "updated": "21/03/2026 04:53 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Fri 20 Mar",
         "local": "Nets",
         "visita": "Knicks",
-        "score": "9-7",
+        "score": "92-93",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 20 Mar",
         "local": "Pistons",
         "visita": "Warriors",
-        "score": "14-9",
+        "score": "115-101",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Rockets",
         "visita": "Hawks",
-        "score": "",
+        "score": "117-95",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Grizzlies",
         "visita": "Celtics",
-        "score": "",
+        "score": "112-117",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Timberwolves",
         "visita": "Trail Blazers",
-        "score": "",
+        "score": "104-108",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Nuggets",
         "visita": "Raptors",
-        "score": "",
+        "score": "121-115",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -62,18 +62,18 @@
         "fecha": "Sat 21 Mar",
         "local": "Necaxa",
         "visita": "Tijuana",
-        "score": "",
+        "score": "3-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 21 Mar",
         "local": "Mazatlán",
         "visita": "Cruz Azul",
-        "score": "",
+        "score": "1-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
