@@ -1,5 +1,5 @@
 {
-  "updated": "21/03/2026 04:55 UTC",
+  "updated": "21/03/2026 07:10 UTC",
   "sports": {
     "bk": [
       {
@@ -71,7 +71,7 @@
         "fecha": "Sat 21 Mar",
         "local": "Mazatlán",
         "visita": "Cruz Azul",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Liga MX",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
@@ -140,21 +140,30 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Fri 20 Mar",
-        "local": "Cagliari",
-        "visita": "Napoli",
-        "score": "0-1",
+        "fecha": "Sat 21 Mar",
+        "local": "Parma",
+        "visita": "Cremonese",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Fri 20 Mar",
-        "local": "Genoa",
-        "visita": "Udinese",
-        "score": "0-2",
+        "fecha": "Sat 21 Mar",
+        "local": "Milan",
+        "visita": "Torino",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 21 Mar",
+        "local": "Juventus",
+        "visita": "Sassuolo",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
