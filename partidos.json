@@ -1,5 +1,5 @@
 {
-  "updated": "22/03/2026 16:59 UTC",
+  "updated": "22/03/2026 17:53 UTC",
   "sports": {
     "bk": [
       {
@@ -251,9 +251,9 @@
         "fecha": "Sun 22 Mar",
         "local": "AS Roma",
         "visita": "Lecce",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
