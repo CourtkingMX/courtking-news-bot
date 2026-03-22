@@ -1,5 +1,5 @@
 {
-  "updated": "22/03/2026 16:58 UTC",
+  "updated": "22/03/2026 16:59 UTC",
   "sports": {
     "bk": [
       {
@@ -89,7 +89,7 @@
         "fecha": "Sun 22 Mar",
         "local": "Celta Vigo",
         "visita": "Alavés",
-        "score": "2-0",
+        "score": "3-4",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -163,16 +163,16 @@
         "visita": "West Ham",
         "score": "2-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Spurs",
         "visita": "Nottm Forest",
-        "score": "0-2",
+        "score": "0-3",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -181,34 +181,34 @@
         "visita": "Monaco",
         "score": "1-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Marseille",
         "visita": "Lille",
-        "score": "",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Paris FC",
         "visita": "Le Havre AC",
-        "score": "",
+        "score": "2-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Rennes",
         "visita": "Metz",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
