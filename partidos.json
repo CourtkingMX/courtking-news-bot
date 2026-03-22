@@ -1,5 +1,5 @@
 {
-  "updated": "22/03/2026 17:53 UTC",
+  "updated": "22/03/2026 19:05 UTC",
   "sports": {
     "bk": [
       {
@@ -91,16 +91,16 @@
         "visita": "Alavés",
         "score": "3-4",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Athletic",
         "visita": "Betis",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -188,7 +188,7 @@
         "fecha": "Sun 22 Mar",
         "local": "Marseille",
         "visita": "Lille",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -197,7 +197,7 @@
         "fecha": "Sun 22 Mar",
         "local": "Paris FC",
         "visita": "Le Havre AC",
-        "score": "2-0",
+        "score": "2-1",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -251,9 +251,9 @@
         "fecha": "Sun 22 Mar",
         "local": "AS Roma",
         "visita": "Lecce",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
