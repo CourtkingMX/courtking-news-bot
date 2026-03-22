@@ -1,5 +1,5 @@
 {
-  "updated": "22/03/2026 05:13 UTC",
+  "updated": "22/03/2026 07:51 UTC",
   "sports": {
     "bk": [
       {
@@ -127,7 +127,7 @@
         "visita": "América",
         "score": "1-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -284,30 +284,48 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 21 Mar",
-        "local": "Parma",
-        "visita": "Cremonese",
-        "score": "0-2",
+        "fecha": "Sun 22 Mar",
+        "local": "Como",
+        "visita": "Pisa",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 21 Mar",
-        "local": "Milan",
-        "visita": "Torino",
-        "score": "3-2",
+        "fecha": "Sun 22 Mar",
+        "local": "Atalanta",
+        "visita": "Verona",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 21 Mar",
-        "local": "Juventus",
-        "visita": "Sassuolo",
-        "score": "1-1",
+        "fecha": "Sun 22 Mar",
+        "local": "Bologna",
+        "visita": "Lazio",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 22 Mar",
+        "local": "AS Roma",
+        "visita": "Lecce",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 22 Mar",
+        "local": "Fiorentina",
+        "visita": "Inter Milan",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
