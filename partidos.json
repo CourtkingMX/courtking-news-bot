@@ -1,5 +1,5 @@
 {
-  "updated": "22/03/2026 13:55 UTC",
+  "updated": "22/03/2026 14:56 UTC",
   "sports": {
     "bk": [
       {
@@ -125,9 +125,9 @@
         "fecha": "Sun 22 Mar",
         "local": "Barcelona",
         "visita": "Rayo",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -197,9 +197,9 @@
         "fecha": "Sun 22 Mar",
         "local": "Newcastle",
         "visita": "Sunderland",
-        "score": "",
+        "score": "1-2",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -278,18 +278,18 @@
         "fecha": "Sun 22 Mar",
         "local": "Atalanta",
         "visita": "Verona",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Bologna",
         "visita": "Lazio",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
