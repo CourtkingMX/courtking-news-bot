@@ -1,12 +1,12 @@
 {
-  "updated": "22/03/2026 21:51 UTC",
+  "updated": "22/03/2026 22:56 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 22 Mar",
         "local": "Nuggets",
         "visita": "Trail Blazers",
-        "score": "63-58",
+        "score": "116-102",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -15,9 +15,9 @@
         "fecha": "Sun 22 Mar",
         "local": "Kings",
         "visita": "Nets",
-        "score": "",
+        "score": "45-46",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -107,7 +107,7 @@
         "fecha": "Sun 22 Mar",
         "local": "Real Madrid",
         "visita": "Atlético",
-        "score": "0-1",
+        "score": "3-2",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -215,9 +215,9 @@
         "fecha": "Sun 22 Mar",
         "local": "Nantes",
         "visita": "Strasbourg",
-        "score": "1-1",
+        "score": "2-3",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
