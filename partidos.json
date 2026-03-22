@@ -1,95 +1,50 @@
 {
-  "updated": "22/03/2026 14:56 UTC",
+  "updated": "22/03/2026 15:50 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sat 21 Mar",
-        "local": "Wizards",
-        "visita": "Thunder",
-        "score": "111-132",
+        "fecha": "Sun 22 Mar",
+        "local": "Nuggets",
+        "visita": "Trail Blazers",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 21 Mar",
-        "local": "Hornets",
-        "visita": "Grizzlies",
-        "score": "124-101",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 21 Mar",
-        "local": "Magic",
-        "visita": "Lakers",
-        "score": "104-105",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 21 Mar",
-        "local": "Pelicans",
-        "visita": "Cavaliers",
-        "score": "106-111",
-        "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 22 Mar",
-        "local": "Hawks",
-        "visita": "Warriors",
-        "score": "126-110",
+        "local": "Kings",
+        "visita": "Nets",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 22 Mar",
-        "local": "Rockets",
-        "visita": "Heat",
-        "score": "123-122",
+        "local": "Knicks",
+        "visita": "Wizards",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Spurs",
-        "visita": "Pacers",
-        "score": "134-119",
+        "fecha": "Mon 23 Mar",
+        "local": "Celtics",
+        "visita": "Timberwolves",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Mavericks",
-        "visita": "Clippers",
-        "score": "131-138",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "Jazz",
-        "visita": "76ers",
-        "score": "116-126",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sun 22 Mar",
+        "fecha": "Mon 23 Mar",
         "local": "Suns",
-        "visita": "Bucks",
-        "score": "105-108",
+        "visita": "Raptors",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -199,34 +154,34 @@
         "visita": "Sunderland",
         "score": "1-2",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Aston Villa",
         "visita": "West Ham",
-        "score": "",
+        "score": "1-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Spurs",
         "visita": "Nottm Forest",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Lyon",
         "visita": "Monaco",
-        "score": "",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -287,7 +242,7 @@
         "fecha": "Sun 22 Mar",
         "local": "Bologna",
         "visita": "Lazio",
-        "score": "0-0",
+        "score": "0-2",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
