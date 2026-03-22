@@ -1,5 +1,5 @@
 {
-  "updated": "22/03/2026 11:46 UTC",
+  "updated": "22/03/2026 13:55 UTC",
   "sports": {
     "bk": [
       {
@@ -269,9 +269,9 @@
         "fecha": "Sun 22 Mar",
         "local": "Como",
         "visita": "Pisa",
-        "score": "1-0",
+        "score": "5-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
