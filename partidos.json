@@ -1,5 +1,5 @@
 {
-  "updated": "22/03/2026 23:55 UTC",
+  "updated": "23/03/2026 05:47 UTC",
   "sports": {
     "bk": [
       {
@@ -15,36 +15,36 @@
         "fecha": "Sun 22 Mar",
         "local": "Kings",
         "visita": "Nets",
-        "score": "87-84",
+        "score": "126-122",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Knicks",
         "visita": "Wizards",
-        "score": "19-12",
+        "score": "145-113",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 23 Mar",
         "local": "Celtics",
         "visita": "Timberwolves",
-        "score": "",
+        "score": "92-102",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 23 Mar",
         "local": "Suns",
         "visita": "Raptors",
-        "score": "",
+        "score": "120-98",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -53,27 +53,27 @@
         "fecha": "Sun 22 Mar",
         "local": "Pachuca",
         "visita": "Toluca",
-        "score": "",
+        "score": "1-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 22 Mar",
         "local": "Santos",
         "visita": "Puebla",
-        "score": "",
+        "score": "2-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Mon 23 Mar",
         "local": "Juarez",
         "visita": "Tigres",
-        "score": "",
+        "score": "2-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
