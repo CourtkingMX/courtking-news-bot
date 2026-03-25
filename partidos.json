@@ -1,5 +1,5 @@
 {
-  "updated": "25/03/2026 05:16 UTC",
+  "updated": "25/03/2026 08:05 UTC",
   "sports": {
     "bk": [
       {
@@ -33,9 +33,9 @@
         "fecha": "Wed 25 Mar",
         "local": "Suns",
         "visita": "Nuggets",
-        "score": "108-112",
+        "score": "123-125",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
