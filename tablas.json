@@ -1,5 +1,5 @@
 {
-  "updated": "24/03/2026 19:37 UTC",
+  "updated": "25/03/2026 05:16 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -59,17 +59,17 @@
         },
         {
           "pos": 7,
-          "team": "CHA",
-          "name": "Hornets",
-          "w": "37",
+          "team": "ORL",
+          "name": "Magic",
+          "w": "38",
           "l": "34",
-          "pct": ".521",
-          "gb": "15"
+          "pct": ".528",
+          "gb": "14.5"
         },
         {
           "pos": 8,
-          "team": "MIA",
-          "name": "Heat",
+          "team": "CHA",
+          "name": "Hornets",
           "w": "38",
           "l": "34",
           "pct": ".528",
@@ -100,9 +100,9 @@
           "team": "SAC",
           "name": "Kings",
           "w": "19",
-          "l": "53",
-          "pct": ".264",
-          "gb": "38"
+          "l": "54",
+          "pct": ".260",
+          "gb": "38.5"
         },
         {
           "pos": 4,
@@ -124,21 +124,21 @@
         },
         {
           "pos": 6,
+          "team": "NO",
+          "name": "Pelicans",
+          "w": "25",
+          "l": "48",
+          "pct": ".342",
+          "gb": "32.5"
+        },
+        {
+          "pos": 7,
           "team": "MEM",
           "name": "Grizzlies",
           "w": "24",
           "l": "47",
           "pct": ".338",
           "gb": "32.5"
-        },
-        {
-          "pos": 7,
-          "team": "NO",
-          "name": "Pelicans",
-          "w": "25",
-          "l": "47",
-          "pct": ".347",
-          "gb": "32"
         },
         {
           "pos": 8,
