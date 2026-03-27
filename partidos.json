@@ -1,32 +1,95 @@
 {
-  "updated": "27/03/2026 14:32 UTC",
+  "updated": "27/03/2026 17:38 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Thu 26 Mar",
-        "local": "Hornets",
-        "visita": "Knicks",
-        "score": "114-103",
+        "fecha": "Fri 27 Mar",
+        "local": "Pacers",
+        "visita": "Clippers",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Thu 26 Mar",
-        "local": "Pistons",
+        "fecha": "Fri 27 Mar",
+        "local": "Celtics",
+        "visita": "Hawks",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Fri 27 Mar",
+        "local": "Cavaliers",
+        "visita": "Heat",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sat 28 Mar",
+        "local": "Grizzlies",
+        "visita": "Rockets",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sat 28 Mar",
+        "local": "Thunder",
+        "visita": "Bulls",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sat 28 Mar",
+        "local": "Raptors",
         "visita": "Pelicans",
-        "score": "129-108",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Thu 26 Mar",
-        "local": "Magic",
-        "visita": "Kings",
-        "score": "121-117",
+        "fecha": "Sat 28 Mar",
+        "local": "Nuggets",
+        "visita": "Jazz",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sat 28 Mar",
+        "local": "Warriors",
+        "visita": "Wizards",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sat 28 Mar",
+        "local": "Trail Blazers",
+        "visita": "Mavericks",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sat 28 Mar",
+        "local": "Lakers",
+        "visita": "Nets",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
