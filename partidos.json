@@ -1,5 +1,5 @@
 {
-  "updated": "28/03/2026 05:15 UTC",
+  "updated": "28/03/2026 07:56 UTC",
   "sports": {
     "bk": [
       {
@@ -95,102 +95,57 @@
     ],
     "fx": [
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Pachuca",
-        "visita": "Toluca",
-        "score": "1-1",
+        "fecha": "Sat 04 Apr",
+        "local": "Puebla",
+        "visita": "Juarez",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Santos",
-        "visita": "Puebla",
-        "score": "2-1",
+        "fecha": "Sat 04 Apr",
+        "local": "Necaxa",
+        "visita": "Mazatlán",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 23 Mar",
-        "local": "Juarez",
+        "fecha": "Sat 04 Apr",
+        "local": "Tijuana",
         "visita": "Tigres",
-        "score": "2-1",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Barcelona",
-        "visita": "Rayo",
-        "score": "1-0",
+        "fecha": "Fri 03 Apr",
+        "local": "Rayo",
+        "visita": "Elche",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Celta Vigo",
-        "visita": "Alavés",
-        "score": "3-4",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "Athletic",
-        "visita": "Betis",
-        "score": "2-1",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
+        "fecha": "Tue 07 Apr",
         "local": "Real Madrid",
-        "visita": "Atlético",
-        "score": "3-2",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Wed 18 Mar",
-        "local": "Barcelona",
-        "visita": "Newcastle",
-        "score": "7-2",
+        "visita": "Bayern",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Wed 18 Mar",
-        "local": "Bayern",
-        "visita": "Atalanta",
-        "score": "4-1",
+        "fecha": "Tue 07 Apr",
+        "local": "Sporting",
+        "visita": "Arsenal",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
-      },
-      {
-        "fecha": "Wed 18 Mar",
-        "local": "Liverpool",
-        "visita": "Galatasaray",
-        "score": "4-0",
-        "liga": "Champions",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
-      },
-      {
-        "fecha": "Wed 18 Mar",
-        "local": "Spurs",
-        "visita": "Atlético",
-        "score": "3-2",
-        "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
@@ -221,48 +176,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Lyon",
-        "visita": "Monaco",
-        "score": "1-2",
+        "fecha": "Fri 03 Apr",
+        "local": "PSG",
+        "visita": "Toulouse",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "Marseille",
-        "visita": "Lille",
-        "score": "1-2",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "Paris FC",
-        "visita": "Le Havre AC",
-        "score": "3-2",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "Rennes",
-        "visita": "Metz",
-        "score": "0-0",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "Nantes",
-        "visita": "Strasbourg",
-        "score": "2-3",
-        "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
