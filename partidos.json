@@ -1,5 +1,5 @@
 {
-  "updated": "28/03/2026 23:00 UTC",
+  "updated": "29/03/2026 05:53 UTC",
   "sports": {
     "bk": [
       {
@@ -15,45 +15,45 @@
         "fecha": "Sat 28 Mar",
         "local": "Timberwolves",
         "visita": "Pistons",
-        "score": "45-56",
+        "score": "87-109",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 28 Mar",
         "local": "Hornets",
         "visita": "76ers",
-        "score": "58-54",
+        "score": "114-118",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 28 Mar",
         "local": "Hawks",
         "visita": "Kings",
-        "score": "",
+        "score": "123-113",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 29 Mar",
         "local": "Grizzlies",
         "visita": "Bulls",
-        "score": "",
+        "score": "125-124",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 29 Mar",
         "local": "Suns",
         "visita": "Jazz",
-        "score": "",
+        "score": "134-109",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -149,48 +149,30 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Como",
-        "visita": "Pisa",
-        "score": "5-0",
+        "fecha": "Sat 04 Apr",
+        "local": "Sassuolo",
+        "visita": "Cagliari",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Atalanta",
-        "visita": "Verona",
-        "score": "1-0",
+        "fecha": "Sat 04 Apr",
+        "local": "Verona",
+        "visita": "Fiorentina",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Bologna",
-        "visita": "Lazio",
-        "score": "0-2",
+        "fecha": "Sat 04 Apr",
+        "local": "Lazio",
+        "visita": "Parma",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "AS Roma",
-        "visita": "Lecce",
-        "score": "1-0",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "Fiorentina",
-        "visita": "Inter Milan",
-        "score": "1-1",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
