@@ -1,14 +1,14 @@
 {
-  "updated": "29/03/2026 17:05 UTC",
+  "updated": "29/03/2026 19:47 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 29 Mar",
         "local": "Bucks",
         "visita": "Clippers",
-        "score": "",
+        "score": "7-11",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
