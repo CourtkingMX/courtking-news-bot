@@ -1,5 +1,5 @@
 {
-  "updated": "29/03/2026 23:03 UTC",
+  "updated": "30/03/2026 06:17 UTC",
   "sports": {
     "bk": [
       {
@@ -15,72 +15,72 @@
         "fecha": "Sun 29 Mar",
         "local": "Pacers",
         "visita": "Heat",
-        "score": "121-115",
+        "score": "135-118",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 29 Mar",
         "local": "Nets",
         "visita": "Kings",
-        "score": "66-41",
+        "score": "116-99",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 29 Mar",
         "local": "Hornets",
         "visita": "Celtics",
-        "score": "48-61",
+        "score": "99-114",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 29 Mar",
         "local": "Raptors",
         "visita": "Magic",
-        "score": "56-32",
+        "score": "139-87",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 29 Mar",
         "local": "Trail Blazers",
         "visita": "Wizards",
-        "score": "53-44",
+        "score": "123-88",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 29 Mar",
         "local": "Pelicans",
         "visita": "Rockets",
-        "score": "",
+        "score": "102-134",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 29 Mar",
         "local": "Thunder",
         "visita": "Knicks",
-        "score": "",
+        "score": "111-100",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 30 Mar",
         "local": "Nuggets",
         "visita": "Warriors",
-        "score": "",
+        "score": "116-93",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
