@@ -1,7 +1,28 @@
 {
-  "updated": "01/04/2026 11:30 UTC",
+  "updated": "01/04/2026 18:10 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "vHd8pENciHk",
+        "title": "Pop draws up the Hack-a-Shaq… 5 seconds into the first game of the regular season 😭😭",
+        "thumb": "https://i.ytimg.com/vi/vHd8pENciHk/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=vHd8pENciHk"
+      },
+      {
+        "vid": "IsdsKdysZMc",
+        "title": "Luka’s just happy to be here 😭😌",
+        "thumb": "https://i.ytimg.com/vi/IsdsKdysZMc/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=IsdsKdysZMc"
+      },
+      {
+        "vid": "1Ku30tCK9A4",
+        "title": "LeBron &amp; D-Wade&#39;s ICONIC 40-PT Duel (20 Years Later)",
+        "thumb": "https://i.ytimg.com/vi/1Ku30tCK9A4/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=1Ku30tCK9A4"
+      },
       {
         "vid": "pPeldZdjSiQ",
         "title": "NBA&#39;s Nightly Recap | March 31, 2026",
@@ -15,27 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/Pzh5z0AE024/mqdefault.jpg",
         "date": "2026-04-01",
         "url": "https://www.youtube.com/watch?v=Pzh5z0AE024"
-      },
-      {
-        "vid": "vlfE4zHm6Gg",
-        "title": "TRAIL BLAZERS at CLIPPERS | FULL GAME HIGHLIGHTS | March 31, 2026",
-        "thumb": "https://i.ytimg.com/vi/vlfE4zHm6Gg/mqdefault.jpg",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=vlfE4zHm6Gg"
-      },
-      {
-        "vid": "gB9UbbDrFCk",
-        "title": "What do you think they’re laughing about? 😂",
-        "thumb": "https://i.ytimg.com/vi/gB9UbbDrFCk/mqdefault.jpg",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=gB9UbbDrFCk"
-      },
-      {
-        "vid": "Qo0bEc4VwLo",
-        "title": "Luka Dončić&#39;s HISTORIC 42 PT Night vs Cavaliers | March 31, 2026",
-        "thumb": "https://i.ytimg.com/vi/Qo0bEc4VwLo/mqdefault.jpg",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=Qo0bEc4VwLo"
       },
       {
         "vid": "Eb03ibN5HrE",
@@ -94,30 +94,30 @@
         "thumb": "https://i.ytimg.com/vi/CLQC2Q3AErM/mqdefault.jpg",
         "date": "2026-03-29",
         "url": "https://www.youtube.com/watch?v=CLQC2Q3AErM"
-      },
-      {
-        "vid": "QPMU30t3qpo",
-        "title": "The moment Josemaria &amp; Gonzalez were crowned the  #MiamiPremierPadelP1 champions",
-        "thumb": "https://i.ytimg.com/vi/QPMU30t3qpo/mqdefault.jpg",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=QPMU30t3qpo"
-      },
-      {
-        "vid": "XSd-r-ZYuag",
-        "title": "Insane volley winner by Josemaria in the Miami Premier Padel P1",
-        "thumb": "https://i.ytimg.com/vi/XSd-r-ZYuag/mqdefault.jpg",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=XSd-r-ZYuag"
-      },
-      {
-        "vid": "2NtO1znGbc4",
-        "title": "Match point? Let Delfi Brea handle that to move to the final 😉🐬 #PremierPadel #MiamiPremierPadelP1",
-        "thumb": "https://i.ytimg.com/vi/2NtO1znGbc4/mqdefault.jpg",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=2NtO1znGbc4"
       }
     ],
     "fx": [
+      {
+        "vid": "NRQmCoSXD9M",
+        "title": "TOP 15 GOLES del FC Barcelona vs Atlético de Madrid 🔵🔴 | LALIGA EA SPORTS",
+        "thumb": "https://i.ytimg.com/vi/NRQmCoSXD9M/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=NRQmCoSXD9M"
+      },
+      {
+        "vid": "rUorf_irMTI",
+        "title": "¿Conseguirán los chicos del VALENCIA atrapar el globo? 🎈🤣",
+        "thumb": "https://i.ytimg.com/vi/rUorf_irMTI/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=rUorf_irMTI"
+      },
+      {
+        "vid": "Zynl-vtOV1c",
+        "title": "Atlético de Madrid - FC Barcelona: duelo decisivo por LALIGA | LALIGA FANTASY SHOW #30",
+        "thumb": "https://i.ytimg.com/vi/Zynl-vtOV1c/mqdefault_live.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=Zynl-vtOV1c"
+      },
       {
         "vid": "MP4T43Wa5IQ",
         "title": "TOP 15 GOLES del Atlético de Madrid vs FC Barcelona 🔴⚪ | LALIGA EA SPORTS",
@@ -133,25 +133,11 @@
         "url": "https://www.youtube.com/watch?v=PS6OTtpU450"
       },
       {
-        "vid": "t-ENbY9yHm0",
-        "title": "Satriano no olvidará este momento 💫⚽",
-        "thumb": "https://i.ytimg.com/vi/t-ENbY9yHm0/mqdefault.jpg",
+        "vid": "DwVh8J-QA9Y",
+        "title": "Neymar 🤣",
+        "thumb": "https://i.ytimg.com/vi/DwVh8J-QA9Y/mqdefault.jpg",
         "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=t-ENbY9yHm0"
-      },
-      {
-        "vid": "RPZ06ghc8rc",
-        "title": "Un jugón llamado Hugo Galdeano 💙❤️",
-        "thumb": "https://i.ytimg.com/vi/RPZ06ghc8rc/mqdefault.jpg",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=RPZ06ghc8rc"
-      },
-      {
-        "vid": "k2FhjSGo0CY",
-        "title": "DAVID SÁNCHEZ y las ruletas ⚽️",
-        "thumb": "https://i.ytimg.com/vi/k2FhjSGo0CY/mqdefault.jpg",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=k2FhjSGo0CY"
+        "url": "https://www.youtube.com/watch?v=DwVh8J-QA9Y"
       },
       {
         "vid": "P14NVkKPRUo",
@@ -166,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/PxMYts5KCv8/mqdefault.jpg",
         "date": "2026-03-30",
         "url": "https://www.youtube.com/watch?v=PxMYts5KCv8"
-      },
-      {
-        "vid": "8Pnc8UzQbA0",
-        "title": "How did he score from there! 🤯",
-        "thumb": "https://i.ytimg.com/vi/8Pnc8UzQbA0/mqdefault.jpg",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=8Pnc8UzQbA0"
       }
     ]
   }
