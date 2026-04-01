@@ -1,68 +1,68 @@
 {
-  "updated": "31/03/2026 23:49 UTC",
+  "updated": "01/04/2026 06:12 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Tue 31 Mar",
         "local": "Magic",
         "visita": "Suns",
-        "score": "33-21",
+        "score": "115-111",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 31 Mar",
         "local": "Nets",
         "visita": "Hornets",
-        "score": "4-10",
+        "score": "86-117",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 01 Apr",
         "local": "Pistons",
         "visita": "Raptors",
-        "score": "",
+        "score": "127-116",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 01 Apr",
         "local": "Rockets",
         "visita": "Knicks",
-        "score": "",
+        "score": "111-94",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 01 Apr",
         "local": "Bucks",
         "visita": "Mavericks",
-        "score": "",
+        "score": "123-99",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 01 Apr",
         "local": "Lakers",
         "visita": "Cavaliers",
-        "score": "",
+        "score": "127-113",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 01 Apr",
         "local": "Clippers",
         "visita": "Trail Blazers",
-        "score": "",
+        "score": "104-114",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -122,30 +122,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sun 22 Mar",
-        "local": "Newcastle",
-        "visita": "Sunderland",
-        "score": "1-2",
+        "fecha": "Fri 10 Apr",
+        "local": "West Ham",
+        "visita": "Wolves",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "Aston Villa",
-        "visita": "West Ham",
-        "score": "2-0",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 22 Mar",
-        "local": "Spurs",
-        "visita": "Nottm Forest",
-        "score": "0-3",
-        "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
