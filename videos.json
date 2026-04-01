@@ -1,7 +1,21 @@
 {
-  "updated": "01/04/2026 06:13 UTC",
+  "updated": "01/04/2026 11:30 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "pPeldZdjSiQ",
+        "title": "NBA&#39;s Nightly Recap | March 31, 2026",
+        "thumb": "https://i.ytimg.com/vi/pPeldZdjSiQ/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=pPeldZdjSiQ"
+      },
+      {
+        "vid": "Pzh5z0AE024",
+        "title": "NBA&#39;s Top 10 Plays Of The Night | March 31, 2026",
+        "thumb": "https://i.ytimg.com/vi/Pzh5z0AE024/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=Pzh5z0AE024"
+      },
       {
         "vid": "vlfE4zHm6Gg",
         "title": "TRAIL BLAZERS at CLIPPERS | FULL GAME HIGHLIGHTS | March 31, 2026",
@@ -22,20 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/Qo0bEc4VwLo/mqdefault.jpg",
         "date": "2026-04-01",
         "url": "https://www.youtube.com/watch?v=Qo0bEc4VwLo"
-      },
-      {
-        "vid": "ftlgrM1P-_A",
-        "title": "CAVALIERS at LAKERS | FULL GAME HIGHLIGHTS | March 31, 2026",
-        "thumb": "https://i.ytimg.com/vi/ftlgrM1P-_A/mqdefault.jpg",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=ftlgrM1P-_A"
-      },
-      {
-        "vid": "hirpbcXHMV8",
-        "title": "Jalen Duren Was AUTOMATIC vs Raptors | March 31, 2026",
-        "thumb": "https://i.ytimg.com/vi/hirpbcXHMV8/mqdefault.jpg",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=hirpbcXHMV8"
       },
       {
         "vid": "Eb03ibN5HrE",
@@ -94,22 +94,64 @@
         "thumb": "https://i.ytimg.com/vi/CLQC2Q3AErM/mqdefault.jpg",
         "date": "2026-03-29",
         "url": "https://www.youtube.com/watch?v=CLQC2Q3AErM"
+      },
+      {
+        "vid": "QPMU30t3qpo",
+        "title": "The moment Josemaria &amp; Gonzalez were crowned the  #MiamiPremierPadelP1 champions",
+        "thumb": "https://i.ytimg.com/vi/QPMU30t3qpo/mqdefault.jpg",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=QPMU30t3qpo"
+      },
+      {
+        "vid": "XSd-r-ZYuag",
+        "title": "Insane volley winner by Josemaria in the Miami Premier Padel P1",
+        "thumb": "https://i.ytimg.com/vi/XSd-r-ZYuag/mqdefault.jpg",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=XSd-r-ZYuag"
+      },
+      {
+        "vid": "2NtO1znGbc4",
+        "title": "Match point? Let Delfi Brea handle that to move to the final 😉🐬 #PremierPadel #MiamiPremierPadelP1",
+        "thumb": "https://i.ytimg.com/vi/2NtO1znGbc4/mqdefault.jpg",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=2NtO1znGbc4"
       }
     ],
     "fx": [
       {
-        "vid": "GIrNzaw94vs",
-        "title": "Celta 3 - 3 FC Barcelona 2021/22 | PARTIDO COMPLETO",
-        "thumb": "https://i.ytimg.com/vi/GIrNzaw94vs/mqdefault.jpg",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=GIrNzaw94vs"
+        "vid": "MP4T43Wa5IQ",
+        "title": "TOP 15 GOLES del Atlético de Madrid vs FC Barcelona 🔴⚪ | LALIGA EA SPORTS",
+        "thumb": "https://i.ytimg.com/vi/MP4T43Wa5IQ/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=MP4T43Wa5IQ"
       },
       {
-        "vid": "lSQk-tHGP3w",
-        "title": "RESUMEN y MEJORES MOMENTOS del I Mundial SUB-12 LALIGA FC FUTURES de Brunete",
-        "thumb": "https://i.ytimg.com/vi/lSQk-tHGP3w/mqdefault.jpg",
+        "vid": "PS6OTtpU450",
+        "title": "Imita la skill con el REAL MADRID 🪄",
+        "thumb": "https://i.ytimg.com/vi/PS6OTtpU450/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=PS6OTtpU450"
+      },
+      {
+        "vid": "t-ENbY9yHm0",
+        "title": "Satriano no olvidará este momento 💫⚽",
+        "thumb": "https://i.ytimg.com/vi/t-ENbY9yHm0/mqdefault.jpg",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=t-ENbY9yHm0"
+      },
+      {
+        "vid": "RPZ06ghc8rc",
+        "title": "Un jugón llamado Hugo Galdeano 💙❤️",
+        "thumb": "https://i.ytimg.com/vi/RPZ06ghc8rc/mqdefault.jpg",
         "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=lSQk-tHGP3w"
+        "url": "https://www.youtube.com/watch?v=RPZ06ghc8rc"
+      },
+      {
+        "vid": "k2FhjSGo0CY",
+        "title": "DAVID SÁNCHEZ y las ruletas ⚽️",
+        "thumb": "https://i.ytimg.com/vi/k2FhjSGo0CY/mqdefault.jpg",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=k2FhjSGo0CY"
       },
       {
         "vid": "P14NVkKPRUo",
@@ -131,27 +173,6 @@
         "thumb": "https://i.ytimg.com/vi/8Pnc8UzQbA0/mqdefault.jpg",
         "date": "2026-03-30",
         "url": "https://www.youtube.com/watch?v=8Pnc8UzQbA0"
-      },
-      {
-        "vid": "Xuu7XOJZin4",
-        "title": "Ever seen a touch like this?",
-        "thumb": "https://i.ytimg.com/vi/Xuu7XOJZin4/mqdefault.jpg",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=Xuu7XOJZin4"
-      },
-      {
-        "vid": "W5DQdOQ2QMY",
-        "title": "The goalkeeper!!!",
-        "thumb": "https://i.ytimg.com/vi/W5DQdOQ2QMY/mqdefault.jpg",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=W5DQdOQ2QMY"
-      },
-      {
-        "vid": "QLup3GGeuoA",
-        "title": "TOP 5 ATAJADAS TORNEO J12 | Las MEJORES atajadas hasta el momento en el Con México C26",
-        "thumb": "https://i.ytimg.com/vi/QLup3GGeuoA/mqdefault.jpg",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=QLup3GGeuoA"
       }
     ]
   }
