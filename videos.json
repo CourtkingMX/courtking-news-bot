@@ -1,7 +1,14 @@
 {
-  "updated": "02/04/2026 05:51 UTC",
+  "updated": "02/04/2026 10:39 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "ymvKaBW_YN8",
+        "title": "NBA&#39;s Nightly Recap | April 1, 2026",
+        "thumb": "https://i.ytimg.com/vi/ymvKaBW_YN8/mqdefault.jpg",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=ymvKaBW_YN8"
+      },
       {
         "vid": "xN28ByShwrk",
         "title": "NBA&#39;s Top 10 Plays Of The Night | April 1, 2026",
@@ -29,13 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/HY-SEXrFzMA/mqdefault.jpg",
         "date": "2026-04-02",
         "url": "https://www.youtube.com/watch?v=HY-SEXrFzMA"
-      },
-      {
-        "vid": "jNj-uxi69_U",
-        "title": "NUGGETS at JAZZ | FULL GAME HIGHLIGHTS | April 1, 2026",
-        "thumb": "https://i.ytimg.com/vi/jNj-uxi69_U/mqdefault.jpg",
-        "date": "2026-04-02",
-        "url": "https://www.youtube.com/watch?v=jNj-uxi69_U"
       },
       {
         "vid": "Za3nBolZeho",
@@ -119,6 +119,20 @@
     ],
     "fx": [
       {
+        "vid": "5pfOwvTa9yc",
+        "title": "¡Las MEJORES REMONTADAS del REAL MADRID en LALIGA! ⚪🔥| PARTE 2",
+        "thumb": "https://i.ytimg.com/vi/5pfOwvTa9yc/mqdefault.jpg",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=5pfOwvTa9yc"
+      },
+      {
+        "vid": "7oj8pLfSWBw",
+        "title": "¿Que la altura es un problema? NO PARA HUGO GALDEANO ⚔️",
+        "thumb": "https://i.ytimg.com/vi/7oj8pLfSWBw/mqdefault.jpg",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=7oj8pLfSWBw"
+      },
+      {
         "vid": "6WCwusJU2T8",
         "title": "Pie izquierdo, pie derecho y rabona… ⚡️👀",
         "thumb": "https://i.ytimg.com/vi/6WCwusJU2T8/mqdefault.jpg",
@@ -140,18 +154,11 @@
         "url": "https://www.youtube.com/watch?v=rUorf_irMTI"
       },
       {
-        "vid": "Zynl-vtOV1c",
-        "title": "Atlético de Madrid - FC Barcelona: duelo decisivo por LALIGA | LALIGA FANTASY SHOW #30",
-        "thumb": "https://i.ytimg.com/vi/Zynl-vtOV1c/mqdefault_live.jpg",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=Zynl-vtOV1c"
-      },
-      {
-        "vid": "MP4T43Wa5IQ",
-        "title": "TOP 15 GOLES del Atlético de Madrid vs FC Barcelona 🔴⚪ | LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/MP4T43Wa5IQ/mqdefault.jpg",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=MP4T43Wa5IQ"
+        "vid": "WOh_JiIfzr0",
+        "title": "Sending your childhood idol to the World Cup! 😍",
+        "thumb": "https://i.ytimg.com/vi/WOh_JiIfzr0/mqdefault.jpg",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=WOh_JiIfzr0"
       },
       {
         "vid": "DwVh8J-QA9Y",
@@ -166,13 +173,6 @@
         "thumb": "https://i.ytimg.com/vi/P14NVkKPRUo/mqdefault.jpg",
         "date": "2026-03-30",
         "url": "https://www.youtube.com/watch?v=P14NVkKPRUo"
-      },
-      {
-        "vid": "PxMYts5KCv8",
-        "title": "EVERY Goal From The World Cup 2026 Play-Off Final Teams!",
-        "thumb": "https://i.ytimg.com/vi/PxMYts5KCv8/mqdefault.jpg",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=PxMYts5KCv8"
       }
     ]
   }
