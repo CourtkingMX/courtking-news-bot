@@ -1,5 +1,5 @@
 {
-  "updated": "02/04/2026 18:10 UTC",
+  "updated": "03/04/2026 05:51 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -7,73 +7,73 @@
           "pos": 1,
           "team": "DET",
           "name": "Pistons",
-          "w": "55",
+          "w": "56",
           "l": "21",
-          "pct": ".724",
+          "pct": ".727",
           "gb": "-"
         },
         {
           "pos": 2,
+          "team": "CLE",
+          "name": "Cavaliers",
+          "w": "48",
+          "l": "29",
+          "pct": ".623",
+          "gb": "8"
+        },
+        {
+          "pos": 3,
           "team": "NY",
           "name": "Knicks",
           "w": "49",
           "l": "28",
           "pct": ".636",
-          "gb": "6.5"
+          "gb": "7"
         },
         {
-          "pos": 3,
+          "pos": 4,
           "team": "BOS",
           "name": "Celtics",
           "w": "51",
           "l": "25",
           "pct": ".671",
-          "gb": "4"
+          "gb": "4.5"
         },
         {
-          "pos": 4,
+          "pos": 5,
           "team": "WSH",
           "name": "Wizards",
           "w": "17",
           "l": "59",
           "pct": ".224",
-          "gb": "38"
+          "gb": "38.5"
         },
         {
-          "pos": 5,
+          "pos": 6,
           "team": "IND",
           "name": "Pacers",
           "w": "18",
           "l": "58",
           "pct": ".237",
-          "gb": "37"
+          "gb": "37.5"
         },
         {
-          "pos": 6,
+          "pos": 7,
           "team": "BKN",
           "name": "Nets",
           "w": "18",
           "l": "58",
           "pct": ".237",
-          "gb": "37"
+          "gb": "37.5"
         },
         {
-          "pos": 7,
+          "pos": 8,
           "team": "CHI",
           "name": "Bulls",
           "w": "29",
           "l": "47",
           "pct": ".382",
-          "gb": "26"
-        },
-        {
-          "pos": 8,
-          "team": "MIL",
-          "name": "Bucks",
-          "w": "30",
-          "l": "46",
-          "pct": ".395",
-          "gb": "25"
+          "gb": "26.5"
         }
       ],
       "west": [
@@ -82,72 +82,72 @@
           "team": "LAL",
           "name": "Lakers",
           "w": "50",
-          "l": "26",
-          "pct": ".658",
-          "gb": "10"
+          "l": "27",
+          "pct": ".649",
+          "gb": "11"
         },
         {
           "pos": 2,
           "team": "SA",
           "name": "Spurs",
-          "w": "58",
+          "w": "59",
           "l": "18",
-          "pct": ".763",
+          "pct": ".766",
           "gb": "2"
         },
         {
           "pos": 3,
           "team": "OKC",
           "name": "Thunder",
-          "w": "60",
+          "w": "61",
           "l": "16",
-          "pct": ".789",
+          "pct": ".792",
           "gb": "-"
         },
         {
           "pos": 4,
+          "team": "HOU",
+          "name": "Rockets",
+          "w": "47",
+          "l": "29",
+          "pct": ".618",
+          "gb": "13.5"
+        },
+        {
+          "pos": 5,
           "team": "DEN",
           "name": "Nuggets",
           "w": "49",
           "l": "28",
           "pct": ".636",
-          "gb": "11.5"
-        },
-        {
-          "pos": 5,
-          "team": "GS",
-          "name": "Warriors",
-          "w": "36",
-          "l": "40",
-          "pct": ".474",
-          "gb": "24"
+          "gb": "12"
         },
         {
           "pos": 6,
-          "team": "POR",
-          "name": "Trail Blazers",
-          "w": "39",
-          "l": "38",
-          "pct": ".506",
-          "gb": "21.5"
+          "team": "GS",
+          "name": "Warriors",
+          "w": "36",
+          "l": "41",
+          "pct": ".468",
+          "gb": "25"
         },
         {
           "pos": 7,
           "team": "LAC",
           "name": "Clippers",
           "w": "39",
-          "l": "37",
-          "pct": ".513",
-          "gb": "21"
+          "l": "38",
+          "pct": ".506",
+          "gb": "22"
         },
         {
           "pos": 8,
-          "team": "SAC",
-          "name": "Kings",
-          "w": "20",
-          "l": "57",
-          "pct": ".260",
-          "gb": "40.5"
+          "team": "POR",
+          "name": "Trail Blazers",
+          "w": "40",
+          "l": "38",
+          "pct": ".513",
+          "gb": "21.5"
         }
       ]
     },
