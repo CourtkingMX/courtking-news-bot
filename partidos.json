@@ -1,5 +1,5 @@
 {
-  "updated": "03/04/2026 21:19 UTC",
+  "updated": "03/04/2026 23:04 UTC",
   "sports": {
     "bk": [
       {
@@ -116,9 +116,9 @@
         "fecha": "Fri 03 Apr",
         "local": "Rayo",
         "visita": "Elche",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -152,9 +152,9 @@
         "fecha": "Fri 03 Apr",
         "local": "PSG",
         "visita": "Toulouse",
-        "score": "2-1",
+        "score": "3-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
