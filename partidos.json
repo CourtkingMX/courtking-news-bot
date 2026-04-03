@@ -1,59 +1,59 @@
 {
-  "updated": "02/04/2026 23:03 UTC",
+  "updated": "03/04/2026 05:50 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Thu 02 Apr",
         "local": "Hornets",
         "visita": "Suns",
-        "score": "",
+        "score": "127-107",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 02 Apr",
         "local": "Pistons",
         "visita": "Timberwolves",
-        "score": "",
+        "score": "113-108",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 03 Apr",
         "local": "Thunder",
         "visita": "Lakers",
-        "score": "",
+        "score": "139-96",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 03 Apr",
         "local": "Warriors",
         "visita": "Cavaliers",
-        "score": "",
+        "score": "111-118",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 03 Apr",
         "local": "Trail Blazers",
         "visita": "Pelicans",
-        "score": "",
+        "score": "118-106",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 03 Apr",
         "local": "Clippers",
         "visita": "Spurs",
-        "score": "",
+        "score": "99-118",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
