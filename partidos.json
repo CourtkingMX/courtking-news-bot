@@ -1,23 +1,23 @@
 {
-  "updated": "04/04/2026 17:49 UTC",
+  "updated": "04/04/2026 19:44 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 04 Apr",
         "local": "Heat",
         "visita": "Wizards",
-        "score": "",
+        "score": "42-35",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 04 Apr",
         "local": "Nuggets",
         "visita": "Spurs",
-        "score": "",
+        "score": "36-43",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -152,7 +152,7 @@
         "fecha": "Sat 04 Apr",
         "local": "Brest",
         "visita": "Rennes",
-        "score": "1-0",
+        "score": "1-2",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -181,16 +181,16 @@
         "visita": "Fiorentina",
         "score": "0-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sat 04 Apr",
         "local": "Lazio",
         "visita": "Parma",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
