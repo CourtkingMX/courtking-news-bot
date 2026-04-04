@@ -1,5 +1,5 @@
 {
-  "updated": "04/04/2026 09:57 UTC",
+  "updated": "04/04/2026 11:03 UTC",
   "sports": {
     "bk": [
       {
@@ -87,38 +87,83 @@
     "fx": [
       {
         "fecha": "Sat 04 Apr",
-        "local": "Puebla",
-        "visita": "Juarez",
-        "score": "1-1",
+        "local": "Monterrey",
+        "visita": "Atl. San Luis",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 04 Apr",
-        "local": "Necaxa",
-        "visita": "Mazatlán",
-        "score": "2-1",
+        "local": "Queretaro",
+        "visita": "Toluca",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "León",
+        "visita": "Atlas",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Cruz Azul",
+        "visita": "Pachuca",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Santos",
+        "visita": "América",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 04 Apr",
-        "local": "Tijuana",
-        "visita": "Tigres",
-        "score": "1-0",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Fri 03 Apr",
-        "local": "Rayo",
-        "visita": "Elche",
-        "score": "1-0",
+        "local": "Real Sociedad",
+        "visita": "Levante",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 04 Apr",
+        "local": "Mallorca",
+        "visita": "Real Madrid",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 04 Apr",
+        "local": "Betis",
+        "visita": "Espanyol",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 04 Apr",
+        "local": "Atlético",
+        "visita": "Barcelona",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -149,12 +194,30 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Fri 03 Apr",
-        "local": "PSG",
-        "visita": "Toulouse",
-        "score": "3-1",
+        "fecha": "Sat 04 Apr",
+        "local": "Strasbourg",
+        "visita": "Nice",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sat 04 Apr",
+        "local": "Brest",
+        "visita": "Rennes",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sat 04 Apr",
+        "local": "Lille",
+        "visita": "Lens",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
