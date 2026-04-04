@@ -1,5 +1,5 @@
 {
-  "updated": "04/04/2026 11:03 UTC",
+  "updated": "04/04/2026 14:02 UTC",
   "sports": {
     "bk": [
       {
@@ -224,9 +224,9 @@
         "fecha": "Sat 04 Apr",
         "local": "Sassuolo",
         "visita": "Cagliari",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
