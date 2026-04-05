@@ -1,12 +1,12 @@
 {
-  "updated": "05/04/2026 19:57 UTC",
+  "updated": "05/04/2026 21:03 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 05 Apr",
         "local": "Celtics",
         "visita": "Raptors",
-        "score": "22-17",
+        "score": "65-61",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -15,7 +15,7 @@
         "fecha": "Sun 05 Apr",
         "local": "Nets",
         "visita": "Wizards",
-        "score": "24-13",
+        "score": "64-54",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -24,7 +24,7 @@
         "fecha": "Sun 05 Apr",
         "local": "Bulls",
         "visita": "Suns",
-        "score": "23-18",
+        "score": "64-71",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -33,7 +33,7 @@
         "fecha": "Sun 05 Apr",
         "local": "Bucks",
         "visita": "Grizzlies",
-        "score": "16-15",
+        "score": "72-67",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -127,16 +127,16 @@
         "visita": "Sevilla",
         "score": "1-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Alavés",
         "visita": "Osasuna",
-        "score": "",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -206,9 +206,9 @@
         "fecha": "Sun 05 Apr",
         "local": "Monaco",
         "visita": "Marseille",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -233,9 +233,9 @@
         "fecha": "Sun 05 Apr",
         "local": "Inter Milan",
         "visita": "AS Roma",
-        "score": "2-1",
+        "score": "5-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
