@@ -1,5 +1,5 @@
 {
-  "updated": "05/04/2026 10:00 UTC",
+  "updated": "05/04/2026 10:19 UTC",
   "sports": {
     "bk": [
       {
@@ -32,84 +32,48 @@
     ],
     "fx": [
       {
-        "fecha": "Sat 04 Apr",
-        "local": "Monterrey",
-        "visita": "Atl. San Luis",
-        "score": "1-2",
+        "fecha": "Mon 06 Apr",
+        "local": "Guadalajara",
+        "visita": "UNAM",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sat 04 Apr",
-        "local": "Queretaro",
-        "visita": "Toluca",
-        "score": "1-0",
-        "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 05 Apr",
-        "local": "León",
-        "visita": "Atlas",
-        "score": "2-0",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+        "local": "Getafe",
+        "visita": "Athletic",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 05 Apr",
-        "local": "Cruz Azul",
-        "visita": "Pachuca",
-        "score": "1-2",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+        "local": "Valencia",
+        "visita": "Celta Vigo",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 05 Apr",
-        "local": "Santos",
-        "visita": "América",
-        "score": "1-1",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sat 04 Apr",
-        "local": "Real Sociedad",
-        "visita": "Levante",
-        "score": "2-0",
+        "local": "Real Oviedo",
+        "visita": "Sevilla",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Sat 04 Apr",
-        "local": "Mallorca",
-        "visita": "Real Madrid",
-        "score": "2-1",
+        "fecha": "Sun 05 Apr",
+        "local": "Alavés",
+        "visita": "Osasuna",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sat 04 Apr",
-        "local": "Betis",
-        "visita": "Espanyol",
-        "score": "0-0",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sat 04 Apr",
-        "local": "Atlético",
-        "visita": "Barcelona",
-        "score": "1-2",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -140,30 +104,48 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 04 Apr",
-        "local": "Strasbourg",
-        "visita": "Nice",
-        "score": "3-1",
+        "fecha": "Sun 05 Apr",
+        "local": "Angers",
+        "visita": "Lyon",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 04 Apr",
-        "local": "Brest",
-        "visita": "Rennes",
-        "score": "3-4",
+        "fecha": "Sun 05 Apr",
+        "local": "Le Havre AC",
+        "visita": "Auxerre",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 04 Apr",
-        "local": "Lille",
-        "visita": "Lens",
-        "score": "3-0",
+        "fecha": "Sun 05 Apr",
+        "local": "Lorient",
+        "visita": "Paris FC",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Metz",
+        "visita": "Nantes",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Monaco",
+        "visita": "Marseille",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
