@@ -1,41 +1,41 @@
 {
-  "updated": "05/04/2026 18:01 UTC",
+  "updated": "05/04/2026 19:57 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 05 Apr",
         "local": "Celtics",
         "visita": "Raptors",
-        "score": "",
+        "score": "22-17",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Nets",
         "visita": "Wizards",
-        "score": "",
+        "score": "24-13",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Bulls",
         "visita": "Suns",
-        "score": "",
+        "score": "23-18",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Bucks",
         "visita": "Grizzlies",
-        "score": "",
+        "score": "16-15",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -233,9 +233,9 @@
         "fecha": "Sun 05 Apr",
         "local": "Inter Milan",
         "visita": "AS Roma",
-        "score": "",
+        "score": "2-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
