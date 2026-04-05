@@ -1,32 +1,95 @@
 {
-  "updated": "05/04/2026 14:04 UTC",
+  "updated": "05/04/2026 16:00 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sat 04 Apr",
-        "local": "Heat",
+        "fecha": "Sun 05 Apr",
+        "local": "Celtics",
+        "visita": "Raptors",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Nets",
         "visita": "Wizards",
-        "score": "152-136",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sat 04 Apr",
-        "local": "Nuggets",
-        "visita": "Spurs",
-        "score": "136-134",
+        "fecha": "Sun 05 Apr",
+        "local": "Bulls",
+        "visita": "Suns",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sat 04 Apr",
-        "local": "76ers",
-        "visita": "Pistons",
-        "score": "93-116",
+        "fecha": "Sun 05 Apr",
+        "local": "Bucks",
+        "visita": "Grizzlies",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Cavaliers",
+        "visita": "Pacers",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Timberwolves",
+        "visita": "Hornets",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Pelicans",
+        "visita": "Magic",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Thunder",
+        "visita": "Jazz",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 05 Apr",
+        "local": "Mavericks",
+        "visita": "Lakers",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Mon 06 Apr",
+        "local": "Kings",
+        "visita": "Clippers",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -44,9 +107,9 @@
         "fecha": "Sun 05 Apr",
         "local": "Getafe",
         "visita": "Athletic",
-        "score": "",
+        "score": "2-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -107,9 +170,9 @@
         "fecha": "Sun 05 Apr",
         "local": "Angers",
         "visita": "Lyon",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -152,9 +215,9 @@
         "fecha": "Sun 05 Apr",
         "local": "Cremonese",
         "visita": "Bologna",
-        "score": "0-2",
+        "score": "1-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
