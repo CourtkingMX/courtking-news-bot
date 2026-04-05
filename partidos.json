@@ -1,5 +1,5 @@
 {
-  "updated": "05/04/2026 17:18 UTC",
+  "updated": "05/04/2026 18:01 UTC",
   "sports": {
     "bk": [
       {
@@ -116,18 +116,18 @@
         "fecha": "Sun 05 Apr",
         "local": "Valencia",
         "visita": "Celta Vigo",
-        "score": "1-2",
+        "score": "2-3",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Real Oviedo",
         "visita": "Sevilla",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -181,16 +181,16 @@
         "visita": "Auxerre",
         "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Lorient",
         "visita": "Paris FC",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -199,7 +199,7 @@
         "visita": "Nantes",
         "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -224,9 +224,9 @@
         "fecha": "Sun 05 Apr",
         "local": "Pisa",
         "visita": "Torino",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
