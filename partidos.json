@@ -1,5 +1,5 @@
 {
-  "updated": "05/04/2026 23:03 UTC",
+  "updated": "06/04/2026 06:17 UTC",
   "sports": {
     "bk": [
       {
@@ -42,54 +42,54 @@
         "fecha": "Sun 05 Apr",
         "local": "Cavaliers",
         "visita": "Pacers",
-        "score": "47-53",
+        "score": "117-108",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Timberwolves",
         "visita": "Hornets",
-        "score": "",
+        "score": "108-122",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Pelicans",
         "visita": "Magic",
-        "score": "",
+        "score": "108-112",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Thunder",
         "visita": "Jazz",
-        "score": "",
+        "score": "146-111",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 05 Apr",
         "local": "Mavericks",
         "visita": "Lakers",
-        "score": "",
+        "score": "134-128",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 06 Apr",
         "local": "Kings",
         "visita": "Clippers",
-        "score": "",
+        "score": "109-138",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -98,9 +98,9 @@
         "fecha": "Mon 06 Apr",
         "local": "Guadalajara",
         "visita": "UNAM",
-        "score": "",
+        "score": "2-2",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
