@@ -1,5 +1,5 @@
 {
-  "updated": "06/04/2026 11:14 UTC",
+  "updated": "06/04/2026 14:15 UTC",
   "sports": {
     "bk": [
       {
@@ -104,39 +104,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 05 Apr",
-        "local": "Getafe",
-        "visita": "Athletic",
-        "score": "2-0",
+        "fecha": "Mon 06 Apr",
+        "local": "Girona",
+        "visita": "Villarreal",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 05 Apr",
-        "local": "Valencia",
-        "visita": "Celta Vigo",
-        "score": "2-3",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 05 Apr",
-        "local": "Real Oviedo",
-        "visita": "Sevilla",
-        "score": "1-0",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 05 Apr",
-        "local": "Alavés",
-        "visita": "Osasuna",
-        "score": "2-2",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -217,16 +190,16 @@
         "visita": "Como",
         "score": "0-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Mon 06 Apr",
         "local": "Lecce",
         "visita": "Atalanta",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
