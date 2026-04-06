@@ -1,5 +1,5 @@
 {
-  "updated": "06/04/2026 06:19 UTC",
+  "updated": "06/04/2026 10:39 UTC",
   "sports": {
     "bk": [
       {
@@ -95,12 +95,12 @@
     ],
     "fx": [
       {
-        "fecha": "Mon 06 Apr",
-        "local": "Guadalajara",
-        "visita": "UNAM",
-        "score": "2-2",
+        "fecha": "Wed 08 Apr",
+        "local": "Queretaro",
+        "visita": "Juarez",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -212,30 +212,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 05 Apr",
-        "local": "Cremonese",
-        "visita": "Bologna",
-        "score": "1-2",
+        "fecha": "Mon 06 Apr",
+        "local": "Udinese",
+        "visita": "Como",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 05 Apr",
-        "local": "Pisa",
-        "visita": "Torino",
-        "score": "0-1",
+        "fecha": "Mon 06 Apr",
+        "local": "Lecce",
+        "visita": "Atalanta",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 05 Apr",
-        "local": "Inter Milan",
-        "visita": "AS Roma",
-        "score": "5-2",
+        "fecha": "Mon 06 Apr",
+        "local": "Juventus",
+        "visita": "Genoa",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Mon 06 Apr",
+        "local": "Napoli",
+        "visita": "Milan",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
