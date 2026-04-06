@@ -1,5 +1,5 @@
 {
-  "updated": "06/04/2026 18:37 UTC",
+  "updated": "06/04/2026 20:03 UTC",
   "sports": {
     "bk": [
       {
@@ -170,9 +170,9 @@
         "fecha": "Mon 06 Apr",
         "local": "Napoli",
         "visita": "Milan",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
