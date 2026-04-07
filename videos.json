@@ -1,7 +1,14 @@
 {
-  "updated": "07/04/2026 09:05 UTC",
+  "updated": "07/04/2026 17:01 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "f9HVr5_ebP0",
+        "title": "The TOP Dunks of Week 24 | 2025-26 NBA Season",
+        "thumb": "https://i.ytimg.com/vi/f9HVr5_ebP0/mqdefault.jpg",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=f9HVr5_ebP0"
+      },
       {
         "vid": "OttsomX4JKI",
         "title": "EXTENDED: TRAIL BLAZERS at NUGGETS | FULL GAME HIGHLIGHTS | April 6, 2026",
@@ -31,13 +38,6 @@
         "url": "https://www.youtube.com/watch?v=C7TeGiU__uw"
       },
       {
-        "vid": "cSJfC6qqYOk",
-        "title": "TRAIL BLAZERS at NUGGETS | FULL GAME HIGHLIGHTS | April 6, 2026",
-        "thumb": "https://i.ytimg.com/vi/cSJfC6qqYOk/mqdefault.jpg",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=cSJfC6qqYOk"
-      },
-      {
         "vid": "mml8jgyEVzU",
         "title": "San Antonio Spurs vs Philadelphia 76ers Full Game Highlights | April 6, 2026 | FreeDawkins",
         "thumb": "https://i.ytimg.com/vi/mml8jgyEVzU/mqdefault.jpg",
@@ -60,6 +60,13 @@
       }
     ],
     "pd": [
+      {
+        "vid": "6wwBA2hmOXU",
+        "title": "Ustero goes for the smash but misses the ball entirely in the Riyadh P1",
+        "thumb": "https://i.ytimg.com/vi/6wwBA2hmOXU/mqdefault.jpg",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=6wwBA2hmOXU"
+      },
       {
         "vid": "XSd-r-ZYuag",
         "title": "Insane volley winner by Josemaria in the Miami Premier Padel P1",
@@ -87,16 +94,37 @@
         "thumb": "https://i.ytimg.com/vi/BfQ2bD4SMSA/mqdefault.jpg",
         "date": "2026-03-27",
         "url": "https://www.youtube.com/watch?v=BfQ2bD4SMSA"
-      },
-      {
-        "vid": "lj1RbTWkw4I",
-        "title": "Insane rally finished by Triay in the Miami P1",
-        "thumb": "https://i.ytimg.com/vi/lj1RbTWkw4I/mqdefault.jpg",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=lj1RbTWkw4I"
       }
     ],
     "fx": [
+      {
+        "vid": "xKdq43Jy-Yw",
+        "title": "Parece que GAVI hizo muy feliz a esta fan… 🎁🤩",
+        "thumb": "https://i.ytimg.com/vi/xKdq43Jy-Yw/mqdefault.jpg",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=xKdq43Jy-Yw"
+      },
+      {
+        "vid": "NZNCejCCzbw",
+        "title": "Lo MEJOR de MARCUS RASHFORD en LALIGA 2025/26",
+        "thumb": "https://i.ytimg.com/vi/NZNCejCCzbw/mqdefault.jpg",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=NZNCejCCzbw"
+      },
+      {
+        "vid": "_4Kuj5mYbcs",
+        "title": "Así fue el GOL con el que el BARÇA logró los tres puntos: 👀",
+        "thumb": "https://i.ytimg.com/vi/_4Kuj5mYbcs/mqdefault.jpg",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=_4Kuj5mYbcs"
+      },
+      {
+        "vid": "K8QdoGKapjk",
+        "title": "TODOS LOS GOLES de la JORNADA 30 de LALIGA EA SPORTS 2025/26",
+        "thumb": "https://i.ytimg.com/vi/K8QdoGKapjk/mqdefault.jpg",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=K8QdoGKapjk"
+      },
       {
         "vid": "sb0Zv_XfvAQ",
         "title": "MURIQI sorprende al Real Madrid… 😳",
@@ -105,53 +133,25 @@
         "url": "https://www.youtube.com/watch?v=sb0Zv_XfvAQ"
       },
       {
-        "vid": "3HZiizpXfBA",
-        "title": "Una acción defensiva brutal 🛡️",
-        "thumb": "https://i.ytimg.com/vi/3HZiizpXfBA/mqdefault.jpg",
+        "vid": "znCGZSeZs7U",
+        "title": "The Neymar touch 😍🇧🇷",
+        "thumb": "https://i.ytimg.com/vi/znCGZSeZs7U/mqdefault.jpg",
         "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=3HZiizpXfBA"
+        "url": "https://www.youtube.com/watch?v=znCGZSeZs7U"
       },
       {
-        "vid": "vLks5IHyO6w",
-        "title": "Míchel: &quot;Los jugadores han conseguido darle la vuelta a la situación&quot;",
-        "thumb": "https://i.ytimg.com/vi/vLks5IHyO6w/mqdefault.jpg",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=vLks5IHyO6w"
+        "vid": "c5y2y9kIoqQ",
+        "title": "&quot;I Dreamed Of Becoming A Footballer In Brazil!&quot; 🇧🇷 | Gabriel Martinelli",
+        "thumb": "https://i.ytimg.com/vi/c5y2y9kIoqQ/mqdefault.jpg",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=c5y2y9kIoqQ"
       },
       {
-        "vid": "h5phW12rUsQ",
-        "title": "GIRONA FC 1 - 0 VILLARREAL CF | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/h5phW12rUsQ/mqdefault.jpg",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=h5phW12rUsQ"
-      },
-      {
-        "vid": "_uQyPQee1hM",
-        "title": "LUIZ JUNIOR🧤",
-        "thumb": "https://i.ytimg.com/vi/_uQyPQee1hM/mqdefault.jpg",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=_uQyPQee1hM"
-      },
-      {
-        "vid": "j_g53jKNkNo",
-        "title": "CLASSIC Goals From Bayern München v Real Madrid! | Highlights",
-        "thumb": "https://i.ytimg.com/vi/j_g53jKNkNo/mqdefault.jpg",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=j_g53jKNkNo"
-      },
-      {
-        "vid": "TcYtyQI-aSE",
-        "title": "Big tackle!",
-        "thumb": "https://i.ytimg.com/vi/TcYtyQI-aSE/mqdefault.jpg",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=TcYtyQI-aSE"
-      },
-      {
-        "vid": "oP_Q1iQPx3A",
-        "title": "Unreal goal!",
-        "thumb": "https://i.ytimg.com/vi/oP_Q1iQPx3A/mqdefault.jpg",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=oP_Q1iQPx3A"
+        "vid": "zWRZWQvGXEU",
+        "title": "Pure cinema from Arjen Robben",
+        "thumb": "https://i.ytimg.com/vi/zWRZWQvGXEU/mqdefault.jpg",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=zWRZWQvGXEU"
       }
     ]
   }
