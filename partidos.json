@@ -1,12 +1,12 @@
 {
-  "updated": "06/04/2026 23:26 UTC",
+  "updated": "07/04/2026 01:20 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Mon 06 Apr",
         "local": "Hawks",
         "visita": "Knicks",
-        "score": "10-13",
+        "score": "97-92",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -15,7 +15,7 @@
         "fecha": "Mon 06 Apr",
         "local": "Magic",
         "visita": "Pistons",
-        "score": "21-12",
+        "score": "109-94",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -24,27 +24,27 @@
         "fecha": "Tue 07 Apr",
         "local": "Grizzlies",
         "visita": "Cavaliers",
-        "score": "",
+        "score": "64-68",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Spurs",
         "visita": "76ers",
-        "score": "",
+        "score": "62-55",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Nuggets",
         "visita": "Trail Blazers",
-        "score": "",
+        "score": "14-16",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
