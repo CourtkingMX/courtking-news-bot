@@ -1,5 +1,5 @@
 {
-  "updated": "07/04/2026 21:34 UTC",
+  "updated": "07/04/2026 22:28 UTC",
   "sports": {
     "bk": [
       {
@@ -118,16 +118,16 @@
         "visita": "Bayern",
         "score": "1-2",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Sporting",
         "visita": "Arsenal",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
