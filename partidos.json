@@ -1,50 +1,50 @@
 {
-  "updated": "07/04/2026 01:20 UTC",
+  "updated": "07/04/2026 04:24 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Mon 06 Apr",
         "local": "Hawks",
         "visita": "Knicks",
-        "score": "97-92",
+        "score": "105-108",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 06 Apr",
         "local": "Magic",
         "visita": "Pistons",
-        "score": "109-94",
+        "score": "123-107",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Grizzlies",
         "visita": "Cavaliers",
-        "score": "64-68",
+        "score": "126-142",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Spurs",
         "visita": "76ers",
-        "score": "62-55",
+        "score": "115-102",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Nuggets",
         "visita": "Trail Blazers",
-        "score": "14-16",
+        "score": "137-132",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -140,39 +140,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Mon 06 Apr",
-        "local": "Udinese",
-        "visita": "Como",
-        "score": "0-0",
+        "fecha": "Fri 10 Apr",
+        "local": "AS Roma",
+        "visita": "Pisa",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Mon 06 Apr",
-        "local": "Lecce",
-        "visita": "Atalanta",
-        "score": "0-3",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Mon 06 Apr",
-        "local": "Juventus",
-        "visita": "Genoa",
-        "score": "2-0",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Mon 06 Apr",
-        "local": "Napoli",
-        "visita": "Milan",
-        "score": "1-0",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
