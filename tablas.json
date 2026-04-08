@@ -1,5 +1,5 @@
 {
-  "updated": "08/04/2026 02:38 UTC",
+  "updated": "08/04/2026 09:04 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -82,9 +82,9 @@
           "team": "LAL",
           "name": "Lakers",
           "w": "50",
-          "l": "28",
-          "pct": ".641",
-          "gb": "12"
+          "l": "29",
+          "pct": ".633",
+          "gb": "13"
         },
         {
           "pos": 2,
@@ -93,61 +93,61 @@
           "w": "60",
           "l": "19",
           "pct": ".759",
-          "gb": "2.5"
+          "gb": "3"
         },
         {
           "pos": 3,
           "team": "OKC",
           "name": "Thunder",
-          "w": "62",
+          "w": "63",
           "l": "16",
-          "pct": ".795",
+          "pct": ".797",
           "gb": "-"
         },
         {
           "pos": 4,
-          "team": "HOU",
-          "name": "Rockets",
-          "w": "49",
-          "l": "29",
-          "pct": ".628",
-          "gb": "13"
+          "team": "MIN",
+          "name": "Timberwolves",
+          "w": "47",
+          "l": "32",
+          "pct": ".595",
+          "gb": "16"
         },
         {
           "pos": 5,
+          "team": "HOU",
+          "name": "Rockets",
+          "w": "50",
+          "l": "29",
+          "pct": ".633",
+          "gb": "13"
+        },
+        {
+          "pos": 6,
           "team": "DEN",
           "name": "Nuggets",
           "w": "51",
           "l": "28",
           "pct": ".646",
-          "gb": "11.5"
-        },
-        {
-          "pos": 6,
-          "team": "GS",
-          "name": "Warriors",
-          "w": "36",
-          "l": "42",
-          "pct": ".462",
-          "gb": "26"
+          "gb": "12"
         },
         {
           "pos": 7,
+          "team": "GS",
+          "name": "Warriors",
+          "w": "37",
+          "l": "42",
+          "pct": ".468",
+          "gb": "26"
+        },
+        {
+          "pos": 8,
           "team": "POR",
           "name": "Trail Blazers",
           "w": "40",
           "l": "39",
           "pct": ".506",
-          "gb": "22.5"
-        },
-        {
-          "pos": 8,
-          "team": "LAC",
-          "name": "Clippers",
-          "w": "40",
-          "l": "38",
-          "pct": ".513",
-          "gb": "22"
+          "gb": "23"
         }
       ]
     },
