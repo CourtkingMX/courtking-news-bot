@@ -1,5 +1,5 @@
 {
-  "updated": "08/04/2026 02:38 UTC",
+  "updated": "08/04/2026 04:27 UTC",
   "sports": {
     "bk": [
       {
@@ -60,36 +60,36 @@
         "fecha": "Wed 08 Apr",
         "local": "Warriors",
         "visita": "Kings",
-        "score": "28-29",
+        "score": "110-105",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Lakers",
         "visita": "Thunder",
-        "score": "",
+        "score": "62-101",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Clippers",
         "visita": "Mavericks",
-        "score": "",
+        "score": "91-86",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Suns",
         "visita": "Rockets",
-        "score": "",
+        "score": "57-54",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -98,9 +98,9 @@
         "fecha": "Wed 08 Apr",
         "local": "Queretaro",
         "visita": "Juarez",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
