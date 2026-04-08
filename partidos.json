@@ -1,5 +1,5 @@
 {
-  "updated": "08/04/2026 06:15 UTC",
+  "updated": "08/04/2026 08:06 UTC",
   "sports": {
     "bk": [
       {
@@ -95,12 +95,21 @@
     ],
     "fx": [
       {
-        "fecha": "Wed 08 Apr",
-        "local": "Queretaro",
-        "visita": "Juarez",
-        "score": "1-1",
+        "fecha": "Sat 11 Apr",
+        "local": "Puebla",
+        "visita": "León",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sat 11 Apr",
+        "local": "Juarez",
+        "visita": "Tijuana",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
