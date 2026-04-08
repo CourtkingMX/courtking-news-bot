@@ -1,68 +1,68 @@
 {
-  "updated": "08/04/2026 01:21 UTC",
+  "updated": "08/04/2026 02:38 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Tue 07 Apr",
         "local": "Wizards",
         "visita": "Bulls",
-        "score": "90-118",
+        "score": "98-129",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Pacers",
         "visita": "Timberwolves",
-        "score": "104-122",
+        "score": "104-124",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Nets",
         "visita": "Bucks",
-        "score": "74-62",
+        "score": "96-90",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Raptors",
         "visita": "Heat",
-        "score": "92-76",
+        "score": "121-95",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Celtics",
         "visita": "Hornets",
-        "score": "55-61",
+        "score": "113-102",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Pelicans",
         "visita": "Jazz",
-        "score": "67-71",
+        "score": "156-137",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Warriors",
         "visita": "Kings",
-        "score": "",
+        "score": "28-29",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -98,9 +98,9 @@
         "fecha": "Wed 08 Apr",
         "local": "Queretaro",
         "visita": "Juarez",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
