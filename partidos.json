@@ -1,12 +1,12 @@
 {
-  "updated": "07/04/2026 23:28 UTC",
+  "updated": "08/04/2026 01:21 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Tue 07 Apr",
         "local": "Wizards",
         "visita": "Bulls",
-        "score": "13-22",
+        "score": "90-118",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -15,7 +15,7 @@
         "fecha": "Tue 07 Apr",
         "local": "Pacers",
         "visita": "Timberwolves",
-        "score": "15-29",
+        "score": "104-122",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -24,36 +24,36 @@
         "fecha": "Tue 07 Apr",
         "local": "Nets",
         "visita": "Bucks",
-        "score": "",
+        "score": "74-62",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 07 Apr",
         "local": "Raptors",
         "visita": "Heat",
-        "score": "",
+        "score": "92-76",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Celtics",
         "visita": "Hornets",
-        "score": "",
+        "score": "55-61",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Pelicans",
         "visita": "Jazz",
-        "score": "",
+        "score": "67-71",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
