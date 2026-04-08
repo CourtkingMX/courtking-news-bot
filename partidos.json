@@ -1,5 +1,5 @@
 {
-  "updated": "08/04/2026 09:04 UTC",
+  "updated": "08/04/2026 09:58 UTC",
   "sports": {
     "bk": [
       {
@@ -122,21 +122,21 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Tue 07 Apr",
-        "local": "Real Madrid",
-        "visita": "Bayern",
-        "score": "1-2",
+        "fecha": "Wed 08 Apr",
+        "local": "Barcelona",
+        "visita": "Atlético",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Tue 07 Apr",
-        "local": "Sporting",
-        "visita": "Arsenal",
-        "score": "0-1",
+        "fecha": "Wed 08 Apr",
+        "local": "PSG",
+        "visita": "Liverpool",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
