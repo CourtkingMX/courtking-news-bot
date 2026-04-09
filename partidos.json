@@ -1,23 +1,23 @@
 {
-  "updated": "09/04/2026 22:31 UTC",
+  "updated": "09/04/2026 23:30 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Thu 09 Apr",
         "local": "Raptors",
         "visita": "Heat",
-        "score": "",
+        "score": "19-20",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 09 Apr",
         "local": "Wizards",
         "visita": "Bulls",
-        "score": "",
+        "score": "18-26",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
