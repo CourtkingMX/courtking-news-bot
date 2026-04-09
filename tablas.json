@@ -1,5 +1,5 @@
 {
-  "updated": "09/04/2026 02:33 UTC",
+  "updated": "09/04/2026 09:10 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -84,69 +84,69 @@
           "w": "50",
           "l": "29",
           "pct": ".633",
-          "gb": "13"
+          "gb": "13.5"
         },
         {
           "pos": 2,
           "team": "SA",
           "name": "Spurs",
-          "w": "60",
+          "w": "61",
           "l": "19",
-          "pct": ".759",
+          "pct": ".763",
           "gb": "3"
         },
         {
           "pos": 3,
-          "team": "OKC",
-          "name": "Thunder",
-          "w": "63",
-          "l": "16",
-          "pct": ".797",
-          "gb": "-"
-        },
-        {
-          "pos": 4,
           "team": "MIN",
           "name": "Timberwolves",
           "w": "47",
           "l": "33",
           "pct": ".588",
-          "gb": "16.5"
+          "gb": "17"
         },
         {
-          "pos": 5,
+          "pos": 4,
           "team": "HOU",
           "name": "Rockets",
           "w": "50",
           "l": "29",
           "pct": ".633",
-          "gb": "13"
+          "gb": "13.5"
         },
         {
-          "pos": 6,
+          "pos": 5,
           "team": "DEN",
           "name": "Nuggets",
-          "w": "51",
+          "w": "52",
           "l": "28",
-          "pct": ".646",
+          "pct": ".650",
           "gb": "12"
         },
         {
-          "pos": 7,
+          "pos": 6,
           "team": "GS",
           "name": "Warriors",
           "w": "37",
           "l": "42",
           "pct": ".468",
-          "gb": "26"
+          "gb": "26.5"
         },
         {
-          "pos": 8,
+          "pos": 7,
           "team": "POR",
           "name": "Trail Blazers",
           "w": "40",
+          "l": "40",
+          "pct": ".500",
+          "gb": "24"
+        },
+        {
+          "pos": 8,
+          "team": "LAC",
+          "name": "Clippers",
+          "w": "41",
           "l": "39",
-          "pct": ".506",
+          "pct": ".513",
           "gb": "23"
         }
       ]
