@@ -1,39 +1,39 @@
 {
-  "updated": "09/04/2026 01:12 UTC",
+  "updated": "09/04/2026 02:33 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Wed 08 Apr",
         "local": "Cavaliers",
         "visita": "Hawks",
-        "score": "110-100",
+        "score": "122-116",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Magic",
         "visita": "Timberwolves",
-        "score": "124-102",
+        "score": "132-120",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Wed 08 Apr",
         "local": "Pistons",
         "visita": "Bucks",
-        "score": "122-91",
+        "score": "137-111",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 09 Apr",
         "local": "Nuggets",
         "visita": "Grizzlies",
-        "score": "2-0",
+        "score": "85-83",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -42,27 +42,27 @@
         "fecha": "Thu 09 Apr",
         "local": "Spurs",
         "visita": "Trail Blazers",
-        "score": "",
+        "score": "53-40",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 09 Apr",
         "local": "Clippers",
         "visita": "Thunder",
-        "score": "",
+        "score": "21-34",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 09 Apr",
         "local": "Suns",
         "visita": "Mavericks",
-        "score": "",
+        "score": "33-29",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
