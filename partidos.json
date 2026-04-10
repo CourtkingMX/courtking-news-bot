@@ -1,5 +1,5 @@
 {
-  "updated": "10/04/2026 19:36 UTC",
+  "updated": "10/04/2026 20:24 UTC",
   "sports": {
     "bk": [
       {
@@ -116,9 +116,9 @@
         "fecha": "Fri 10 Apr",
         "local": "Real Madrid",
         "visita": "Girona",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -143,9 +143,9 @@
         "fecha": "Fri 10 Apr",
         "local": "West Ham",
         "visita": "Wolves",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -154,23 +154,23 @@
         "visita": "Monaco",
         "score": "4-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Fri 10 Apr",
         "local": "Marseille",
         "visita": "Metz",
-        "score": "",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Fri 10 Apr",
         "local": "AS Roma",
         "visita": "Pisa",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
