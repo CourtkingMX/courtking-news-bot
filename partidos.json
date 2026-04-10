@@ -1,5 +1,5 @@
 {
-  "updated": "10/04/2026 17:39 UTC",
+  "updated": "10/04/2026 18:38 UTC",
   "sports": {
     "bk": [
       {
@@ -152,9 +152,9 @@
         "fecha": "Fri 10 Apr",
         "local": "Paris FC",
         "visita": "Monaco",
-        "score": "",
+        "score": "3-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
