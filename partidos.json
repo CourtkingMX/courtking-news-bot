@@ -1,5 +1,5 @@
 {
-  "updated": "10/04/2026 21:27 UTC",
+  "updated": "10/04/2026 22:25 UTC",
   "sports": {
     "bk": [
       {
@@ -118,7 +118,7 @@
         "visita": "Girona",
         "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -143,9 +143,9 @@
         "fecha": "Fri 10 Apr",
         "local": "West Ham",
         "visita": "Wolves",
-        "score": "1-0",
+        "score": "4-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -161,9 +161,9 @@
         "fecha": "Fri 10 Apr",
         "local": "Marseille",
         "visita": "Metz",
-        "score": "2-1",
+        "score": "3-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
