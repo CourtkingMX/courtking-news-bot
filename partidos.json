@@ -1,5 +1,5 @@
 {
-  "updated": "11/04/2026 20:20 UTC",
+  "updated": "11/04/2026 21:23 UTC",
   "sports": {
     "bk": [
       {
@@ -170,7 +170,7 @@
         "fecha": "Sat 11 Apr",
         "local": "Sevilla",
         "visita": "Atlético",
-        "score": "1-0",
+        "score": "2-1",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -242,7 +242,7 @@
         "fecha": "Sat 11 Apr",
         "local": "Rennes",
         "visita": "Angers",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -280,7 +280,7 @@
         "visita": "Juventus",
         "score": "0-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
