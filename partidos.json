@@ -1,5 +1,5 @@
 {
-  "updated": "11/04/2026 12:33 UTC",
+  "updated": "11/04/2026 13:47 UTC",
   "sports": {
     "bk": [
       {
@@ -143,9 +143,9 @@
         "fecha": "Sat 11 Apr",
         "local": "Real Sociedad",
         "visita": "Alavés",
-        "score": "",
+        "score": "2-2",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -197,9 +197,9 @@
         "fecha": "Sat 11 Apr",
         "local": "Arsenal",
         "visita": "Bournemouth",
-        "score": "",
+        "score": "1-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -251,18 +251,18 @@
         "fecha": "Sat 11 Apr",
         "local": "Cagliari",
         "visita": "Cremonese",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Torino",
         "visita": "Verona",
-        "score": "",
+        "score": "1-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
