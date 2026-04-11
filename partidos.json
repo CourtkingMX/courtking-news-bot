@@ -1,5 +1,5 @@
 {
-  "updated": "11/04/2026 19:28 UTC",
+  "updated": "11/04/2026 20:20 UTC",
   "sports": {
     "bk": [
       {
@@ -163,16 +163,16 @@
         "visita": "Espanyol",
         "score": "4-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Sevilla",
         "visita": "Atlético",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -235,16 +235,16 @@
         "visita": "Nantes",
         "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Rennes",
         "visita": "Angers",
-        "score": "",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -278,7 +278,7 @@
         "fecha": "Sat 11 Apr",
         "local": "Atalanta",
         "visita": "Juventus",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
