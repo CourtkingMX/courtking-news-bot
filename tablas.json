@@ -1,5 +1,5 @@
 {
-  "updated": "10/04/2026 16:54 UTC",
+  "updated": "11/04/2026 02:29 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -7,73 +7,73 @@
           "pos": 1,
           "team": "DET",
           "name": "Pistons",
-          "w": "58",
+          "w": "59",
           "l": "22",
-          "pct": ".725",
+          "pct": ".728",
           "gb": "-"
         },
         {
           "pos": 2,
-          "team": "CLE",
-          "name": "Cavaliers",
-          "w": "51",
-          "l": "29",
-          "pct": ".638",
-          "gb": "7"
+          "team": "ATL",
+          "name": "Hawks",
+          "w": "46",
+          "l": "35",
+          "pct": ".568",
+          "gb": "13"
         },
         {
           "pos": 3,
-          "team": "NY",
-          "name": "Knicks",
-          "w": "52",
-          "l": "28",
-          "pct": ".650",
-          "gb": "6"
-        },
-        {
-          "pos": 4,
           "team": "BOS",
           "name": "Celtics",
-          "w": "54",
+          "w": "55",
           "l": "26",
-          "pct": ".675",
+          "pct": ".679",
           "gb": "4"
         },
         {
+          "pos": 4,
+          "team": "CLE",
+          "name": "Cavaliers",
+          "w": "51",
+          "l": "30",
+          "pct": ".630",
+          "gb": "8"
+        },
+        {
           "pos": 5,
-          "team": "MIA",
-          "name": "Heat",
-          "w": "41",
-          "l": "39",
-          "pct": ".513",
-          "gb": "17"
+          "team": "NY",
+          "name": "Knicks",
+          "w": "53",
+          "l": "28",
+          "pct": ".654",
+          "gb": "6"
         },
         {
           "pos": 6,
-          "team": "WSH",
-          "name": "Wizards",
-          "w": "17",
-          "l": "63",
-          "pct": ".213",
-          "gb": "41"
+          "team": "MIA",
+          "name": "Heat",
+          "w": "42",
+          "l": "39",
+          "pct": ".519",
+          "gb": "17"
         },
         {
           "pos": 7,
-          "team": "IND",
-          "name": "Pacers",
-          "w": "19",
-          "l": "61",
-          "pct": ".238",
-          "gb": "39"
+          "team": "CHA",
+          "name": "Hornets",
+          "w": "43",
+          "l": "38",
+          "pct": ".531",
+          "gb": "16"
         },
         {
           "pos": 8,
-          "team": "BKN",
-          "name": "Nets",
-          "w": "20",
-          "l": "60",
-          "pct": ".250",
-          "gb": "38"
+          "team": "WSH",
+          "name": "Wizards",
+          "w": "17",
+          "l": "64",
+          "pct": ".210",
+          "gb": "42"
         }
       ],
       "west": [
@@ -90,10 +90,10 @@
           "pos": 2,
           "team": "SA",
           "name": "Spurs",
-          "w": "61",
+          "w": "62",
           "l": "19",
-          "pct": ".763",
-          "gb": "3"
+          "pct": ".765",
+          "gb": "2.5"
         },
         {
           "pos": 3,

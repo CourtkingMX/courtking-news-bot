@@ -1,93 +1,93 @@
 {
-  "updated": "11/04/2026 01:16 UTC",
+  "updated": "11/04/2026 02:29 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Fri 10 Apr",
         "local": "Hornets",
         "visita": "Pistons",
-        "score": "92-111",
+        "score": "100-118",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 10 Apr",
         "local": "Wizards",
         "visita": "Heat",
-        "score": "108-132",
+        "score": "117-140",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 10 Apr",
         "local": "Hawks",
         "visita": "Cavaliers",
-        "score": "108-80",
+        "score": "124-102",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 10 Apr",
         "local": "Celtics",
         "visita": "Pelicans",
-        "score": "109-74",
+        "score": "144-118",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 10 Apr",
         "local": "Pacers",
         "visita": "76ers",
-        "score": "77-89",
+        "score": "94-105",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 10 Apr",
         "local": "Knicks",
         "visita": "Raptors",
-        "score": "75-59",
+        "score": "112-95",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Bulls",
         "visita": "Magic",
-        "score": "53-64",
+        "score": "103-127",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Bucks",
         "visita": "Nets",
-        "score": "66-54",
+        "score": "125-108",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Spurs",
         "visita": "Mavericks",
-        "score": "68-65",
+        "score": "139-120",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Nuggets",
         "visita": "Thunder",
-        "score": "8-6",
+        "score": "77-73",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -98,9 +98,9 @@
         "fecha": "Sat 11 Apr",
         "local": "Puebla",
         "visita": "León",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
