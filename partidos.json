@@ -1,95 +1,95 @@
 {
-  "updated": "11/04/2026 14:28 UTC",
+  "updated": "11/04/2026 15:23 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Fri 10 Apr",
-        "local": "Hornets",
-        "visita": "Pistons",
-        "score": "100-118",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Fri 10 Apr",
-        "local": "Wizards",
-        "visita": "Heat",
-        "score": "117-140",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Fri 10 Apr",
-        "local": "Hawks",
-        "visita": "Cavaliers",
-        "score": "124-102",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Fri 10 Apr",
+        "fecha": "Sun 12 Apr",
         "local": "Celtics",
-        "visita": "Pelicans",
-        "score": "144-118",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Fri 10 Apr",
-        "local": "Pacers",
-        "visita": "76ers",
-        "score": "94-105",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Fri 10 Apr",
-        "local": "Knicks",
-        "visita": "Raptors",
-        "score": "112-95",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 11 Apr",
-        "local": "Bulls",
         "visita": "Magic",
-        "score": "103-127",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sat 11 Apr",
-        "local": "Bucks",
+        "fecha": "Sun 12 Apr",
+        "local": "Cavaliers",
+        "visita": "Wizards",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 12 Apr",
+        "local": "Pacers",
+        "visita": "Pistons",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 12 Apr",
+        "local": "Heat",
+        "visita": "Hawks",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 12 Apr",
+        "local": "Knicks",
+        "visita": "Hornets",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 12 Apr",
+        "local": "76ers",
+        "visita": "Bucks",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 12 Apr",
+        "local": "Raptors",
         "visita": "Nets",
-        "score": "125-108",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sat 11 Apr",
-        "local": "Spurs",
-        "visita": "Mavericks",
-        "score": "139-120",
+        "fecha": "Mon 13 Apr",
+        "local": "Mavericks",
+        "visita": "Bulls",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sat 11 Apr",
-        "local": "Nuggets",
-        "visita": "Thunder",
-        "score": "127-107",
+        "fecha": "Mon 13 Apr",
+        "local": "Rockets",
+        "visita": "Grizzlies",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Mon 13 Apr",
+        "local": "Timberwolves",
+        "visita": "Pelicans",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -143,18 +143,18 @@
         "fecha": "Sat 11 Apr",
         "local": "Real Sociedad",
         "visita": "Alavés",
-        "score": "3-2",
+        "score": "3-3",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Elche",
         "visita": "Valencia",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -206,18 +206,18 @@
         "fecha": "Sat 11 Apr",
         "local": "Brentford",
         "visita": "Everton",
-        "score": "",
+        "score": "1-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Burnley",
         "visita": "Brighton",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -253,7 +253,7 @@
         "visita": "Cremonese",
         "score": "1-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
@@ -262,7 +262,7 @@
         "visita": "Verona",
         "score": "2-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
