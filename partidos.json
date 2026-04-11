@@ -1,5 +1,5 @@
 {
-  "updated": "11/04/2026 21:23 UTC",
+  "updated": "11/04/2026 22:21 UTC",
   "sports": {
     "bk": [
       {
@@ -172,7 +172,7 @@
         "visita": "Atlético",
         "score": "2-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -242,9 +242,9 @@
         "fecha": "Sat 11 Apr",
         "local": "Rennes",
         "visita": "Angers",
-        "score": "2-0",
+        "score": "2-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
