@@ -1,5 +1,5 @@
 {
-  "updated": "11/04/2026 06:48 UTC",
+  "updated": "11/04/2026 07:42 UTC",
   "sports": {
     "bk": [
       {
@@ -167,12 +167,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Fri 10 Apr",
-        "local": "AS Roma",
-        "visita": "Pisa",
-        "score": "3-0",
+        "fecha": "Sat 11 Apr",
+        "local": "Cagliari",
+        "visita": "Cremonese",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 11 Apr",
+        "local": "Torino",
+        "visita": "Verona",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 11 Apr",
+        "local": "Milan",
+        "visita": "Udinese",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 11 Apr",
+        "local": "Atalanta",
+        "visita": "Juventus",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
