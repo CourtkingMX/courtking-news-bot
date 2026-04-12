@@ -1,13 +1,27 @@
 {
-  "updated": "12/04/2026 08:52 UTC",
+  "updated": "12/04/2026 16:42 UTC",
   "sports": {
     "bk": [
+      {
+        "title": "NBA Resultados México: Consulta los Últimos Partidos",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jM0x2eFp3Q3VaU3ZESTk4MEJwY3ZmZ2NfQlJVZGF2bUVUZHZpLTlPSk94RTliZVgyTHV1QlJyUkZEdWdSbVlNZUxFYVlnX0dfR2VJb2NEMnJaNTZBdE8zQUhROFBEaHBvQTBjSTZhM00?oc=5",
+        "date": "11 abr 2026",
+        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
+        "_pub_raw": "Sat, 11 Apr 2026 00:00:00 GMT"
+      },
       {
         "title": "¿Qué partidos de NBA hay hoy? Calendario y horarios del sábado 11 de abril",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUThUODdmRHNYcEVHcERyaXItMmJMcVNzcjZSMVFPaFpiQWxNelhWZjFaal93NF9qdFFTZHdSenBQaHZnekpReUM0Yi1rMVp3eG9KZzJITDU5OGZuLV9WSjhjeEt2RmJxYlFVeHZqZjdOamJidzlEMjNSNHBxbTVRMV9rSEoxaERxdU5JNzA2aUdudFhzckVpOGVUdFl4ZGhzcXdfNVhjSE5PQXRTSUFJNTdxNXotdkhNdGVCZVVFVVJiV3VVaWtYTlc5cHdQRm5XS3IxbXRsNVZaZmE3Y0N4YzZCcUdsckIxT2I4T2I2c1A3TXI1YkQ5Uw?oc=5",
         "date": "11 abr 2026",
         "image": "https://images.unsplash.com/photo-1576683564128-e4f3a22f231a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxwYXJ0aWRvcyUyMGNhbGVuZGFyaW8lMjBob3JhcmlvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3NTk2MjEyNHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 11 Apr 2026 13:53:00 GMT"
+      },
+      {
+        "title": "NBA Resultados México: Partidos en Vivo y Marcadores Finales",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TUmVIS1kyc29xankwMnhxbWdWVjFBSklLWDR1aWpFTWhCTEU5dklsaUh0a2YwVXduaV9haWxfLV9EZ2hpdEc1T1BJZERlVUV4bEczVnhIeGpyM2dqWGJ4QVh0T2diajl4TXhNV2ZOOVpKdlZuaGx3RQ?oc=5",
+        "date": "11 abr 2026",
+        "image": "https://images.unsplash.com/photo-1768349027546-d15a4c2d5488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxyZXN1bHRhZG9zJTIwbSVDMyVBOXhpY28lMjBwYXJ0aWRvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3NjAxMjEzM3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 11 Apr 2026 00:00:00 GMT"
       },
       {
         "title": "NBA Playoffs 2026: ¿Qué está en juego en la jornada final?",
@@ -24,88 +38,74 @@
         "_pub_raw": "Sat, 11 Apr 2026 23:19:02 GMT"
       },
       {
-        "title": "Play-In NBA 2026: Formato, equipos clasificados, partidos y resultados del torneo rumbo a los Playoffs",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTVXTmNJWmkxdXBBOEVwZnM0UTQydC15NmpoenczVnJPZlJMelFoUURyb1VqYUNKWm9vMk81dVZpSXBzV0dLOVlRQ3ZZTDVmYXVrNkxaWWJQeVoySzhVQWJoZlA4VWRvUkptUzQ4ZENhSHZIVFhqbnk1b1RKZkRUbTNsTjF6a1ViYW1IY21iSm5iTXlWakJHYzNQYnBkZnRCdjBnVnI2eDZEQ3FTWDh0bjduSk1GZnN1NkIxdGVFTGFPQQ?oc=5",
+        "title": "Playoffs, play in, opciones para el draft: lo que queda por decidir en la última jornada",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTdrSDNtektpV0h6SjBIYk00UmFxNHFGR2RnVVVvWHVJb1NqM0Vsa2RwbUcxOW5KUjdCclk5Tkk2WUUwQnR2ZGp5WmlDZlVRQ1p4d2dOM2tGaWdlS19OQ1JFR19TcHgyNnJtUlRRV2RFT19zRTVSWGc0N01Ub2NzR3JWWU1jNnRPNjlqY2JvVWNycWYzRVZXc0lQaFU1YkdNdnJZWmdsOEF5T3J3VWV5SGxkN2RpTnhjMTlXMy1LZHRhVkJ30gHYAUFVX3lxTFBYYzUyVmcxMkZjSFA0THhLT0hWRmlqQV9xYkg1a1dNMkJkUjVTSmVPY09WSkRySlpYZ084bUdFYkl3ZlBiQjdySXhwY2kxYk9nclp0Nmwyc2gzNmo3WWlnSUVETE52ekxWUjJ0bWFCTU9GbGZuOHQ5djktQ0pfODJkbU9PUHJFb0c4WUNLMXdRaHFaZ1lJQzZDU1lXcThRVzBfem9hZ0g1S3c2RHVYNmJoQXVoVlYzU2UxVkpfNlRkc1FsWlJJWW1TVS0tWHBDdFp1R25nZlA2VQ?oc=5",
         "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1516802273409-68526ee1bdd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwbGF5JTIwZm9ybWF0byUyMGVxdWlwb3MlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzU5NjIxMjh8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 11 Apr 2026 04:09:54 GMT"
+        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
+        "_pub_raw": "Sat, 11 Apr 2026 08:14:24 GMT"
       },
       {
-        "title": "Escenarios del Draft de la NBA 2026: cómo los Nets, Wizards o Pacers tienen las mejores probabilidades de lotería en el sorteo de tanques",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdW96UlZXalRqSTA4aGxBS295M3p1akJIS21PMDBxTDRBcE11aVBKakZ1d0hScmpQS3JtM3d6eFBDS0dlbHo3MC1xYktnVVNrSXk2Ym5tT2o5YWc5ZTVzME1PLTZUUGpHRkxxVXdjQlVlbG9YV1lESU4zaDNYVFdfc0ZGWFRLS28wTy0tQ204TC1sV1czc3lKZU90d3FOTUNKam1jSE5kNjZyMWtmX3VTOEZSRHhKMllHaFNuQ0pyQy12VTVXN3o3WUNNczU5enpEaENFZlgtenVidzg0Ny1zS3pLMDdfZkZoTVlwaUo5dlJwdWJIVGFnS0U3SWQ0aVR5eDlVZUJmQ3J2Y1ZJVXh3?oc=5",
-        "date": "10 abr 2026",
-        "image": "https://images.unsplash.com/photo-1719521178357-64ac2316f0ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxlc2NlbmFyaW9zJTIwZHJhZnQlMjBjJUMzJUIzbW8lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzU5NjIxMjl8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 10 Apr 2026 09:27:31 GMT"
-      },
-      {
-        "title": "NBA playoff intel: Early buzz on the Lakers, Celtics, Cavs, Pistons, Spurs and Warriors",
-        "url": "https://www.espn.com/nba/story/_/id/48443792/nba-playoffs-intel-lebron-lakers-chances-curry-warriors-issues-major-questions",
-        "date": "11 abr 2026",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0410%2Fr1641262_1296x729_16%2D9.jpg",
-        "_pub_raw": "Sat, 11 Apr 2026 19:51:50 EST"
-      },
-      {
-        "title": "NBA playoff watch: What's at stake on Sunday",
+        "title": "NBA playoff watch: What's at stake on the final day",
         "url": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
-        "date": "11 abr 2026",
+        "date": "12 abr 2026",
         "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0404%2Fr1638608_1296x729_16%2D9.jpg",
-        "_pub_raw": "Sat, 11 Apr 2026 19:51:50 EST"
+        "_pub_raw": "Sun, 12 Apr 2026 08:23:49 EST"
+      },
+      {
+        "title": "Playoff intel: Early buzz on Lakers, Celtics, Cavs, Pistons, Spurs, Warriors",
+        "url": "https://www.espn.com/nba/story/_/id/48443792/nba-playoffs-intel-lebron-lakers-chances-curry-warriors-issues-major-questions",
+        "date": "12 abr 2026",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0410%2Fr1641262_1296x729_16%2D9.jpg",
+        "_pub_raw": "Sun, 12 Apr 2026 08:23:49 EST"
+      },
+      {
+        "title": "Sources: Kings to retain Christie for next season",
+        "url": "https://www.espn.com/nba/story/_/id/48466453/sources-kings-retain-coach-doug-christie-next-season",
+        "date": "12 abr 2026",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0429%2Fr1485671_1296x729_16%2D9.jpg",
+        "_pub_raw": "Sun, 12 Apr 2026 11:54:44 EST"
+      },
+      {
+        "title": "Lakers fill out backcourt with new Smith deal",
+        "url": "https://www.espn.com/nba/story/_/id/48466487/lakers-needing-backcourt-help-sign-nick-smith-jr-new-deal",
+        "date": "12 abr 2026",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1104%2Fr1570508_1296x729_16%2D9.jpg",
+        "_pub_raw": "Sun, 12 Apr 2026 11:54:44 EST"
       },
       {
         "title": "Nuggets sit several players; Jokic questionable",
         "url": "https://www.espn.com/nba/story/_/id/48461175/nuggets-sit-several-players-vs-spurs-jokic-questionable",
-        "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
-        "_pub_raw": "Sat, 11 Apr 2026 20:10:32 EST"
+        "date": "12 abr 2026",
+        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
+        "_pub_raw": "Sun, 12 Apr 2026 11:54:44 EST"
       },
       {
         "title": "Wembanyama checks another 'box,' hits 65 games",
         "url": "https://www.espn.com/nba/story/_/id/48453963/wembanyama-40-points-13-rebounds-hits-65-games-checks-another-box",
-        "date": "11 abr 2026",
+        "date": "12 abr 2026",
         "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0212%2Fr1614063_1296x729_16%2D9.jpg",
-        "_pub_raw": "Sat, 11 Apr 2026 20:10:32 EST"
+        "_pub_raw": "Sun, 12 Apr 2026 11:54:45 EST"
       },
       {
         "title": "Celtics tie NBA record with 29 3s, clinch 2",
         "url": "https://www.espn.com/nba/story/_/id/48453131/celtics-tie-nba-record-29-3s-clinch-no-2-seed",
-        "date": "11 abr 2026",
+        "date": "12 abr 2026",
         "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0411%2Fr1641730_1296x729_16%2D9.jpg",
-        "_pub_raw": "Sat, 11 Apr 2026 20:10:32 EST"
+        "_pub_raw": "Sun, 12 Apr 2026 11:54:44 EST"
       },
       {
         "title": "Redick: 'Everybody' wants to face hobbled Lakers",
         "url": "https://www.espn.com/nba/story/_/id/48453400/jj-redick-short-handed-lakers-everybody-wants-play-us",
-        "date": "11 abr 2026",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0411%2Fr1641743_1296x729_16%2D9.jpg",
-        "_pub_raw": "Sat, 11 Apr 2026 20:10:32 EST"
-      },
-      {
-        "title": "76ers' Embiid out of hospital; no timeline to play",
-        "url": "https://www.espn.com/nba/story/_/id/48450628/76ers-star-joel-embiid-hospital-one-day-surgery",
-        "date": "11 abr 2026",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0123%2Fr1604448_1296x729_16%2D9.jpg",
-        "_pub_raw": "Sat, 11 Apr 2026 20:10:32 EST"
-      },
-      {
-        "title": "Heat waive Rozier, use roster spot on J. Young",
-        "url": "https://www.espn.com/nba/story/_/id/48447174/sources-heat-waive-embattled-guard-terry-rozier",
-        "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1752166672884-fa1e0c642f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxoZWF0JTIwd2FpdmUlMjByb3ppZXIlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzU4OTczMzh8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 11 Apr 2026 20:10:32 EST"
+        "date": "12 abr 2026",
+        "image": "https://images.unsplash.com/photo-1641541659898-c4be143c62b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxyZWRpY2slMjBldmVyeWJvZHklMjB3YW50cyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3NjAxMjEzOHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 12 Apr 2026 11:54:44 EST"
       },
       {
         "title": "Nuggets, Lakers, Spurs y Celtics ganaron en la noche de NBA",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaXIyb0NPWG9VcXFYZXVCSXg4SXBqYmppSGpyTUJOaFhhUXMtNzkzY0NSWXlWTlJWM2JBM2pKb0RNX3hsNF9UNmE3N0doUkNZQ19QU2lNU3lNTlJXX2JWNXVpZkthZE9pY3huQ3dWY25hX0ZVa3hXd2JoWkx2ZGRIb3N0WmlLcHBXNTNjSWQ0NkY1cmtlaVc5Y0lNUWhMQ3lMcmdfQnRjVWRYdlVKYlFr?oc=5",
         "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1577471488278-16eec37ffcc2?w=480&q=70",
         "_pub_raw": "Sat, 11 Apr 2026 12:32:00 GMT"
-      },
-      {
-        "title": "Playoffs de la NBA: ¿Qué está en juego en la jornada final?",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0RGdTBrdnFvaU5mc3Y4VWdNRDV3RW91dHVXU3Z1Sk5CZDBOZXVBT1NGUTg2dXNoOWFIY1JZU1R4UEFTRzc2LUpkQUhPWUVKR2lIcU1GeFlRRUV3NHNBX25Uc3QybExDWWVYN3N3dENvNUpKWnlTMVRTQ05RRDhBajVMd2djOGlpTkJQZlR6cFF0SDJ0bWZZT2hkOXpLV3diX01n?oc=5",
-        "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1589375844275-a44867d62055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwbGF5b2ZmcyUyMGVzdCVDMyVBMSUyMGp1ZWdvJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzc1OTI1NjA4fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 11 Apr 2026 15:38:00 GMT"
       },
       {
         "title": "Nuggets sientan a varios jugadores vs. Spurs; Jokic en duda",
@@ -115,18 +115,18 @@
         "_pub_raw": "Sun, 12 Apr 2026 02:17:00 GMT"
       },
       {
+        "title": "Playoffs de la NBA: ¿Qué está en juego en la jornada final?",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0RGdTBrdnFvaU5mc3Y4VWdNRDV3RW91dHVXU3Z1Sk5CZDBOZXVBT1NGUTg2dXNoOWFIY1JZU1R4UEFTRzc2LUpkQUhPWUVKR2lIcU1GeFlRRUV3NHNBX25Uc3QybExDWWVYN3N3dENvNUpKWnlTMVRTQ05RRDhBajVMd2djOGlpTkJQZlR6cFF0SDJ0bWZZT2hkOXpLV3diX01n?oc=5",
+        "date": "11 abr 2026",
+        "image": "https://images.unsplash.com/photo-1589375844275-a44867d62055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwbGF5b2ZmcyUyMGVzdCVDMyVBMSUyMGp1ZWdvJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzc1OTI1NjA4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 11 Apr 2026 15:38:00 GMT"
+      },
+      {
         "title": "La jornada del viernes de la NBA tuvo 168 jugadores ausentes",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaU9CMDFhNTBlWHpGRjdBYTQxOXZlSTFNYjYzaE9sMm5tSnJkeFllcW1pbVlCTVljd0twdVVhbDNqSVMtcDd4MTdhV3BldnFhYnNpeFUwbnBEczQtMmQ5OVRWNWpKbk5KY2IyR0FPVngyRC01M1BMZEUxRDNjU1BqdzVHTmlKcGQ3RzBKeFh4ZDR5eW5FSkotanZkVXVtdG16UWZsSktVZ1oyY1BEdFJQNTdLS3VXN1la?oc=5",
         "date": "11 abr 2026",
         "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxqb3JuYWRhJTIwdmllcm5lcyUyMHR1dm8lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3NzU5NjIxMzN8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 11 Apr 2026 16:54:00 GMT"
-      },
-      {
-        "title": "JJ Redick sobre Lakers mermados por bajas: Todos quieren jugar contra nosotros",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWlFMnVNaE5ObTFnQi1ZRFFMVlkxemlLQkJEaDhoWl95bjJoQzQ0bzFHVmdxaDF5VUZKM3poWE1mSU13bV9sajBSWEgwRy1WRkJHb252WGU4WHJvVGdfb0t4RlN2alIzX1BqVklaZ1ZIRnFhMVFvWklXeVRZME1mVzI3eG9wazNxZUhaMjV1dHI5a0NTR0E?oc=5",
-        "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1729547312207-8720728990f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZWRpY2slMjBzb2JyZSUyMGxha2VycyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3NTg5NzM0MXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 11 Apr 2026 03:39:00 GMT"
       },
       {
         "title": "Victor Wembanyama cifra doble-doble de 40 puntos ante Mavericks",
@@ -136,11 +136,11 @@
         "_pub_raw": "Sat, 11 Apr 2026 04:53:00 GMT"
       },
       {
-        "title": "Celtics igualan el récord NBA con 29 triples y aseguran segundo puesto del Este",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbEpfUDhjWUJsYlRIbHk3SzA2aU5vYzJZNVdvcmhzdEFpdFNNV3B1WnU1UHAxQ2J6WUpVQVg2V0U2RGU1dHJwV3pGdGZKelNOWXZHWS1QaTJ2SGthT21pNGhxXzVTRzVBNUpsVE5sYnA5cUhCbEVDZzVzeWlEOUdQYmRsZ3NORV84ZWFmMWl6MU5NdWl3eG9jRjBWV1V4MzQz?oc=5",
+        "title": "JJ Redick sobre Lakers mermados por bajas: Todos quieren jugar contra nosotros",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWlFMnVNaE5ObTFnQi1ZRFFMVlkxemlLQkJEaDhoWl95bjJoQzQ0bzFHVmdxaDF5VUZKM3poWE1mSU13bV9sajBSWEgwRy1WRkJHb252WGU4WHJvVGdfb0t4RlN2alIzX1BqVklaZ1ZIRnFhMVFvWklXeVRZME1mVzI3eG9wazNxZUhaMjV1dHI5a0NTR0E?oc=5",
         "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
-        "_pub_raw": "Sat, 11 Apr 2026 02:51:00 GMT"
+        "image": "https://images.unsplash.com/photo-1729547312207-8720728990f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZWRpY2slMjBzb2JyZSUyMGxha2VycyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc3NTg5NzM0MXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 11 Apr 2026 03:39:00 GMT"
       }
     ],
     "pd": [
@@ -152,11 +152,11 @@
         "_pub_raw": "Sat, 11 Apr 2026 20:14:10 GMT"
       },
       {
-        "title": "La ausencia de los Nº 1 condicionan los cuadros del NewGiza P2",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmhNaE5MOUZ6T3JwMzBwUlZwMnZtckh5a0lIYXREcm5CaHpURzBvak80aW85bXVNWEhvSFBpS05jckJCRHE2LWJlNWEyNFJRbVpEemJHNWVlaXFnem41VnZpeHNQQTI5dGJQcUV3YUt5TG5CUE5DR3k2S01JZXRocmxDSTNCNUxTRFFsel9GREFmc05lS0E?oc=5",
+        "title": "Sorteados los cruces del Newgiza Premier Padel P2 2026",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWkkzSDVUZXQ1OG9ZUG0wTkw5enNUQWR3NTl3aDFFUUJnRm1pNUtMM2tqQzBFUzZ3ZURUaTdSWDRkNmlmdHRQTjF5bmZyUERPTlpRbUEtTV84Wnk3dDljVllqTXIwdEtEX3B5ZWxyaVQ4ZkJrcUlMWWZfQWZveS0tRWFqLWc5RmRQVGc?oc=5",
         "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1709587825099-f6f07e5337af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxhdXNlbmNpYSUyMGNvbmRpY2lvbmFuJTIwY3VhZHJvcyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc3NTk2MjE0NHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 11 Apr 2026 16:06:50 GMT"
+        "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=480&q=70",
+        "_pub_raw": "Sat, 11 Apr 2026 17:14:31 GMT"
       },
       {
         "title": "'Tuti', la oveja descarriada del pádel con un talento \"superior\" a Galán o Lebrón",
@@ -178,13 +178,6 @@
         "date": "10 abr 2026",
         "image": "https://images.unsplash.com/photo-1715333150361-2d4f9e224db6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx2aXJhbCUyMGVudHJlbmFtaWVudG8lMjBqb3ZlbiUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc3NTk4Mzk3MXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 10 Apr 2026 17:36:56 GMT"
-      },
-      {
-        "title": "Arturo Coello lanza un aviso a Ibai: “Mi objetivo es pelear en La Velada”",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX01FMTBjSkJaOXFmbWpwNGxEa19kb2dJTnpSUmcxS21PQmp6ckIteGpaT1h1am9nTFZJMGpfYk9GZ2ozZF9BVTVwNl80OHlILUxTVkxqTkpySERnTzloZ3J2enFqaVhNYm5tMEhYaEdfYTkzbW9MQXRNYXk2Q3V6TzdFbXJxeDZTcEEza0NIZVFvOUlLYk5qSkp2OW1fbEdRNUHSAaIBQVVfeXFMUFJ6NkpKQTdKR2p2WXNWbEhMN1JXVE51RHFSUzUyX3cxRzlBN0FmMUcxdlkyUzFEMFZkN3VPMkhJbnZKcGJqTDFhdnJRVzg3cWpWTHU4Q2lJaGJObE9wVUhYZ0dYZHJEeXJXMm5oekFsV0NPWTFuX0l3QXlIVGtPdzRYajZCam5EMnNuTllMcVZrYWVNd2lXODNFVm5acm1INUdR?oc=5",
-        "date": "10 abr 2026",
-        "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=480&q=70",
-        "_pub_raw": "Fri, 10 Apr 2026 11:02:14 GMT"
       }
     ],
     "fx": [
@@ -196,18 +189,25 @@
         "_pub_raw": "Sun, 12 Apr 2026 02:48:27 GMT"
       },
       {
+        "title": "Liga MX Clausura 2026: resultados jornada 14, goles y posiciones del fútbol mexicano",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXYzODdjLVlseXlETFpsYnBiODRUUUJzbTJEb192ZHpLbnpqUlVxaDBwZmxSTDJ6ZlZhMXBtX3NlRWp3YXB3ZTlsYmxFWVMyTXE0U0RneF9ZTXFyRjg2aWJHMmptZHNjYmQtWVFvWmc4aEwxTmxvYS1zSVlIdXhnRTlRQVp1RVJpTzdOTW02LTV4eG83Qklsa0tNVmF3d3RtTEhvdGJpSC00NWFUMERlenV1SjBYZE5fQ3ZqQWJWQmRwcXB2?oc=5",
+        "date": "11 abr 2026",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwY2xhdXN1cmElMjByZXN1bHRhZG9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3NTg5NzM2N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 11 Apr 2026 06:58:00 GMT"
+      },
+      {
         "title": "Atlas vs Monterrey: resultado EN VIVO, minuto a minuto y goles por la Liga MX",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EVTFzRDd2M2RwakczNEVObzM1R2JtMnA1T1BtTzVZSjUxNnpubm5Xc0pTY0Exc01yRnhWdEZVZkI4SzdvN3VQZHhpQmlCUC02SFhtbzNJZ3poa2t1Z1ZZVHRnWGJrLWZDVkxQY1lqTE8wTWdWa1NCWDd0QQ?oc=5",
         "date": "12 abr 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
         "_pub_raw": "Sun, 12 Apr 2026 01:00:00 GMT"
       },
       {
-        "title": "Tigres golea a Chivas en duelo donde hubo polémica",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmg5MXdTN2NoNnM1cEFIUl9WQkEyY1JOa1RNNUVJaHVqTGY2UDhuSV9lY2YtSWV3UlZTbDY2amg4WUZvN1AtUnVFWGUyMWtEaF84SThsUXlSZUd0S1F2eUF2VDFfMUxpazM3YlVyZWk1TmtFcllQb0dRM1NkXzFYTjl3UlRPZThacUMweXZFTmd2WUR1ZXFldlVqbzE1S1ExR25GQm5pV09HSzRqTE56QzZzMXdFcmVSd3NvVk84NDhNRUE?oc=5",
-        "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
-        "_pub_raw": "Sat, 11 Apr 2026 22:49:49 GMT"
+        "title": "Todos los resultados y la tabla general tras la Jornada 14 del Clausura de la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0JKSFZYRTNqdVRTUkpqcFdIY0I2dGh3VEtwdnlMMEE3b0c5eF9ONHJ4aEwzeDJuUEJZNVdqb1dOcF80U1JuSk5TYzJBODlScUZTTGhwZktwUk0tbjhmVmR3R3pPUUM2d2dFX2ZGeWswcjZFdE80UDh3MTdQNnFfTjliWmFvUm1iRW9BSG0tMUoyM0dJNE5lZ2RxX3RIeXBfY3plU3AzZVFKdnBVTUlRNzBjalkzWW9KT183QjJ4d2hhLWPSAcgBQVVfeXFMTW1hMGFoNm9ScGlJM2thRVZrckFLSXhSRE9GTUJ5dG5US0pEN3pnd0NZYVRMb2FFcUM4TXF5MVBuei1jZHdmcGxfbjRYQ2hFd1Y3dzRTRFR3d1ZVcjJSWTJEdlBKLTd3M2xBcnZmNVlkV0VoaGYwMlVGaGxPR0p6TzVRU1Zial81Z3pqRDRJdUpETVhMbF9qX1oyRnAzLTlQWDF1bG85eHZtN0tQWFc1eUM2Q1JoUllUZkxQOHpkWTlxNmJBeWgtMFI?oc=5",
+        "date": "12 abr 2026",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHx0b2RvcyUyMHJlc3VsdGFkb3MlMjB0YWJsYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzYwMTIxNjJ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 12 Apr 2026 14:31:00 GMT"
       },
       {
         "title": "Liga MX Resultados Hoy: Guía Completa de Marcadores en Vivo",
@@ -217,39 +217,18 @@
         "_pub_raw": "Sat, 11 Apr 2026 00:00:00 GMT"
       },
       {
-        "title": "Liga MX Clausura 2026: resultados jornada 14, goles y posiciones del fútbol mexicano",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXYzODdjLVlseXlETFpsYnBiODRUUUJzbTJEb192ZHpLbnpqUlVxaDBwZmxSTDJ6ZlZhMXBtX3NlRWp3YXB3ZTlsYmxFWVMyTXE0U0RneF9ZTXFyRjg2aWJHMmptZHNjYmQtWVFvWmc4aEwxTmxvYS1zSVlIdXhnRTlRQVp1RVJpTzdOTW02LTV4eG83Qklsa0tNVmF3d3RtTEhvdGJpSC00NWFUMERlenV1SjBYZE5fQ3ZqQWJWQmRwcXB2?oc=5",
-        "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwY2xhdXN1cmElMjByZXN1bHRhZG9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3NTg5NzM2N3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 11 Apr 2026 06:58:00 GMT"
+        "title": "Atlas sigue con el ayuno del gol y Rayados con el del triunfo",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWXJmNE15TnZzRnlDUmJ2R0ZjcHpUdDJwMWtpZlBvcktKZDk0V09QMzZETXJ4YkpiYTlWdnJVblo1akhrZkVuUnlwalRMdXBVRVgtMjNTVEVFcDJZWWl4dmhldEZsNE1Hb1B3SWVuRy1vUFVfU2tsZ3Z4d0hOUk83a3VIOGdKRW0xdjY5VzBldTdUMUtPWFZ4LVRnZjkwOWFvLVdFR1VKVGlKakxvdnFnbGt2TFNPckNiN2FQVkw1OVZUcUFYWndKenMzTWkyTFhidV9N?oc=5",
+        "date": "12 abr 2026",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Sun, 12 Apr 2026 00:30:38 GMT"
       },
       {
         "title": "Tigres vs Chivas hoy: Resultado EN VIVO, minuto a minuto y goles de la Liga MX",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vUDFPSF9DSmM3Ukw5dG4wMlZpUERNZ1o1cHRtNFZXUFB0b0g0Mk82VHFyVlBWZUFXaGk4ZzcybEp4OHBWYXFqUmNQRXR0eGQ3U2dlWWxHZ0h6YjJmYVZfOW9lQXVtYk1DUGNkTF9rZTdCVG5VTjR3RGZIREcwdw?oc=5",
         "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
-        "_pub_raw": "Sat, 11 Apr 2026 23:05:00 GMT"
-      },
-      {
-        "title": "Atlas sigue con el ayuno del gol y Rayados con el del triunfo",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWXJmNE15TnZzRnlDUmJ2R0ZjcHpUdDJwMWtpZlBvcktKZDk0V09QMzZETXJ4YkpiYTlWdnJVblo1akhrZkVuUnlwalRMdXBVRVgtMjNTVEVFcDJZWWl4dmhldEZsNE1Hb1B3SWVuRy1vUFVfU2tsZ3Z4d0hOUk83a3VIOGdKRW0xdjY5VzBldTdUMUtPWFZ4LVRnZjkwOWFvLVdFR1VKVGlKakxvdnFnbGt2TFNPckNiN2FQVkw1OVZUcUFYWndKenMzTWkyTFhidV9N?oc=5",
-        "date": "12 abr 2026",
         "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
-        "_pub_raw": "Sun, 12 Apr 2026 00:30:38 GMT"
-      },
-      {
-        "title": "América vs Cruz Azul EN VIVO - Jornada 14 del Clausura 2026 de la Liga MX",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemtlZk44MGJJd0VXRzhzMExqUUliNWV4dFlFLXkxWWtjajFuM3FwMVFxU0l5dW1pdU92OTFVTmpuaFNNQUxINFBUazdMN3R1MjNJa2hJQUNPVGkyY0hyUXgtWElvcDBSVW5XUWJxLU1jQUEyQXZVRkRwdnF0SmgzWVNMSkk5U1hObC1sVWZUN1dObEUwV05Id3RPcTRLVGxMRldac2FGYlZRSnhON0NWTlR30gHGAUFVX3lxTE9wMDM0TG00NmNqa3ZtdjZ5ZWk0MnRSU252bjYtSVk2djVUajBkdHA5NWttWkxJR0dtN3NTX1g1RVBaZjdLRHRmMk1WRnpQb2ptNXNGUWdockQ5S0U3RzJ2OUFsTHFMRjVBU0hlTnEwVzhoRXRTSkxoQk9kTjlfOElvT0czdW50SGUyQjkyQndFZVhsTlZZQU5pMTNMMkF5VC1USWs4cXpFLTN0YmZmakdSZ1AzMWtCb1pLSjF0NTRvWEpLODJCZw?oc=5",
-        "date": "12 abr 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Sun, 12 Apr 2026 02:00:00 GMT"
-      },
-      {
-        "title": "Liga MX: Así se jugaría la liguilla del Clausura 2026 al momento",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDQ1bHdwOUprM1lGU3l3Ym05TEk3UHNFY3BCV04yNWkyaExNWjdsdFhuREl1VDNIdlZNM2tWeDhqQ2lWSnJqNHl4RXRoOTNwNGtKcVNHRWJXRnZUYnl4RG1CaDZmeGhRd3pld2dON1Q2TmtqbkgwX0dUWHhUNlEzanVaQ1ppOU80V1FwaDFiZ3ZDOHR1eWZvZlFzLWROdw?oc=5",
-        "date": "12 abr 2026",
-        "image": "https://images.unsplash.com/photo-1626767195809-a1da27c5f1a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwanVnYXIlQzMlQURhJTIwbGlndWlsbGElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzc1OTgzOTg3fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 12 Apr 2026 00:28:36 GMT"
+        "_pub_raw": "Sat, 11 Apr 2026 23:05:00 GMT"
       },
       {
         "title": "Liga MX: Horarios y canales para ver EN VIVO la jornada 14 del Clausura 2026, HOY, sábado 11 de abril",
@@ -259,11 +238,18 @@
         "_pub_raw": "Sat, 11 Apr 2026 16:20:14 GMT"
       },
       {
-        "title": "Así va la Tabla General del Clausura 2026 de Liga MX: ¡Aguas con América! Tigres, fuera de Liguilla",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTG95aHRTX3pJNDVDd1NOZHluNkp0NjhtSF93Y1BDenVVQXQxTk94dTk0WDUtZkNfUlFrVGF1R1l2ZDdydng5TlMzRG9NejRnUG9JWm94b0pnekxEM0F6NGRNd21Ebm9KOF9SeE5NbXdrMFNBZThBMlVqOUpodVRrVHJPb1N3VkFPcmFBUHdHUWczcUJRNS1VYlZuTmZFYWFQdFdmUWg4ODNnZ21EWVdnRU05bURWUVoyc1Y5YTk1blVWM0FHUl9kTE05RjMydGNEcWc?oc=5",
-        "date": "11 abr 2026",
-        "image": "https://images.unsplash.com/photo-1667591648746-1afab574bc10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx0YWJsYSUyMGdlbmVyYWwlMjBjbGF1c3VyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzU4OTczNzR8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 11 Apr 2026 04:12:00 GMT"
+        "title": "Liga MX: Tabla general de la Jornada 14 del Clausura 2026",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWTV5ZjVWcmlPaGZtY2V0Vkw1N2pFTnhUN2FWNzE1eEtMb1IxRDc0NHBKLXR3Q0RlNjI5QmkySVh5d01IX1pSZk1ndHcxR2Y4Tk9RN0twRk5MOVdLV2YzSW1KVi1IOC1TZEtmMVIwMUthc1VZUm5zNnJ2d1VFSVh1SGp3OWVRTDk2bXo3dWpZeGJfQTFER1pSMXdxb1lMZkgzMktyaERiT1dYTFp3NC1JQg?oc=5",
+        "date": "12 abr 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsaWdhJTIwdGFibGElMjBnZW5lcmFsJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3NjAxMjE2Nnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 12 Apr 2026 05:58:00 GMT"
+      },
+      {
+        "title": "Así va la Tabla General del Clausura 2026 de la Liga MX: ¡Chivas cae y abre la puerta a Cruz Azul!",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNE5RcVI4QXExckpNZXlJcFJDenBKZllEalZqTXdtdkMxR1o0YTg1QXFhNTNMVElBRzZaXzNXejRGekRtMFpMcUFBampjdTBmUGJ5dncxQkpMdUZaOExEUFRFTlVlaExfUkxDdU12WDVGdU5jYldLYWdHWDJuRUFlTVUyU3VBeWJITnVIMmgtZzVmeFhvcnVsQVk4d0k3THo5b1k0VHdqeVhnLThUQk42Z2VpTFVyZmhXLWRwaHkwb2N6S2NfWXB0Y1loVjNSeENsalE?oc=5",
+        "date": "12 abr 2026",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHx0YWJsYSUyMGdlbmVyYWwlMjBjbGF1c3VyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzU4OTczNzR8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 12 Apr 2026 02:03:00 GMT"
       },
       {
         "title": "Partidos HOY Liga MX: dónde ver EN VIVO los juegos del sábado 11 de abril",
@@ -273,25 +259,11 @@
         "_pub_raw": "Sat, 11 Apr 2026 14:00:00 GMT"
       },
       {
-        "title": "Atlas vs Monterrey EN VIVO - Jornada 14 - Clausura 2026 - Liga MX",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaW8yaUp1MXNjcHFMaUk3b05zUkRTMU1jcms2ZE01UlJ3dGZzX0l5MDh4bTJEYnhCamNMS2NjVkpBYWtQTzdUWVlQOGdqUXQxeTI5YkhuYmEwSTJ1djZJQi1rQy15SEJzNGhtaDk2bDZUc3M5U3NNUUw0a3h2aGljSEI3MUZ2Rm5DTzk4UFZpNktkQjdJZ1A0WFplVjQ3RG5FNmfSAbYBQVVfeXFMTUdJTTZ2U1Z1cDZldTdaUE9HV01lOFJTZXZTd2VNVEVOc1lLQ24wRVhFc29ZR3JqRDhXMXhWeDJRaWQ3RzNqVS1yZGI1OXFpT3hWeWFGandlVUZsUjlPM0hqRmROcjZ3M2w4ZnRFWjBmTkk2ZGxNblFXOXhKTnBUM3V2VFdMR1JFS1JzX21xbjR3Q0JJbUlfUm5iQTE2bWp4NXhVbUVRejFCUG9lUXBWc3Rrbl9DdVE?oc=5",
-        "date": "12 abr 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
-        "_pub_raw": "Sun, 12 Apr 2026 00:45:40 GMT"
-      },
-      {
-        "title": "¿Dónde ver la Jornada 14 de la Liga MX HOY? Horarios, canales y Clásico del Clausura 2026",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOWdIX0R3Qmd4Q1VKVmI4SldNVzE3cFBuMnlhQUY0TU10ajZNaG1SREdNV0tURkQ5VE84U2dybjVUX0lMX1c1aGlYN3N2S180RklQQ1FzTU9Ndjdhel9SYVJtRVNSUVhqUzY5bWRTcW1JVTBjSmprZ2pKZ25La3p3Q20yTnhzME1Gdy1STXFMMjRNQW5VblpLYkxfVjVuR0RhOTMybUUxQjVKMk5RX0lrdUliOHA2NXBVUUxIY3hGQk1nNGxVWDFfaVJnQ2lpQUFqUUdmTjB3?oc=5",
-        "date": "10 abr 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxkJUMzJUIzbmRlJTIwam9ybmFkYSUyMGxpZ2ElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzc1OTYyMTY0fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 10 Apr 2026 13:00:00 GMT"
-      },
-      {
-        "title": "Así va la Tabla General del Clausura 2026 de la Liga MX: ¡Chivas cae y abre la puerta a Cruz Azul!",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNE5RcVI4QXExckpNZXlJcFJDenBKZllEalZqTXdtdkMxR1o0YTg1QXFhNTNMVElBRzZaXzNXejRGekRtMFpMcUFBampjdTBmUGJ5dncxQkpMdUZaOExEUFRFTlVlaExfUkxDdU12WDVGdU5jYldLYWdHWDJuRUFlTVUyU3VBeWJITnVIMmgtZzVmeFhvcnVsQVk4d0k3THo5b1k0VHdqeVhnLThUQk42Z2VpTFVyZmhXLWRwaHkwb2N6S2NfWXB0Y1loVjNSeENsalE?oc=5",
-        "date": "12 abr 2026",
-        "image": "https://images.unsplash.com/photo-1667591648746-1afab574bc10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx0YWJsYSUyMGdlbmVyYWwlMjBjbGF1c3VyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzU4OTczNzR8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 12 Apr 2026 02:03:00 GMT"
+        "title": "Así va la Tabla General del Clausura 2026 de Liga MX: ¡Aguas con América! Tigres, fuera de Liguilla",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTG95aHRTX3pJNDVDd1NOZHluNkp0NjhtSF93Y1BDenVVQXQxTk94dTk0WDUtZkNfUlFrVGF1R1l2ZDdydng5TlMzRG9NejRnUG9JWm94b0pnekxEM0F6NGRNd21Ebm9KOF9SeE5NbXdrMFNBZThBMlVqOUpodVRrVHJPb1N3VkFPcmFBUHdHUWczcUJRNS1VYlZuTmZFYWFQdFdmUWg4ODNnZ21EWVdnRU05bURWUVoyc1Y5YTk1blVWM0FHUl9kTE05RjMydGNEcWc?oc=5",
+        "date": "11 abr 2026",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHx0YWJsYSUyMGdlbmVyYWwlMjBjbGF1c3VyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzU4OTczNzR8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 11 Apr 2026 04:12:00 GMT"
       },
       {
         "title": "¡Empate en el Clásico Joven! América y Cruz Azul se quedan con ganas de la victoria en el Estadio Banorte",
@@ -304,7 +276,7 @@
         "title": "América firma racha negativa histórica en el Clausura 2026",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2RldTM1LVFya0cwOVZpbXFHa3B0cVBSb25Rdk5EanJscFpqZXhYQjF2b0pYemh1Vjg1UWJrX0JxQnVZX0Y0dTFfQjE3dWluUXU3Ny14OEpQN2lvclhxaUF0aXlLdWd3eXc0enlOTDB6TURqNXN1THVHZTE0c0NRR1VaaGZ1MV96NUFGa2pEWU51ZmFleERNTTQ2TUVSb0NCR0Y1dnE2QU55dHRMQ0g1cVg4bS3SAcgBQVVfeXFMTjgzQ08xMTc0ZmJUYkZXUmxKNmdwcURMWkVvaTBqb1RqWmVneDhNai1iNnBHaU5oaWVOTHhzSXU4VlZYclFHZ3JpWnhubkt1T1dEM1cwdWR4TzhvVFp5WUYzcnFsLWpaaXRhb3lpM2xPODFqZmlvdmEzbi1rblhQVHl6eFNDUWNvM3M5UHgxSVBOSjQtOXZQT1BjVE1VSkpYM0VmQUtTemJxT1FRMFhrNUFoYWg2ZXZXTzlPVGNRTmgyNGZxR2pTYWw?oc=5",
         "date": "12 abr 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
         "_pub_raw": "Sun, 12 Apr 2026 05:26:35 GMT"
       },
       {
@@ -315,11 +287,32 @@
         "_pub_raw": "Sun, 12 Apr 2026 00:05:30 GMT"
       },
       {
+        "title": "América y Cruz Azul igualan 1-1 en la reapertura del Estadio Azteca para partidos de la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRW1uSnFmS1pONGxraER4X0N6Vmpqd1FvZkhHSHREZkZSdkU5TmZYOVpScVZDbGlxQUFkR05BcHU0UjQtWGhCRHFzZ1lZcEJpcmh5azE1aHl3SlA2ZS1ETzRMU205S0ZpVEUxYmpHenBHeTM1elB1REJyTzJhR2RUZzVDR29Sem5KN1hndFhXNHFfQ095NUNReDg4VXFCVkZGbndpVGVSaU9iMzExZFZoalQtYi03QTZ6YllMRjJMdGl6TDhKcm1oajcyZ1A1Vnp2VGZ2bDJScVVRbXJwWEhvSjd0Q2NuaTA?oc=5",
+        "date": "12 abr 2026",
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "_pub_raw": "Sun, 12 Apr 2026 05:36:00 GMT"
+      },
+      {
+        "title": "Milito tras derrota: \"Si queremos aspirar a eso que soñamos, hay que corregir\"",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRW9jR0hqRXZuLVczSkd3REV3bjVnR3FBTVdJaERSOThlc2dRVDdnSnBuWF9MNGU2azZFUU5YbUprbG1OOHpnMW1SV2E5aU9UM0w4cWxOZHY3cmRCam1wSW5tbHdOeFJuNFRaazBWVTh4Z0RnamVpRVc0dWdJaHN2S05VdC1oUG5aNjNuMzlEaktBYktoUlRjVHVyOTJHeFN6WUkyZjRUeTMteDN0RHZqVnNn?oc=5",
+        "date": "12 abr 2026",
+        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxtaWxpdG8lMjB0cmFzJTIwZGVycm90YSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3NzYwMTIxNzJ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 12 Apr 2026 04:07:37 GMT"
+      },
+      {
         "title": "Cruz Azul no aprovecha descalabro de Chivas y empata con América",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVU5rVEdSZzNJUVR0Z0otR1VLWVBWY2ljNC1XdzREZGtvY3YxVEFiSUNZdXc5eFQ5NFBmQ0dNLWhyYWh3NVI1ZUtyaU1sd1p6RW5fWm45NWx0TC1UVC1Ba0U5SW81cFFrNTBzaVA4dWZzLUZ5WFZiV0JadzBiaTZOakFhUGE5OV9hTndSRnNwN3czOWs?oc=5",
         "date": "12 abr 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
         "_pub_raw": "Sun, 12 Apr 2026 05:32:52 GMT"
+      },
+      {
+        "title": "Tabla de posiciones Liga MX: Cruz Azul rescató el empate ante el América; Chivas fue goleado, pero sigue líder",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjl4LTNmQkNZSnU5NnNLRXlrSFRnX1dLQXFxRkRxZ0FaN1gtSm9TcEdua3VPVTdXYU1xa1V3cFYxc1ZGc01ZX1F3djN5b3dHNGo2X0t4anlOdW1kODQxTG4zMHNyX3pHRU96UkxLU1Jyekp3WDFKNG5QeTNtT0xWZTNEZ3EwLV9pM1JZZ1VnOVVQWFg5TmN0R1JXdVdlYU83VGF3THRsVU1nSjRXbVlsUG5GVnFEQ0k?oc=5",
+        "date": "12 abr 2026",
+        "image": "https://images.unsplash.com/photo-1695076994888-4e00e8904e4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx0YWJsYSUyMHBvc2ljaW9uZXMlMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc3NjAxMjE3M3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 12 Apr 2026 15:02:00 GMT"
       },
       {
         "title": "Tigres vs Chivas y América vs Cruz Azul: a qué hora y dónde ver en vivo los partidos de hoy | Jornada 14 Liga MX",
