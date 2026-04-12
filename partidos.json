@@ -1,5 +1,5 @@
 {
-  "updated": "12/04/2026 13:53 UTC",
+  "updated": "12/04/2026 14:33 UTC",
   "sports": {
     "bk": [
       {
@@ -116,7 +116,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Osasuna",
         "visita": "Betis",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -170,27 +170,27 @@
         "fecha": "Sun 12 Apr",
         "local": "C Palace",
         "visita": "Newcastle",
-        "score": "",
+        "score": "0-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Nottm Forest",
         "visita": "Aston Villa",
-        "score": "",
+        "score": "1-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Sunderland",
         "visita": "Spurs",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -242,7 +242,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Parma",
         "visita": "Napoli",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
