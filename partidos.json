@@ -1,12 +1,12 @@
 {
-  "updated": "12/04/2026 22:22 UTC",
+  "updated": "12/04/2026 23:24 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 12 Apr",
         "local": "Celtics",
         "visita": "Magic",
-        "score": "10-8",
+        "score": "52-61",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -15,7 +15,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Cavaliers",
         "visita": "Wizards",
-        "score": "18-11",
+        "score": "76-68",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -24,7 +24,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Pacers",
         "visita": "Pistons",
-        "score": "9-19",
+        "score": "63-81",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -33,7 +33,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Heat",
         "visita": "Hawks",
-        "score": "16-9",
+        "score": "75-67",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -42,7 +42,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Knicks",
         "visita": "Hornets",
-        "score": "6-8",
+        "score": "54-69",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -51,7 +51,7 @@
         "fecha": "Sun 12 Apr",
         "local": "76ers",
         "visita": "Bucks",
-        "score": "11-9",
+        "score": "64-64",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -60,7 +60,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Raptors",
         "visita": "Nets",
-        "score": "10-11",
+        "score": "70-61",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
