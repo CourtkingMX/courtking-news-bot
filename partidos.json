@@ -1,5 +1,5 @@
 {
-  "updated": "12/04/2026 17:26 UTC",
+  "updated": "12/04/2026 18:32 UTC",
   "sports": {
     "bk": [
       {
@@ -134,7 +134,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Celta Vigo",
         "visita": "Real Oviedo",
-        "score": "0-1",
+        "score": "0-2",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -197,7 +197,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Chelsea",
         "visita": "Man City",
-        "score": "0-1",
+        "score": "0-3",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -208,16 +208,16 @@
         "visita": "Le Havre AC",
         "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Toulouse",
         "visita": "Lille",
-        "score": "0-3",
+        "score": "0-4",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -251,9 +251,9 @@
         "fecha": "Sun 12 Apr",
         "local": "Bologna",
         "visita": "Lecce",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
