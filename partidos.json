@@ -1,5 +1,5 @@
 {
-  "updated": "12/04/2026 10:28 UTC",
+  "updated": "12/04/2026 11:26 UTC",
   "sports": {
     "bk": [
       {
@@ -233,9 +233,9 @@
         "fecha": "Sun 12 Apr",
         "local": "Genoa",
         "visita": "Sassuolo",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
