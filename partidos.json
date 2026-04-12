@@ -1,5 +1,5 @@
 {
-  "updated": "12/04/2026 19:32 UTC",
+  "updated": "12/04/2026 20:24 UTC",
   "sports": {
     "bk": [
       {
@@ -98,7 +98,7 @@
         "fecha": "Sun 12 Apr",
         "local": "UNAM",
         "visita": "Mazatlán",
-        "score": "2-0",
+        "score": "3-1",
         "liga": "Liga MX",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
@@ -143,9 +143,9 @@
         "fecha": "Sun 12 Apr",
         "local": "Athletic",
         "visita": "Villarreal",
-        "score": "",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -224,9 +224,9 @@
         "fecha": "Sun 12 Apr",
         "local": "Lyon",
         "visita": "Lorient",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -260,7 +260,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Como",
         "visita": "Inter Milan",
-        "score": "2-0",
+        "score": "2-4",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
