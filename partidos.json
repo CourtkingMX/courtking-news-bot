@@ -1,5 +1,5 @@
 {
-  "updated": "12/04/2026 02:48 UTC",
+  "updated": "12/04/2026 04:38 UTC",
   "sports": {
     "bk": [
       {
@@ -125,7 +125,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Pachuca",
         "visita": "Santos",
-        "score": "1-1",
+        "score": "4-1",
         "liga": "Liga MX",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
