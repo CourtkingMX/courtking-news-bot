@@ -1,68 +1,68 @@
 {
-  "updated": "12/04/2026 21:24 UTC",
+  "updated": "12/04/2026 22:22 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 12 Apr",
         "local": "Celtics",
         "visita": "Magic",
-        "score": "",
+        "score": "10-8",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Cavaliers",
         "visita": "Wizards",
-        "score": "",
+        "score": "18-11",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Pacers",
         "visita": "Pistons",
-        "score": "",
+        "score": "9-19",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Heat",
         "visita": "Hawks",
-        "score": "",
+        "score": "16-9",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Knicks",
         "visita": "Hornets",
-        "score": "",
+        "score": "6-8",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "76ers",
         "visita": "Bucks",
-        "score": "",
+        "score": "11-9",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Raptors",
         "visita": "Nets",
-        "score": "",
+        "score": "10-11",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -143,9 +143,9 @@
         "fecha": "Sun 12 Apr",
         "local": "Athletic",
         "visita": "Villarreal",
-        "score": "0-2",
+        "score": "1-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -226,7 +226,7 @@
         "visita": "Lorient",
         "score": "2-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
