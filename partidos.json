@@ -1,5 +1,5 @@
 {
-  "updated": "11/04/2026 23:22 UTC",
+  "updated": "12/04/2026 01:26 UTC",
   "sports": {
     "bk": [
       {
@@ -98,18 +98,18 @@
         "fecha": "Sat 11 Apr",
         "local": "Queretaro",
         "visita": "Necaxa",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 11 Apr",
         "local": "Tigres",
         "visita": "Guadalajara",
-        "score": "",
+        "score": "1-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
