@@ -1,5 +1,5 @@
 {
-  "updated": "12/04/2026 04:38 UTC",
+  "updated": "12/04/2026 06:18 UTC",
   "sports": {
     "bk": [
       {
@@ -118,25 +118,25 @@
         "visita": "Monterrey",
         "score": "0-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Pachuca",
         "visita": "Santos",
-        "score": "4-1",
+        "score": "4-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "América",
         "visita": "Cruz Azul",
-        "score": "",
+        "score": "1-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
