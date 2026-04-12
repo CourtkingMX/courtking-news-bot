@@ -1,10 +1,17 @@
 {
-  "updated": "12/04/2026 02:48 UTC",
+  "updated": "12/04/2026 08:52 UTC",
   "sports": {
     "bk": [
       {
+        "vid": "MTzHDJi106g",
+        "title": "2026 Nike Hoop Summit | Full Men’s Game Highlights | April 11, 2026",
+        "thumb": "https://i.ytimg.com/vi/MTzHDJi106g/mqdefault.jpg",
+        "date": "2026-04-12",
+        "url": "https://www.youtube.com/watch?v=MTzHDJi106g"
+      },
+      {
         "vid": "TdhD4FW4Lps",
-        "title": "TEAM WORLD vs TEAM USA | 2025 Nike Hoop Summit | Full Women’s Game Highlights | April 11, 2026",
+        "title": "2026 Nike Hoop Summit | Full Women’s Game Highlights | April 11, 2026",
         "thumb": "https://i.ytimg.com/vi/TdhD4FW4Lps/mqdefault.jpg",
         "date": "2026-04-12",
         "url": "https://www.youtube.com/watch?v=TdhD4FW4Lps"
@@ -29,13 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/iJgTteagwGU/mqdefault.jpg",
         "date": "2026-04-11",
         "url": "https://www.youtube.com/watch?v=iJgTteagwGU"
-      },
-      {
-        "vid": "-pRrofqraOI",
-        "title": "Zion Green, As Promised vs. Team Loaded |MADE HOOPS | NBA Future Starts Now",
-        "thumb": "https://i.ytimg.com/vi/-pRrofqraOI/mqdefault.jpg",
-        "date": "2026-04-11",
-        "url": "https://www.youtube.com/watch?v=-pRrofqraOI"
       },
       {
         "vid": "SSkZXJtLGy0",
@@ -98,6 +98,13 @@
     ],
     "fx": [
       {
+        "vid": "1zkcahuZ-eA",
+        "title": "Lamine no para 😮‍💨⚽",
+        "thumb": "https://i.ytimg.com/vi/1zkcahuZ-eA/mqdefault.jpg",
+        "date": "2026-04-12",
+        "url": "https://www.youtube.com/watch?v=1zkcahuZ-eA"
+      },
+      {
         "vid": "hva4NKDIq5s",
         "title": "REAL SOCIEDAD 3 - 3 DEPORTIVO ALAVÉS | RESUMEN LALIGA EA SPORTS",
         "thumb": "https://i.ytimg.com/vi/hva4NKDIq5s/mqdefault.jpg",
@@ -124,13 +131,6 @@
         "thumb": "https://i.ytimg.com/vi/rw0n24ub4ic/mqdefault.jpg",
         "date": "2026-04-11",
         "url": "https://www.youtube.com/watch?v=rw0n24ub4ic"
-      },
-      {
-        "vid": "79hxMn5xd0I",
-        "title": "SEVILLA FC 2 - 1 ATLÉTICO DE MADRID | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/79hxMn5xd0I/mqdefault.jpg",
-        "date": "2026-04-11",
-        "url": "https://www.youtube.com/watch?v=79hxMn5xd0I"
       },
       {
         "vid": "TWBVURO64LI",
