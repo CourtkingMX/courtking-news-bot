@@ -1,5 +1,5 @@
 {
-  "updated": "12/04/2026 15:27 UTC",
+  "updated": "12/04/2026 16:26 UTC",
   "sports": {
     "bk": [
       {
@@ -125,7 +125,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Mallorca",
         "visita": "Rayo",
-        "score": "0-0",
+        "score": "2-0",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -170,9 +170,9 @@
         "fecha": "Sun 12 Apr",
         "local": "C Palace",
         "visita": "Newcastle",
-        "score": "0-1",
+        "score": "2-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -181,7 +181,7 @@
         "visita": "Aston Villa",
         "score": "1-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -190,7 +190,7 @@
         "visita": "Spurs",
         "score": "1-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -206,18 +206,18 @@
         "fecha": "Sun 12 Apr",
         "local": "Nice",
         "visita": "Le Havre AC",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Toulouse",
         "visita": "Lille",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -251,9 +251,9 @@
         "fecha": "Sun 12 Apr",
         "local": "Bologna",
         "visita": "Lecce",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
