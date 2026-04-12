@@ -1,5 +1,5 @@
 {
-  "updated": "12/04/2026 14:33 UTC",
+  "updated": "12/04/2026 15:27 UTC",
   "sports": {
     "bk": [
       {
@@ -118,16 +118,16 @@
         "visita": "Betis",
         "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 12 Apr",
         "local": "Mallorca",
         "visita": "Rayo",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -188,7 +188,7 @@
         "fecha": "Sun 12 Apr",
         "local": "Sunderland",
         "visita": "Spurs",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -244,7 +244,7 @@
         "visita": "Napoli",
         "score": "1-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
