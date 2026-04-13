@@ -1,5 +1,5 @@
 {
-  "updated": "13/04/2026 02:53 UTC",
+  "updated": "13/04/2026 04:50 UTC",
   "sports": {
     "bk": [
       {
@@ -87,9 +87,9 @@
         "fecha": "Mon 13 Apr",
         "local": "Timberwolves",
         "visita": "Pelicans",
-        "score": "122-112",
+        "score": "132-126",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -107,7 +107,7 @@
         "fecha": "Mon 13 Apr",
         "local": "Toluca",
         "visita": "Atl. San Luis",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Liga MX",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
