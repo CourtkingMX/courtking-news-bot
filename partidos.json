@@ -1,5 +1,5 @@
 {
-  "updated": "13/04/2026 09:26 UTC",
+  "updated": "13/04/2026 09:57 UTC",
   "sports": {
     "bk": [
       {
@@ -113,39 +113,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 12 Apr",
-        "local": "Osasuna",
-        "visita": "Betis",
-        "score": "1-1",
+        "fecha": "Mon 13 Apr",
+        "local": "Levante",
+        "visita": "Getafe",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 12 Apr",
-        "local": "Mallorca",
-        "visita": "Rayo",
-        "score": "3-0",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 12 Apr",
-        "local": "Celta Vigo",
-        "visita": "Real Oviedo",
-        "score": "0-3",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 12 Apr",
-        "local": "Athletic",
-        "visita": "Villarreal",
-        "score": "1-2",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -167,39 +140,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sun 12 Apr",
-        "local": "C Palace",
-        "visita": "Newcastle",
-        "score": "2-1",
+        "fecha": "Mon 13 Apr",
+        "local": "Man United",
+        "visita": "Leeds",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 12 Apr",
-        "local": "Nottm Forest",
-        "visita": "Aston Villa",
-        "score": "1-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 12 Apr",
-        "local": "Sunderland",
-        "visita": "Spurs",
-        "score": "1-0",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 12 Apr",
-        "local": "Chelsea",
-        "visita": "Man City",
-        "score": "0-3",
-        "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
