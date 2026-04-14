@@ -1,5 +1,5 @@
 {
-  "updated": "14/04/2026 02:46 UTC",
+  "updated": "14/04/2026 04:37 UTC",
   "sports": {
     "bk": [
       {
@@ -104,12 +104,21 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Mon 13 Apr",
-        "local": "Fiorentina",
-        "visita": "Lazio",
-        "score": "1-0",
+        "fecha": "Fri 17 Apr",
+        "local": "Sassuolo",
+        "visita": "Como",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Fri 17 Apr",
+        "local": "Inter Milan",
+        "visita": "Cagliari",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
