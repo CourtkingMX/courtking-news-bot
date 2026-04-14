@@ -1,5 +1,5 @@
 {
-  "updated": "14/04/2026 06:25 UTC",
+  "updated": "14/04/2026 08:20 UTC",
   "sports": {
     "bk": [
       {
@@ -23,21 +23,21 @@
     ],
     "fx": [
       {
-        "fecha": "Sun 12 Apr",
-        "local": "UNAM",
-        "visita": "Mazatlán",
-        "score": "3-1",
+        "fecha": "Sat 18 Apr",
+        "local": "Atl. San Luis",
+        "visita": "UNAM",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 13 Apr",
-        "local": "Toluca",
-        "visita": "Atl. San Luis",
-        "score": "1-1",
+        "fecha": "Sat 18 Apr",
+        "local": "Mazatlán",
+        "visita": "Queretaro",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -77,30 +77,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 12 Apr",
-        "local": "Nice",
-        "visita": "Le Havre AC",
-        "score": "1-1",
+        "fecha": "Fri 17 Apr",
+        "local": "Lens",
+        "visita": "Toulouse",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 12 Apr",
-        "local": "Toulouse",
-        "visita": "Lille",
-        "score": "0-4",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 12 Apr",
-        "local": "Lyon",
-        "visita": "Lorient",
-        "score": "2-0",
-        "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
