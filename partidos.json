@@ -1,5 +1,5 @@
 {
-  "updated": "15/04/2026 04:37 UTC",
+  "updated": "15/04/2026 06:26 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Wed 15 Apr",
         "local": "Suns",
         "visita": "Trail Blazers",
-        "score": "106-104",
+        "score": "110-114",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
