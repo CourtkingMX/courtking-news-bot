@@ -1,5 +1,5 @@
 {
-  "updated": "15/04/2026 06:26 UTC",
+  "updated": "15/04/2026 08:21 UTC",
   "sports": {
     "bk": [
       {
@@ -68,12 +68,48 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Mon 13 Apr",
-        "local": "Man United",
-        "visita": "Leeds",
-        "score": "1-2",
+        "fecha": "Sat 18 Apr",
+        "local": "Brentford",
+        "visita": "Fulham",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 18 Apr",
+        "local": "Leeds",
+        "visita": "Wolves",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 18 Apr",
+        "local": "Newcastle",
+        "visita": "Bournemouth",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 18 Apr",
+        "local": "Spurs",
+        "visita": "Brighton",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 18 Apr",
+        "local": "Chelsea",
+        "visita": "Man United",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
