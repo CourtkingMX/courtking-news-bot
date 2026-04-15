@@ -1,14 +1,14 @@
 {
-  "updated": "14/04/2026 23:34 UTC",
+  "updated": "15/04/2026 01:22 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Tue 14 Apr",
         "local": "Hornets",
         "visita": "Heat",
-        "score": "",
+        "score": "89-83",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
