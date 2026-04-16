@@ -1,5 +1,5 @@
 {
-  "updated": "16/04/2026 02:51 UTC",
+  "updated": "16/04/2026 09:22 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -32,6 +32,15 @@
         },
         {
           "pos": 4,
+          "team": "PHI",
+          "name": "76ers",
+          "w": "45",
+          "l": "37",
+          "pct": ".549",
+          "gb": "15"
+        },
+        {
+          "pos": 5,
           "team": "TOR",
           "name": "Raptors",
           "w": "46",
@@ -40,7 +49,7 @@
           "gb": "14"
         },
         {
-          "pos": 5,
+          "pos": 6,
           "team": "CLE",
           "name": "Cavaliers",
           "w": "52",
@@ -49,7 +58,7 @@
           "gb": "8"
         },
         {
-          "pos": 6,
+          "pos": 7,
           "team": "NY",
           "name": "Knicks",
           "w": "53",
@@ -58,22 +67,13 @@
           "gb": "7"
         },
         {
-          "pos": 7,
+          "pos": 8,
           "team": "MIA",
           "name": "Heat",
           "w": "43",
           "l": "39",
           "pct": ".524",
           "gb": "17"
-        },
-        {
-          "pos": 8,
-          "team": "CHA",
-          "name": "Hornets",
-          "w": "44",
-          "l": "38",
-          "pct": ".537",
-          "gb": "16"
         }
       ],
       "west": [
