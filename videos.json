@@ -1,17 +1,24 @@
 {
-  "updated": "16/04/2026 09:22 UTC",
+  "updated": "16/04/2026 17:17 UTC",
   "sports": {
     "bk": [
       {
+        "vid": "0IvPA57iizI",
+        "title": "NBA&#39;s Nightly Recap | April 15, 2026",
+        "thumb": "https://i.ytimg.com/vi/0IvPA57iizI/mqdefault.jpg",
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=0IvPA57iizI"
+      },
+      {
         "vid": "yuy4U703jO0",
-        "title": "Steph Curry Talks Aggression After Play-In Win vs Clippers | April 15, 2026",
+        "title": "Steph Curry Speaks On Going ALL-OUT in Comeback SoFi Play-In Win vs Clippers | April 15, 2026",
         "thumb": "https://i.ytimg.com/vi/yuy4U703jO0/mqdefault.jpg",
         "date": "2026-04-16",
         "url": "https://www.youtube.com/watch?v=yuy4U703jO0"
       },
       {
         "vid": "2CVEFjJadj0",
-        "title": "&quot;When Steph&#39;s on the floor you always have a chance&quot; Draymond Green Sounds Off | April 15, 2026",
+        "title": "&quot;When Steph&#39;s on the floor you always have a chance&quot; Draymond Sounds Off On Warriors&#39; Epic Comeback",
         "thumb": "https://i.ytimg.com/vi/2CVEFjJadj0/mqdefault.jpg",
         "date": "2026-04-16",
         "url": "https://www.youtube.com/watch?v=2CVEFjJadj0"
@@ -22,13 +29,6 @@
         "thumb": "https://i.ytimg.com/vi/nBlM2J2KRKw/mqdefault.jpg",
         "date": "2026-04-16",
         "url": "https://www.youtube.com/watch?v=nBlM2J2KRKw"
-      },
-      {
-        "vid": "IDGqwycVAqI",
-        "title": "NBA&#39;s Nightly Recap | April 15, 2026",
-        "thumb": "https://i.ytimg.com/vi/IDGqwycVAqI/mqdefault.jpg",
-        "date": "2026-04-16",
-        "url": "https://www.youtube.com/watch?v=IDGqwycVAqI"
       },
       {
         "vid": "ks8UbtlIFFw",
@@ -45,21 +45,35 @@
         "url": "https://www.youtube.com/watch?v=1lId7Augq50"
       },
       {
-        "vid": "ypqsPEoHeeY",
-        "title": "Lakers/Jazz Postgame x Analysis: J.Worthy, Ayton, Rui, Smart, Redick Reactions | April 12",
-        "thumb": "https://i.ytimg.com/vi/ypqsPEoHeeY/mqdefault.jpg",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=ypqsPEoHeeY"
-      },
-      {
         "vid": "hFE4HEbaZPY",
         "title": "Golden State Warriors vs Los Angeles Clippers Full Game Highlights April 12, 2026 FreeDawkins",
         "thumb": "https://i.ytimg.com/vi/hFE4HEbaZPY/mqdefault.jpg",
         "date": "2026-04-13",
         "url": "https://www.youtube.com/watch?v=hFE4HEbaZPY"
+      },
+      {
+        "vid": "EnPLPsZ5vlc",
+        "title": "Los Angeles Lakers vs Utah Jazz Full Game Highlights | April 12, 2026 | FreeDawkins",
+        "thumb": "https://i.ytimg.com/vi/EnPLPsZ5vlc/mqdefault.jpg",
+        "date": "2026-04-13",
+        "url": "https://www.youtube.com/watch?v=EnPLPsZ5vlc"
       }
     ],
     "pd": [
+      {
+        "vid": "bpjo9z-94k8",
+        "title": "Intense rally ends with a x4 by Stupackzuk in the NEWGIZA P2",
+        "thumb": "https://i.ytimg.com/vi/bpjo9z-94k8/mqdefault.jpg",
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=bpjo9z-94k8"
+      },
+      {
+        "vid": "ZMRB0TknJ5I",
+        "title": "Long rally ends with an extraordinary smash by Brea in the NEWGIZA P2",
+        "thumb": "https://i.ytimg.com/vi/ZMRB0TknJ5I/mqdefault.jpg",
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=ZMRB0TknJ5I"
+      },
       {
         "vid": "N_U84RWnZvE",
         "title": "(Replay) NewGiza Premier Padel P2 🇪🇬🎾 : Menkaure - Court 2 (April 15th)",
@@ -80,23 +94,23 @@
         "thumb": "https://i.ytimg.com/vi/5PAZl7s-yKI/mqdefault.jpg",
         "date": "2026-04-15",
         "url": "https://www.youtube.com/watch?v=5PAZl7s-yKI"
-      },
-      {
-        "vid": "miWcuBgha2U",
-        "title": "NewGiza Premier Padel P2 🇪🇬🎾: Day 2 - Women&#39;s Highlight",
-        "thumb": "https://i.ytimg.com/vi/miWcuBgha2U/mqdefault.jpg",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=miWcuBgha2U"
-      },
-      {
-        "vid": "29J4Ty8rkOs",
-        "title": "Insane backhand bajada by Gonzalez in the NEWGIZA P2",
-        "thumb": "https://i.ytimg.com/vi/29J4Ty8rkOs/mqdefault.jpg",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=29J4Ty8rkOs"
       }
     ],
     "fx": [
+      {
+        "vid": "hu9q57-we7E",
+        "title": "¡1 GOL INCREÍBLE en cada MINUTO! | LALIGA EA SPORTS 2025/26",
+        "thumb": "https://i.ytimg.com/vi/hu9q57-we7E/mqdefault.jpg",
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=hu9q57-we7E"
+      },
+      {
+        "vid": "Oyj6y0NzzAM",
+        "title": "Un “que no caiga” del FC Barcelona 💙❤️",
+        "thumb": "https://i.ytimg.com/vi/Oyj6y0NzzAM/mqdefault.jpg",
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=Oyj6y0NzzAM"
+      },
       {
         "vid": "NZpwMQ1n5oQ",
         "title": "La jugada colectiva del ATLÉTICO DE MADRID en el gol de GIULIANO 👨‍🏫",
@@ -119,39 +133,25 @@
         "url": "https://www.youtube.com/watch?v=hzDqhTfuNuE"
       },
       {
-        "vid": "AqGVzvdFQDQ",
-        "title": "Las mejores PARADAS de MUSSO ❤️🤍🧤",
-        "thumb": "https://i.ytimg.com/vi/AqGVzvdFQDQ/mqdefault.jpg",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=AqGVzvdFQDQ"
-      },
-      {
-        "vid": "lEMQmJy0Mw0",
-        "title": "Por qué OUNAHI es uno de los jugadores MÁS DECISIVOS de LALIGA (con datos)",
-        "thumb": "https://i.ytimg.com/vi/lEMQmJy0Mw0/mqdefault.jpg",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=lEMQmJy0Mw0"
-      },
-      {
-        "vid": "5OChsiWRECM",
-        "title": "Olise = Player of the Match! 👏",
-        "thumb": "https://i.ytimg.com/vi/5OChsiWRECM/mqdefault.jpg",
+        "vid": "5fhAMt8fcaw",
+        "title": "Best Conference League goal from Crystal Palace? 🤯",
+        "thumb": "https://i.ytimg.com/vi/5fhAMt8fcaw/mqdefault.jpg",
         "date": "2026-04-16",
-        "url": "https://www.youtube.com/watch?v=5OChsiWRECM"
+        "url": "https://www.youtube.com/watch?v=5fhAMt8fcaw"
       },
       {
-        "vid": "dgzyjMETfqM",
-        "title": "Dembélé makes it 4-0 against Liverpool!",
-        "thumb": "https://i.ytimg.com/vi/dgzyjMETfqM/mqdefault.jpg",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=dgzyjMETfqM"
+        "vid": "STeDtLak6fA",
+        "title": "Quickfire questions with Antony!",
+        "thumb": "https://i.ytimg.com/vi/STeDtLak6fA/mqdefault.jpg",
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=STeDtLak6fA"
       },
       {
-        "vid": "2oA3j2Xh9iA",
-        "title": "Ousmane Dembélé vs Liverpool!",
-        "thumb": "https://i.ytimg.com/vi/2oA3j2Xh9iA/mqdefault.jpg",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=2oA3j2Xh9iA"
+        "vid": "EZuZthC5yc0",
+        "title": "Who is the best player in the world? 🤔",
+        "thumb": "https://i.ytimg.com/vi/EZuZthC5yc0/mqdefault.jpg",
+        "date": "2026-04-16",
+        "url": "https://www.youtube.com/watch?v=EZuZthC5yc0"
       }
     ]
   }
