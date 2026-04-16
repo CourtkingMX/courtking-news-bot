@@ -1,5 +1,5 @@
 {
-  "updated": "16/04/2026 04:43 UTC",
+  "updated": "16/04/2026 06:27 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Thu 16 Apr",
         "local": "Clippers",
         "visita": "Warriors",
-        "score": "117-122",
+        "score": "121-126",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
