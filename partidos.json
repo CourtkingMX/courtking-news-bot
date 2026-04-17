@@ -1,5 +1,5 @@
 {
-  "updated": "17/04/2026 06:28 UTC",
+  "updated": "17/04/2026 08:21 UTC",
   "sports": {
     "bk": [
       {
@@ -41,12 +41,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 13 Apr",
-        "local": "Levante",
-        "visita": "Getafe",
-        "score": "1-0",
+        "fecha": "Tue 21 Apr",
+        "local": "Athletic",
+        "visita": "Osasuna",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Tue 21 Apr",
+        "local": "Mallorca",
+        "visita": "Valencia",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Tue 21 Apr",
+        "local": "Girona",
+        "visita": "Betis",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Tue 21 Apr",
+        "local": "Real Madrid",
+        "visita": "Alavés",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
