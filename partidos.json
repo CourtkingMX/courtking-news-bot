@@ -1,5 +1,5 @@
 {
-  "updated": "17/04/2026 20:34 UTC",
+  "updated": "17/04/2026 21:32 UTC",
   "sports": {
     "bk": [
       {
@@ -143,7 +143,7 @@
         "fecha": "Fri 17 Apr",
         "local": "Lens",
         "visita": "Toulouse",
-        "score": "0-2",
+        "score": "2-2",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -161,9 +161,9 @@
         "fecha": "Fri 17 Apr",
         "local": "Inter Milan",
         "visita": "Cagliari",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
