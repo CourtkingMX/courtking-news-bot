@@ -1,5 +1,5 @@
 {
-  "updated": "17/04/2026 17:39 UTC",
+  "updated": "17/04/2026 18:42 UTC",
   "sports": {
     "bk": [
       {
@@ -154,7 +154,7 @@
         "visita": "Como",
         "score": "2-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
