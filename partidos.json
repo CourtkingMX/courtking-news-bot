@@ -1,23 +1,41 @@
 {
-  "updated": "18/04/2026 14:34 UTC",
+  "updated": "18/04/2026 15:28 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Fri 17 Apr",
-        "local": "Magic",
-        "visita": "Hornets",
-        "score": "121-90",
+        "fecha": "Sat 18 Apr",
+        "local": "Cavaliers",
+        "visita": "Raptors",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 18 Apr",
-        "local": "Suns",
-        "visita": "Warriors",
-        "score": "111-96",
+        "local": "Nuggets",
+        "visita": "Timberwolves",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sat 18 Apr",
+        "local": "Knicks",
+        "visita": "Hawks",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 19 Apr",
+        "local": "Lakers",
+        "visita": "Rockets",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -143,18 +161,18 @@
         "fecha": "Sat 18 Apr",
         "local": "Leeds",
         "visita": "Wolves",
-        "score": "",
+        "score": "2-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sat 18 Apr",
         "local": "Newcastle",
         "visita": "Bournemouth",
-        "score": "",
+        "score": "0-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -208,7 +226,7 @@
         "visita": "Parma",
         "score": "0-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
