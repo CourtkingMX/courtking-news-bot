@@ -1,5 +1,5 @@
 {
-  "updated": "18/04/2026 16:26 UTC",
+  "updated": "18/04/2026 16:43 UTC",
   "sports": {
     "bk": [
       {
@@ -161,18 +161,18 @@
         "fecha": "Sat 18 Apr",
         "local": "Leeds",
         "visita": "Wolves",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sat 18 Apr",
         "local": "Newcastle",
         "visita": "Bournemouth",
-        "score": "0-1",
+        "score": "1-2",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -197,7 +197,7 @@
         "fecha": "Sat 18 Apr",
         "local": "Lorient",
         "visita": "Marseille",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
