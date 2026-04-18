@@ -1,23 +1,23 @@
 {
-  "updated": "18/04/2026 01:19 UTC",
+  "updated": "18/04/2026 02:36 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Fri 17 Apr",
         "local": "Magic",
         "visita": "Hornets",
-        "score": "74-47",
+        "score": "121-90",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 18 Apr",
         "local": "Suns",
         "visita": "Warriors",
-        "score": "",
+        "score": "25-13",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -26,18 +26,18 @@
         "fecha": "Sat 18 Apr",
         "local": "Atl. San Luis",
         "visita": "UNAM",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 18 Apr",
         "local": "Mazatlán",
         "visita": "Queretaro",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
