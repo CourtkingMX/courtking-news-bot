@@ -1,12 +1,12 @@
 {
-  "updated": "18/04/2026 17:28 UTC",
+  "updated": "18/04/2026 18:33 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 18 Apr",
         "local": "Cavaliers",
         "visita": "Raptors",
-        "score": "18-21",
+        "score": "65-54",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -179,7 +179,7 @@
         "fecha": "Sat 18 Apr",
         "local": "Spurs",
         "visita": "Brighton",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -199,16 +199,16 @@
         "visita": "Marseille",
         "score": "2-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sat 18 Apr",
         "local": "Angers",
         "visita": "Le Havre AC",
-        "score": "",
+        "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -235,7 +235,7 @@
         "visita": "Lazio",
         "score": "0-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
