@@ -1,23 +1,23 @@
 {
-  "updated": "18/04/2026 19:33 UTC",
+  "updated": "18/04/2026 20:24 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 18 Apr",
         "local": "Cavaliers",
         "visita": "Raptors",
-        "score": "120-102",
+        "score": "126-113",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 18 Apr",
         "local": "Nuggets",
         "visita": "Timberwolves",
-        "score": "",
+        "score": "36-40",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -188,9 +188,9 @@
         "fecha": "Sat 18 Apr",
         "local": "Chelsea",
         "visita": "Man United",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -208,16 +208,16 @@
         "visita": "Le Havre AC",
         "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sat 18 Apr",
         "local": "Lille",
         "visita": "Nice",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
