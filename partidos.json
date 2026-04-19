@@ -1,5 +1,5 @@
 {
-  "updated": "19/04/2026 11:27 UTC",
+  "updated": "19/04/2026 12:36 UTC",
   "sports": {
     "bk": [
       {
@@ -190,7 +190,7 @@
         "visita": "Torino",
         "score": "0-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
