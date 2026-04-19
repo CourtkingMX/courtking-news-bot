@@ -1,5 +1,5 @@
 {
-  "updated": "19/04/2026 04:43 UTC",
+  "updated": "19/04/2026 06:23 UTC",
   "sports": {
     "bk": [
       {
@@ -64,34 +64,34 @@
         "visita": "Pachuca",
         "score": "1-3",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "Guadalajara",
         "visita": "Puebla",
-        "score": "4-0",
+        "score": "5-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "León",
         "visita": "Juarez",
-        "score": "",
+        "score": "3-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "América",
         "visita": "Toluca",
-        "score": "",
+        "score": "2-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
