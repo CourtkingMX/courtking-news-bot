@@ -1,12 +1,12 @@
 {
-  "updated": "19/04/2026 17:27 UTC",
+  "updated": "19/04/2026 18:33 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 19 Apr",
         "local": "Celtics",
         "visita": "76ers",
-        "score": "22-11",
+        "score": "64-46",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -134,9 +134,9 @@
         "fecha": "Sun 19 Apr",
         "local": "Man City",
         "visita": "Arsenal",
-        "score": "1-1",
+        "score": "2-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -152,18 +152,18 @@
         "fecha": "Sun 19 Apr",
         "local": "Metz",
         "visita": "Paris FC",
-        "score": "1-2",
+        "score": "1-3",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "Nantes",
         "visita": "Brest",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -172,7 +172,7 @@
         "visita": "Rennes",
         "score": "0-3",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -208,7 +208,7 @@
         "visita": "Genoa",
         "score": "1-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
