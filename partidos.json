@@ -1,5 +1,5 @@
 {
-  "updated": "19/04/2026 13:53 UTC",
+  "updated": "19/04/2026 14:33 UTC",
   "sports": {
     "bk": [
       {
@@ -107,27 +107,27 @@
         "fecha": "Sun 19 Apr",
         "local": "Aston Villa",
         "visita": "Sunderland",
-        "score": "",
+        "score": "2-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "Everton",
         "visita": "Liverpool",
-        "score": "",
+        "score": "0-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "Nottm Forest",
         "visita": "Burnley",
-        "score": "",
+        "score": "0-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -143,9 +143,9 @@
         "fecha": "Sun 19 Apr",
         "local": "Monaco",
         "visita": "Auxerre",
-        "score": "",
+        "score": "0-2",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
