@@ -1,5 +1,5 @@
 {
-  "updated": "19/04/2026 15:28 UTC",
+  "updated": "19/04/2026 16:27 UTC",
   "sports": {
     "bk": [
       {
@@ -107,27 +107,27 @@
         "fecha": "Sun 19 Apr",
         "local": "Aston Villa",
         "visita": "Sunderland",
-        "score": "3-1",
+        "score": "4-3",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "Everton",
         "visita": "Liverpool",
-        "score": "1-1",
+        "score": "1-2",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "Nottm Forest",
         "visita": "Burnley",
-        "score": "2-1",
+        "score": "4-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -145,34 +145,34 @@
         "visita": "Auxerre",
         "score": "2-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "Metz",
         "visita": "Paris FC",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "Nantes",
         "visita": "Brest",
-        "score": "",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 19 Apr",
         "local": "Strasbourg",
         "visita": "Rennes",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -206,9 +206,9 @@
         "fecha": "Sun 19 Apr",
         "local": "Pisa",
         "visita": "Genoa",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
