@@ -1,41 +1,41 @@
 {
-  "updated": "19/04/2026 14:33 UTC",
+  "updated": "19/04/2026 15:28 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sat 18 Apr",
-        "local": "Cavaliers",
-        "visita": "Raptors",
-        "score": "126-113",
+        "fecha": "Sun 19 Apr",
+        "local": "Celtics",
+        "visita": "76ers",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 18 Apr",
-        "local": "Nuggets",
-        "visita": "Timberwolves",
-        "score": "116-105",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 18 Apr",
-        "local": "Knicks",
-        "visita": "Hawks",
-        "score": "113-102",
-        "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 19 Apr",
-        "local": "Lakers",
-        "visita": "Rockets",
-        "score": "107-98",
+        "local": "Thunder",
+        "visita": "Suns",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 19 Apr",
+        "local": "Pistons",
+        "visita": "Magic",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Mon 20 Apr",
+        "local": "Spurs",
+        "visita": "Trail Blazers",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -107,7 +107,7 @@
         "fecha": "Sun 19 Apr",
         "local": "Aston Villa",
         "visita": "Sunderland",
-        "score": "2-1",
+        "score": "3-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -116,7 +116,7 @@
         "fecha": "Sun 19 Apr",
         "local": "Everton",
         "visita": "Liverpool",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -125,7 +125,7 @@
         "fecha": "Sun 19 Apr",
         "local": "Nottm Forest",
         "visita": "Burnley",
-        "score": "0-1",
+        "score": "2-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -143,7 +143,7 @@
         "fecha": "Sun 19 Apr",
         "local": "Monaco",
         "visita": "Auxerre",
-        "score": "0-2",
+        "score": "2-2",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -199,7 +199,7 @@
         "visita": "Milan",
         "score": "0-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
