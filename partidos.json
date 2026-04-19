@@ -1,5 +1,5 @@
 {
-  "updated": "19/04/2026 08:57 UTC",
+  "updated": "19/04/2026 09:37 UTC",
   "sports": {
     "bk": [
       {
@@ -41,57 +41,12 @@
     ],
     "fx": [
       {
-        "fecha": "Sat 18 Apr",
-        "local": "Cruz Azul",
-        "visita": "Tijuana",
-        "score": "1-1",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sat 18 Apr",
-        "local": "Necaxa",
-        "visita": "Tigres",
-        "score": "1-1",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
         "fecha": "Sun 19 Apr",
-        "local": "Monterrey",
-        "visita": "Pachuca",
-        "score": "1-3",
+        "local": "Santos",
+        "visita": "Atlas",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
-        "local": "Guadalajara",
-        "visita": "Puebla",
-        "score": "5-0",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
-        "local": "León",
-        "visita": "Juarez",
-        "score": "3-1",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
-        "local": "América",
-        "visita": "Toluca",
-        "score": "2-1",
-        "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -149,75 +104,84 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sat 18 Apr",
-        "local": "Brentford",
-        "visita": "Fulham",
-        "score": "0-0",
+        "fecha": "Sun 19 Apr",
+        "local": "Aston Villa",
+        "visita": "Sunderland",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 18 Apr",
-        "local": "Leeds",
-        "visita": "Wolves",
-        "score": "3-0",
+        "fecha": "Sun 19 Apr",
+        "local": "Everton",
+        "visita": "Liverpool",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 18 Apr",
-        "local": "Newcastle",
-        "visita": "Bournemouth",
-        "score": "1-2",
+        "fecha": "Sun 19 Apr",
+        "local": "Nottm Forest",
+        "visita": "Burnley",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 18 Apr",
-        "local": "Spurs",
-        "visita": "Brighton",
-        "score": "2-2",
+        "fecha": "Sun 19 Apr",
+        "local": "Man City",
+        "visita": "Arsenal",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 18 Apr",
-        "local": "Chelsea",
-        "visita": "Man United",
-        "score": "0-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sat 18 Apr",
-        "local": "Lorient",
-        "visita": "Marseille",
-        "score": "2-0",
+        "fecha": "Sun 19 Apr",
+        "local": "Monaco",
+        "visita": "Auxerre",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 18 Apr",
-        "local": "Angers",
-        "visita": "Le Havre AC",
-        "score": "1-1",
+        "fecha": "Sun 19 Apr",
+        "local": "Metz",
+        "visita": "Paris FC",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 18 Apr",
-        "local": "Lille",
-        "visita": "Nice",
-        "score": "0-0",
+        "fecha": "Sun 19 Apr",
+        "local": "Nantes",
+        "visita": "Brest",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 19 Apr",
+        "local": "Strasbourg",
+        "visita": "Rennes",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 19 Apr",
+        "local": "PSG",
+        "visita": "Lyon",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
