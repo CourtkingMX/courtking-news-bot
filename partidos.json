@@ -1,12 +1,12 @@
 {
-  "updated": "19/04/2026 18:33 UTC",
+  "updated": "19/04/2026 19:34 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 19 Apr",
         "local": "Celtics",
         "visita": "76ers",
-        "score": "64-46",
+        "score": "123-91",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -215,9 +215,9 @@
         "fecha": "Sun 19 Apr",
         "local": "Juventus",
         "visita": "Bologna",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
