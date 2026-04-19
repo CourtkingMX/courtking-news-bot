@@ -1,5 +1,5 @@
 {
-  "updated": "19/04/2026 21:25 UTC",
+  "updated": "19/04/2026 22:24 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Sun 19 Apr",
         "local": "Thunder",
         "visita": "Suns",
-        "score": "77-56",
+        "score": "119-84",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -179,9 +179,9 @@
         "fecha": "Sun 19 Apr",
         "local": "PSG",
         "visita": "Lyon",
-        "score": "0-2",
+        "score": "1-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
