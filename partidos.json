@@ -1,5 +1,5 @@
 {
-  "updated": "19/04/2026 23:26 UTC",
+  "updated": "20/04/2026 01:29 UTC",
   "sports": {
     "bk": [
       {
@@ -24,18 +24,18 @@
         "fecha": "Sun 19 Apr",
         "local": "Pistons",
         "visita": "Magic",
-        "score": "40-47",
+        "score": "101-112",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 20 Apr",
         "local": "Spurs",
         "visita": "Trail Blazers",
-        "score": "",
+        "score": "14-12",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -44,9 +44,9 @@
         "fecha": "Sun 19 Apr",
         "local": "Santos",
         "visita": "Atlas",
-        "score": "",
+        "score": "0-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
