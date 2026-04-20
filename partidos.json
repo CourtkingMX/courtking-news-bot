@@ -1,5 +1,5 @@
 {
-  "updated": "20/04/2026 01:29 UTC",
+  "updated": "20/04/2026 02:53 UTC",
   "sports": {
     "bk": [
       {
@@ -33,7 +33,7 @@
         "fecha": "Mon 20 Apr",
         "local": "Spurs",
         "visita": "Trail Blazers",
-        "score": "14-12",
+        "score": "74-63",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -46,7 +46,7 @@
         "visita": "Atlas",
         "score": "0-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
