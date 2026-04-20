@@ -1,5 +1,5 @@
 {
-  "updated": "20/04/2026 09:47 UTC",
+  "updated": "20/04/2026 09:59 UTC",
   "sports": {
     "bk": [
       {
@@ -131,39 +131,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sun 19 Apr",
-        "local": "Aston Villa",
-        "visita": "Sunderland",
-        "score": "4-3",
+        "fecha": "Mon 20 Apr",
+        "local": "C Palace",
+        "visita": "West Ham",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
-        "local": "Everton",
-        "visita": "Liverpool",
-        "score": "1-2",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
-        "local": "Nottm Forest",
-        "visita": "Burnley",
-        "score": "4-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
-        "local": "Man City",
-        "visita": "Arsenal",
-        "score": "2-1",
-        "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
