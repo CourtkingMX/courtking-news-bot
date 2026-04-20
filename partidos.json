@@ -1,5 +1,5 @@
 {
-  "updated": "20/04/2026 07:10 UTC",
+  "updated": "20/04/2026 09:47 UTC",
   "sports": {
     "bk": [
       {
@@ -41,12 +41,39 @@
     ],
     "fx": [
       {
-        "fecha": "Sun 19 Apr",
-        "local": "Santos",
-        "visita": "Atlas",
-        "score": "0-1",
+        "fecha": "Wed 22 Apr",
+        "local": "UNAM",
+        "visita": "Juarez",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Wed 22 Apr",
+        "local": "Queretaro",
+        "visita": "Cruz Azul",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Wed 22 Apr",
+        "local": "Monterrey",
+        "visita": "Puebla",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Wed 22 Apr",
+        "local": "León",
+        "visita": "América",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -140,48 +167,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 19 Apr",
-        "local": "Monaco",
-        "visita": "Auxerre",
-        "score": "2-2",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
-        "local": "Metz",
-        "visita": "Paris FC",
-        "score": "1-3",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
-        "local": "Nantes",
-        "visita": "Brest",
-        "score": "1-1",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
-        "local": "Strasbourg",
-        "visita": "Rennes",
-        "score": "0-3",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 19 Apr",
+        "fecha": "Wed 22 Apr",
         "local": "PSG",
-        "visita": "Lyon",
-        "score": "1-2",
+        "visita": "Nantes",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
