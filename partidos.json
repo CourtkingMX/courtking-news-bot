@@ -1,5 +1,5 @@
 {
-  "updated": "20/04/2026 19:54 UTC",
+  "updated": "20/04/2026 20:36 UTC",
   "sports": {
     "bk": [
       {
@@ -125,9 +125,9 @@
         "fecha": "Mon 20 Apr",
         "local": "C Palace",
         "visita": "West Ham",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -143,7 +143,7 @@
         "fecha": "Mon 20 Apr",
         "local": "Lecce",
         "visita": "Fiorentina",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
