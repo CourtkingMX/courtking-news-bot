@@ -1,5 +1,5 @@
 {
-  "updated": "21/04/2026 04:40 UTC",
+  "updated": "21/04/2026 06:28 UTC",
   "sports": {
     "bk": [
       {
@@ -24,9 +24,9 @@
         "fecha": "Tue 21 Apr",
         "local": "Nuggets",
         "visita": "Timberwolves",
-        "score": "88-84",
+        "score": "114-119",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
