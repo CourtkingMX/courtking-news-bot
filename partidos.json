@@ -1,5 +1,5 @@
 {
-  "updated": "21/04/2026 17:51 UTC",
+  "updated": "21/04/2026 18:56 UTC",
   "sports": {
     "bk": [
       {
@@ -71,7 +71,7 @@
         "fecha": "Tue 21 Apr",
         "local": "Athletic",
         "visita": "Osasuna",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
