@@ -1,5 +1,5 @@
 {
-  "updated": "21/04/2026 02:47 UTC",
+  "updated": "21/04/2026 04:40 UTC",
   "sports": {
     "bk": [
       {
@@ -24,9 +24,9 @@
         "fecha": "Tue 21 Apr",
         "local": "Nuggets",
         "visita": "Timberwolves",
-        "score": "",
+        "score": "88-84",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -140,12 +140,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Mon 20 Apr",
-        "local": "Lecce",
-        "visita": "Fiorentina",
-        "score": "1-1",
+        "fecha": "Fri 24 Apr",
+        "local": "Napoli",
+        "visita": "Cremonese",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
