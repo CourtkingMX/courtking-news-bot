@@ -1,5 +1,5 @@
 {
-  "updated": "21/04/2026 09:42 UTC",
+  "updated": "21/04/2026 10:10 UTC",
   "sports": {
     "bk": [
       {
@@ -122,12 +122,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Mon 20 Apr",
-        "local": "C Palace",
-        "visita": "West Ham",
-        "score": "0-0",
+        "fecha": "Tue 21 Apr",
+        "local": "Brighton",
+        "visita": "Chelsea",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
