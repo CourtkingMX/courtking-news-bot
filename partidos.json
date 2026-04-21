@@ -1,5 +1,5 @@
 {
-  "updated": "21/04/2026 19:59 UTC",
+  "updated": "21/04/2026 20:56 UTC",
   "sports": {
     "bk": [
       {
@@ -73,7 +73,7 @@
         "visita": "Osasuna",
         "score": "1-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -89,18 +89,18 @@
         "fecha": "Tue 21 Apr",
         "local": "Girona",
         "visita": "Betis",
-        "score": "",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Tue 21 Apr",
         "local": "Real Madrid",
         "visita": "Alavés",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -125,9 +125,9 @@
         "fecha": "Tue 21 Apr",
         "local": "Brighton",
         "visita": "Chelsea",
-        "score": "",
+        "score": "1-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
