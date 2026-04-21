@@ -1,5 +1,5 @@
 {
-  "updated": "21/04/2026 18:56 UTC",
+  "updated": "21/04/2026 19:59 UTC",
   "sports": {
     "bk": [
       {
@@ -80,9 +80,9 @@
         "fecha": "Tue 21 Apr",
         "local": "Mallorca",
         "visita": "Valencia",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
