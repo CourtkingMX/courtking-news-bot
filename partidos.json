@@ -1,5 +1,5 @@
 {
-  "updated": "21/04/2026 21:38 UTC",
+  "updated": "21/04/2026 22:30 UTC",
   "sports": {
     "bk": [
       {
@@ -89,18 +89,18 @@
         "fecha": "Tue 21 Apr",
         "local": "Girona",
         "visita": "Betis",
-        "score": "1-2",
+        "score": "2-3",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Tue 21 Apr",
         "local": "Real Madrid",
         "visita": "Alavés",
-        "score": "2-0",
+        "score": "2-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
