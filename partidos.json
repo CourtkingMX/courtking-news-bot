@@ -1,5 +1,5 @@
 {
-  "updated": "22/04/2026 06:29 UTC",
+  "updated": "22/04/2026 08:24 UTC",
   "sports": {
     "bk": [
       {
@@ -55,16 +55,16 @@
         "visita": "Puebla",
         "score": "2-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Wed 22 Apr",
         "local": "León",
         "visita": "América",
-        "score": "2-2",
+        "score": "2-3",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -104,21 +104,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Wed 15 Apr",
-        "local": "Arsenal",
-        "visita": "Sporting",
-        "score": "0-0",
+        "fecha": "Tue 28 Apr",
+        "local": "PSG",
+        "visita": "Bayern",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
-      },
-      {
-        "fecha": "Wed 15 Apr",
-        "local": "Bayern",
-        "visita": "Real Madrid",
-        "score": "4-3",
-        "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
