@@ -1,5 +1,5 @@
 {
-  "updated": "22/04/2026 21:41 UTC",
+  "updated": "22/04/2026 22:38 UTC",
   "sports": {
     "bk": [
       {
@@ -91,7 +91,7 @@
         "visita": "Celta Vigo",
         "score": "1-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -107,9 +107,9 @@
         "fecha": "Wed 22 Apr",
         "local": "Bournemouth",
         "visita": "Leeds",
-        "score": "0-0",
+        "score": "2-2",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -118,7 +118,7 @@
         "visita": "Man City",
         "score": "0-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
