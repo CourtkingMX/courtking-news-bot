@@ -1,5 +1,5 @@
 {
-  "updated": "22/04/2026 20:02 UTC",
+  "updated": "22/04/2026 21:41 UTC",
   "sports": {
     "bk": [
       {
@@ -73,7 +73,7 @@
         "visita": "Atlético",
         "score": "3-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -82,16 +82,16 @@
         "visita": "Getafe",
         "score": "0-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Wed 22 Apr",
         "local": "Barcelona",
         "visita": "Celta Vigo",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -107,18 +107,18 @@
         "fecha": "Wed 22 Apr",
         "local": "Bournemouth",
         "visita": "Leeds",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Wed 22 Apr",
         "local": "Burnley",
         "visita": "Man City",
-        "score": "",
+        "score": "0-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
