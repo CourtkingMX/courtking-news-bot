@@ -1,14 +1,14 @@
 {
-  "updated": "22/04/2026 22:38 UTC",
+  "updated": "22/04/2026 23:38 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Wed 22 Apr",
         "local": "Pistons",
         "visita": "Magic",
-        "score": "",
+        "score": "20-19",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -51,8 +51,8 @@
       },
       {
         "fecha": "Thu 23 Apr",
-        "local": "Necaxa",
-        "visita": "Guadalajara",
+        "local": "Tijuana",
+        "visita": "Pachuca",
         "score": "",
         "liga": "Liga MX",
         "estado": "pre",
@@ -60,8 +60,8 @@
       },
       {
         "fecha": "Thu 23 Apr",
-        "local": "Tijuana",
-        "visita": "Pachuca",
+        "local": "Necaxa",
+        "visita": "Guadalajara",
         "score": "",
         "liga": "Liga MX",
         "estado": "pre",
