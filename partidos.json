@@ -1,5 +1,5 @@
 {
-  "updated": "22/04/2026 17:04 UTC",
+  "updated": "22/04/2026 17:51 UTC",
   "sports": {
     "bk": [
       {
@@ -71,9 +71,9 @@
         "fecha": "Wed 22 Apr",
         "local": "Elche",
         "visita": "Atlético",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -125,9 +125,9 @@
         "fecha": "Wed 22 Apr",
         "local": "PSG",
         "visita": "Nantes",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
