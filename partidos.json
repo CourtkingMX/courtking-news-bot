@@ -1,5 +1,5 @@
 {
-  "updated": "22/04/2026 04:38 UTC",
+  "updated": "22/04/2026 06:29 UTC",
   "sports": {
     "bk": [
       {
@@ -24,9 +24,9 @@
         "fecha": "Wed 22 Apr",
         "local": "Lakers",
         "visita": "Rockets",
-        "score": "75-68",
+        "score": "101-94",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -35,9 +35,9 @@
         "fecha": "Wed 22 Apr",
         "local": "UNAM",
         "visita": "Juarez",
-        "score": "2-2",
+        "score": "4-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -46,25 +46,25 @@
         "visita": "Cruz Azul",
         "score": "1-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Wed 22 Apr",
         "local": "Monterrey",
         "visita": "Puebla",
-        "score": "",
+        "score": "2-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Wed 22 Apr",
         "local": "León",
         "visita": "América",
-        "score": "",
+        "score": "2-2",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
