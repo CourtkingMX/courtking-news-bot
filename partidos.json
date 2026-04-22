@@ -1,5 +1,5 @@
 {
-  "updated": "22/04/2026 09:23 UTC",
+  "updated": "22/04/2026 10:10 UTC",
   "sports": {
     "bk": [
       {
@@ -32,75 +32,75 @@
     ],
     "fx": [
       {
-        "fecha": "Wed 22 Apr",
-        "local": "UNAM",
-        "visita": "Juarez",
-        "score": "4-2",
+        "fecha": "Thu 23 Apr",
+        "local": "Atlas",
+        "visita": "Tigres",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Thu 23 Apr",
+        "local": "Atl. San Luis",
+        "visita": "Santos",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Thu 23 Apr",
+        "local": "Mazatlán",
+        "visita": "Toluca",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Thu 23 Apr",
+        "local": "Necaxa",
+        "visita": "Guadalajara",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Thu 23 Apr",
+        "local": "Tijuana",
+        "visita": "Pachuca",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Wed 22 Apr",
-        "local": "Queretaro",
-        "visita": "Cruz Azul",
-        "score": "1-1",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Wed 22 Apr",
-        "local": "Monterrey",
-        "visita": "Puebla",
-        "score": "2-1",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Wed 22 Apr",
-        "local": "León",
-        "visita": "América",
-        "score": "2-3",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Tue 21 Apr",
-        "local": "Athletic",
-        "visita": "Osasuna",
-        "score": "1-0",
+        "local": "Elche",
+        "visita": "Atlético",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Tue 21 Apr",
-        "local": "Mallorca",
-        "visita": "Valencia",
-        "score": "1-1",
+        "fecha": "Wed 22 Apr",
+        "local": "Real Sociedad",
+        "visita": "Getafe",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Tue 21 Apr",
-        "local": "Girona",
-        "visita": "Betis",
-        "score": "2-3",
+        "fecha": "Wed 22 Apr",
+        "local": "Barcelona",
+        "visita": "Celta Vigo",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Tue 21 Apr",
-        "local": "Real Madrid",
-        "visita": "Alavés",
-        "score": "2-1",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -113,12 +113,21 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Tue 21 Apr",
-        "local": "Brighton",
-        "visita": "Chelsea",
-        "score": "3-0",
+        "fecha": "Wed 22 Apr",
+        "local": "Bournemouth",
+        "visita": "Leeds",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Wed 22 Apr",
+        "local": "Burnley",
+        "visita": "Man City",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
