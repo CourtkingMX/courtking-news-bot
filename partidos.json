@@ -1,5 +1,5 @@
 {
-  "updated": "23/04/2026 02:49 UTC",
+  "updated": "23/04/2026 04:43 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Thu 23 Apr",
         "local": "Thunder",
         "visita": "Suns",
-        "score": "62-53",
+        "score": "120-107",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -35,7 +35,7 @@
         "fecha": "Thu 23 Apr",
         "local": "Atl. San Luis",
         "visita": "Santos",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Liga MX",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
@@ -44,7 +44,7 @@
         "fecha": "Thu 23 Apr",
         "local": "Mazatlán",
         "visita": "Toluca",
-        "score": "0-0",
+        "score": "3-2",
         "liga": "Liga MX",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
