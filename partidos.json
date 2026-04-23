@@ -1,5 +1,5 @@
 {
-  "updated": "23/04/2026 04:43 UTC",
+  "updated": "23/04/2026 06:54 UTC",
   "sports": {
     "bk": [
       {
@@ -28,43 +28,43 @@
         "visita": "Tigres",
         "score": "0-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Thu 23 Apr",
         "local": "Atl. San Luis",
         "visita": "Santos",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Thu 23 Apr",
         "local": "Mazatlán",
         "visita": "Toluca",
-        "score": "3-2",
+        "score": "4-3",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Thu 23 Apr",
         "local": "Tijuana",
         "visita": "Pachuca",
-        "score": "",
+        "score": "2-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Thu 23 Apr",
         "local": "Necaxa",
         "visita": "Guadalajara",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
