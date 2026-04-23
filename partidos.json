@@ -1,23 +1,23 @@
 {
-  "updated": "23/04/2026 01:29 UTC",
+  "updated": "23/04/2026 02:49 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Wed 22 Apr",
         "local": "Pistons",
         "visita": "Magic",
-        "score": "91-70",
+        "score": "98-83",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Thu 23 Apr",
         "local": "Thunder",
         "visita": "Suns",
-        "score": "",
+        "score": "62-53",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -26,27 +26,27 @@
         "fecha": "Thu 23 Apr",
         "local": "Atlas",
         "visita": "Tigres",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Thu 23 Apr",
         "local": "Atl. San Luis",
         "visita": "Santos",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Thu 23 Apr",
         "local": "Mazatlán",
         "visita": "Toluca",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
