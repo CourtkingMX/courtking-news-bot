@@ -1,5 +1,5 @@
 {
-  "updated": "23/04/2026 20:01 UTC",
+  "updated": "23/04/2026 21:36 UTC",
   "sports": {
     "bk": [
       {
@@ -44,16 +44,16 @@
         "fecha": "Thu 23 Apr",
         "local": "Levante",
         "visita": "Sevilla",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Thu 23 Apr",
         "local": "Rayo",
         "visita": "Espanyol",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -62,9 +62,9 @@
         "fecha": "Thu 23 Apr",
         "local": "Real Oviedo",
         "visita": "Villarreal",
-        "score": "",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
