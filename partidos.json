@@ -1,5 +1,5 @@
 {
-  "updated": "23/04/2026 21:36 UTC",
+  "updated": "23/04/2026 22:34 UTC",
   "sports": {
     "bk": [
       {
@@ -55,16 +55,16 @@
         "visita": "Espanyol",
         "score": "1-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Thu 23 Apr",
         "local": "Real Oviedo",
         "visita": "Villarreal",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
