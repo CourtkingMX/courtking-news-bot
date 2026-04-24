@@ -1,5 +1,5 @@
 {
-  "updated": "24/04/2026 21:38 UTC",
+  "updated": "24/04/2026 22:31 UTC",
   "sports": {
     "bk": [
       {
@@ -44,9 +44,9 @@
         "fecha": "Fri 24 Apr",
         "local": "Betis",
         "visita": "Real Madrid",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -62,18 +62,18 @@
         "fecha": "Fri 24 Apr",
         "local": "Sunderland",
         "visita": "Nottm Forest",
-        "score": "0-4",
+        "score": "0-5",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Fri 24 Apr",
         "local": "Brest",
         "visita": "Lens",
-        "score": "3-2",
+        "score": "3-3",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
