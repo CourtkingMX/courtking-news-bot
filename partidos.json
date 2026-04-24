@@ -1,5 +1,5 @@
 {
-  "updated": "24/04/2026 09:46 UTC",
+  "updated": "24/04/2026 10:22 UTC",
   "sports": {
     "bk": [
       {
@@ -41,30 +41,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Thu 23 Apr",
-        "local": "Levante",
-        "visita": "Sevilla",
-        "score": "2-0",
+        "fecha": "Fri 24 Apr",
+        "local": "Betis",
+        "visita": "Real Madrid",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Thu 23 Apr",
-        "local": "Rayo",
-        "visita": "Espanyol",
-        "score": "1-0",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Thu 23 Apr",
-        "local": "Real Oviedo",
-        "visita": "Villarreal",
-        "score": "1-1",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
