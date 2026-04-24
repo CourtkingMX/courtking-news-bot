@@ -1,32 +1,32 @@
 {
-  "updated": "24/04/2026 14:43 UTC",
+  "updated": "24/04/2026 15:58 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Thu 23 Apr",
-        "local": "Hawks",
-        "visita": "Knicks",
-        "score": "109-108",
+        "fecha": "Fri 24 Apr",
+        "local": "76ers",
+        "visita": "Celtics",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Fri 24 Apr",
-        "local": "Raptors",
-        "visita": "Cavaliers",
-        "score": "126-104",
+        "fecha": "Sat 25 Apr",
+        "local": "Rockets",
+        "visita": "Lakers",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Fri 24 Apr",
-        "local": "Timberwolves",
-        "visita": "Nuggets",
-        "score": "113-96",
+        "fecha": "Sat 25 Apr",
+        "local": "Trail Blazers",
+        "visita": "Spurs",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
