@@ -1,5 +1,5 @@
 {
-  "updated": "24/04/2026 20:35 UTC",
+  "updated": "24/04/2026 21:38 UTC",
   "sports": {
     "bk": [
       {
@@ -71,7 +71,7 @@
         "fecha": "Fri 24 Apr",
         "local": "Brest",
         "visita": "Lens",
-        "score": "3-0",
+        "score": "3-2",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -82,7 +82,7 @@
         "visita": "Cremonese",
         "score": "4-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
