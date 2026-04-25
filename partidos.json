@@ -1,23 +1,23 @@
 {
-  "updated": "25/04/2026 19:37 UTC",
+  "updated": "25/04/2026 20:27 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 25 Apr",
         "local": "Magic",
         "visita": "Pistons",
-        "score": "104-104",
+        "score": "113-105",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 25 Apr",
         "local": "Suns",
         "visita": "Thunder",
-        "score": "",
+        "score": "47-48",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -125,9 +125,9 @@
         "fecha": "Sat 25 Apr",
         "local": "Atlético",
         "visita": "Athletic",
-        "score": "",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -199,16 +199,16 @@
         "visita": "PSG",
         "score": "0-3",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sat 25 Apr",
         "local": "Toulouse",
         "visita": "Monaco",
-        "score": "",
+        "score": "0-2",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
