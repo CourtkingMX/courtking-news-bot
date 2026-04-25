@@ -1,5 +1,5 @@
 {
-  "updated": "25/04/2026 07:59 UTC",
+  "updated": "25/04/2026 08:55 UTC",
   "sports": {
     "bk": [
       {
@@ -59,12 +59,48 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Fri 24 Apr",
-        "local": "Sunderland",
-        "visita": "Nottm Forest",
-        "score": "0-5",
+        "fecha": "Sat 25 Apr",
+        "local": "Fulham",
+        "visita": "Aston Villa",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Liverpool",
+        "visita": "C Palace",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "West Ham",
+        "visita": "Everton",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Wolves",
+        "visita": "Spurs",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Arsenal",
+        "visita": "Newcastle",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
