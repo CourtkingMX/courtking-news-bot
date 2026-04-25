@@ -1,5 +1,5 @@
 {
-  "updated": "25/04/2026 15:31 UTC",
+  "updated": "25/04/2026 16:30 UTC",
   "sports": {
     "bk": [
       {
@@ -107,7 +107,7 @@
         "fecha": "Sat 25 Apr",
         "local": "Getafe",
         "visita": "Barcelona",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -152,7 +152,7 @@
         "fecha": "Sat 25 Apr",
         "local": "Liverpool",
         "visita": "C Palace",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -161,7 +161,7 @@
         "fecha": "Sat 25 Apr",
         "local": "West Ham",
         "visita": "Everton",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -188,9 +188,9 @@
         "fecha": "Sat 25 Apr",
         "local": "Lyon",
         "visita": "Auxerre",
-        "score": "3-1",
+        "score": "3-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -224,9 +224,9 @@
         "fecha": "Sat 25 Apr",
         "local": "Bologna",
         "visita": "AS Roma",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
