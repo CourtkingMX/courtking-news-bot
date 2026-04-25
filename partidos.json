@@ -1,5 +1,5 @@
 {
-  "updated": "25/04/2026 16:30 UTC",
+  "updated": "25/04/2026 16:45 UTC",
   "sports": {
     "bk": [
       {
@@ -107,9 +107,9 @@
         "fecha": "Sat 25 Apr",
         "local": "Getafe",
         "visita": "Barcelona",
-        "score": "0-1",
+        "score": "0-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -152,27 +152,27 @@
         "fecha": "Sat 25 Apr",
         "local": "Liverpool",
         "visita": "C Palace",
-        "score": "2-0",
+        "score": "3-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sat 25 Apr",
         "local": "West Ham",
         "visita": "Everton",
-        "score": "1-0",
+        "score": "2-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sat 25 Apr",
         "local": "Wolves",
         "visita": "Spurs",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
