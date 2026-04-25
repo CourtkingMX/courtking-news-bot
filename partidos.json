@@ -33,20 +33,92 @@
     "fx": [
       {
         "fecha": "Sat 25 Apr",
-        "local": "Puebla",
-        "visita": "Queretaro",
-        "score": "1-2",
+        "local": "Pachuca",
+        "visita": "UNAM",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Fri 24 Apr",
-        "local": "Betis",
-        "visita": "Real Madrid",
-        "score": "1-1",
+        "fecha": "Sat 25 Apr",
+        "local": "Tigres",
+        "visita": "Mazatlán",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 26 Apr",
+        "local": "Toluca",
+        "visita": "León",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 26 Apr",
+        "local": "Guadalajara",
+        "visita": "Tijuana",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 26 Apr",
+        "local": "Juarez",
+        "visita": "Atl. San Luis",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 26 Apr",
+        "local": "América",
+        "visita": "Atlas",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Alavés",
+        "visita": "Mallorca",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Getafe",
+        "visita": "Barcelona",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Valencia",
+        "visita": "Girona",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Atlético",
+        "visita": "Athletic",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -104,12 +176,30 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Fri 24 Apr",
-        "local": "Brest",
-        "visita": "Lens",
-        "score": "3-3",
+        "fecha": "Sat 25 Apr",
+        "local": "Lyon",
+        "visita": "Auxerre",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Angers",
+        "visita": "PSG",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Toulouse",
+        "visita": "Monaco",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
