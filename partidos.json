@@ -1,12 +1,12 @@
 {
-  "updated": "25/04/2026 17:29 UTC",
+  "updated": "25/04/2026 18:34 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 25 Apr",
         "local": "Magic",
         "visita": "Pistons",
-        "score": "21-21",
+        "score": "61-57",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -197,9 +197,9 @@
         "fecha": "Sat 25 Apr",
         "local": "Angers",
         "visita": "PSG",
-        "score": "",
+        "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -226,7 +226,7 @@
         "visita": "AS Roma",
         "score": "0-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
