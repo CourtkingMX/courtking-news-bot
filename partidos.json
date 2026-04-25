@@ -1,14 +1,14 @@
 {
-  "updated": "25/04/2026 16:45 UTC",
+  "updated": "25/04/2026 17:29 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 25 Apr",
         "local": "Magic",
         "visita": "Pistons",
-        "score": "",
+        "score": "21-21",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -116,9 +116,9 @@
         "fecha": "Sat 25 Apr",
         "local": "Valencia",
         "visita": "Girona",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -179,9 +179,9 @@
         "fecha": "Sat 25 Apr",
         "local": "Arsenal",
         "visita": "Newcastle",
-        "score": "",
+        "score": "1-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -224,7 +224,7 @@
         "fecha": "Sat 25 Apr",
         "local": "Bologna",
         "visita": "AS Roma",
-        "score": "0-1",
+        "score": "0-2",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
