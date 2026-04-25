@@ -1,5 +1,5 @@
 {
-  "updated": "25/04/2026 06:14 UTC",
+  "updated": "25/04/2026 07:59 UTC",
   "sports": {
     "bk": [
       {
@@ -35,9 +35,9 @@
         "fecha": "Sat 25 Apr",
         "local": "Puebla",
         "visita": "Queretaro",
-        "score": "1-1",
+        "score": "1-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -77,12 +77,30 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Fri 24 Apr",
-        "local": "Napoli",
-        "visita": "Cremonese",
-        "score": "4-0",
+        "fecha": "Sat 25 Apr",
+        "local": "Parma",
+        "visita": "Pisa",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Bologna",
+        "visita": "AS Roma",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 25 Apr",
+        "local": "Verona",
+        "visita": "Lecce",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
