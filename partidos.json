@@ -1,41 +1,41 @@
 {
-  "updated": "26/04/2026 14:41 UTC",
+  "updated": "26/04/2026 15:33 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sat 25 Apr",
-        "local": "Magic",
-        "visita": "Pistons",
-        "score": "113-105",
+        "fecha": "Sun 26 Apr",
+        "local": "Raptors",
+        "visita": "Cavaliers",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 25 Apr",
-        "local": "Suns",
-        "visita": "Thunder",
-        "score": "109-121",
-        "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Sat 25 Apr",
-        "local": "Hawks",
-        "visita": "Knicks",
-        "score": "98-114",
-        "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 26 Apr",
-        "local": "Timberwolves",
-        "visita": "Nuggets",
-        "score": "112-96",
+        "local": "Trail Blazers",
+        "visita": "Spurs",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 26 Apr",
+        "local": "76ers",
+        "visita": "Celtics",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Mon 27 Apr",
+        "local": "Rockets",
+        "visita": "Lakers",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -62,18 +62,18 @@
         "fecha": "Sun 26 Apr",
         "local": "Rayo",
         "visita": "Real Sociedad",
-        "score": "2-3",
+        "score": "3-3",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 26 Apr",
         "local": "Real Oviedo",
         "visita": "Elche",
-        "score": "",
+        "score": "0-2",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -116,7 +116,7 @@
         "fecha": "Sun 26 Apr",
         "local": "Lorient",
         "visita": "Strasbourg",
-        "score": "1-0",
+        "score": "2-1",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -172,7 +172,7 @@
         "visita": "Como",
         "score": "0-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
