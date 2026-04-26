@@ -1,5 +1,5 @@
 {
-  "updated": "26/04/2026 06:53 UTC",
+  "updated": "26/04/2026 08:11 UTC",
   "sports": {
     "bk": [
       {
@@ -82,16 +82,16 @@
         "visita": "Atl. San Luis",
         "score": "2-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 26 Apr",
         "local": "América",
         "visita": "Atlas",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -140,48 +140,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sat 25 Apr",
-        "local": "Fulham",
-        "visita": "Aston Villa",
-        "score": "1-0",
+        "fecha": "Mon 27 Apr",
+        "local": "Man United",
+        "visita": "Brentford",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sat 25 Apr",
-        "local": "Liverpool",
-        "visita": "C Palace",
-        "score": "3-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sat 25 Apr",
-        "local": "West Ham",
-        "visita": "Everton",
-        "score": "2-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sat 25 Apr",
-        "local": "Wolves",
-        "visita": "Spurs",
-        "score": "0-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sat 25 Apr",
-        "local": "Arsenal",
-        "visita": "Newcastle",
-        "score": "1-0",
-        "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -212,30 +176,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 25 Apr",
-        "local": "Parma",
-        "visita": "Pisa",
-        "score": "1-0",
+        "fecha": "Sun 26 Apr",
+        "local": "Fiorentina",
+        "visita": "Sassuolo",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 25 Apr",
-        "local": "Bologna",
-        "visita": "AS Roma",
-        "score": "0-2",
+        "fecha": "Sun 26 Apr",
+        "local": "Genoa",
+        "visita": "Como",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 25 Apr",
-        "local": "Verona",
-        "visita": "Lecce",
-        "score": "0-0",
+        "fecha": "Sun 26 Apr",
+        "local": "Torino",
+        "visita": "Inter Milan",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 26 Apr",
+        "local": "Milan",
+        "visita": "Juventus",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
