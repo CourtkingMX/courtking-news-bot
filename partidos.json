@@ -1,5 +1,5 @@
 {
-  "updated": "26/04/2026 22:26 UTC",
+  "updated": "26/04/2026 23:29 UTC",
   "sports": {
     "bk": [
       {
@@ -24,9 +24,9 @@
         "fecha": "Sun 26 Apr",
         "local": "76ers",
         "visita": "Celtics",
-        "score": "",
+        "score": "13-20",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
