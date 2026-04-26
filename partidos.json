@@ -1,14 +1,14 @@
 {
-  "updated": "26/04/2026 16:47 UTC",
+  "updated": "26/04/2026 17:30 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 26 Apr",
         "local": "Raptors",
         "visita": "Cavaliers",
-        "score": "",
+        "score": "10-12",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -80,9 +80,9 @@
         "fecha": "Sun 26 Apr",
         "local": "Osasuna",
         "visita": "Sevilla",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -125,7 +125,7 @@
         "fecha": "Sun 26 Apr",
         "local": "Le Havre AC",
         "visita": "Metz",
-        "score": "3-2",
+        "score": "4-3",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -179,7 +179,7 @@
         "fecha": "Sun 26 Apr",
         "local": "Torino",
         "visita": "Inter Milan",
-        "score": "0-1",
+        "score": "1-2",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
