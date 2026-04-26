@@ -1,12 +1,12 @@
 {
-  "updated": "26/04/2026 17:30 UTC",
+  "updated": "26/04/2026 18:35 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 26 Apr",
         "local": "Raptors",
         "visita": "Cavaliers",
-        "score": "10-12",
+        "score": "41-45",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -125,9 +125,9 @@
         "fecha": "Sun 26 Apr",
         "local": "Le Havre AC",
         "visita": "Metz",
-        "score": "4-3",
+        "score": "4-4",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -136,16 +136,16 @@
         "visita": "Lille",
         "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 26 Apr",
         "local": "Rennes",
         "visita": "Nantes",
-        "score": "1-1",
+        "score": "2-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -179,9 +179,9 @@
         "fecha": "Sun 26 Apr",
         "local": "Torino",
         "visita": "Inter Milan",
-        "score": "1-2",
+        "score": "2-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
