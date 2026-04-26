@@ -1,5 +1,5 @@
 {
-  "updated": "26/04/2026 20:27 UTC",
+  "updated": "26/04/2026 21:28 UTC",
   "sports": {
     "bk": [
       {
@@ -15,7 +15,7 @@
         "fecha": "Sun 26 Apr",
         "local": "Trail Blazers",
         "visita": "Spurs",
-        "score": "27-25",
+        "score": "62-60",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -152,7 +152,7 @@
         "fecha": "Sun 26 Apr",
         "local": "Marseille",
         "visita": "Nice",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -190,7 +190,7 @@
         "visita": "Juventus",
         "score": "0-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
