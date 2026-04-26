@@ -1,5 +1,5 @@
 {
-  "updated": "26/04/2026 15:33 UTC",
+  "updated": "26/04/2026 16:30 UTC",
   "sports": {
     "bk": [
       {
@@ -116,6 +116,15 @@
         "fecha": "Sun 26 Apr",
         "local": "Lorient",
         "visita": "Strasbourg",
+        "score": "2-3",
+        "liga": "Ligue 1",
+        "estado": "post",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 26 Apr",
+        "local": "Le Havre AC",
+        "visita": "Metz",
         "score": "2-1",
         "liga": "Ligue 1",
         "estado": "live",
@@ -123,29 +132,20 @@
       },
       {
         "fecha": "Sun 26 Apr",
-        "local": "Le Havre AC",
-        "visita": "Metz",
-        "score": "",
-        "liga": "Ligue 1",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 26 Apr",
         "local": "Paris FC",
         "visita": "Lille",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 26 Apr",
         "local": "Rennes",
         "visita": "Nantes",
-        "score": "",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -179,9 +179,9 @@
         "fecha": "Sun 26 Apr",
         "local": "Torino",
         "visita": "Inter Milan",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
