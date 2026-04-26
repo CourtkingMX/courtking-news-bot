@@ -1,5 +1,5 @@
 {
-  "updated": "25/04/2026 23:28 UTC",
+  "updated": "26/04/2026 01:43 UTC",
   "sports": {
     "bk": [
       {
@@ -24,18 +24,18 @@
         "fecha": "Sat 25 Apr",
         "local": "Hawks",
         "visita": "Knicks",
-        "score": "44-58",
+        "score": "98-114",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 26 Apr",
         "local": "Timberwolves",
         "visita": "Nuggets",
-        "score": "",
+        "score": "41-46",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -44,18 +44,18 @@
         "fecha": "Sat 25 Apr",
         "local": "Pachuca",
         "visita": "UNAM",
-        "score": "",
+        "score": "0-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 25 Apr",
         "local": "Tigres",
         "visita": "Mazatlán",
-        "score": "",
+        "score": "1-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
