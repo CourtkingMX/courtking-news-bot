@@ -1,5 +1,5 @@
 {
-  "updated": "26/04/2026 21:28 UTC",
+  "updated": "26/04/2026 22:26 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Sun 26 Apr",
         "local": "Trail Blazers",
         "visita": "Spurs",
-        "score": "62-60",
+        "score": "93-114",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -89,9 +89,9 @@
         "fecha": "Sun 26 Apr",
         "local": "Villarreal",
         "visita": "Celta Vigo",
-        "score": "2-0",
+        "score": "2-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -152,9 +152,9 @@
         "fecha": "Sun 26 Apr",
         "local": "Marseille",
         "visita": "Nice",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
