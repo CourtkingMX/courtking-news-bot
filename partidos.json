@@ -1,5 +1,5 @@
 {
-  "updated": "26/04/2026 01:43 UTC",
+  "updated": "26/04/2026 02:55 UTC",
   "sports": {
     "bk": [
       {
@@ -33,7 +33,7 @@
         "fecha": "Sun 26 Apr",
         "local": "Timberwolves",
         "visita": "Nuggets",
-        "score": "41-46",
+        "score": "97-84",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -44,15 +44,24 @@
         "fecha": "Sat 25 Apr",
         "local": "Pachuca",
         "visita": "UNAM",
-        "score": "0-1",
+        "score": "0-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 25 Apr",
         "local": "Tigres",
         "visita": "Mazatlán",
+        "score": "5-1",
+        "liga": "Liga MX",
+        "estado": "post",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sun 26 Apr",
+        "local": "Toluca",
+        "visita": "León",
         "score": "1-0",
         "liga": "Liga MX",
         "estado": "live",
@@ -60,20 +69,11 @@
       },
       {
         "fecha": "Sun 26 Apr",
-        "local": "Toluca",
-        "visita": "León",
-        "score": "",
-        "liga": "Liga MX",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sun 26 Apr",
         "local": "Guadalajara",
         "visita": "Tijuana",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
