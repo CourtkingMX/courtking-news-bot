@@ -1,5 +1,5 @@
 {
-  "updated": "27/04/2026 04:59 UTC",
+  "updated": "27/04/2026 07:34 UTC",
   "sports": {
     "bk": [
       {
@@ -158,39 +158,21 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 26 Apr",
-        "local": "Fiorentina",
-        "visita": "Sassuolo",
-        "score": "0-0",
+        "fecha": "Mon 27 Apr",
+        "local": "Cagliari",
+        "visita": "Atalanta",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 26 Apr",
-        "local": "Genoa",
-        "visita": "Como",
-        "score": "0-2",
+        "fecha": "Mon 27 Apr",
+        "local": "Lazio",
+        "visita": "Udinese",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 26 Apr",
-        "local": "Torino",
-        "visita": "Inter Milan",
-        "score": "2-2",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 26 Apr",
-        "local": "Milan",
-        "visita": "Juventus",
-        "score": "0-0",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
