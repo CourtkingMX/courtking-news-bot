@@ -1,5 +1,5 @@
 {
-  "updated": "27/04/2026 19:24 UTC",
+  "updated": "27/04/2026 20:51 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Mon 27 Apr",
         "local": "Espanyol",
         "visita": "Levante",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -71,9 +71,9 @@
         "fecha": "Mon 27 Apr",
         "local": "Man United",
         "visita": "Brentford",
-        "score": "",
+        "score": "1-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -134,9 +134,9 @@
         "fecha": "Mon 27 Apr",
         "local": "Lazio",
         "visita": "Udinese",
-        "score": "0-1",
+        "score": "3-3",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
