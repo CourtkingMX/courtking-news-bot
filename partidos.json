@@ -1,5 +1,5 @@
 {
-  "updated": "26/04/2026 23:29 UTC",
+  "updated": "27/04/2026 01:46 UTC",
   "sports": {
     "bk": [
       {
@@ -24,18 +24,18 @@
         "fecha": "Sun 26 Apr",
         "local": "76ers",
         "visita": "Celtics",
-        "score": "13-20",
+        "score": "96-128",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Mon 27 Apr",
         "local": "Rockets",
         "visita": "Lakers",
-        "score": "",
+        "score": "2-6",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -44,9 +44,9 @@
         "fecha": "Sun 26 Apr",
         "local": "Santos",
         "visita": "Monterrey",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
