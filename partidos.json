@@ -1,41 +1,32 @@
 {
-  "updated": "27/04/2026 14:56 UTC",
+  "updated": "27/04/2026 16:22 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sun 26 Apr",
-        "local": "Raptors",
-        "visita": "Cavaliers",
-        "score": "93-89",
+        "fecha": "Tue 28 Apr",
+        "local": "Magic",
+        "visita": "Pistons",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sun 26 Apr",
-        "local": "Trail Blazers",
-        "visita": "Spurs",
-        "score": "93-114",
+        "fecha": "Tue 28 Apr",
+        "local": "Suns",
+        "visita": "Thunder",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sun 26 Apr",
-        "local": "76ers",
-        "visita": "Celtics",
-        "score": "96-128",
+        "fecha": "Tue 28 Apr",
+        "local": "Nuggets",
+        "visita": "Timberwolves",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Mon 27 Apr",
-        "local": "Rockets",
-        "visita": "Lakers",
-        "score": "115-96",
-        "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
