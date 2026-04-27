@@ -1,5 +1,5 @@
 {
-  "updated": "27/04/2026 21:44 UTC",
+  "updated": "27/04/2026 22:39 UTC",
   "sports": {
     "bk": [
       {
@@ -55,7 +55,7 @@
         "visita": "Levante",
         "score": "0-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -73,7 +73,7 @@
         "visita": "Brentford",
         "score": "2-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
