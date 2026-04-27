@@ -1,5 +1,5 @@
 {
-  "updated": "27/04/2026 03:20 UTC",
+  "updated": "27/04/2026 04:59 UTC",
   "sports": {
     "bk": [
       {
@@ -33,9 +33,9 @@
         "fecha": "Mon 27 Apr",
         "local": "Rockets",
         "visita": "Lakers",
-        "score": "77-57",
+        "score": "115-96",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -53,9 +53,9 @@
         "fecha": "Mon 27 Apr",
         "local": "Cruz Azul",
         "visita": "Necaxa",
-        "score": "0-0",
+        "score": "4-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
