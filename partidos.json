@@ -1,5 +1,5 @@
 {
-  "updated": "28/04/2026 08:05 UTC",
+  "updated": "28/04/2026 10:16 UTC",
   "sports": {
     "bk": [
       {
@@ -50,12 +50,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 27 Apr",
-        "local": "Espanyol",
-        "visita": "Levante",
-        "score": "0-0",
+        "fecha": "Fri 01 May",
+        "local": "Girona",
+        "visita": "Mallorca",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -68,12 +68,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Mon 27 Apr",
-        "local": "Man United",
-        "visita": "Brentford",
-        "score": "2-1",
+        "fecha": "Fri 01 May",
+        "local": "Leeds",
+        "visita": "Burnley",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
