@@ -1,5 +1,5 @@
 {
-  "updated": "28/04/2026 03:27 UTC",
+  "updated": "28/04/2026 05:22 UTC",
   "sports": {
     "bk": [
       {
@@ -15,18 +15,18 @@
         "fecha": "Tue 28 Apr",
         "local": "Suns",
         "visita": "Thunder",
-        "score": "97-104",
+        "score": "122-131",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Tue 28 Apr",
         "local": "Nuggets",
         "visita": "Timberwolves",
-        "score": "44-40",
+        "score": "125-113",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -122,21 +122,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Mon 27 Apr",
-        "local": "Cagliari",
-        "visita": "Atalanta",
-        "score": "3-2",
+        "fecha": "Fri 01 May",
+        "local": "Pisa",
+        "visita": "Lecce",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Mon 27 Apr",
-        "local": "Lazio",
-        "visita": "Udinese",
-        "score": "3-3",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
