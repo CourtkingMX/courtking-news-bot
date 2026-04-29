@@ -1,5 +1,5 @@
 {
-  "updated": "29/04/2026 07:59 UTC",
+  "updated": "29/04/2026 10:06 UTC",
   "sports": {
     "bk": [
       {
@@ -32,21 +32,21 @@
     ],
     "fx": [
       {
-        "fecha": "Sun 26 Apr",
-        "local": "Santos",
-        "visita": "Monterrey",
-        "score": "3-0",
+        "fecha": "Sun 03 May",
+        "local": "Tigres",
+        "visita": "Guadalajara",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 27 Apr",
-        "local": "Cruz Azul",
-        "visita": "Necaxa",
-        "score": "4-1",
+        "fecha": "Sun 03 May",
+        "local": "Atlas",
+        "visita": "Cruz Azul",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -77,48 +77,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 26 Apr",
-        "local": "Lorient",
-        "visita": "Strasbourg",
-        "score": "2-3",
+        "fecha": "Sat 02 May",
+        "local": "Nantes",
+        "visita": "Marseille",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 26 Apr",
-        "local": "Le Havre AC",
-        "visita": "Metz",
-        "score": "4-4",
+        "fecha": "Sat 02 May",
+        "local": "PSG",
+        "visita": "Lorient",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 26 Apr",
-        "local": "Paris FC",
-        "visita": "Lille",
-        "score": "0-1",
+        "fecha": "Sat 02 May",
+        "local": "Metz",
+        "visita": "Monaco",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 26 Apr",
-        "local": "Rennes",
-        "visita": "Nantes",
-        "score": "2-1",
+        "fecha": "Sat 02 May",
+        "local": "Nice",
+        "visita": "Lens",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 26 Apr",
-        "local": "Marseille",
-        "visita": "Nice",
-        "score": "1-1",
-        "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
