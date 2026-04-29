@@ -1,14 +1,14 @@
 {
-  "updated": "29/04/2026 22:44 UTC",
+  "updated": "29/04/2026 23:43 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Wed 29 Apr",
         "local": "Pistons",
         "visita": "Magic",
-        "score": "",
+        "score": "38-26",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
