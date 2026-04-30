@@ -1,5 +1,5 @@
 {
-  "updated": "30/04/2026 03:26 UTC",
+  "updated": "30/04/2026 05:26 UTC",
   "sports": {
     "bk": [
       {
@@ -24,9 +24,9 @@
         "fecha": "Thu 30 Apr",
         "local": "Lakers",
         "visita": "Rockets",
-        "score": "47-51",
+        "score": "93-99",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
