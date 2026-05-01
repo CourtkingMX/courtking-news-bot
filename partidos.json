@@ -1,5 +1,5 @@
 {
-  "updated": "01/05/2026 21:42 UTC",
+  "updated": "01/05/2026 22:39 UTC",
   "sports": {
     "bk": [
       {
@@ -55,7 +55,7 @@
         "visita": "Mallorca",
         "score": "0-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -71,9 +71,9 @@
         "fecha": "Fri 01 May",
         "local": "Leeds",
         "visita": "Burnley",
-        "score": "1-0",
+        "score": "3-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
