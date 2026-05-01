@@ -1,5 +1,5 @@
 {
-  "updated": "01/05/2026 20:00 UTC",
+  "updated": "01/05/2026 21:42 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Fri 01 May",
         "local": "Girona",
         "visita": "Mallorca",
-        "score": "",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -71,9 +71,9 @@
         "fecha": "Fri 01 May",
         "local": "Leeds",
         "visita": "Burnley",
-        "score": "",
+        "score": "1-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -116,9 +116,9 @@
         "fecha": "Fri 01 May",
         "local": "Pisa",
         "visita": "Lecce",
-        "score": "0-1",
+        "score": "1-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
