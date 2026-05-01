@@ -1,5 +1,5 @@
 {
-  "updated": "01/05/2026 17:49 UTC",
+  "updated": "01/05/2026 18:56 UTC",
   "sports": {
     "bk": [
       {
@@ -116,9 +116,9 @@
         "fecha": "Fri 01 May",
         "local": "Pisa",
         "visita": "Lecce",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
