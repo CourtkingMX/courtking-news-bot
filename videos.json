@@ -1,5 +1,5 @@
 {
-  "updated": "01/05/2026 09:47 UTC",
+  "updated": "01/05/2026 16:58 UTC",
   "sports": {
     "bk": [
       {
@@ -61,13 +61,6 @@
     ],
     "pd": [
       {
-        "vid": "TjhwmMhmqHs",
-        "title": "I’m not crying, you’re crying 🥹🍔",
-        "thumb": "https://i.ytimg.com/vi/TjhwmMhmqHs/mqdefault.jpg",
-        "date": "2026-04-26",
-        "url": "https://www.youtube.com/watch?v=TjhwmMhmqHs"
-      },
-      {
         "vid": "VcmwKbedWZE",
         "title": "Illegal levels of touch 🪄😮‍💨",
         "thumb": "https://i.ytimg.com/vi/VcmwKbedWZE/mqdefault.jpg",
@@ -94,9 +87,37 @@
         "thumb": "https://i.ytimg.com/vi/ZPxKVTEADfk/mqdefault.jpg",
         "date": "2026-04-18",
         "url": "https://www.youtube.com/watch?v=ZPxKVTEADfk"
+      },
+      {
+        "vid": "b7Tei9qRdqk",
+        "title": "NewGiza Premier Padel P2 🇪🇬🎾: Day 2 - Men&#39;s Highlights",
+        "thumb": "https://i.ytimg.com/vi/b7Tei9qRdqk/mqdefault.jpg",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=b7Tei9qRdqk"
       }
     ],
     "fx": [
+      {
+        "vid": "x5hFouINbKQ",
+        "title": "RCD Espanyol 0 - 6 Real Madrid 2015/16 | PARTIDO COMPLETO",
+        "thumb": "https://i.ytimg.com/vi/x5hFouINbKQ/mqdefault.jpg",
+        "date": "2026-05-01",
+        "url": "https://www.youtube.com/watch?v=x5hFouINbKQ"
+      },
+      {
+        "vid": "lPs7OHhx7JM",
+        "title": "La euforia de LISCI al gol de CATENA 🥳",
+        "thumb": "https://i.ytimg.com/vi/lPs7OHhx7JM/mqdefault.jpg",
+        "date": "2026-05-01",
+        "url": "https://www.youtube.com/watch?v=lPs7OHhx7JM"
+      },
+      {
+        "vid": "Gkmv1FkoaUY",
+        "title": "CA OSASUNA 4-2 FC BARCELONA 2024/25 | Resumen ampliado",
+        "thumb": "https://i.ytimg.com/vi/Gkmv1FkoaUY/mqdefault.jpg",
+        "date": "2026-05-01",
+        "url": "https://www.youtube.com/watch?v=Gkmv1FkoaUY"
+      },
       {
         "vid": "zF_ZxCQ4sM8",
         "title": "La colleja de Flick a Lewandowski. 🤣",
@@ -112,46 +133,25 @@
         "url": "https://www.youtube.com/watch?v=NWJ9INH6g0I"
       },
       {
-        "vid": "VQ1loOA94dA",
-        "title": "La calidad de Mbappé. 🪄",
-        "thumb": "https://i.ytimg.com/vi/VQ1loOA94dA/mqdefault.jpg",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=VQ1loOA94dA"
-      },
-      {
-        "vid": "8ujrBJqDvoI",
-        "title": "Oyarzabal: ¿opción TOP para la recta final? | LALIGA FANTASY SHOW #34",
-        "thumb": "https://i.ytimg.com/vi/8ujrBJqDvoI/mqdefault.jpg",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=8ujrBJqDvoI"
-      },
-      {
-        "vid": "ZGbtUNAL9Wg",
-        "title": "El MEJOR JUGADOR de cada país con ANTONY: 🧐",
-        "thumb": "https://i.ytimg.com/vi/ZGbtUNAL9Wg/mqdefault.jpg",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=ZGbtUNAL9Wg"
-      },
-      {
-        "vid": "88hPwix8ePU",
-        "title": "Shot power: 💯",
-        "thumb": "https://i.ytimg.com/vi/88hPwix8ePU/mqdefault.jpg",
+        "vid": "OJKUUtnVGHI",
+        "title": "Madrid or Braga? 🗺️",
+        "thumb": "https://i.ytimg.com/vi/OJKUUtnVGHI/mqdefault.jpg",
         "date": "2026-05-01",
-        "url": "https://www.youtube.com/watch?v=88hPwix8ePU"
+        "url": "https://www.youtube.com/watch?v=OJKUUtnVGHI"
       },
       {
-        "vid": "OOWrKCoHlDg",
-        "title": "EVERY Champions League Goal From The Semi-Final 1st Leg | Highlights",
-        "thumb": "https://i.ytimg.com/vi/OOWrKCoHlDg/mqdefault.jpg",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=OOWrKCoHlDg"
+        "vid": "HetQqqV0mvc",
+        "title": "Häcken v Hammarby - 2026 UEFA Women&#39;s Europa Cup Final - 2nd Leg",
+        "thumb": "https://i.ytimg.com/vi/HetQqqV0mvc/mqdefault.jpg",
+        "date": "2026-05-01",
+        "url": "https://www.youtube.com/watch?v=HetQqqV0mvc"
       },
       {
-        "vid": "PROAjamg5VU",
-        "title": "What a battle it was!",
-        "thumb": "https://i.ytimg.com/vi/PROAjamg5VU/mqdefault.jpg",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=PROAjamg5VU"
+        "vid": "etvwu2BEWeo",
+        "title": "Sarr&#39;s speedy finish is your Goal of the Day!",
+        "thumb": "https://i.ytimg.com/vi/etvwu2BEWeo/mqdefault.jpg",
+        "date": "2026-05-01",
+        "url": "https://www.youtube.com/watch?v=etvwu2BEWeo"
       }
     ]
   }
