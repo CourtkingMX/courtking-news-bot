@@ -1,5 +1,5 @@
 {
-  "updated": "02/05/2026 12:43 UTC",
+  "updated": "02/05/2026 14:04 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Sat 02 May",
         "local": "Villarreal",
         "visita": "Levante",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -170,9 +170,9 @@
         "fecha": "Sat 02 May",
         "local": "Udinese",
         "visita": "Torino",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
