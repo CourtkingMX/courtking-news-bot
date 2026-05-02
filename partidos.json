@@ -1,5 +1,5 @@
 {
-  "updated": "02/05/2026 19:45 UTC",
+  "updated": "02/05/2026 20:30 UTC",
   "sports": {
     "bk": [
       {
@@ -62,9 +62,9 @@
         "fecha": "Sat 02 May",
         "local": "Osasuna",
         "visita": "Barcelona",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -134,18 +134,18 @@
         "fecha": "Sat 02 May",
         "local": "Metz",
         "visita": "Monaco",
-        "score": "1-1",
+        "score": "1-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sat 02 May",
         "local": "Nice",
         "visita": "Lens",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
