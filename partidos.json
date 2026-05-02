@@ -1,21 +1,21 @@
 {
-  "updated": "01/05/2026 23:41 UTC",
+  "updated": "02/05/2026 01:47 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Fri 01 May",
         "local": "Magic",
         "visita": "Pistons",
-        "score": "29-26",
+        "score": "79-93",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Fri 01 May",
         "local": "Raptors",
         "visita": "Cavaliers",
-        "score": "0-2",
+        "score": "96-88",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
