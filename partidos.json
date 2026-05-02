@@ -1,5 +1,5 @@
 {
-  "updated": "02/05/2026 09:08 UTC",
+  "updated": "02/05/2026 09:52 UTC",
   "sports": {
     "bk": [
       {
@@ -50,12 +50,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Fri 01 May",
-        "local": "Girona",
-        "visita": "Mallorca",
-        "score": "0-1",
+        "fecha": "Sat 02 May",
+        "local": "Villarreal",
+        "visita": "Levante",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 02 May",
+        "local": "Valencia",
+        "visita": "Atlético",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 02 May",
+        "local": "Alavés",
+        "visita": "Athletic",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sat 02 May",
+        "local": "Osasuna",
+        "visita": "Barcelona",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -68,12 +95,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Fri 01 May",
-        "local": "Leeds",
-        "visita": "Burnley",
-        "score": "3-1",
+        "fecha": "Sat 02 May",
+        "local": "Brentford",
+        "visita": "West Ham",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 02 May",
+        "local": "Newcastle",
+        "visita": "Brighton",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 02 May",
+        "local": "Wolves",
+        "visita": "Sunderland",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sat 02 May",
+        "local": "Arsenal",
+        "visita": "Fulham",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
