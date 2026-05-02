@@ -1,5 +1,5 @@
 {
-  "updated": "02/05/2026 18:42 UTC",
+  "updated": "02/05/2026 19:45 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Sat 02 May",
         "local": "Alavés",
         "visita": "Athletic",
-        "score": "1-0",
+        "score": "2-4",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -109,7 +109,7 @@
         "visita": "Fulham",
         "score": "3-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -134,7 +134,7 @@
         "fecha": "Sat 02 May",
         "local": "Metz",
         "visita": "Monaco",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -170,9 +170,9 @@
         "fecha": "Sat 02 May",
         "local": "Atalanta",
         "visita": "Genoa",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
