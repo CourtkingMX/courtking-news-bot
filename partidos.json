@@ -1,5 +1,5 @@
 {
-  "updated": "02/05/2026 17:36 UTC",
+  "updated": "02/05/2026 18:42 UTC",
   "sports": {
     "bk": [
       {
@@ -107,7 +107,7 @@
         "fecha": "Sat 02 May",
         "local": "Arsenal",
         "visita": "Fulham",
-        "score": "1-0",
+        "score": "3-0",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -127,16 +127,16 @@
         "visita": "Lorient",
         "score": "2-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sat 02 May",
         "local": "Metz",
         "visita": "Monaco",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -163,7 +163,7 @@
         "visita": "Napoli",
         "score": "0-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
