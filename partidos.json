@@ -1,5 +1,5 @@
 {
-  "updated": "02/05/2026 06:56 UTC",
+  "updated": "02/05/2026 08:18 UTC",
   "sports": {
     "bk": [
       {
@@ -59,12 +59,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Wed 29 Apr",
-        "local": "Atlético",
-        "visita": "Arsenal",
-        "score": "1-1",
+        "fecha": "Tue 05 May",
+        "local": "Arsenal",
+        "visita": "Atlético",
+        "score": "",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
@@ -113,12 +113,30 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Fri 01 May",
-        "local": "Pisa",
-        "visita": "Lecce",
-        "score": "1-2",
+        "fecha": "Sat 02 May",
+        "local": "Udinese",
+        "visita": "Torino",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 02 May",
+        "local": "Como",
+        "visita": "Napoli",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sat 02 May",
+        "local": "Atalanta",
+        "visita": "Genoa",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
