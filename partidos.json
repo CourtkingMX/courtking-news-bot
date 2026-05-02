@@ -1,5 +1,5 @@
 {
-  "updated": "02/05/2026 15:37 UTC",
+  "updated": "02/05/2026 16:35 UTC",
   "sports": {
     "bk": [
       {
@@ -44,9 +44,9 @@
         "fecha": "Sat 02 May",
         "local": "Valencia",
         "visita": "Atlético",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -80,7 +80,7 @@
         "fecha": "Sat 02 May",
         "local": "Brentford",
         "visita": "West Ham",
-        "score": "0-0",
+        "score": "2-0",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -89,7 +89,7 @@
         "fecha": "Sat 02 May",
         "local": "Newcastle",
         "visita": "Brighton",
-        "score": "0-0",
+        "score": "2-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -98,7 +98,7 @@
         "fecha": "Sat 02 May",
         "local": "Wolves",
         "visita": "Sunderland",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -116,18 +116,18 @@
         "fecha": "Sat 02 May",
         "local": "Nantes",
         "visita": "Marseille",
-        "score": "0-0",
+        "score": "3-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sat 02 May",
         "local": "PSG",
         "visita": "Lorient",
-        "score": "",
+        "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -161,9 +161,9 @@
         "fecha": "Sat 02 May",
         "local": "Como",
         "visita": "Napoli",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
