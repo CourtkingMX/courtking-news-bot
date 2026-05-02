@@ -1,5 +1,5 @@
 {
-  "updated": "02/05/2026 20:30 UTC",
+  "updated": "02/05/2026 21:30 UTC",
   "sports": {
     "bk": [
       {
@@ -143,7 +143,7 @@
         "fecha": "Sat 02 May",
         "local": "Nice",
         "visita": "Lens",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -172,7 +172,7 @@
         "visita": "Genoa",
         "score": "0-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
