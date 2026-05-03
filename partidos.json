@@ -1,5 +1,5 @@
 {
-  "updated": "03/05/2026 15:37 UTC",
+  "updated": "03/05/2026 16:36 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Sun 03 May",
         "local": "Getafe",
         "visita": "Rayo",
-        "score": "",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -89,18 +89,18 @@
         "fecha": "Sun 03 May",
         "local": "Bournemouth",
         "visita": "C Palace",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 03 May",
         "local": "Man United",
         "visita": "Liverpool",
-        "score": "",
+        "score": "2-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -118,34 +118,34 @@
         "visita": "Le Havre AC",
         "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 03 May",
         "local": "Auxerre",
         "visita": "Angers",
-        "score": "",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 03 May",
         "local": "Paris FC",
         "visita": "Brest",
-        "score": "",
+        "score": "2-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 03 May",
         "local": "Strasbourg",
         "visita": "Toulouse",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -179,9 +179,9 @@
         "fecha": "Sun 03 May",
         "local": "Juventus",
         "visita": "Verona",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
