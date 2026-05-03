@@ -1,5 +1,5 @@
 {
-  "updated": "03/05/2026 17:37 UTC",
+  "updated": "03/05/2026 18:42 UTC",
   "sports": {
     "bk": [
       {
@@ -62,7 +62,7 @@
         "fecha": "Sun 03 May",
         "local": "Betis",
         "visita": "Real Oviedo",
-        "score": "0-0",
+        "score": "2-0",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -127,25 +127,25 @@
         "visita": "Angers",
         "score": "3-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 03 May",
         "local": "Paris FC",
         "visita": "Brest",
-        "score": "3-0",
+        "score": "4-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 03 May",
         "local": "Strasbourg",
         "visita": "Toulouse",
-        "score": "1-1",
+        "score": "1-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -181,7 +181,7 @@
         "visita": "Verona",
         "score": "1-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
