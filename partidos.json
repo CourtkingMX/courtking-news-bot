@@ -1,5 +1,5 @@
 {
-  "updated": "03/05/2026 09:12 UTC",
+  "updated": "03/05/2026 09:23 UTC",
   "sports": {
     "bk": [
       {
@@ -15,56 +15,56 @@
     "fx": [
       {
         "fecha": "Sun 03 May",
-        "local": "Tigres",
-        "visita": "Guadalajara",
-        "score": "3-1",
+        "local": "América",
+        "visita": "UNAM",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Mon 04 May",
+        "local": "Toluca",
+        "visita": "Pachuca",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 03 May",
-        "local": "Atlas",
-        "visita": "Cruz Azul",
-        "score": "2-3",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sat 02 May",
-        "local": "Villarreal",
-        "visita": "Levante",
-        "score": "5-1",
+        "local": "Celta Vigo",
+        "visita": "Elche",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Valencia",
-        "visita": "Atlético",
-        "score": "0-2",
+        "fecha": "Sun 03 May",
+        "local": "Getafe",
+        "visita": "Rayo",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Alavés",
-        "visita": "Athletic",
-        "score": "2-4",
+        "fecha": "Sun 03 May",
+        "local": "Betis",
+        "visita": "Real Oviedo",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Osasuna",
-        "visita": "Barcelona",
-        "score": "1-2",
+        "fecha": "Sun 03 May",
+        "local": "Espanyol",
+        "visita": "Real Madrid",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -77,75 +77,75 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Brentford",
-        "visita": "West Ham",
-        "score": "3-0",
+        "fecha": "Sun 03 May",
+        "local": "Bournemouth",
+        "visita": "C Palace",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Newcastle",
-        "visita": "Brighton",
-        "score": "3-1",
+        "fecha": "Sun 03 May",
+        "local": "Man United",
+        "visita": "Liverpool",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Wolves",
-        "visita": "Sunderland",
-        "score": "1-1",
+        "fecha": "Sun 03 May",
+        "local": "Aston Villa",
+        "visita": "Spurs",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Arsenal",
-        "visita": "Fulham",
-        "score": "3-0",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sat 02 May",
-        "local": "Nantes",
-        "visita": "Marseille",
-        "score": "3-0",
+        "fecha": "Sun 03 May",
+        "local": "Lille",
+        "visita": "Le Havre AC",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "PSG",
-        "visita": "Lorient",
-        "score": "2-2",
+        "fecha": "Sun 03 May",
+        "local": "Auxerre",
+        "visita": "Angers",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Metz",
-        "visita": "Monaco",
-        "score": "1-2",
+        "fecha": "Sun 03 May",
+        "local": "Paris FC",
+        "visita": "Brest",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Nice",
-        "visita": "Lens",
-        "score": "1-1",
+        "fecha": "Sun 03 May",
+        "local": "Strasbourg",
+        "visita": "Toulouse",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 03 May",
+        "local": "Lyon",
+        "visita": "Rennes",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
