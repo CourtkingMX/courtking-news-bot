@@ -1,14 +1,23 @@
 {
-  "updated": "03/05/2026 14:05 UTC",
+  "updated": "03/05/2026 15:37 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sat 02 May",
-        "local": "Celtics",
-        "visita": "76ers",
-        "score": "100-109",
+        "fecha": "Sun 03 May",
+        "local": "Pistons",
+        "visita": "Magic",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
+      {
+        "fecha": "Sun 03 May",
+        "local": "Cavaliers",
+        "visita": "Raptors",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -35,9 +44,9 @@
         "fecha": "Sun 03 May",
         "local": "Celta Vigo",
         "visita": "Elche",
-        "score": "2-0",
+        "score": "3-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -80,9 +89,9 @@
         "fecha": "Sun 03 May",
         "local": "Bournemouth",
         "visita": "C Palace",
-        "score": "",
+        "score": "2-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -107,9 +116,9 @@
         "fecha": "Sun 03 May",
         "local": "Lille",
         "visita": "Le Havre AC",
-        "score": "",
+        "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -161,9 +170,9 @@
         "fecha": "Sun 03 May",
         "local": "Sassuolo",
         "visita": "Milan",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
