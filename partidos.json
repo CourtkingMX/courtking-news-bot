@@ -1,5 +1,5 @@
 {
-  "updated": "03/05/2026 12:43 UTC",
+  "updated": "03/05/2026 14:05 UTC",
   "sports": {
     "bk": [
       {
@@ -35,9 +35,9 @@
         "fecha": "Sun 03 May",
         "local": "Celta Vigo",
         "visita": "Elche",
-        "score": "",
+        "score": "2-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -161,9 +161,9 @@
         "fecha": "Sun 03 May",
         "local": "Sassuolo",
         "visita": "Milan",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
