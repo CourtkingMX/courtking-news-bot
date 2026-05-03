@@ -1,5 +1,5 @@
 {
-  "updated": "03/05/2026 05:21 UTC",
+  "updated": "03/05/2026 07:46 UTC",
   "sports": {
     "bk": [
       {
@@ -26,9 +26,9 @@
         "fecha": "Sun 03 May",
         "local": "Atlas",
         "visita": "Cruz Azul",
-        "score": "0-0",
+        "score": "2-3",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -149,30 +149,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Udinese",
-        "visita": "Torino",
-        "score": "2-0",
+        "fecha": "Sun 03 May",
+        "local": "Bologna",
+        "visita": "Cagliari",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Como",
-        "visita": "Napoli",
-        "score": "0-0",
+        "fecha": "Sun 03 May",
+        "local": "Sassuolo",
+        "visita": "Milan",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 02 May",
-        "local": "Atalanta",
-        "visita": "Genoa",
-        "score": "0-0",
+        "fecha": "Sun 03 May",
+        "local": "Juventus",
+        "visita": "Verona",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 03 May",
+        "local": "Inter Milan",
+        "visita": "Parma",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
