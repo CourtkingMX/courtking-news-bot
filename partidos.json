@@ -1,5 +1,5 @@
 {
-  "updated": "03/05/2026 16:54 UTC",
+  "updated": "03/05/2026 17:37 UTC",
   "sports": {
     "bk": [
       {
@@ -125,7 +125,7 @@
         "fecha": "Sun 03 May",
         "local": "Auxerre",
         "visita": "Angers",
-        "score": "2-0",
+        "score": "3-1",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -134,7 +134,7 @@
         "fecha": "Sun 03 May",
         "local": "Paris FC",
         "visita": "Brest",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
@@ -179,7 +179,7 @@
         "fecha": "Sun 03 May",
         "local": "Juventus",
         "visita": "Verona",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
