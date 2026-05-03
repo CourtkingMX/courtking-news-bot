@@ -1,14 +1,14 @@
 {
-  "updated": "03/05/2026 01:50 UTC",
+  "updated": "03/05/2026 03:28 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 02 May",
         "local": "Celtics",
         "visita": "76ers",
-        "score": "96-99",
+        "score": "100-109",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -17,9 +17,9 @@
         "fecha": "Sun 03 May",
         "local": "Tigres",
         "visita": "Guadalajara",
-        "score": "",
+        "score": "0-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
