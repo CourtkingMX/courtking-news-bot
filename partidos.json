@@ -1,14 +1,14 @@
 {
-  "updated": "03/05/2026 18:42 UTC",
+  "updated": "03/05/2026 19:45 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 03 May",
         "local": "Pistons",
         "visita": "Magic",
-        "score": "",
+        "score": "5-3",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -62,9 +62,9 @@
         "fecha": "Sun 03 May",
         "local": "Betis",
         "visita": "Real Oviedo",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -107,9 +107,9 @@
         "fecha": "Sun 03 May",
         "local": "Aston Villa",
         "visita": "Spurs",
-        "score": "",
+        "score": "0-2",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -188,9 +188,9 @@
         "fecha": "Sun 03 May",
         "local": "Inter Milan",
         "visita": "Parma",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
