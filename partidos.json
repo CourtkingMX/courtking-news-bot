@@ -1,5 +1,5 @@
 {
-  "updated": "03/05/2026 23:33 UTC",
+  "updated": "04/05/2026 01:51 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Sun 03 May",
         "local": "Cavaliers",
         "visita": "Raptors",
-        "score": "",
+        "score": "91-70",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -26,9 +26,9 @@
         "fecha": "Sun 03 May",
         "local": "América",
         "visita": "UNAM",
-        "score": "",
+        "score": "1-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
