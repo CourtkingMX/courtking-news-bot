@@ -1,5 +1,5 @@
 {
-  "updated": "04/05/2026 20:57 UTC",
+  "updated": "04/05/2026 21:56 UTC",
   "sports": {
     "bk": [
       {
@@ -44,7 +44,7 @@
         "fecha": "Mon 04 May",
         "local": "Sevilla",
         "visita": "Real Sociedad",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -71,9 +71,9 @@
         "fecha": "Mon 04 May",
         "local": "Everton",
         "visita": "Man City",
-        "score": "0-0",
+        "score": "3-3",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
