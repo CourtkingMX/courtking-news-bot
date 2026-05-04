@@ -1,5 +1,5 @@
 {
-  "updated": "04/05/2026 10:15 UTC",
+  "updated": "04/05/2026 10:54 UTC",
   "sports": {
     "bk": [
       {
@@ -41,39 +41,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 03 May",
-        "local": "Celta Vigo",
-        "visita": "Elche",
-        "score": "3-1",
+        "fecha": "Mon 04 May",
+        "local": "Sevilla",
+        "visita": "Real Sociedad",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Getafe",
-        "visita": "Rayo",
-        "score": "0-2",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Betis",
-        "visita": "Real Oviedo",
-        "score": "3-0",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Espanyol",
-        "visita": "Real Madrid",
-        "score": "0-2",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -86,30 +59,21 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sun 03 May",
-        "local": "Bournemouth",
-        "visita": "C Palace",
-        "score": "3-0",
+        "fecha": "Mon 04 May",
+        "local": "Chelsea",
+        "visita": "Nottm Forest",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 03 May",
-        "local": "Man United",
-        "visita": "Liverpool",
-        "score": "3-2",
+        "fecha": "Mon 04 May",
+        "local": "Everton",
+        "visita": "Man City",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Aston Villa",
-        "visita": "Spurs",
-        "score": "1-2",
-        "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
