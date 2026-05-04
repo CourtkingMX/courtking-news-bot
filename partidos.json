@@ -1,5 +1,5 @@
 {
-  "updated": "04/05/2026 21:56 UTC",
+  "updated": "04/05/2026 22:51 UTC",
   "sports": {
     "bk": [
       {
@@ -46,7 +46,7 @@
         "visita": "Real Sociedad",
         "score": "1-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
