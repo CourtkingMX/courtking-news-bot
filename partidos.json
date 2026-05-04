@@ -1,5 +1,5 @@
 {
-  "updated": "04/05/2026 19:12 UTC",
+  "updated": "04/05/2026 20:57 UTC",
   "sports": {
     "bk": [
       {
@@ -44,9 +44,9 @@
         "fecha": "Mon 04 May",
         "local": "Sevilla",
         "visita": "Real Sociedad",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -71,9 +71,9 @@
         "fecha": "Mon 04 May",
         "local": "Everton",
         "visita": "Man City",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -134,9 +134,9 @@
         "fecha": "Mon 04 May",
         "local": "AS Roma",
         "visita": "Fiorentina",
-        "score": "2-0",
+        "score": "4-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
