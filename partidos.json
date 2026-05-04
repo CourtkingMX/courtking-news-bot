@@ -1,23 +1,23 @@
 {
-  "updated": "04/05/2026 15:02 UTC",
+  "updated": "04/05/2026 17:20 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sun 03 May",
-        "local": "Pistons",
-        "visita": "Magic",
-        "score": "116-94",
+        "fecha": "Tue 05 May",
+        "local": "Knicks",
+        "visita": "76ers",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sun 03 May",
-        "local": "Cavaliers",
-        "visita": "Raptors",
-        "score": "114-102",
+        "fecha": "Tue 05 May",
+        "local": "Spurs",
+        "visita": "Timberwolves",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -62,9 +62,9 @@
         "fecha": "Mon 04 May",
         "local": "Chelsea",
         "visita": "Nottm Forest",
-        "score": "",
+        "score": "0-2",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -125,9 +125,9 @@
         "fecha": "Mon 04 May",
         "local": "Cremonese",
         "visita": "Lazio",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
