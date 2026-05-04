@@ -1,5 +1,5 @@
 {
-  "updated": "04/05/2026 05:24 UTC",
+  "updated": "04/05/2026 08:15 UTC",
   "sports": {
     "bk": [
       {
@@ -158,39 +158,21 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 03 May",
-        "local": "Bologna",
-        "visita": "Cagliari",
-        "score": "0-0",
+        "fecha": "Mon 04 May",
+        "local": "Cremonese",
+        "visita": "Lazio",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 03 May",
-        "local": "Sassuolo",
-        "visita": "Milan",
-        "score": "2-0",
+        "fecha": "Mon 04 May",
+        "local": "AS Roma",
+        "visita": "Fiorentina",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Juventus",
-        "visita": "Verona",
-        "score": "1-1",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Inter Milan",
-        "visita": "Parma",
-        "score": "2-0",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
