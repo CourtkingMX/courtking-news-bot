@@ -1,5 +1,5 @@
 {
-  "updated": "05/05/2026 02:54 UTC",
+  "updated": "05/05/2026 04:53 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Tue 05 May",
         "local": "Spurs",
         "visita": "Timberwolves",
-        "score": "45-45",
+        "score": "102-104",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -122,21 +122,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Mon 04 May",
-        "local": "Cremonese",
-        "visita": "Lazio",
-        "score": "1-2",
+        "fecha": "Fri 08 May",
+        "local": "Torino",
+        "visita": "Sassuolo",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Mon 04 May",
-        "local": "AS Roma",
-        "visita": "Fiorentina",
-        "score": "4-0",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
