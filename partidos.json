@@ -1,5 +1,5 @@
 {
-  "updated": "05/05/2026 21:52 UTC",
+  "updated": "05/05/2026 22:45 UTC",
   "sports": {
     "bk": [
       {
@@ -55,7 +55,7 @@
         "visita": "Atlético",
         "score": "1-0",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
