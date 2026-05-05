@@ -1,5 +1,5 @@
 {
-  "updated": "05/05/2026 19:04 UTC",
+  "updated": "05/05/2026 20:52 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Tue 05 May",
         "local": "Arsenal",
         "visita": "Atlético",
-        "score": "",
+        "score": "0-0",
         "liga": "Champions",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
