@@ -1,5 +1,5 @@
 {
-  "updated": "05/05/2026 07:11 UTC",
+  "updated": "05/05/2026 09:52 UTC",
   "sports": {
     "bk": [
       {
@@ -41,12 +41,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 04 May",
-        "local": "Sevilla",
-        "visita": "Real Sociedad",
-        "score": "1-0",
+        "fecha": "Fri 08 May",
+        "local": "Levante",
+        "visita": "Osasuna",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -77,48 +77,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 03 May",
-        "local": "Lille",
-        "visita": "Le Havre AC",
-        "score": "1-1",
+        "fecha": "Fri 08 May",
+        "local": "Lens",
+        "visita": "Nantes",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Auxerre",
-        "visita": "Angers",
-        "score": "3-1",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Paris FC",
-        "visita": "Brest",
-        "score": "4-0",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Strasbourg",
-        "visita": "Toulouse",
-        "score": "1-2",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 03 May",
-        "local": "Lyon",
-        "visita": "Rennes",
-        "score": "4-2",
-        "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
