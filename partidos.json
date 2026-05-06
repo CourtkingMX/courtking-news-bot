@@ -1,5 +1,5 @@
 {
-  "updated": "06/05/2026 21:01 UTC",
+  "updated": "06/05/2026 22:38 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Wed 06 May",
         "local": "Bayern",
         "visita": "PSG",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "Champions",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
