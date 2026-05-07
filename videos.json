@@ -1,7 +1,14 @@
 {
-  "updated": "07/05/2026 10:25 UTC",
+  "updated": "07/05/2026 17:49 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "r-Wp9bvlmQU",
+        "title": "Pistons brought energy and intensity all night long 🔥 | Chasing History presented by@michelobultra",
+        "thumb": "https://i.ytimg.com/vi/r-Wp9bvlmQU/mqdefault.jpg",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=r-Wp9bvlmQU"
+      },
       {
         "vid": "3IA_DGLXaJk",
         "title": "NBA&#39;s Nightly Recap | May 6, 2026",
@@ -31,13 +38,6 @@
         "url": "https://www.youtube.com/watch?v=m35LhhQnSUg"
       },
       {
-        "vid": "cOVcKGB2wxY",
-        "title": "EXTENDED: #6 TIMBERWOLVES at #2 SPURS | FULL GAME 2 HIGHLIGHTS | May 6, 2026",
-        "thumb": "https://i.ytimg.com/vi/cOVcKGB2wxY/mqdefault.jpg",
-        "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=cOVcKGB2wxY"
-      },
-      {
         "vid": "d51kqvLmjGQ",
         "title": "San Antonio Spurs vs Minnesota Timberwolves Game 2 Full Highlights | 2026 WCSF | FreeDawkins",
         "thumb": "https://i.ytimg.com/vi/d51kqvLmjGQ/mqdefault.jpg",
@@ -61,6 +61,20 @@
     ],
     "pd": [
       {
+        "vid": "fKY80qz_BK0",
+        "title": "Lucas Bergamini unreal response to a smash with a backhand point 😉💨 #AsuncionPremierPadelP2",
+        "thumb": "https://i.ytimg.com/vi/fKY80qz_BK0/mqdefault.jpg",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=fKY80qz_BK0"
+      },
+      {
+        "vid": "syquwUTStfM",
+        "title": "Carmen Goenaga’s smash puts an end to an insane rally ☄️😮‍💨 #PremierPadel #AsuncionPremierPadelP2",
+        "thumb": "https://i.ytimg.com/vi/syquwUTStfM/mqdefault.jpg",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=syquwUTStfM"
+      },
+      {
         "vid": "VrEcZw0-ZHI",
         "title": "Asuncion Premier Padel P2 🇵🇾🎾: Court 3",
         "thumb": "https://i.ytimg.com/vi/VrEcZw0-ZHI/mqdefault_live.jpg",
@@ -80,23 +94,30 @@
         "thumb": "https://i.ytimg.com/vi/ms6uETnwx0c/mqdefault.jpg",
         "date": "2026-05-07",
         "url": "https://www.youtube.com/watch?v=ms6uETnwx0c"
-      },
-      {
-        "vid": "qbi9iYqJT3w",
-        "title": "INSANE x4 by El Mago de San Luis (Sanyo Gutierrez) in the Asuncion P2",
-        "thumb": "https://i.ytimg.com/vi/qbi9iYqJT3w/mqdefault.jpg",
-        "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=qbi9iYqJT3w"
-      },
-      {
-        "vid": "368fXs0sgjI",
-        "title": "(Replay) Asuncion Premier Padel P2 🇵🇾🎾: Court 3 (May 6th)",
-        "thumb": "https://i.ytimg.com/vi/368fXs0sgjI/mqdefault.jpg",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=368fXs0sgjI"
       }
     ],
     "fx": [
+      {
+        "vid": "9Des9cNCGW0",
+        "title": "Vini JR: TOP 1 conducciones de alto impacto",
+        "thumb": "https://i.ytimg.com/vi/9Des9cNCGW0/mqdefault.jpg",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=9Des9cNCGW0"
+      },
+      {
+        "vid": "IrInbUCKUlM",
+        "title": "¿Quién jugará ELCLÁSICO que puede decidir el TÍTULO? | LALIGA FANTASY SHOW #34",
+        "thumb": "https://i.ytimg.com/vi/IrInbUCKUlM/mqdefault.jpg",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=IrInbUCKUlM"
+      },
+      {
+        "vid": "92o7qufWSqo",
+        "title": "ANTONIO RÜDIGER 🎁",
+        "thumb": "https://i.ytimg.com/vi/92o7qufWSqo/mqdefault.jpg",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=92o7qufWSqo"
+      },
       {
         "vid": "MLHULIgsskc",
         "title": "¡Los MEJORES 20 GOLES de ELCLÁSICO en SPOTIFY CAMP NOU! 🏟️",
@@ -112,46 +133,25 @@
         "url": "https://www.youtube.com/watch?v=c7RiXg-rHFg"
       },
       {
-        "vid": "U31zGzTxNrU",
-        "title": "¿Cuál fue el Clásico más dramático?",
-        "thumb": "https://i.ytimg.com/vi/U31zGzTxNrU/mqdefault.jpg",
+        "vid": "57YSqF7ofUc",
+        "title": "Captain tracking back 💪",
+        "thumb": "https://i.ytimg.com/vi/57YSqF7ofUc/mqdefault.jpg",
         "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=U31zGzTxNrU"
+        "url": "https://www.youtube.com/watch?v=57YSqF7ofUc"
       },
       {
-        "vid": "Peg9GfGPjx4",
-        "title": "Los 3 jugadores con más conducciones suman son...",
-        "thumb": "https://i.ytimg.com/vi/Peg9GfGPjx4/mqdefault.jpg",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=Peg9GfGPjx4"
-      },
-      {
-        "vid": "9xbhhOXcoQQ",
-        "title": "PEDRI o VINI Jr: ¿quién dominará ELCLÁSICO?",
-        "thumb": "https://i.ytimg.com/vi/9xbhhOXcoQQ/mqdefault.jpg",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=9xbhhOXcoQQ"
-      },
-      {
-        "vid": "pi103ILpJXY",
-        "title": "Beautiful Nottingham Forest football 😍",
-        "thumb": "https://i.ytimg.com/vi/pi103ILpJXY/mqdefault.jpg",
+        "vid": "gRvE8MKCvkI",
+        "title": "Spectacular save!",
+        "thumb": "https://i.ytimg.com/vi/gRvE8MKCvkI/mqdefault.jpg",
         "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=pi103ILpJXY"
+        "url": "https://www.youtube.com/watch?v=gRvE8MKCvkI"
       },
       {
-        "vid": "zUtAJnWctuA",
-        "title": "Saka scores for Arsenal to secure Champions League final spot!",
-        "thumb": "https://i.ytimg.com/vi/zUtAJnWctuA/mqdefault.jpg",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=zUtAJnWctuA"
-      },
-      {
-        "vid": "7hfaVA6mQ4A",
-        "title": "Off the line! 🤯",
-        "thumb": "https://i.ytimg.com/vi/7hfaVA6mQ4A/mqdefault.jpg",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=7hfaVA6mQ4A"
+        "vid": "w2DZyjhHG0Q",
+        "title": "Pure filth 🥵",
+        "thumb": "https://i.ytimg.com/vi/w2DZyjhHG0Q/mqdefault.jpg",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=w2DZyjhHG0Q"
       }
     ]
   }
