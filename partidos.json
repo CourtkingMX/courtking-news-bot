@@ -1,14 +1,14 @@
 {
-  "updated": "07/05/2026 22:51 UTC",
+  "updated": "07/05/2026 23:42 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Thu 07 May",
         "local": "Pistons",
         "visita": "Cavaliers",
-        "score": "",
+        "score": "25-18",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
