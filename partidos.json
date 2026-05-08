@@ -1,5 +1,5 @@
 {
-  "updated": "08/05/2026 21:49 UTC",
+  "updated": "08/05/2026 22:44 UTC",
   "sports": {
     "bk": [
       {
@@ -44,9 +44,9 @@
         "fecha": "Fri 08 May",
         "local": "Levante",
         "visita": "Osasuna",
-        "score": "2-2",
+        "score": "3-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
