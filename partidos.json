@@ -1,5 +1,5 @@
 {
-  "updated": "08/05/2026 19:02 UTC",
+  "updated": "08/05/2026 20:44 UTC",
   "sports": {
     "bk": [
       {
@@ -44,9 +44,9 @@
         "fecha": "Fri 08 May",
         "local": "Levante",
         "visita": "Osasuna",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -107,18 +107,18 @@
         "fecha": "Fri 08 May",
         "local": "Lens",
         "visita": "Nantes",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Fri 08 May",
         "local": "Torino",
         "visita": "Sassuolo",
-        "score": "0-0",
+        "score": "2-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
