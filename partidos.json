@@ -1,5 +1,5 @@
 {
-  "updated": "08/05/2026 20:44 UTC",
+  "updated": "08/05/2026 21:49 UTC",
   "sports": {
     "bk": [
       {
@@ -44,7 +44,7 @@
         "fecha": "Fri 08 May",
         "local": "Levante",
         "visita": "Osasuna",
-        "score": "0-0",
+        "score": "2-2",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -107,9 +107,9 @@
         "fecha": "Fri 08 May",
         "local": "Lens",
         "visita": "Nantes",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
