@@ -1,23 +1,23 @@
 {
-  "updated": "08/05/2026 23:44 UTC",
+  "updated": "09/05/2026 01:54 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Fri 08 May",
         "local": "76ers",
         "visita": "Knicks",
-        "score": "33-29",
+        "score": "94-108",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sat 09 May",
         "local": "Timberwolves",
         "visita": "Spurs",
-        "score": "",
+        "score": "1-9",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
