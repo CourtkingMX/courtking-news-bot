@@ -1,5 +1,5 @@
 {
-  "updated": "09/05/2026 16:40 UTC",
+  "updated": "09/05/2026 16:57 UTC",
   "sports": {
     "bk": [
       {
@@ -53,18 +53,18 @@
         "fecha": "Sat 09 May",
         "local": "Sevilla",
         "visita": "Espanyol",
-        "score": "0-0",
+        "score": "2-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sat 09 May",
         "local": "Atlético",
         "visita": "Celta Vigo",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -98,9 +98,9 @@
         "fecha": "Sat 09 May",
         "local": "Brighton",
         "visita": "Wolves",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -109,7 +109,7 @@
         "visita": "Bournemouth",
         "score": "0-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -118,16 +118,16 @@
         "visita": "Man United",
         "score": "0-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sat 09 May",
         "local": "Man City",
         "visita": "Brentford",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
