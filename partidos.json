@@ -1,5 +1,5 @@
 {
-  "updated": "09/05/2026 15:40 UTC",
+  "updated": "09/05/2026 16:40 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Sat 09 May",
         "local": "Sevilla",
         "visita": "Espanyol",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -107,7 +107,7 @@
         "fecha": "Sat 09 May",
         "local": "Fulham",
         "visita": "Bournemouth",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -197,9 +197,9 @@
         "fecha": "Sat 09 May",
         "local": "Lazio",
         "visita": "Inter Milan",
-        "score": "",
+        "score": "0-2",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
