@@ -1,14 +1,14 @@
 {
-  "updated": "09/05/2026 21:33 UTC",
+  "updated": "09/05/2026 22:32 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 09 May",
         "local": "Cavaliers",
         "visita": "Pistons",
-        "score": "99-94",
+        "score": "116-109",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -71,9 +71,9 @@
         "fecha": "Sat 09 May",
         "local": "Real Sociedad",
         "visita": "Betis",
-        "score": "0-2",
+        "score": "2-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
