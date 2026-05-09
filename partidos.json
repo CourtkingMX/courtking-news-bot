@@ -1,5 +1,5 @@
 {
-  "updated": "09/05/2026 12:52 UTC",
+  "updated": "09/05/2026 14:12 UTC",
   "sports": {
     "bk": [
       {
@@ -44,9 +44,9 @@
         "fecha": "Sat 09 May",
         "local": "Elche",
         "visita": "Alavés",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -89,7 +89,7 @@
         "fecha": "Sat 09 May",
         "local": "Liverpool",
         "visita": "Chelsea",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -188,9 +188,9 @@
         "fecha": "Sat 09 May",
         "local": "Cagliari",
         "visita": "Udinese",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
