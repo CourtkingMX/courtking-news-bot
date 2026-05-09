@@ -1,5 +1,5 @@
 {
-  "updated": "09/05/2026 16:57 UTC",
+  "updated": "09/05/2026 17:40 UTC",
   "sports": {
     "bk": [
       {
@@ -197,7 +197,7 @@
         "fecha": "Sat 09 May",
         "local": "Lazio",
         "visita": "Inter Milan",
-        "score": "0-2",
+        "score": "0-3",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
