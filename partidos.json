@@ -1,14 +1,14 @@
 {
-  "updated": "09/05/2026 18:43 UTC",
+  "updated": "09/05/2026 19:49 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sat 09 May",
         "local": "Cavaliers",
         "visita": "Pistons",
-        "score": "",
+        "score": "34-31",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -62,9 +62,9 @@
         "fecha": "Sat 09 May",
         "local": "Atlético",
         "visita": "Celta Vigo",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -125,9 +125,9 @@
         "fecha": "Sat 09 May",
         "local": "Man City",
         "visita": "Brentford",
-        "score": "0-0",
+        "score": "3-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -206,9 +206,9 @@
         "fecha": "Sat 09 May",
         "local": "Lecce",
         "visita": "Juventus",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
