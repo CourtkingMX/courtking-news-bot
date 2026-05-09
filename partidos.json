@@ -1,5 +1,5 @@
 {
-  "updated": "09/05/2026 17:40 UTC",
+  "updated": "09/05/2026 18:43 UTC",
   "sports": {
     "bk": [
       {
@@ -199,7 +199,7 @@
         "visita": "Inter Milan",
         "score": "0-3",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
