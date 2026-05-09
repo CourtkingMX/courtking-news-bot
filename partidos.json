@@ -1,5 +1,5 @@
 {
-  "updated": "09/05/2026 11:40 UTC",
+  "updated": "09/05/2026 12:52 UTC",
   "sports": {
     "bk": [
       {
@@ -89,9 +89,9 @@
         "fecha": "Sat 09 May",
         "local": "Liverpool",
         "visita": "Chelsea",
-        "score": "",
+        "score": "1-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
