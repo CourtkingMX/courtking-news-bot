@@ -1,5 +1,5 @@
 {
-  "updated": "10/05/2026 09:22 UTC",
+  "updated": "10/05/2026 09:39 UTC",
   "sports": {
     "bk": [
       {
@@ -24,56 +24,56 @@
     "fx": [
       {
         "fecha": "Sun 10 May",
-        "local": "Guadalajara",
-        "visita": "Tigres",
-        "score": "2-0",
+        "local": "Pachuca",
+        "visita": "Toluca",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Mon 11 May",
+        "local": "UNAM",
+        "visita": "América",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 10 May",
-        "local": "Cruz Azul",
-        "visita": "Atlas",
-        "score": "1-0",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sat 09 May",
-        "local": "Elche",
-        "visita": "Alavés",
-        "score": "1-1",
+        "local": "Mallorca",
+        "visita": "Villarreal",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Sevilla",
-        "visita": "Espanyol",
-        "score": "2-1",
+        "fecha": "Sun 10 May",
+        "local": "Athletic",
+        "visita": "Valencia",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Atlético",
-        "visita": "Celta Vigo",
-        "score": "0-1",
+        "fecha": "Sun 10 May",
+        "local": "Real Oviedo",
+        "visita": "Getafe",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Real Sociedad",
-        "visita": "Betis",
-        "score": "2-2",
+        "fecha": "Sun 10 May",
+        "local": "Barcelona",
+        "visita": "Real Madrid",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -86,48 +86,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Liverpool",
-        "visita": "Chelsea",
-        "score": "1-1",
+        "fecha": "Sun 10 May",
+        "local": "Burnley",
+        "visita": "Aston Villa",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Brighton",
-        "visita": "Wolves",
-        "score": "3-0",
+        "fecha": "Sun 10 May",
+        "local": "C Palace",
+        "visita": "Everton",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Fulham",
-        "visita": "Bournemouth",
-        "score": "0-1",
+        "fecha": "Sun 10 May",
+        "local": "Nottm Forest",
+        "visita": "Newcastle",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Sunderland",
-        "visita": "Man United",
-        "score": "0-0",
+        "fecha": "Sun 10 May",
+        "local": "West Ham",
+        "visita": "Arsenal",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sat 09 May",
-        "local": "Man City",
-        "visita": "Brentford",
-        "score": "3-0",
-        "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
