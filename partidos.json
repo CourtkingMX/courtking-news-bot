@@ -1,5 +1,5 @@
 {
-  "updated": "10/05/2026 16:58 UTC",
+  "updated": "10/05/2026 17:41 UTC",
   "sports": {
     "bk": [
       {
@@ -206,7 +206,7 @@
         "fecha": "Sun 10 May",
         "local": "Parma",
         "visita": "AS Roma",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
