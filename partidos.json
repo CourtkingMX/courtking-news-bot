@@ -1,5 +1,5 @@
 {
-  "updated": "10/05/2026 15:42 UTC",
+  "updated": "10/05/2026 16:41 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Sun 10 May",
         "local": "Athletic",
         "visita": "Valencia",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -89,36 +89,36 @@
         "fecha": "Sun 10 May",
         "local": "Burnley",
         "visita": "Aston Villa",
-        "score": "1-1",
+        "score": "2-2",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "C Palace",
         "visita": "Everton",
-        "score": "1-2",
+        "score": "2-2",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Nottm Forest",
         "visita": "Newcastle",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "West Ham",
         "visita": "Arsenal",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -206,9 +206,9 @@
         "fecha": "Sun 10 May",
         "local": "Parma",
         "visita": "AS Roma",
-        "score": "",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
