@@ -1,5 +1,5 @@
 {
-  "updated": "10/05/2026 12:53 UTC",
+  "updated": "10/05/2026 14:15 UTC",
   "sports": {
     "bk": [
       {
@@ -44,9 +44,9 @@
         "fecha": "Sun 10 May",
         "local": "Mallorca",
         "visita": "Villarreal",
-        "score": "",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -188,18 +188,18 @@
         "fecha": "Sun 10 May",
         "local": "Cremonese",
         "visita": "Pisa",
-        "score": "",
+        "score": "2-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Fiorentina",
         "visita": "Genoa",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
