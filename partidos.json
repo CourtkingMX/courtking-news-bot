@@ -1,5 +1,5 @@
 {
-  "updated": "10/05/2026 16:41 UTC",
+  "updated": "10/05/2026 16:58 UTC",
   "sports": {
     "bk": [
       {
@@ -53,18 +53,18 @@
         "fecha": "Sun 10 May",
         "local": "Athletic",
         "visita": "Valencia",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Real Oviedo",
         "visita": "Getafe",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
