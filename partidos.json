@@ -1,5 +1,5 @@
 {
-  "updated": "10/05/2026 11:41 UTC",
+  "updated": "10/05/2026 12:53 UTC",
   "sports": {
     "bk": [
       {
@@ -179,9 +179,9 @@
         "fecha": "Sun 10 May",
         "local": "Verona",
         "visita": "Como",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
