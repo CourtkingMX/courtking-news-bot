@@ -1,5 +1,5 @@
 {
-  "updated": "10/05/2026 03:31 UTC",
+  "updated": "10/05/2026 05:29 UTC",
   "sports": {
     "bk": [
       {
@@ -26,18 +26,18 @@
         "fecha": "Sun 10 May",
         "local": "Guadalajara",
         "visita": "Tigres",
-        "score": "0-0",
+        "score": "2-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Cruz Azul",
         "visita": "Atlas",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
