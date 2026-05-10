@@ -1,5 +1,5 @@
 {
-  "updated": "10/05/2026 05:29 UTC",
+  "updated": "10/05/2026 07:55 UTC",
   "sports": {
     "bk": [
       {
@@ -35,9 +35,9 @@
         "fecha": "Sun 10 May",
         "local": "Cruz Azul",
         "visita": "Atlas",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -185,30 +185,48 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Cagliari",
-        "visita": "Udinese",
-        "score": "0-2",
+        "fecha": "Sun 10 May",
+        "local": "Verona",
+        "visita": "Como",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Lazio",
-        "visita": "Inter Milan",
-        "score": "0-3",
+        "fecha": "Sun 10 May",
+        "local": "Cremonese",
+        "visita": "Pisa",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 09 May",
-        "local": "Lecce",
-        "visita": "Juventus",
-        "score": "0-1",
+        "fecha": "Sun 10 May",
+        "local": "Fiorentina",
+        "visita": "Genoa",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 10 May",
+        "local": "Parma",
+        "visita": "AS Roma",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 10 May",
+        "local": "Milan",
+        "visita": "Atalanta",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
