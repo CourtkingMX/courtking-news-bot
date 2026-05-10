@@ -1,23 +1,23 @@
 {
-  "updated": "10/05/2026 14:15 UTC",
+  "updated": "10/05/2026 15:42 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sat 09 May",
-        "local": "Cavaliers",
-        "visita": "Pistons",
-        "score": "116-109",
+        "fecha": "Sun 10 May",
+        "local": "76ers",
+        "visita": "Knicks",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
         "fecha": "Sun 10 May",
-        "local": "Lakers",
-        "visita": "Thunder",
-        "score": "108-131",
+        "local": "Timberwolves",
+        "visita": "Spurs",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -46,7 +46,7 @@
         "visita": "Villarreal",
         "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -89,27 +89,27 @@
         "fecha": "Sun 10 May",
         "local": "Burnley",
         "visita": "Aston Villa",
-        "score": "",
+        "score": "1-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "C Palace",
         "visita": "Everton",
-        "score": "",
+        "score": "1-2",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Nottm Forest",
         "visita": "Newcastle",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -188,9 +188,9 @@
         "fecha": "Sun 10 May",
         "local": "Cremonese",
         "visita": "Pisa",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
@@ -199,7 +199,7 @@
         "visita": "Genoa",
         "score": "0-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
