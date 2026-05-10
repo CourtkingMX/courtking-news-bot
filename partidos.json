@@ -1,12 +1,12 @@
 {
-  "updated": "10/05/2026 19:51 UTC",
+  "updated": "10/05/2026 20:37 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 10 May",
         "local": "76ers",
         "visita": "Knicks",
-        "score": "6-17",
+        "score": "47-69",
         "liga": "NBA",
         "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
@@ -71,9 +71,9 @@
         "fecha": "Sun 10 May",
         "local": "Barcelona",
         "visita": "Real Madrid",
-        "score": "",
+        "score": "2-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -125,54 +125,54 @@
         "fecha": "Sun 10 May",
         "local": "Auxerre",
         "visita": "Nice",
-        "score": "",
+        "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Angers",
         "visita": "Strasbourg",
-        "score": "",
+        "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Monaco",
         "visita": "Lille",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Le Havre AC",
         "visita": "Marseille",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Metz",
         "visita": "Lorient",
-        "score": "",
+        "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "PSG",
         "visita": "Brest",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -215,7 +215,7 @@
         "fecha": "Sun 10 May",
         "local": "Milan",
         "visita": "Atalanta",
-        "score": "0-2",
+        "score": "0-3",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
