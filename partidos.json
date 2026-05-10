@@ -1,14 +1,14 @@
 {
-  "updated": "10/05/2026 21:37 UTC",
+  "updated": "10/05/2026 22:36 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Sun 10 May",
         "local": "76ers",
         "visita": "Knicks",
-        "score": "81-120",
+        "score": "114-144",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -73,7 +73,7 @@
         "visita": "Real Madrid",
         "score": "2-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -127,7 +127,7 @@
         "visita": "Nice",
         "score": "2-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -136,7 +136,7 @@
         "visita": "Strasbourg",
         "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -145,7 +145,7 @@
         "visita": "Lille",
         "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -154,25 +154,25 @@
         "visita": "Marseille",
         "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "Metz",
         "visita": "Lorient",
-        "score": "0-1",
+        "score": "0-4",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 10 May",
         "local": "PSG",
         "visita": "Brest",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
