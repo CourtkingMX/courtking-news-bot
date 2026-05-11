@@ -1,5 +1,5 @@
 {
-  "updated": "11/05/2026 18:50 UTC",
+  "updated": "11/05/2026 20:25 UTC",
   "sports": {
     "bk": [
       {
@@ -89,7 +89,7 @@
         "fecha": "Mon 11 May",
         "local": "Napoli",
         "visita": "Bologna",
-        "score": "0-0",
+        "score": "2-2",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
