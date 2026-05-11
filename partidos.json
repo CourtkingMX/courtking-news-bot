@@ -1,5 +1,5 @@
 {
-  "updated": "11/05/2026 03:42 UTC",
+  "updated": "11/05/2026 06:27 UTC",
   "sports": {
     "bk": [
       {
@@ -35,9 +35,9 @@
         "fecha": "Mon 11 May",
         "local": "UNAM",
         "visita": "América",
-        "score": "3-2",
+        "score": "3-3",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
