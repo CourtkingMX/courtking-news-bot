@@ -1,5 +1,5 @@
 {
-  "updated": "11/05/2026 16:23 UTC",
+  "updated": "11/05/2026 17:55 UTC",
   "sports": {
     "bk": [
       {
@@ -23,21 +23,21 @@
     ],
     "fx": [
       {
-        "fecha": "Wed 13 May",
-        "local": "Cruz Azul",
-        "visita": "Guadalajara",
-        "score": "",
+        "fecha": "Sun 10 May",
+        "local": "Pachuca",
+        "visita": "Toluca",
+        "score": "2-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Wed 13 May",
-        "local": "Pachuca",
-        "visita": "UNAM",
-        "score": "",
+        "fecha": "Mon 11 May",
+        "local": "UNAM",
+        "visita": "América",
+        "score": "3-3",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
