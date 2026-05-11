@@ -1,43 +1,43 @@
 {
-  "updated": "11/05/2026 13:36 UTC",
+  "updated": "11/05/2026 16:23 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sun 10 May",
-        "local": "76ers",
-        "visita": "Knicks",
-        "score": "114-144",
+        "fecha": "Tue 12 May",
+        "local": "Cavaliers",
+        "visita": "Pistons",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
-        "fecha": "Sun 10 May",
-        "local": "Timberwolves",
-        "visita": "Spurs",
-        "score": "114-109",
+        "fecha": "Tue 12 May",
+        "local": "Lakers",
+        "visita": "Thunder",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
     "fx": [
       {
-        "fecha": "Sun 10 May",
-        "local": "Pachuca",
-        "visita": "Toluca",
-        "score": "2-0",
+        "fecha": "Wed 13 May",
+        "local": "Cruz Azul",
+        "visita": "Guadalajara",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 11 May",
-        "local": "UNAM",
-        "visita": "América",
-        "score": "3-3",
+        "fecha": "Wed 13 May",
+        "local": "Pachuca",
+        "visita": "UNAM",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
