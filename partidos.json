@@ -1,5 +1,5 @@
 {
-  "updated": "11/05/2026 02:03 UTC",
+  "updated": "11/05/2026 03:42 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Sun 10 May",
         "local": "Timberwolves",
         "visita": "Spurs",
-        "score": "100-99",
+        "score": "114-109",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -26,18 +26,18 @@
         "fecha": "Sun 10 May",
         "local": "Pachuca",
         "visita": "Toluca",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Mon 11 May",
         "local": "UNAM",
         "visita": "América",
-        "score": "",
+        "score": "3-2",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
