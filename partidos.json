@@ -1,5 +1,5 @@
 {
-  "updated": "11/05/2026 20:25 UTC",
+  "updated": "11/05/2026 21:57 UTC",
   "sports": {
     "bk": [
       {
@@ -23,7 +23,7 @@
     ],
     "fx": [
       {
-        "fecha": "Wed 13 May",
+        "fecha": "Thu 14 May",
         "local": "Cruz Azul",
         "visita": "Guadalajara",
         "score": "",
@@ -32,7 +32,7 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Wed 13 May",
+        "fecha": "Fri 15 May",
         "local": "Pachuca",
         "visita": "UNAM",
         "score": "",
@@ -44,9 +44,9 @@
         "fecha": "Mon 11 May",
         "local": "Rayo",
         "visita": "Girona",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -62,9 +62,9 @@
         "fecha": "Mon 11 May",
         "local": "Spurs",
         "visita": "Leeds",
-        "score": "",
+        "score": "1-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -89,9 +89,9 @@
         "fecha": "Mon 11 May",
         "local": "Napoli",
         "visita": "Bologna",
-        "score": "2-2",
+        "score": "2-3",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
