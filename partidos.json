@@ -1,5 +1,5 @@
 {
-  "updated": "11/05/2026 11:24 UTC",
+  "updated": "11/05/2026 13:36 UTC",
   "sports": {
     "bk": [
       {
@@ -41,39 +41,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 10 May",
-        "local": "Mallorca",
-        "visita": "Villarreal",
-        "score": "1-1",
+        "fecha": "Mon 11 May",
+        "local": "Rayo",
+        "visita": "Girona",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Athletic",
-        "visita": "Valencia",
-        "score": "0-1",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Real Oviedo",
-        "visita": "Getafe",
-        "score": "0-0",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Barcelona",
-        "visita": "Real Madrid",
-        "score": "2-0",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
