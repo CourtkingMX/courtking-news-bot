@@ -1,5 +1,5 @@
 {
-  "updated": "11/05/2026 06:27 UTC",
+  "updated": "11/05/2026 10:27 UTC",
   "sports": {
     "bk": [
       {
@@ -86,138 +86,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sun 10 May",
-        "local": "Burnley",
-        "visita": "Aston Villa",
-        "score": "2-2",
+        "fecha": "Mon 11 May",
+        "local": "Spurs",
+        "visita": "Leeds",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 10 May",
-        "local": "C Palace",
-        "visita": "Everton",
-        "score": "2-2",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Nottm Forest",
-        "visita": "Newcastle",
-        "score": "1-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "West Ham",
-        "visita": "Arsenal",
-        "score": "0-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Auxerre",
-        "visita": "Nice",
-        "score": "2-1",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Angers",
+        "fecha": "Wed 13 May",
+        "local": "Brest",
         "visita": "Strasbourg",
-        "score": "1-1",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 10 May",
-        "local": "Monaco",
-        "visita": "Lille",
-        "score": "0-1",
+        "fecha": "Wed 13 May",
+        "local": "Lens",
+        "visita": "PSG",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 10 May",
-        "local": "Le Havre AC",
-        "visita": "Marseille",
-        "score": "0-1",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Metz",
-        "visita": "Lorient",
-        "score": "0-4",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "PSG",
-        "visita": "Brest",
-        "score": "1-0",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Verona",
-        "visita": "Como",
-        "score": "0-1",
+        "fecha": "Mon 11 May",
+        "local": "Napoli",
+        "visita": "Bologna",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Cremonese",
-        "visita": "Pisa",
-        "score": "3-0",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Fiorentina",
-        "visita": "Genoa",
-        "score": "0-0",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Parma",
-        "visita": "AS Roma",
-        "score": "2-3",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 10 May",
-        "local": "Milan",
-        "visita": "Atalanta",
-        "score": "2-3",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
