@@ -1,5 +1,5 @@
 {
-  "updated": "11/05/2026 21:57 UTC",
+  "updated": "11/05/2026 22:49 UTC",
   "sports": {
     "bk": [
       {
@@ -44,9 +44,9 @@
         "fecha": "Mon 11 May",
         "local": "Rayo",
         "visita": "Girona",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -62,9 +62,9 @@
         "fecha": "Mon 11 May",
         "local": "Spurs",
         "visita": "Leeds",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
