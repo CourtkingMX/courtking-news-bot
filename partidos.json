@@ -1,5 +1,5 @@
 {
-  "updated": "12/05/2026 03:29 UTC",
+  "updated": "12/05/2026 05:39 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Tue 12 May",
         "local": "Lakers",
         "visita": "Thunder",
-        "score": "26-34",
+        "score": "110-115",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
