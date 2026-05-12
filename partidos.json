@@ -1,5 +1,5 @@
 {
-  "updated": "12/05/2026 11:11 UTC",
+  "updated": "12/05/2026 13:52 UTC",
   "sports": {
     "bk": [
       {
@@ -32,12 +32,30 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 11 May",
-        "local": "Rayo",
-        "visita": "Girona",
-        "score": "1-1",
+        "fecha": "Tue 12 May",
+        "local": "Celta Vigo",
+        "visita": "Levante",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Tue 12 May",
+        "local": "Betis",
+        "visita": "Elche",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Tue 12 May",
+        "local": "Osasuna",
+        "visita": "Atlético",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -50,12 +68,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Mon 11 May",
-        "local": "Spurs",
-        "visita": "Leeds",
-        "score": "1-1",
+        "fecha": "Wed 13 May",
+        "local": "Man City",
+        "visita": "C Palace",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
