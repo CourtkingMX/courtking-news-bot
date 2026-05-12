@@ -1,5 +1,5 @@
 {
-  "updated": "12/05/2026 22:02 UTC",
+  "updated": "12/05/2026 23:49 UTC",
   "sports": {
     "bk": [
       {
@@ -44,9 +44,9 @@
         "fecha": "Tue 12 May",
         "local": "Osasuna",
         "visita": "Atlético",
-        "score": "1-2",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
