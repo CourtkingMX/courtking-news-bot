@@ -1,5 +1,5 @@
 {
-  "updated": "12/05/2026 20:24 UTC",
+  "updated": "12/05/2026 22:02 UTC",
   "sports": {
     "bk": [
       {
@@ -28,25 +28,25 @@
         "visita": "Levante",
         "score": "2-3",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Tue 12 May",
         "local": "Betis",
         "visita": "Elche",
-        "score": "1-0",
+        "score": "2-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Tue 12 May",
         "local": "Osasuna",
         "visita": "Atlético",
-        "score": "",
+        "score": "1-2",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
