@@ -1,23 +1,14 @@
 {
-  "updated": "12/05/2026 13:52 UTC",
+  "updated": "12/05/2026 16:12 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Tue 12 May",
-        "local": "Cavaliers",
-        "visita": "Pistons",
-        "score": "112-103",
+        "fecha": "Wed 13 May",
+        "local": "Spurs",
+        "visita": "Timberwolves",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Tue 12 May",
-        "local": "Lakers",
-        "visita": "Thunder",
-        "score": "110-115",
-        "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
