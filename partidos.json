@@ -1,5 +1,5 @@
 {
-  "updated": "12/05/2026 16:12 UTC",
+  "updated": "12/05/2026 18:00 UTC",
   "sports": {
     "bk": [
       {
@@ -26,9 +26,9 @@
         "fecha": "Tue 12 May",
         "local": "Celta Vigo",
         "visita": "Levante",
-        "score": "",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
