@@ -1,14 +1,14 @@
 {
-  "updated": "13/05/2026 02:04 UTC",
+  "updated": "13/05/2026 03:37 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Wed 13 May",
         "local": "Spurs",
         "visita": "Timberwolves",
-        "score": "91-73",
+        "score": "126-97",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
