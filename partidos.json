@@ -1,14 +1,14 @@
 {
-  "updated": "12/05/2026 23:49 UTC",
+  "updated": "13/05/2026 02:04 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Wed 13 May",
         "local": "Spurs",
         "visita": "Timberwolves",
-        "score": "",
+        "score": "91-73",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -44,9 +44,9 @@
         "fecha": "Tue 12 May",
         "local": "Osasuna",
         "visita": "Atlético",
-        "score": "0-1",
+        "score": "1-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
