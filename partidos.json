@@ -1,5 +1,5 @@
 {
-  "updated": "13/05/2026 21:16 UTC",
+  "updated": "13/05/2026 22:55 UTC",
   "sports": {
     "bk": [
       {
@@ -53,7 +53,7 @@
         "fecha": "Wed 13 May",
         "local": "Getafe",
         "visita": "Mallorca",
-        "score": "2-0",
+        "score": "3-1",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -71,9 +71,9 @@
         "fecha": "Wed 13 May",
         "local": "Man City",
         "visita": "C Palace",
-        "score": "2-0",
+        "score": "3-0",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -89,9 +89,9 @@
         "fecha": "Wed 13 May",
         "local": "Lens",
         "visita": "PSG",
-        "score": "0-1",
+        "score": "0-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
