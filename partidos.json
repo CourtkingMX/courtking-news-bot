@@ -1,5 +1,5 @@
 {
-  "updated": "13/05/2026 18:03 UTC",
+  "updated": "13/05/2026 19:29 UTC",
   "sports": {
     "bk": [
       {
@@ -35,7 +35,7 @@
         "fecha": "Wed 13 May",
         "local": "Villarreal",
         "visita": "Sevilla",
-        "score": "0-0",
+        "score": "2-2",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -80,7 +80,7 @@
         "fecha": "Wed 13 May",
         "local": "Brest",
         "visita": "Strasbourg",
-        "score": "0-0",
+        "score": "1-2",
         "liga": "Ligue 1",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
