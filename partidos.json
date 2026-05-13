@@ -1,5 +1,5 @@
 {
-  "updated": "13/05/2026 11:54 UTC",
+  "updated": "13/05/2026 14:04 UTC",
   "sports": {
     "bk": [
       {
@@ -23,30 +23,39 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Tue 12 May",
-        "local": "Celta Vigo",
-        "visita": "Levante",
-        "score": "2-3",
+        "fecha": "Wed 13 May",
+        "local": "Espanyol",
+        "visita": "Athletic",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Tue 12 May",
-        "local": "Betis",
-        "visita": "Elche",
-        "score": "2-1",
+        "fecha": "Wed 13 May",
+        "local": "Villarreal",
+        "visita": "Sevilla",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Tue 12 May",
-        "local": "Osasuna",
-        "visita": "Atlético",
-        "score": "1-2",
+        "fecha": "Wed 13 May",
+        "local": "Alavés",
+        "visita": "Barcelona",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Wed 13 May",
+        "local": "Getafe",
+        "visita": "Mallorca",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
