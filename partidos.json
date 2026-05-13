@@ -1,5 +1,5 @@
 {
-  "updated": "13/05/2026 19:29 UTC",
+  "updated": "13/05/2026 21:16 UTC",
   "sports": {
     "bk": [
       {
@@ -26,36 +26,36 @@
         "fecha": "Wed 13 May",
         "local": "Espanyol",
         "visita": "Athletic",
-        "score": "0-0",
+        "score": "2-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Wed 13 May",
         "local": "Villarreal",
         "visita": "Sevilla",
-        "score": "2-2",
+        "score": "2-3",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Wed 13 May",
         "local": "Alavés",
         "visita": "Barcelona",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Wed 13 May",
         "local": "Getafe",
         "visita": "Mallorca",
-        "score": "",
+        "score": "2-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -71,9 +71,9 @@
         "fecha": "Wed 13 May",
         "local": "Man City",
         "visita": "C Palace",
-        "score": "",
+        "score": "2-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -82,16 +82,16 @@
         "visita": "Strasbourg",
         "score": "1-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Wed 13 May",
         "local": "Lens",
         "visita": "PSG",
-        "score": "",
+        "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
