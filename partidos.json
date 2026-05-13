@@ -1,14 +1,14 @@
 {
-  "updated": "13/05/2026 14:04 UTC",
+  "updated": "13/05/2026 17:07 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Wed 13 May",
-        "local": "Spurs",
-        "visita": "Timberwolves",
-        "score": "126-97",
+        "fecha": "Thu 14 May",
+        "local": "Pistons",
+        "visita": "Cavaliers",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -26,18 +26,18 @@
         "fecha": "Wed 13 May",
         "local": "Espanyol",
         "visita": "Athletic",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Wed 13 May",
         "local": "Villarreal",
         "visita": "Sevilla",
-        "score": "",
+        "score": "0-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -80,9 +80,9 @@
         "fecha": "Wed 13 May",
         "local": "Brest",
         "visita": "Strasbourg",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
