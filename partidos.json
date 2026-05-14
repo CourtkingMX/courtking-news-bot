@@ -1,5 +1,5 @@
 {
-  "updated": "14/05/2026 10:20 UTC",
+  "updated": "14/05/2026 11:43 UTC",
   "sports": {
     "bk": [
       {
@@ -14,48 +14,39 @@
     ],
     "fx": [
       {
-        "fecha": "Thu 14 May",
-        "local": "Cruz Azul",
-        "visita": "Guadalajara",
-        "score": "2-2",
+        "fecha": "Fri 15 May",
+        "local": "Pachuca",
+        "visita": "UNAM",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Wed 13 May",
-        "local": "Espanyol",
-        "visita": "Athletic",
-        "score": "2-0",
+        "fecha": "Thu 14 May",
+        "local": "Valencia",
+        "visita": "Rayo",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Wed 13 May",
-        "local": "Villarreal",
-        "visita": "Sevilla",
-        "score": "2-3",
+        "fecha": "Thu 14 May",
+        "local": "Girona",
+        "visita": "Real Sociedad",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Wed 13 May",
-        "local": "Alavés",
-        "visita": "Barcelona",
-        "score": "1-0",
+        "fecha": "Thu 14 May",
+        "local": "Real Madrid",
+        "visita": "Real Oviedo",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Wed 13 May",
-        "local": "Getafe",
-        "visita": "Mallorca",
-        "score": "3-1",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -68,30 +59,66 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Wed 13 May",
-        "local": "Man City",
-        "visita": "C Palace",
-        "score": "3-0",
+        "fecha": "Fri 15 May",
+        "local": "Aston Villa",
+        "visita": "Liverpool",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Wed 13 May",
+        "fecha": "Sun 17 May",
         "local": "Brest",
-        "visita": "Strasbourg",
-        "score": "1-2",
+        "visita": "Angers",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Wed 13 May",
-        "local": "Lens",
-        "visita": "PSG",
-        "score": "0-2",
+        "fecha": "Sun 17 May",
+        "local": "Lille",
+        "visita": "Auxerre",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Lorient",
+        "visita": "Le Havre AC",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Lyon",
+        "visita": "Lens",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Marseille",
+        "visita": "Rennes",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Nantes",
+        "visita": "Toulouse",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
