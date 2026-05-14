@@ -1,5 +1,5 @@
 {
-  "updated": "14/05/2026 17:52 UTC",
+  "updated": "14/05/2026 18:28 UTC",
   "sports": {
     "bk": [
       {
@@ -35,9 +35,9 @@
         "fecha": "Thu 14 May",
         "local": "Valencia",
         "visita": "Rayo",
-        "score": "1-1",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
