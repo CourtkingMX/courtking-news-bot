@@ -1,5 +1,5 @@
 {
-  "updated": "14/05/2026 20:22 UTC",
+  "updated": "14/05/2026 21:59 UTC",
   "sports": {
     "bk": [
       {
@@ -37,25 +37,25 @@
         "visita": "Rayo",
         "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Thu 14 May",
         "local": "Girona",
         "visita": "Real Sociedad",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Thu 14 May",
         "local": "Real Madrid",
         "visita": "Real Oviedo",
-        "score": "",
+        "score": "2-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
