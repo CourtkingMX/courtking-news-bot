@@ -1,5 +1,5 @@
 {
-  "updated": "14/05/2026 22:59 UTC",
+  "updated": "14/05/2026 23:57 UTC",
   "sports": {
     "bk": [
       {
@@ -53,9 +53,9 @@
         "fecha": "Thu 14 May",
         "local": "Real Madrid",
         "visita": "Real Oviedo",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
