@@ -1,5 +1,5 @@
 {
-  "updated": "14/05/2026 03:36 UTC",
+  "updated": "14/05/2026 06:14 UTC",
   "sports": {
     "bk": [
       {
@@ -17,7 +17,7 @@
         "fecha": "Thu 14 May",
         "local": "Cruz Azul",
         "visita": "Guadalajara",
-        "score": "0-0",
+        "score": "2-2",
         "liga": "Liga MX",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
