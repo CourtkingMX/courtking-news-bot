@@ -1,5 +1,5 @@
 {
-  "updated": "15/05/2026 19:15 UTC",
+  "updated": "15/05/2026 20:50 UTC",
   "sports": {
     "bk": [
       {
@@ -116,9 +116,9 @@
         "fecha": "Fri 15 May",
         "local": "Aston Villa",
         "visita": "Liverpool",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
