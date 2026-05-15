@@ -1,5 +1,5 @@
 {
-  "updated": "15/05/2026 10:25 UTC",
+  "updated": "15/05/2026 11:46 UTC",
   "sports": {
     "bk": [
       {
@@ -32,30 +32,75 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Thu 14 May",
-        "local": "Valencia",
-        "visita": "Rayo",
-        "score": "1-1",
+        "fecha": "Sun 17 May",
+        "local": "Athletic",
+        "visita": "Celta Vigo",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Thu 14 May",
-        "local": "Girona",
-        "visita": "Real Sociedad",
-        "score": "1-1",
+        "fecha": "Sun 17 May",
+        "local": "Atlético",
+        "visita": "Girona",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Thu 14 May",
-        "local": "Real Madrid",
-        "visita": "Real Oviedo",
-        "score": "2-0",
+        "fecha": "Sun 17 May",
+        "local": "Elche",
+        "visita": "Getafe",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Levante",
+        "visita": "Mallorca",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Osasuna",
+        "visita": "Espanyol",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Rayo",
+        "visita": "Villarreal",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Real Oviedo",
+        "visita": "Alavés",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Real Sociedad",
+        "visita": "Valencia",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
