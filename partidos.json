@@ -1,5 +1,5 @@
 {
-  "updated": "15/05/2026 09:37 UTC",
+  "updated": "15/05/2026 10:25 UTC",
   "sports": {
     "bk": [
       {
@@ -23,12 +23,12 @@
     ],
     "fx": [
       {
-        "fecha": "Fri 15 May",
-        "local": "Pachuca",
-        "visita": "UNAM",
-        "score": "1-0",
+        "fecha": "Sun 17 May",
+        "local": "Guadalajara",
+        "visita": "Cruz Azul",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
