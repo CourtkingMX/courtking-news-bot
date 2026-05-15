@@ -1,14 +1,14 @@
 {
-  "updated": "15/05/2026 22:43 UTC",
+  "updated": "15/05/2026 23:44 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Fri 15 May",
         "local": "Cavaliers",
         "visita": "Pistons",
-        "score": "",
+        "score": "25-27",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       },
       {
@@ -116,9 +116,9 @@
         "fecha": "Fri 15 May",
         "local": "Aston Villa",
         "visita": "Liverpool",
-        "score": "4-2",
+        "score": "4-1",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
