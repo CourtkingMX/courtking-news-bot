@@ -1,5 +1,5 @@
 {
-  "updated": "16/05/2026 09:20 UTC",
+  "updated": "16/05/2026 09:42 UTC",
   "sports": {
     "bk": [
       {
@@ -113,12 +113,57 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Fri 15 May",
-        "local": "Aston Villa",
-        "visita": "Liverpool",
-        "score": "4-2",
+        "fecha": "Sun 17 May",
+        "local": "Man United",
+        "visita": "Nottm Forest",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Brentford",
+        "visita": "C Palace",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Everton",
+        "visita": "Sunderland",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Leeds",
+        "visita": "Brighton",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Wolves",
+        "visita": "Fulham",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 17 May",
+        "local": "Newcastle",
+        "visita": "West Ham",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
