@@ -1,5 +1,5 @@
 {
-  "updated": "16/05/2026 03:24 UTC",
+  "updated": "16/05/2026 05:24 UTC",
   "sports": {
     "bk": [
       {
@@ -15,9 +15,9 @@
         "fecha": "Sat 16 May",
         "local": "Timberwolves",
         "visita": "Spurs",
-        "score": "65-82",
+        "score": "109-139",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
