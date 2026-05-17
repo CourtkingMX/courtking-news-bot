@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 19:59 UTC",
+  "updated": "17/05/2026 20:55 UTC",
   "sports": {
     "bk": [
       {
@@ -28,7 +28,7 @@
         "visita": "Celta Vigo",
         "score": "1-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -37,7 +37,7 @@
         "visita": "Girona",
         "score": "1-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -46,7 +46,7 @@
         "visita": "Getafe",
         "score": "1-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -55,7 +55,7 @@
         "visita": "Mallorca",
         "score": "2-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -64,7 +64,7 @@
         "visita": "Espanyol",
         "score": "1-2",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -73,7 +73,7 @@
         "visita": "Villarreal",
         "score": "2-0",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -82,16 +82,16 @@
         "visita": "Alavés",
         "score": "0-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Real Sociedad",
         "visita": "Valencia",
-        "score": "3-3",
+        "score": "3-4",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -161,54 +161,54 @@
         "fecha": "Sun 17 May",
         "local": "Brest",
         "visita": "Angers",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Lille",
         "visita": "Auxerre",
-        "score": "",
+        "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Lorient",
         "visita": "Le Havre AC",
-        "score": "",
+        "score": "0-1",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Lyon",
         "visita": "Lens",
-        "score": "",
+        "score": "0-3",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Marseille",
         "visita": "Rennes",
-        "score": "",
+        "score": "2-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Nantes",
         "visita": "Toulouse",
-        "score": "",
+        "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
