@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 20:55 UTC",
+  "updated": "17/05/2026 21:44 UTC",
   "sports": {
     "bk": [
       {
@@ -161,45 +161,45 @@
         "fecha": "Sun 17 May",
         "local": "Brest",
         "visita": "Angers",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Lille",
         "visita": "Auxerre",
-        "score": "0-1",
+        "score": "0-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Lorient",
         "visita": "Le Havre AC",
-        "score": "0-1",
+        "score": "0-2",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Lyon",
         "visita": "Lens",
-        "score": "0-3",
+        "score": "0-4",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Marseille",
         "visita": "Rennes",
-        "score": "2-0",
+        "score": "3-1",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -208,7 +208,7 @@
         "visita": "Toulouse",
         "score": "0-0",
         "liga": "Ligue 1",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
