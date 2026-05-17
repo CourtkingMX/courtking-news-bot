@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 09:47 UTC",
+  "updated": "17/05/2026 10:17 UTC",
   "sports": {
     "bk": [
       {
@@ -14,12 +14,12 @@
     ],
     "fx": [
       {
-        "fecha": "Sun 17 May",
-        "local": "Guadalajara",
-        "visita": "Cruz Azul",
-        "score": "1-2",
+        "fecha": "Mon 18 May",
+        "local": "UNAM",
+        "visita": "Pachuca",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -215,45 +215,45 @@
         "fecha": "Sun 17 May",
         "local": "AS Roma",
         "visita": "Lazio",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Como",
         "visita": "Parma",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Genoa",
         "visita": "Milan",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Juventus",
         "visita": "Fiorentina",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Pisa",
         "visita": "Napoli",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
