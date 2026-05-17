@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 16:58 UTC",
+  "updated": "17/05/2026 17:48 UTC",
   "sports": {
     "bk": [
       {
@@ -152,7 +152,7 @@
         "fecha": "Sun 17 May",
         "local": "Newcastle",
         "visita": "West Ham",
-        "score": "0-0",
+        "score": "2-0",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
