@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 21:44 UTC",
+  "updated": "17/05/2026 22:42 UTC",
   "sports": {
     "bk": [
       {
@@ -181,7 +181,7 @@
         "visita": "Le Havre AC",
         "score": "0-2",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
@@ -199,7 +199,7 @@
         "visita": "Rennes",
         "score": "3-1",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
