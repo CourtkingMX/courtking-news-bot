@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 17:48 UTC",
+  "updated": "17/05/2026 18:52 UTC",
   "sports": {
     "bk": [
       {
@@ -26,72 +26,72 @@
         "fecha": "Sun 17 May",
         "local": "Athletic",
         "visita": "Celta Vigo",
-        "score": "",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Atlético",
         "visita": "Girona",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Elche",
         "visita": "Getafe",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Levante",
         "visita": "Mallorca",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Osasuna",
         "visita": "Espanyol",
-        "score": "",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Rayo",
         "visita": "Villarreal",
-        "score": "",
+        "score": "1-0",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Real Oviedo",
         "visita": "Alavés",
-        "score": "",
+        "score": "0-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Real Sociedad",
         "visita": "Valencia",
-        "score": "",
+        "score": "1-2",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
