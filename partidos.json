@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 10:17 UTC",
+  "updated": "17/05/2026 11:53 UTC",
   "sports": {
     "bk": [
       {
@@ -215,7 +215,7 @@
         "fecha": "Sun 17 May",
         "local": "AS Roma",
         "visita": "Lazio",
-        "score": "0-0",
+        "score": "2-0",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
@@ -224,7 +224,7 @@
         "fecha": "Sun 17 May",
         "local": "Como",
         "visita": "Parma",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
@@ -233,7 +233,7 @@
         "fecha": "Sun 17 May",
         "local": "Genoa",
         "visita": "Milan",
-        "score": "0-0",
+        "score": "0-2",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
@@ -242,7 +242,7 @@
         "fecha": "Sun 17 May",
         "local": "Juventus",
         "visita": "Fiorentina",
-        "score": "0-0",
+        "score": "0-2",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
@@ -251,7 +251,7 @@
         "fecha": "Sun 17 May",
         "local": "Pisa",
         "visita": "Napoli",
-        "score": "0-0",
+        "score": "0-2",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
