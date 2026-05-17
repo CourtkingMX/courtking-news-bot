@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 14:21 UTC",
+  "updated": "17/05/2026 15:49 UTC",
   "sports": {
     "bk": [
       {
@@ -14,12 +14,12 @@
     ],
     "fx": [
       {
-        "fecha": "Sun 17 May",
-        "local": "Guadalajara",
-        "visita": "Cruz Azul",
-        "score": "1-2",
+        "fecha": "Mon 18 May",
+        "local": "UNAM",
+        "visita": "Pachuca",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -107,7 +107,7 @@
         "fecha": "Sun 17 May",
         "local": "Man United",
         "visita": "Nottm Forest",
-        "score": "1-0",
+        "score": "2-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -260,9 +260,9 @@
         "fecha": "Sun 17 May",
         "local": "Inter Milan",
         "visita": "Verona",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
