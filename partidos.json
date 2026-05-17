@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 15:49 UTC",
+  "updated": "17/05/2026 16:44 UTC",
   "sports": {
     "bk": [
       {
@@ -107,45 +107,45 @@
         "fecha": "Sun 17 May",
         "local": "Man United",
         "visita": "Nottm Forest",
-        "score": "2-1",
+        "score": "3-2",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Brentford",
         "visita": "C Palace",
-        "score": "",
+        "score": "2-2",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Everton",
         "visita": "Sunderland",
-        "score": "",
+        "score": "1-2",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Leeds",
         "visita": "Brighton",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 17 May",
         "local": "Wolves",
         "visita": "Fulham",
-        "score": "",
+        "score": "1-1",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
