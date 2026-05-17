@@ -1,5 +1,5 @@
 {
-  "updated": "17/05/2026 18:52 UTC",
+  "updated": "17/05/2026 19:59 UTC",
   "sports": {
     "bk": [
       {
@@ -26,7 +26,7 @@
         "fecha": "Sun 17 May",
         "local": "Athletic",
         "visita": "Celta Vigo",
-        "score": "0-1",
+        "score": "1-1",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -53,7 +53,7 @@
         "fecha": "Sun 17 May",
         "local": "Levante",
         "visita": "Mallorca",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -62,7 +62,7 @@
         "fecha": "Sun 17 May",
         "local": "Osasuna",
         "visita": "Espanyol",
-        "score": "0-1",
+        "score": "1-2",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -71,7 +71,7 @@
         "fecha": "Sun 17 May",
         "local": "Rayo",
         "visita": "Villarreal",
-        "score": "1-0",
+        "score": "2-0",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -89,7 +89,7 @@
         "fecha": "Sun 17 May",
         "local": "Real Sociedad",
         "visita": "Valencia",
-        "score": "1-2",
+        "score": "3-3",
         "liga": "LaLiga",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
@@ -152,9 +152,9 @@
         "fecha": "Sun 17 May",
         "local": "Newcastle",
         "visita": "West Ham",
-        "score": "2-0",
+        "score": "3-1",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
