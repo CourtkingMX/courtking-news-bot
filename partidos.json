@@ -1,14 +1,14 @@
 {
-  "updated": "18/05/2026 14:26 UTC",
+  "updated": "18/05/2026 17:24 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Mon 18 May",
-        "local": "Pistons",
-        "visita": "Cavaliers",
-        "score": "94-125",
+        "fecha": "Tue 19 May",
+        "local": "Thunder",
+        "visita": "Spurs",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -104,57 +104,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Sun 17 May",
-        "local": "Man United",
-        "visita": "Nottm Forest",
-        "score": "3-2",
+        "fecha": "Mon 18 May",
+        "local": "Arsenal",
+        "visita": "Burnley",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Brentford",
-        "visita": "C Palace",
-        "score": "2-2",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Everton",
-        "visita": "Sunderland",
-        "score": "1-3",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Leeds",
-        "visita": "Brighton",
-        "score": "1-0",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Wolves",
-        "visita": "Fulham",
-        "score": "1-1",
-        "liga": "Premier League",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Newcastle",
-        "visita": "West Ham",
-        "score": "3-1",
-        "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
