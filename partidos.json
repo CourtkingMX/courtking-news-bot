@@ -1,5 +1,5 @@
 {
-  "updated": "18/05/2026 19:23 UTC",
+  "updated": "18/05/2026 21:01 UTC",
   "sports": {
     "bk": [
       {
@@ -107,9 +107,9 @@
         "fecha": "Mon 18 May",
         "local": "Arsenal",
         "visita": "Burnley",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
