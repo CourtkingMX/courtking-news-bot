@@ -1,5 +1,5 @@
 {
-  "updated": "19/05/2026 03:45 UTC",
+  "updated": "19/05/2026 06:39 UTC",
   "sports": {
     "bk": [
       {
@@ -167,57 +167,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 17 May",
-        "local": "AS Roma",
-        "visita": "Lazio",
-        "score": "2-0",
+        "fecha": "Fri 22 May",
+        "local": "Fiorentina",
+        "visita": "Atalanta",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Como",
-        "visita": "Parma",
-        "score": "1-0",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Genoa",
-        "visita": "Milan",
-        "score": "1-2",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Juventus",
-        "visita": "Fiorentina",
-        "score": "0-2",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Pisa",
-        "visita": "Napoli",
-        "score": "0-3",
-        "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Inter Milan",
-        "visita": "Verona",
-        "score": "1-1",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
