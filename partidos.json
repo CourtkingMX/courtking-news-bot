@@ -1,5 +1,5 @@
 {
-  "updated": "19/05/2026 20:23 UTC",
+  "updated": "19/05/2026 22:05 UTC",
   "sports": {
     "bk": [
       {
@@ -107,7 +107,7 @@
         "fecha": "Tue 19 May",
         "local": "Bournemouth",
         "visita": "Man City",
-        "score": "0-0",
+        "score": "1-1",
         "liga": "Premier League",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
@@ -116,9 +116,9 @@
         "fecha": "Tue 19 May",
         "local": "Chelsea",
         "visita": "Spurs",
-        "score": "",
+        "score": "1-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
