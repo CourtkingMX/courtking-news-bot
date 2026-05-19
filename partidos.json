@@ -1,5 +1,5 @@
 {
-  "updated": "19/05/2026 10:31 UTC",
+  "updated": "19/05/2026 11:20 UTC",
   "sports": {
     "bk": [
       {
@@ -104,12 +104,21 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Mon 18 May",
-        "local": "Arsenal",
-        "visita": "Burnley",
-        "score": "1-0",
+        "fecha": "Tue 19 May",
+        "local": "Bournemouth",
+        "visita": "Man City",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Tue 19 May",
+        "local": "Chelsea",
+        "visita": "Spurs",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
