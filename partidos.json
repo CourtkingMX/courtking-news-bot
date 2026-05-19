@@ -1,5 +1,5 @@
 {
-  "updated": "19/05/2026 18:52 UTC",
+  "updated": "19/05/2026 20:23 UTC",
   "sports": {
     "bk": [
       {
@@ -107,9 +107,9 @@
         "fecha": "Tue 19 May",
         "local": "Bournemouth",
         "visita": "Man City",
-        "score": "",
+        "score": "0-0",
         "liga": "Premier League",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
