@@ -1,14 +1,14 @@
 {
-  "updated": "18/05/2026 23:55 UTC",
+  "updated": "19/05/2026 02:14 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Tue 19 May",
         "local": "Thunder",
         "visita": "Spurs",
-        "score": "",
+        "score": "65-70",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
