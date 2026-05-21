@@ -1,5 +1,5 @@
 {
-  "updated": "21/05/2026 06:41 UTC",
+  "updated": "21/05/2026 10:30 UTC",
   "sports": {
     "bk": [
       {
@@ -104,21 +104,75 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
-        "fecha": "Tue 19 May",
-        "local": "Bournemouth",
-        "visita": "Man City",
-        "score": "1-1",
+        "fecha": "Sun 24 May",
+        "local": "Brighton",
+        "visita": "Man United",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Tue 19 May",
-        "local": "Chelsea",
-        "visita": "Spurs",
-        "score": "2-1",
+        "fecha": "Sun 24 May",
+        "local": "Burnley",
+        "visita": "Wolves",
+        "score": "",
         "liga": "Premier League",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "C Palace",
+        "visita": "Arsenal",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "Fulham",
+        "visita": "Newcastle",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "Liverpool",
+        "visita": "Brentford",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "Man City",
+        "visita": "Aston Villa",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "Nottm Forest",
+        "visita": "Bournemouth",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "Sunderland",
+        "visita": "Chelsea",
+        "score": "",
+        "liga": "Premier League",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
