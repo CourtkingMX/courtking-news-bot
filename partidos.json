@@ -1,14 +1,14 @@
 {
-  "updated": "22/05/2026 02:12 UTC",
+  "updated": "22/05/2026 03:52 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Fri 22 May",
         "local": "Knicks",
         "visita": "Cavaliers",
-        "score": "88-78",
+        "score": "109-93",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -17,9 +17,9 @@
         "fecha": "Fri 22 May",
         "local": "Cruz Azul",
         "visita": "UNAM",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
