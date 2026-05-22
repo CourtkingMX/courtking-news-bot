@@ -1,5 +1,5 @@
 {
-  "updated": "22/05/2026 18:27 UTC",
+  "updated": "22/05/2026 20:27 UTC",
   "sports": {
     "bk": [
       {
@@ -233,9 +233,9 @@
         "fecha": "Fri 22 May",
         "local": "Fiorentina",
         "visita": "Atalanta",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
