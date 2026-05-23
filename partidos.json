@@ -1,5 +1,5 @@
 {
-  "updated": "23/05/2026 17:53 UTC",
+  "updated": "23/05/2026 18:53 UTC",
   "sports": {
     "bk": [
       {
@@ -235,16 +235,16 @@
         "visita": "Inter Milan",
         "score": "3-3",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sat 23 May",
         "local": "Lazio",
         "visita": "Pisa",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
