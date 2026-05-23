@@ -1,5 +1,5 @@
 {
-  "updated": "23/05/2026 17:01 UTC",
+  "updated": "23/05/2026 17:53 UTC",
   "sports": {
     "bk": [
       {
@@ -233,7 +233,7 @@
         "fecha": "Sat 23 May",
         "local": "Bologna",
         "visita": "Inter Milan",
-        "score": "2-1",
+        "score": "3-3",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
