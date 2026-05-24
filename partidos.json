@@ -1,14 +1,14 @@
 {
-  "updated": "24/05/2026 14:22 UTC",
+  "updated": "24/05/2026 15:54 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Sun 24 May",
-        "local": "Cavaliers",
-        "visita": "Knicks",
-        "score": "108-121",
+        "fecha": "Mon 25 May",
+        "local": "Spurs",
+        "visita": "Thunder",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -170,9 +170,9 @@
         "fecha": "Sun 24 May",
         "local": "Parma",
         "visita": "Sassuolo",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
