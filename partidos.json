@@ -1,5 +1,5 @@
 {
-  "updated": "24/05/2026 12:58 UTC",
+  "updated": "24/05/2026 14:22 UTC",
   "sports": {
     "bk": [
       {
@@ -170,9 +170,9 @@
         "fecha": "Sun 24 May",
         "local": "Parma",
         "visita": "Sassuolo",
-        "score": "",
+        "score": "0-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
