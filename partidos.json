@@ -1,5 +1,5 @@
 {
-  "updated": "24/05/2026 18:59 UTC",
+  "updated": "24/05/2026 20:07 UTC",
   "sports": {
     "bk": [
       {
@@ -188,7 +188,7 @@
         "fecha": "Sun 24 May",
         "local": "Milan",
         "visita": "Cagliari",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
@@ -197,7 +197,7 @@
         "fecha": "Sun 24 May",
         "local": "Cremonese",
         "visita": "Como",
-        "score": "0-0",
+        "score": "0-1",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
@@ -215,7 +215,7 @@
         "fecha": "Sun 24 May",
         "local": "Lecce",
         "visita": "Genoa",
-        "score": "0-0",
+        "score": "1-0",
         "liga": "Serie A",
         "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
