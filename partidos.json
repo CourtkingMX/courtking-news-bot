@@ -1,5 +1,5 @@
 {
-  "updated": "24/05/2026 11:06 UTC",
+  "updated": "24/05/2026 12:58 UTC",
   "sports": {
     "bk": [
       {
@@ -23,75 +23,12 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sat 23 May",
-        "local": "Alavés",
-        "visita": "Rayo",
-        "score": "1-2",
+        "fecha": "Sun 24 May",
+        "local": "Villarreal",
+        "visita": "Atlético",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sat 23 May",
-        "local": "Celta Vigo",
-        "visita": "Sevilla",
-        "score": "1-0",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sat 23 May",
-        "local": "Espanyol",
-        "visita": "Real Sociedad",
-        "score": "1-1",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sat 23 May",
-        "local": "Getafe",
-        "visita": "Osasuna",
-        "score": "1-0",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sat 23 May",
-        "local": "Girona",
-        "visita": "Elche",
-        "score": "1-1",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sat 23 May",
-        "local": "Mallorca",
-        "visita": "Real Oviedo",
-        "score": "3-0",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sat 23 May",
-        "local": "Betis",
-        "visita": "Levante",
-        "score": "2-1",
-        "liga": "LaLiga",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sat 23 May",
-        "local": "Real Madrid",
-        "visita": "Athletic",
-        "score": "4-2",
-        "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
