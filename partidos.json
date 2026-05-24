@@ -1,5 +1,5 @@
 {
-  "updated": "24/05/2026 16:51 UTC",
+  "updated": "24/05/2026 17:04 UTC",
   "sports": {
     "bk": [
       {
@@ -44,72 +44,72 @@
         "fecha": "Sun 24 May",
         "local": "Brighton",
         "visita": "Man United",
-        "score": "0-2",
+        "score": "",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 24 May",
         "local": "Burnley",
         "visita": "Wolves",
-        "score": "0-1",
+        "score": "",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 24 May",
         "local": "C Palace",
         "visita": "Arsenal",
-        "score": "0-1",
+        "score": "",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 24 May",
         "local": "Fulham",
         "visita": "Newcastle",
-        "score": "1-0",
+        "score": "",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 24 May",
         "local": "Liverpool",
         "visita": "Brentford",
-        "score": "0-0",
+        "score": "",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 24 May",
         "local": "Man City",
         "visita": "Aston Villa",
-        "score": "1-0",
+        "score": "",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 24 May",
         "local": "Nottm Forest",
         "visita": "Bournemouth",
-        "score": "1-0",
+        "score": "",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
         "fecha": "Sun 24 May",
         "local": "Sunderland",
         "visita": "Chelsea",
-        "score": "1-0",
+        "score": "",
         "liga": "Premier League",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
@@ -179,9 +179,9 @@
         "fecha": "Sun 24 May",
         "local": "Napoli",
         "visita": "Udinese",
-        "score": "",
+        "score": "1-0",
         "liga": "Serie A",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
