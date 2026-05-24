@@ -1,5 +1,5 @@
 {
-  "updated": "24/05/2026 09:13 UTC",
+  "updated": "24/05/2026 09:56 UTC",
   "sports": {
     "bk": [
       {
@@ -230,21 +230,57 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sat 23 May",
-        "local": "Bologna",
-        "visita": "Inter Milan",
-        "score": "3-3",
+        "fecha": "Sun 24 May",
+        "local": "Parma",
+        "visita": "Sassuolo",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sat 23 May",
-        "local": "Lazio",
-        "visita": "Pisa",
-        "score": "2-1",
+        "fecha": "Sun 24 May",
+        "local": "Napoli",
+        "visita": "Udinese",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "Milan",
+        "visita": "Cagliari",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "Cremonese",
+        "visita": "Como",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "Verona",
+        "visita": "AS Roma",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 24 May",
+        "local": "Lecce",
+        "visita": "Genoa",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
