@@ -1,5 +1,5 @@
 {
-  "updated": "24/05/2026 20:07 UTC",
+  "updated": "24/05/2026 21:44 UTC",
   "sports": {
     "bk": [
       {
@@ -26,9 +26,9 @@
         "fecha": "Sun 24 May",
         "local": "Villarreal",
         "visita": "Atlético",
-        "score": "",
+        "score": "5-1",
         "liga": "LaLiga",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
@@ -188,27 +188,27 @@
         "fecha": "Sun 24 May",
         "local": "Milan",
         "visita": "Cagliari",
-        "score": "1-1",
+        "score": "1-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sun 24 May",
         "local": "Cremonese",
         "visita": "Como",
-        "score": "0-1",
+        "score": "1-4",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
         "fecha": "Sun 24 May",
         "local": "Verona",
         "visita": "AS Roma",
-        "score": "0-0",
+        "score": "0-2",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
@@ -217,7 +217,7 @@
         "visita": "Genoa",
         "score": "1-0",
         "liga": "Serie A",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
