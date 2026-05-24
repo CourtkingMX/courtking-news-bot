@@ -1,5 +1,5 @@
 {
-  "updated": "24/05/2026 22:45 UTC",
+  "updated": "24/05/2026 23:50 UTC",
   "sports": {
     "bk": [
       {
@@ -26,9 +26,9 @@
         "fecha": "Sun 24 May",
         "local": "Villarreal",
         "visita": "Atlético",
-        "score": "4-1",
+        "score": "5-1",
         "liga": "LaLiga",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
