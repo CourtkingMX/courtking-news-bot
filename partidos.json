@@ -1,14 +1,14 @@
 {
-  "updated": "25/05/2026 02:27 UTC",
+  "updated": "25/05/2026 04:01 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Mon 25 May",
         "local": "Spurs",
         "visita": "Thunder",
-        "score": "86-66",
+        "score": "103-82",
         "liga": "NBA",
-        "estado": "live",
+        "estado": "post",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
@@ -17,9 +17,9 @@
         "fecha": "Mon 25 May",
         "local": "UNAM",
         "visita": "Cruz Azul",
-        "score": "",
+        "score": "1-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
