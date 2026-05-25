@@ -1,5 +1,5 @@
 {
-  "updated": "25/05/2026 04:01 UTC",
+  "updated": "25/05/2026 07:01 UTC",
   "sports": {
     "bk": [
       {
@@ -17,9 +17,9 @@
         "fecha": "Mon 25 May",
         "local": "UNAM",
         "visita": "Cruz Azul",
-        "score": "1-0",
+        "score": "1-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
