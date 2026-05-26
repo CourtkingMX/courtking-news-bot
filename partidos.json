@@ -1,14 +1,14 @@
 {
-  "updated": "26/05/2026 13:46 UTC",
+  "updated": "26/05/2026 17:19 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Tue 26 May",
-        "local": "Cavaliers",
-        "visita": "Knicks",
-        "score": "93-130",
+        "fecha": "Wed 27 May",
+        "local": "Thunder",
+        "visita": "Spurs",
+        "score": "",
         "liga": "NBA",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
