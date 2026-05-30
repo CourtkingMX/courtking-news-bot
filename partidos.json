@@ -1,5 +1,5 @@
 {
-  "updated": "30/05/2026 17:08 UTC",
+  "updated": "30/05/2026 17:56 UTC",
   "sports": {
     "bk": [
       {
@@ -35,9 +35,9 @@
         "fecha": "Sat 30 May",
         "local": "PSG",
         "visita": "Arsenal",
-        "score": "",
+        "score": "0-1",
         "liga": "Champions",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
