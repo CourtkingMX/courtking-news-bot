@@ -1,5 +1,5 @@
 {
-  "updated": "30/05/2026 20:43 UTC",
+  "updated": "30/05/2026 21:50 UTC",
   "sports": {
     "bk": [
       {
@@ -37,7 +37,7 @@
         "visita": "Arsenal",
         "score": "1-1",
         "liga": "Champions",
-        "estado": "post",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions"
       },
       {
