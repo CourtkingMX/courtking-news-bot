@@ -1,5 +1,5 @@
 {
-  "updated": "03/06/2026 04:20 UTC",
+  "updated": "03/06/2026 12:42 UTC",
   "sports": {
     "bk": [
       {
@@ -61,6 +61,20 @@
     ],
     "pd": [
       {
+        "vid": "9SgCD48ERUE",
+        "title": "Insane behind-the-back return by Augsburger in the Italy Major",
+        "thumb": "https://i.ytimg.com/vi/9SgCD48ERUE/mqdefault.jpg",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=9SgCD48ERUE"
+      },
+      {
+        "vid": "S7Kcob5ruBM",
+        "title": "BNL Italy Premier Padel Major 🇮🇹: Court 5",
+        "thumb": "https://i.ytimg.com/vi/S7Kcob5ruBM/mqdefault_live.jpg",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=S7Kcob5ruBM"
+      },
+      {
         "vid": "47VZC3iPHV8",
         "title": "BNL Italy Premier Padel Major 🇮🇹🎾: Day 1 - Women&#39;s Highlights",
         "thumb": "https://i.ytimg.com/vi/47VZC3iPHV8/mqdefault.jpg",
@@ -80,23 +94,23 @@
         "thumb": "https://i.ytimg.com/vi/SZUOPSdhb1w/mqdefault_live.jpg",
         "date": "2026-06-02",
         "url": "https://www.youtube.com/watch?v=SZUOPSdhb1w"
-      },
-      {
-        "vid": "eypotHbVEHA",
-        "title": "BNL Italy Premier Padel Major 🇮🇹: Pietrangeli 1(🇪🇸)",
-        "thumb": "https://i.ytimg.com/vi/eypotHbVEHA/mqdefault_live.jpg",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=eypotHbVEHA"
-      },
-      {
-        "vid": "nZhETJ6BlHA",
-        "title": "BNL Italy Premier Padel Major 🇮🇹: Pietrangeli 1(🇬🇧)",
-        "thumb": "https://i.ytimg.com/vi/nZhETJ6BlHA/mqdefault_live.jpg",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=nZhETJ6BlHA"
       }
     ],
     "fx": [
+      {
+        "vid": "xAB67xgII9g",
+        "title": "TODOS los GOLES y ASISTENCIAS de JULIÁN ALVAREZ en LALIGA 🕷️",
+        "thumb": "https://i.ytimg.com/vi/xAB67xgII9g/mqdefault.jpg",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=xAB67xgII9g"
+      },
+      {
+        "vid": "txtNPcmwoRA",
+        "title": "Volveremos a ver a Hugo Galdeano en LALIGAFCFUTURES 🪄",
+        "thumb": "https://i.ytimg.com/vi/txtNPcmwoRA/mqdefault.jpg",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=txtNPcmwoRA"
+      },
       {
         "vid": "cAEWrBHcRtE",
         "title": "Gonzalo García y un momento para recordar 😮‍💨⚽",
@@ -119,18 +133,11 @@
         "url": "https://www.youtube.com/watch?v=XgV9vjauNpI"
       },
       {
-        "vid": "YEBTLTkstMc",
-        "title": "MBAPPÉ x #LALIGASEASONRECAP26 😮‍💨",
-        "thumb": "https://i.ytimg.com/vi/YEBTLTkstMc/mqdefault.jpg",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=YEBTLTkstMc"
-      },
-      {
-        "vid": "buDQUzX3e2c",
-        "title": "Un GOL INCREÍBLE en cada ESTADIO en LALIGA 2025/26 🏟️",
-        "thumb": "https://i.ytimg.com/vi/buDQUzX3e2c/mqdefault.jpg",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=buDQUzX3e2c"
+        "vid": "19x4HQITiIk",
+        "title": "Arda Güler: Revelation of the Season 2025/26 🏆🇹🇷",
+        "thumb": "https://i.ytimg.com/vi/19x4HQITiIk/mqdefault.jpg",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=19x4HQITiIk"
       },
       {
         "vid": "JlYpBsSQpOc",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/vohTx8SVKbc/mqdefault.jpg",
         "date": "2026-06-02",
         "url": "https://www.youtube.com/watch?v=vohTx8SVKbc"
-      },
-      {
-        "vid": "R-SDmYgcX_A",
-        "title": "These Top 10 Goals Of The Season Will Leave You Shocked! 😱",
-        "thumb": "https://i.ytimg.com/vi/R-SDmYgcX_A/mqdefault.jpg",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=R-SDmYgcX_A"
       }
     ]
   }
