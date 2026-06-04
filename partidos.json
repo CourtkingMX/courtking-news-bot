@@ -1,14 +1,14 @@
 {
-  "updated": "03/06/2026 23:25 UTC",
+  "updated": "04/06/2026 02:38 UTC",
   "sports": {
     "bk": [
       {
         "fecha": "Thu 04 Jun",
         "local": "Spurs",
         "visita": "Knicks",
-        "score": "",
+        "score": "76-78",
         "liga": "NBA",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://www.espn.com/nba/scoreboard"
       }
     ],
