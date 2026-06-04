@@ -1,27 +1,48 @@
 {
-  "updated": "03/06/2026 19:50 UTC",
+  "updated": "04/06/2026 04:14 UTC",
   "sports": {
     "bk": [
       {
+        "title": "Así vivimos el triunfo de Knicks en el Juego 1 de las Finales de la NBA",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT0xtNEU5T0FBSHgzcEN4aENoMi0wM08tUzNJUloyWUs1LWRrb2IxZ0lpdUZiR2FZZG9GRTVFVjdpeC1rTll6VlBzZE1MYWpoTmVSMWRmMTBxaF92Z1MwLU5TWmxNajhLRWpLcEFRdXlqaXhIdktWakhadVQ5ZFhqRXNlaEc3MHRiWklMV2w5U0VobEJjV2gxSkNQdzByeVFCY2RSUE11NEtVRGpnb3pqMjFyaTFoTGcwb2c?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1543586582-d2705c71dd3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx2aXZpbW9zJTIwdHJpdW5mbyUyMGtuaWNrcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4MDU0NjQ3NXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 04 Jun 2026 03:36:43 GMT"
+      },
+      {
+        "title": "NBA: dónde y cómo ver las Finales 2025-2026",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVpMWGZRbWZUYzBrNTlBSTV3ODNlOVZEV1RKQTQtMmduVVBlclVtRG10TGJKUHUxNmROZ0tKSWRZSDdFS3dTb09iUXkza3AzMzQ0Y2lkVkdHckdsajJ5V1RYRXhUamRuc0I1ODhZN0psNElDczBNdlhBSlFjbGVVMHZkdGltcHBLZTMtNEh4ZDNudTR3Wl9VdU9wZWtvQlZJZnQ4MkRHV2hFdw?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1581852549708-72910bd52cff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxkJUMzJUIzbmRlJTIwYyVDMyVCM21vJTIwZmluYWxlcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4MDU0NjQ3Nnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 04 Jun 2026 02:21:37 GMT"
+      },
+      {
+        "title": "Finales NBA 2026: calendario de partidos, resultados y dónde verlo por TV",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE5qTFprbXdLWV9LU0tIRmxFVDEya21aLUZjd0tLVkdpNW45b09wbm0tOXBZRkZTajBtU2dMaWY1dzQ0cXpnY2E5dVN6NlVUVUJsSjFoaVpCSkJWWEw3UUFYSUNEQ3lwSUdrTzNnWmJ1S3BCX0R6YW9rbDFQNE5RMlphTUt5bFJDRThmeTVwUUZ1Z1I4M2E5M0EtOFJZcXhXQkpvdnNYMnRQRFJsVkY2b0ZqX2U1UW5aNEVjbjgtTDdveTRJTXEtYnNhMENua24yRHc?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxmaW5hbGVzJTIwY2FsZW5kYXJpbyUyMHBhcnRpZG9zJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNTQ2NDc3fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 04 Jun 2026 00:25:41 GMT"
+      },
+      {
         "title": "Finales NBA 2026: Resultados, horarios y partidos entre San Antonio Spurs y New York Knicks",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTi1qa2lNTW4wWHhrd3VNZUxEd2FJQjJ3d2dvY2E4Q3VDUW9fSF9uUFktb2x1N2ZnWHlwOEV6WkVXS2NOcUVka0hzVU5JcTVjOTc5Z0xXUlQxRnowTW9WbEpuSnJyQjZUVmxKY1RRUTE0VU1Oc3ZmUUZEUVltU3pDN09tZUozNExOcGNKZ2JzdEFEdw?oc=5",
-        "date": "3 jun 2026",
+        "date": "4 jun 2026",
         "image": "https://images.unsplash.com/photo-1576683564128-e4f3a22f231a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxmaW5hbGVzJTIwcmVzdWx0YWRvcyUyMGhvcmFyaW9zJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNDAxOTI2fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 18:17:19 GMT"
+        "_pub_raw": "Thu, 04 Jun 2026 03:24:33 GMT"
       },
       {
-        "title": "Finales NBA 2026: fixture, calendario de partidos, resultados y dónde verlo por TV",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE5qTFprbXdLWV9LU0tIRmxFVDEya21aLUZjd0tLVkdpNW45b09wbm0tOXBZRkZTajBtU2dMaWY1dzQ0cXpnY2E5dVN6NlVUVUJsSjFoaVpCSkJWWEw3UUFYSUNEQ3lwSUdrTzNnWmJ1S3BCX0R6YW9rbDFQNE5RMlphTUt5bFJDRThmeTVwUUZ1Z1I4M2E5M0EtOFJZcXhXQkpvdnNYMnRQRFJsVkY2b0ZqX2U1UW5aNEVjbjgtTDdveTRJTXEtYnNhMENua24yRHc?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1649281968982-f3c41137246b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxmaW5hbGVzJTIwZml4dHVyZSUyMGNhbGVuZGFyaW8lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODA0NjA0MjN8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 10:12:38 GMT"
+        "title": "Spurs vs Knicks: resultado EN VIVO del Juego 1 de las Finales de NBA",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ycTd3dFpSU3JabldsLUdmUVZXdUVwTkNkOXRYWm5JSXFKLVI5S0YyQkFmOEdfZWJHcU1CVnJRbk1nVFU0U1pLUVJoY0N3ZVU1eVF0cUhRNXQ2SzN0c0Nxbk1fbjRFVWRnR3NoSzFNM0dMV1A5cURhR2J6c1Z2UQ?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
+        "_pub_raw": "Thu, 04 Jun 2026 00:30:00 GMT"
       },
       {
-        "title": "NBA Playoffs 2026: Cuadro, resultados, horarios y dónde ver en TV los partidos",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVkzNVFibHhENU40RHpLdFFSeG5LWTVIbnJ4OTltcjdIYlA1anVpZjBvYWQ0YTlaVmY4SDJTTndOU09OeGFMNUFsWmgtODBEb3JWUl9aTVNBS1A3MTctT3RtNm1JZTlaQ2RpQWdXVDRlTGE0Uk9lNDNUZHZ5V0tQUklLTl9nUTNB?oc=5",
+        "title": "NBA EN VIVO: a qué hora y cómo ver San Antonio Spurs vs. New York Knicks por el juego 1 de las Finales",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR0N0eVc3eEJyaFhDblVOSld0ZGJiNXRiVEZwbHBoRlVvRDF6aWlhVnBCdlFJdkplQXhQLWQ4S2RPTDRLdlUtVkZQWllvaERfcDZVamdMSXVVNEg4SnJxTk5KVGJmN1k3NHUwUi1LaEtjQW45Rm0wd3h3RHlXcmk3N0MzekMya0lFWS1NblVlazd3WlJCNXE5eXF2X0J4N2dZSTNoZ1Q0VGh6Uzk5dzRaekJQc252dzFYQXg0NTFBZjMzOTdMYTE5aTZJcTPSAcwBQVVfeXFMUEdDdHlXN3hCcmhYQ25VTkpXdGRiYjV0YlRGcGxwaEZVb0QxemlpYVZwQnZRSXZKZUF4UC1kOEtkT0w0S3ZVLVZGUFpZb2hEX3A2VWpnTEl1VTRIOEpycU5OSlRiZjdZNzR1MFItS2hLY0FuOUZtMHd4d0R5V3JpNzdDM3pDMmtJRVktTW5VZWs3d1pSQjVxOXlxdl9CeDdnWUkzaGdUNFRoelM5OXc0WnpCUHNudncxWEF4NDUxQWYzMzk3TGExOWk2SXEz?oc=5",
         "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxwbGF5b2ZmcyUyMGN1YWRybyUyMHJlc3VsdGFkb3MlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODA0NjA0MjR8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 16:27:34 GMT"
+        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx2aXZvJTIwaG9yYSUyMGMlQzMlQjNtbyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4MDU0NjQ3OXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 22:10:00 GMT"
       },
       {
         "title": "La NCAA expolia otro gigante al baloncesto español: Andrés Amón (2,13) se suma a la fuga de talento",
@@ -45,18 +66,18 @@
         "_pub_raw": "Wed, 03 Jun 2026 13:51:23 GMT"
       },
       {
-        "title": "¿Cuáles son las revanchas en la historia de las Finales de NBA?",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWNOZUlYYlBlaXMwVjJ1VUM3OTJMYXVOS0Q0cmZodGQtMDV2QjdXU0hVRV9NOTgxZGU1d2FuOWlNLV9YN081QUJmY2k4bHBzT2VKR1ZzbTJjYXQ2SmdvWEh2RVBUMVkyYnZ1cnl2Ukd2ZE1lcEdQRGMzSjh2Qk1YUVFhejBwaXY0aWlUTkZ3UERsRzBGVUlWa2JnNA?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjdSVDMyVBMWxlcyUyMHJldmFuY2hhcyUyMGhpc3RvcmlhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNDkwNTkwfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 11:50:00 GMT"
+        "title": "Héroe del partido: Jalen Brunson volvió del vestidor para brillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3RnSWhjamhpZy13SWd6enRvMnZuSWNIUGtrTEhCWTdxcl9SRS05Sk5ndDNjT3d2R1J6bVRnVldlM0xmLXR6cnRWOUdEcjdZT2FqUThLR2hpd3RCVHlkbGk2RXFHajBSaXg0dURXQW5sbHhDdTJDc1pWU2hpODhWYTUtZ1E5NWpPZGc3RTN6QUxuUlZoTEl5WS1GOFo4a3FSSC1V?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxoJUMzJUE5cm9lJTIwcGFydGlkbyUyMGphbGVuJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNTQ2NDgyfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 04 Jun 2026 03:27:00 GMT"
       },
       {
-        "title": "NBA Finals: ¿Quién realmente tiene la ventaja entre Knicks y Spurs?",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0JvUWZwYUYyQ1RGMjZXUm9XemhkLWh0b1ZLZXBNMjBLTXA2YzdsMk1IaF9FY1Z0QnYwMThwd0lzemI0c0VPZkZFczNXYXpvWmlZOU9Ndkk1Vm9uaGJDXzA1UU5GR2JaUDV6VGhRMkJERDNOaWxiOGxIYlpLdHZwSUQ4enpqbXNRY3dtVGlWSVZVa1Z6cmc?oc=5",
-        "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxmaW5hbHMlMjBxdWklQzMlQTluJTIwcmVhbG1lbnRlJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNDYwNDI5fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 02 Jun 2026 21:29:00 GMT"
+        "title": "Jalen Brunson brilla y los Knicks toman ventaja de 1-0 en las Finales de la NBA",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDY1cFRrU3Q1ZVptWW5xRG9kdlo4Vjl1REJYeUhJdEFMQ2ZoR0J0S3k3TGw5anBqSGwxRFZJUVF0RkZ2NDB1Q0s3WEpJNFlGYVVvUmYtdUcyREMzSGNUaWZSQU93Tjh4dEpnN0VQRjhMMjJWcm5kc0RGMWV5YkNZNjhNb0ZzSGVTekZZc1pTS2JSeDdybDFXRkFBS3BWM1g1OHdsbF9GYW4tVVM0S1RjZXdITVBqQ3NvRnBlNA?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
+        "_pub_raw": "Thu, 04 Jun 2026 02:51:00 GMT"
       },
       {
         "title": "Las cinco razones por las que los Knicks pueden ser campeones",
@@ -66,11 +87,18 @@
         "_pub_raw": "Wed, 03 Jun 2026 12:46:00 GMT"
       },
       {
-        "title": "Finales de la NBA 2026: Predicciones para Knicks vs. Spurs",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEVDZW9nejloRU16bXlhNGtOZF9PXzZVMU50NmJyOUxmZEtzMzI0SWJhVnhqTnFtUEFPaHlpbEJnaEFsREU5Vi1nMzVCVXd2WGpCSUlLX19WOERDY2FBa1dzMFhya01WVHZfckpTWVUwYktidlo0emlCbjlHRUtSWE1kWDh6UEh2UV84XzdkdnF0RVoxZEFxVXJReVpjMXNFcU0xcU16NA?oc=5",
+        "title": "¿Cuáles son las revanchas en la historia de las Finales de NBA?",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWNOZUlYYlBlaXMwVjJ1VUM3OTJMYXVOS0Q0cmZodGQtMDV2QjdXU0hVRV9NOTgxZGU1d2FuOWlNLV9YN081QUJmY2k4bHBzT2VKR1ZzbTJjYXQ2SmdvWEh2RVBUMVkyYnZ1cnl2Ukd2ZE1lcEdQRGMzSjh2Qk1YUVFhejBwaXY0aWlUTkZ3UERsRzBGVUlWa2JnNA?oc=5",
         "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxmaW5hbGVzJTIwcHJlZGljY2lvbmVzJTIwa25pY2tzJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNTE2MjM3fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjdSVDMyVBMWxlcyUyMHJldmFuY2hhcyUyMGhpc3RvcmlhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNDkwNTkwfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 03 Jun 2026 11:50:00 GMT"
+      },
+      {
+        "title": "NBA Finals: ¿Quién realmente tiene la ventaja entre Knicks y Spurs?",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWlmZnFTZkJJUjVsSnFoa3F0UjluOHZmYWJyekdld3NaWlJna3R5VHFuS1N3WXNrbjJKSzFYYW5mNGpWbFFjUUNLQmh0Mzk5eVVSQ1hRYWlaanpEd3lVWFpTY1VEOVM4UElST0NXTHlNR29tUUxidkpUUXA5bmtxazJjbXVOV3NDTU1EZ2hKUnhkaTJaRTBSRGVoNFNqR3dvR1hLQ0Y3TVdXWUQtN2lpaVlSTzJ1dw?oc=5",
+        "date": "2 jun 2026",
+        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxmaW5hbHMlMjBxdWklQzMlQTluJTIwcmVhbG1lbnRlJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNDYwNDI5fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Tue, 02 Jun 2026 21:29:00 GMT"
       },
       {
         "title": "Los Spurs serán campeones de la NBA y estas son las razones",
@@ -80,69 +108,76 @@
         "_pub_raw": "Wed, 03 Jun 2026 12:00:00 GMT"
       },
       {
-        "title": "Jalen Brunson se prepara para enfrentar a la defensiva de Stephon Castle",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGgxaEIweTdnSFVKSkItXzNrcW81TkFOcVlpY1ZhMWVmSGNkR0Z1dGhhUUJQcWNETS1HUFVSSU5PM3Blc0NzMHVLdWJWOExFWWhnX1p0eGtKLURxY3Mxa1Rsak9fYmIydndRcGRjYTNvaUkwdWtqV1FabmZuamw1NnJka2R5bXJvQWhzOEhleU9seFJZUkdZSzVn?oc=5",
+        "title": "Finales de la NBA 2026: Predicciones para Knicks vs. Spurs",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEVDZW9nejloRU16bXlhNGtOZF9PXzZVMU50NmJyOUxmZEtzMzI0SWJhVnhqTnFtUEFPaHlpbEJnaEFsREU5Vi1nMzVCVXd2WGpCSUlLX19WOERDY2FBa1dzMFhya01WVHZfckpTWVUwYktidlo0emlCbjlHRUtSWE1kWDh6UEh2UV84XzdkdnF0RVoxZEFxVXJReVpjMXNFcU0xcU16NA?oc=5",
         "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1550171362-62bca9e5ad4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxqYWxlbiUyMGJydW5zb24lMjBwcmVwYXJhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNDYwNDI4fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 01:00:00 GMT"
+        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxmaW5hbGVzJTIwcHJlZGljY2lvbmVzJTIwa25pY2tzJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNTE2MjM3fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 11:50:00 GMT"
       },
       {
-        "title": "Sanberg, cofundador de Aspiration, condenado a 14 años de prisión",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTGdzeVR2MGI1Sl9Cc3hsbnJhLUNJS3NCRHZxREh4VTZscG92Vm5HeThxS2laSl85VzNRMnhtTUtqblBGc0lLMjRFRUlSZVh2QjJPMDlBSm8wN01RV3lYWXdVaVRDR01RUXlDSGc0ZTZjNkZ1Y3lDcXJRdXY3QkI2djNiMTF4c3BTd09DYkVUdnJ5VWZ3MDVGcnRuYW1YT3lJSnVHaXE5MEw0LXVhbGxGN281WFAzQzdubTZBUWpzX2hBa05KZG4wZTdTWQ?oc=5",
-        "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1516802273409-68526ee1bdd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxzYW5iZXJnJTIwY29mdW5kYWRvciUyMGFzcGlyYXRpb24lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODA0NjA0MzF8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 02 Jun 2026 21:03:00 GMT"
+        "title": "¡Siguen invictos! Knicks vienen de atrás y vencen a los Spurs en el Juego 1 de las NBA Finals",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa0pSZlJERG80Nkl4WmNXb0I2RzFzYkxoMkYxek85V3hDWUVjcHkzdnpYYXpCNVZMQjlCaGtiLW85cER1ZVFRSzdTMUVqVERSbFIxMnhJYk5vMmR4M0g4d29ISWJ4MHk2U2J2cGM1TmVmbjROVER5dDlEUUNqaTFTVk9sdUthWlpCVXJVa0xzYVY0Rk10UDZxRUN4MGVsamlVdGxyLURCX2p4LVdyZms2RUVhRW9KZkN5MlFrUm5pYkZWbzJqd1NBcWRIei1xRWFWU1RkR09FTExIZm1WYlBj?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1752166672544-c31d040b3b8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxzaWd1ZW4lMjBpbnZpY3RvcyUyMGtuaWNrcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4MDU0NjQ4OHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 04 Jun 2026 03:40:00 GMT"
+      },
+      {
+        "title": "Ver a los Knicks en las Finales cuesta una fortuna; a las nubes el costo de los boletos",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYU9rcS1obWZtaWpLLUstUUZqLWZUS0lMMkpZVERnX0Vnc3ViRzZTbUFkUWZxMndYclhLR3dLRzRJS2VfejlrNU41bWdOdHkwYWpheUtsVFUtYld0YWFsYmdRMUk4MktqZ2NMb2l5RU1rRFpSY2UwcWc3eC1yZXBzRFE1Mm5hUkdBZWpnWkNkVkkyZW1teklYd0NtZFBfQkpQSVdMZkdLcWtndVVkbV9yZ0ktLWItZzhoMFRvdUtjaFFTMUdUOVJHRlc5WWNsWkJtOWt1RGJHT0Q?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
+        "_pub_raw": "Thu, 04 Jun 2026 00:12:00 GMT"
       },
       {
         "title": "Spurs vs Knicks: ¿Dónde y a qué hora ver el Juego 1 de las NBA Finals?",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1VEdnB5UWtEdjQ4VUYwX2NadGFVdy1jakFXeXY4NE53RXhlN0JPQWlYZUJZX0poamQyaUdISG5QVkRiQ28xX1E3Qk01WUQ2X2hQdm11MGV4akh4QzhVMU1LTE9DZTM0VEVzT3gzY2ZxSzFfSHc1V1pCdkpRMkhBOUQzaEs1dWRDd09sUDVOWF8wSDBBeU1hYlNOazdMNjR2QXcwanhyTGFWZ1NvT0dPSHF1OGhTWVZ5MXh4MmFYNA?oc=5",
         "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1576683564128-e4f3a22f231a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxzcHVycyUyMGtuaWNrcyUyMGQlQzMlQjNuZGUlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODA1MTYyNDB8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
         "_pub_raw": "Wed, 03 Jun 2026 15:37:00 GMT"
       },
       {
-        "title": "Finales de la NBA 2026: ¿Cuándo son, dónde verlas en vivo y cuánto costará asistir?",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeFNQdFFfckVkcjdpMnMwbmNCWE55blVLbVFvelRfd2F1MHdXQVUtSU1zbUhaN1pfT3dONkVkZVpSaE0yc3FpajF3ZmtoTUxSby1MTDRWR1FuaVFsOFp4QldxRmhNQlVwejFGTlMwR3pwbzhJamdzcGN4eFk2TnFYck1sY1lVSWY0TkRjcENucWxmSUxzUG5ObUUzRVRrdEhCcXg3SWFNVWlOTWNjNmNjZ2ozMUlaRHc4QS1CZklfcU1GSUttMUh3NFZrWkhHeEU?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxmaW5hbGVzJTIwY3UlQzMlQTFuZG8lMjBkJUMzJUIzbmRlJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzgwNDYwNDM1fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 01:21:00 GMT"
-      },
-      {
-        "title": "De un derrame cerebral a las Finales: la inspiradora historia de Gregg Popovich con los Spurs",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWGN0Q1NZdVJtRUszRHFLV1dodlcxYzJmYjBBeDBUTHk5anhLUHBkLW53T0RQekdwdmQzSUxKQ1pSVENGR09iZy0wVUR2dDY4OW9pVWpMdzc5RXY5WnlOTG5SNHNLdUNSLVlqUktOVnZUeXdJQVY4VHZLczBTRXhBbktTMjQ5M2ZJdHdQaUJNdVRRX0gtbDBKVXhMUlFOTUNvLWV6Q2JaTFE3RVFEQXhtaC1odHdWdVR6Y2RxME9Fb19nRUpmeFJQM2RmMFVrNElwQ1l3TTk2aVV1UE1HMy1EVA?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?w=480&q=70",
-        "_pub_raw": "Wed, 03 Jun 2026 01:15:00 GMT"
-      },
-      {
-        "title": "Por la revancha, así fue la última vez que Knicks y Spurs se midieron en unas Finales de la NBA en 1999",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORDZMbGdscVJYcklhZU9GVEc2YXZKNFJpai1lR01nR2VoMmMyaURaaERGbkZuaFZNbUIzM3J6aW80VG9LQm92Tzh0VHFodmdrTE9MMktsWXRMcHVNdldBaS0tQnMwNl9va1YzLXRsaFNDdm9zWk5fd0pCSUg4VGRHODNZdkM2RV9EZTZRWEdPbW5IeXAza0oxVzR4TDZOSERvXy05SE5vUmMzZXNhTk9tdGJTZTBOTXdsdHFaa0dBMXh4Yzdxd0dIY05OekJ6M2o3MldzQkNLb1dKcnlkYWRFYVQ4ajZ6MDg3UERCVEp3?oc=5",
-        "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
-        "_pub_raw": "Tue, 02 Jun 2026 02:05:19 GMT"
+        "title": "Spurs vs Knicks NBA Finals Juego 1",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGN4UDlteHNGSHZZYWNUT2ZDY0p6b3JrSzA1c0JSZlNfQnVJR3pvb2EzdlFDcFRUcXBDTDJmcV9iREJFUU4xeXp3bG8tUjY5dW80UzFEODc4aU0ybVNGOF9Za1lsN1YtM2dWNFlVQmhBWFJuWmNKblNNQ1k3STJKd3RETVg5QQ?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
+        "_pub_raw": "Thu, 04 Jun 2026 00:00:00 GMT"
       }
     ],
     "pd": [
       {
-        "title": "Italy Major Premier Padel 2026: horarios de hoy, resultados en directo y dónde ver",
+        "title": "Resultados de los dieciseisavos de final del Italy Major Premier Padel 2026",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVC1mNHBGa1AwMEt5ZHJYVW1vb19OemU2Q25IUWQyc1VaTzNBRzJ6WGNVUzQzeFdRSXEtM25ncGhxUV9oLUhYNHRHeGI2YlRPRFAwQnJBZzdma29BUGlXRUZCMWdfZjAzZlRfbEhZSkdvRXc1WmNTTUdPeFJacmUyVVBXT1hSaXFBTHFYTE5fZFNNQzlkem9tbURNUWl3U3hKbVBMRFZB?oc=5",
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXN1bHRhZG9zJTIwZGllY2lzZWlzYXZvcyUyMGZpbmFsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzgwNTQ2NDk3fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 23:44:54 GMT"
+      },
+      {
+        "title": "Las fuertes lluvias retrasan el inicio de la jornada: horarios de hoy actualizados, resultados en directo y dónde ver el Italy Major Premier Padel 2026",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVHdQUG43MFR1cU1KWUhIM1JKY1JXRF9uY2dyeDczRlBDeW9KbElmN1lQTHNOMHlPa2pfalU0SVI3T2FsMW1yR1FLN2RVQjBYSlM3aEh5dk5fU2hQWW9ndnU1bkdMbEk1SGVRdC10aE44S2tOQ0UyVXJXZl9xaXp1QXdoOUNkQdIBhgFBVV95cUxQQ3V0ak00Z21lRjhoZng1QUxwbVQyRnNjalllZzdHVm9UQ2c4bllJRktEQjk2VzA4elJTTEpvVnUyVkJoVkdycWxZLVFSVkN2Z3Y3S01TUnZNcUFzZDN3aEpfbXlmZi10VU9KZEVWR3VZUWJmNXM0VVlxZ0tfSnFuTk9pdjh5dw?oc=5",
-        "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1737231804683-7ae6f8030db1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxpdGFseSUyMG1ham9yJTIwcHJlbWllciUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4MDQwMTk0NHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 02 Jun 2026 06:01:02 GMT"
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1596559058872-595ea5281b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxmdWVydGVzJTIwbGx1dmlhcyUyMHJldHJhc2FuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzgwNTQ2NDk4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 09:20:42 GMT"
+      },
+      {
+        "title": "Sorpresa en el Italy Major: gana su primer partido de Premier Padel eliminando a una leyenda",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLUhkOXllMXVmWUd2MDdBQlB6cFAxTVNwb2poUlkyM25hc0tJQ3l6SEsycXYzSlg2STl2SnRCMW9HU1FGTi1xeEV1S2ZVWnN4eng4YTZoT0RCVXBGLXo3bFo4UndnLTdtLTdScUtLamtuUklPTHFsdFlocDZ0M1dOUVhobFF1S1FRLW1lOXE2M0NnNFQyTkJOM1ZLSVFfTnVxbGc0ZlpnOUhqS0IybWxfMmlnLWVKZDkzNV9VdHpmNVdPX2wtVi1TaG5uN0hKQ2pmSUNsZWNyVk1BSnc0eVBwZ1kwRdIB8AFBVV95cUxPTkpCNENNdnlWd1lhaVpMV1NycmpTazRCNVlLUnZjV0FPZWVJdi1VTktscEg5LXV6WDZvbFFQams5YmNOTWduSWUtN2ZETGpxNzFJVnJ0TEJ1RVBmWmtuVmtkUVVUVEN4cEFpU1BLUGFoazhWUXVxRXdpOHZ2OUFEYVMtQ0ltRE55bEJROWVvOUVJRTNDbnd3NFRoa05UV3o2OHVlOHkzTUNSSy14dUZUNEZBR09iX0xSS0E5UnltVzBkenRQdnhVSXU4VXg4Q1VsSi0yVVFKaHg0WkdCX2d2MFQyOVZIdDF1bDVTTlYxS2g?oc=5",
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1646649851780-d9701b7c3c04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxzb3JwcmVzYSUyMGl0YWx5JTIwbWFqb3IlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODA1NDY0OTl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 07:52:24 GMT"
+      },
+      {
+        "title": "Resultados de los treintaidosavos de final del Italy Major 2026",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2pDVmR0TWN4S1EwdnVEdVl3elg4ZTVmd2RkMGdNQk1Fb05SZlRzTGdlUnFHVVZpSVVuOEdFYmhWQkwtWDF6NkFsYzdfb3hyX2luMVpWOUktUWlSMU9CYlIwVFhzVUR4bWRpUjRDVWpLUjhsS1BYaE1DT3BqRGJIT1hndjEwaTZBTTBIZTFxTQ?oc=5",
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXN1bHRhZG9zJTIwdHJlaW50YWlkb3Nhdm9zJTIwZmluYWwlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODA0MjkzMzh8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 07:24:33 GMT"
       },
       {
         "title": "Resultados de los treintaidosavos de final del Italy Major Premier Padel 2026",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1dRQjFkVnJTUTJDdm84cm9TVHpzRFdhMnFwQXVnamM2bWRDVFliUmFtZW5MNWNKYUVKS0FxdTNDLVZPdHlpZTJEWkNQT0JSZHJTdUtVOFFZOE5zakhlRVhfbzktVnotYkJuZzlMR1JaazZMQjE1aG0xUmJTUDN3UkRYY1paX1k0MEhiaWd1alc3SXZUQTVNTjh0Zm5CejV2cjRoNi11ek4?oc=5",
         "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1715333157294-49b465a34054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxyZXN1bHRhZG9zJTIwdHJlaW50YWlkb3Nhdm9zJTIwZmluYWwlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODA0MjkzMzh8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXN1bHRhZG9zJTIwdHJlaW50YWlkb3Nhdm9zJTIwZmluYWwlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODA0MjkzMzh8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Tue, 02 Jun 2026 19:42:40 GMT"
-      },
-      {
-        "title": "Resultados de los treintaidosavos del Italy Major 2026",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUhIeFo5QjQ2RW5qdHl3UkMtVXZnRVpKR3BGeGpRa2ppTFVRdy1naDgtTGUxbTRpQUhqYVJaS01qVGFDeHhoWlhCRTZaQm8zQmp1UUpINlNxVUUtUEFya2IxblAyaWprVEp3YTN6OXJDMEcydURreWdNUE9NdlE3M2hueXd0TzdsdmdpeG9jRzVEM3VU?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1737229475109-bfba0a06d442?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXN1bHRhZG9zJTIwdHJlaW50YWlkb3Nhdm9zJTIwaXRhbHklMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODA0OTA2MDJ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 07:36:54 GMT"
       },
       {
         "title": "El pádel conquista Roma y llega hasta el Papa León XIV",
@@ -176,59 +211,45 @@
         "title": "Italy Major Premier Padel: horarios, calendario y dónde ver gratis en TV",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMEtTR0tvQURMQk5YQzdCX19LMUJWemdmdDBVRjVGWkotbWs5b2M4LXVZMEJwWFIzS0FlaGJQbHQzUVlna0hjV3VHdzV0aHlUQ2tfNFFVYTMtRXdqYWF5RWZBVDVTejV0NzVrc0VXdzNZeEJGY0pPZC1MZjVsZ1FfdnZENjVobXJld3BHWi1zSXZEUElrS0xzaDJPNmpWdGV2NTVLN2h30gGmAUFVX3lxTE03OTdqME45U3Zyak4tR2VaLVVlVlBzYzI2T0d4Z3hPN0I5X0pFcWFhWGFFd3NrdGNsaGwzemVkbFZUQ0s4RHBqUVozcHd6VFZmUUpyMXBlYy1VT2U0YWhzVG5YYlFiSkVENTdYaUx5TllZUDI2LVUzQ0tvQ2RxOVNqRzc1RFl1d2ZGOW0xVVNRMnVXX0VMMTVHekxvUm5BNmhLbGpWa0E?oc=5",
         "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1737231804683-7ae6f8030db1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxpdGFseSUyMG1ham9yJTIwcHJlbWllciUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4MDQwMTk0NHww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1737229474584-5a55c53f6d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxpdGFseSUyMG1ham9yJTIwcHJlbWllciUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4MDQwMTk0NHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Tue, 02 Jun 2026 11:43:41 GMT"
       },
       {
         "title": "El mercado de parejas del pádel: reencuentros, dudas... y algunas que se tambalean",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQREdXdmVUR0pPQm5NUmpOOGlKT1ZlMkZnT3l0cEI1U2Q4R2F2TEx5QU9WR242RTZOWG56TXAwSEVVNF92Z0xDWTJWcXhlYlduaVdRNWR3b3BCNkhINUZmV3VBd1VnWEFqRTB5bEVkQ19FWDBfdVhOd3EtQUdMT1ZhdjN6TlFSQlF2eDNTalVjUi1ZWXNUaW9NM0lR0gGaAUFVX3lxTFBhWUZGcUFLUDVnd2NjLVd4SkxmcmlkM01oWnNKandDSW5GMHNvWmJNV3dQcE9WN2JVSzlFV25UNWRyaUhHRUQ2RjllVzdpbWh0SjMxQ3V4LXQzb09rQ0daMFk3eTZOdDJXaFFocHl2d3l3VnpvZ2FzMlNtT25oUlEzMnZWX1Y2M1JQNmNDN0RVa211Snl0ZW9RSHc?oc=5",
         "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=480&q=70",
         "_pub_raw": "Tue, 02 Jun 2026 10:06:27 GMT"
       }
     ],
     "fx": [
+      {
+        "title": "Última hora: André Jardine deja de ser entrenador del América",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZC1SbEJ4eXJobzZWUzNZSExvbDBMUjR4UGw5aVVWNHRTWkpBNWMwMjBwZU4zdTdZczdLZ21NX29oY0lQZTdNQlZzcXZxLVdOME96aFQwc1NkZDI0Ymd1N19KcDlxSlJObGprcHgyTXRpZjZCTENacHRiVW12WGtFTGk5YmZTZHoyS0tXaGJoZXZTUzJRaVVNY1l3NXlHZ2F4LU5tNE56NmlDOGpMMUhN?oc=5",
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "_pub_raw": "Wed, 03 Jun 2026 21:04:48 GMT"
+      },
+      {
+        "title": "OFICIAL: cuándo empieza el mercado de fichajes para el Apertura 2026 y cuándo termina",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWW1sM2RVbkhMT2J2b0hsUi1lS1JJYWxhS3pIS2pxZFFXanc1SlFocUZ4UVh1RzFyM01KU2hLdURnbDhMQk9lMjVYbXFreVU0N0VkTGdXSEhOcC1LQXc1Vnc2eHl6cFBUZ3JqUVhCU3J4aHB6WVJRSVI1eXM1eV9YMng3UXVicGNHbGwzS25B0gGbAUFVX3lxTE80MThUeDA5cDhnbVZsZV9UTDR5bHVPWHQ1TUZjOGRTUi1MZ0RqRWdMRTE1aHpXUkxfaS1oU0diMko5TG5OWmoxMVB6cmR6SWIwYW90eEZUS1VaWTV3X0FhM1RzeU53dWdLNFY2aWJsTWd5VWRTUDNlcEVfN1lsWmpIM2ItcVlCMTFOWFhVdi1VQjFFRi1MQnJHR1dr?oc=5",
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1609779858641-af32f73effa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxvZmljaWFsJTIwY3UlQzMlQTFuZG8lMjBlbXBpZXphJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4MDU0NjUxNXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 22:41:54 GMT"
+      },
+      {
+        "title": "Reveladas las razones por las que André Jardine está fuera del Club América; explotó todo en Coapa",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmlWQ2JGcnJqU0d2NjVYUldsa2o1bEwxRW1vT1JWTFlQenNPTGg5Zll3cjRPaFpWQ0h5TXpkeXhPWXdIZTdRRUVOamVCNHdXMXhXcHBadGdVLXdkNmJkTzFyWl8temdoMG4wOFZaUmRtVFdfWWNJU2lhZGJ2YkJKTGwzeG9TSTTSAYcBQVVfeXFMTkljeUpnOEhFaXJoaG51djNURUJpZzY1Zk5EdnBja2pCREZQcTdHc3R3WjIxQng0MFhZMmZOVTVJV19jZGN2enkweUVKT1pWVlRELWpDRE5OTDlvTEtKa2FmLVExbVhjTXpKOW9Udml6eENiWW9TS3lvR2hLdWE2R3NGdkxGYU1F?oc=5",
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXZlbGFkYXMlMjByYXpvbmVzJTIwYW5kciVDMyVBOSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODA1NDY1MTZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 22:44:44 GMT"
+      },
       {
         "title": "¿Titular o suplente en Chivas? Óscar Whalley habló de su rol para el Apertura 2026 con o sin Raúl Rangel",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXoxWjNULXVpS1FENjh1T1k0bWxGdzFoZDBrdXBvZk9wOUdlYjZCeXlOeFdBcDJtM1lmZFdXX1hpNFl0VHBvUldUMExaeEZTcEEwajZBRTFRX0JpU0JFZmY3OWFpUmptSDkwc09GNmpsc2FMWl85WTVJc0l0MUxsdkZCWnVFeVJiOGVhaTAydUtFOXRpeDVoZWxIUk51OXc3eXVucDBLWlRoOFZYLWppUk54cnpnOUZsYnRPRXQtYTB6SnloTURPdWlzVElKOVF4UG9mTG15NENUczVh0gHcAUFVX3lxTE9hejFaM1QtdWlLUUQ2OHVPWTRtbEZ3MWhkMGt1cG9mT3A5R2ViNkJ5eU54V0FwMm0zWWZkV1dfWGk0WXRUcG9SV1QwTFp4RlNwQTBqNkFFMVFfQmlTQkVmZjc5YWlSam1IOTBzT0Y2amxzYUxaXzlZNUlzSXQxTGx2RkJadUV5UmI4ZWFpMDJ1S0U5dGl4NWhlbEhSTnU5dzd5dW5wMEtaVGg4VlgtamlSTnhyemc5RmxidE9FdC1hMHpKeWhNRE91aXNUSUo5UXhQb2ZMbXk0Q1RzNWE?oc=5",
         "date": "3 jun 2026",
         "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx0aXR1bGFyJTIwc3VwbGVudGUlMjBjaGl2YXMlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzgwNTE2MjY1fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 03 Jun 2026 19:47:36 GMT"
-      },
-      {
-        "title": "¡Cruz Azul campeón del Clausura 2026! La Máquina conquista su décima estrella",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXhkb3BKUDI0anJqX3c4b0ZWejVCN01aMFg3b2NqS3lqcVR0TzBPUHpsSXItTllJWkZ2LWlPeXdtamtNUTc2VExxVHZXMDExVHhaMlphMjVBSlI4MW9VbTN0MzJqb0JaRlJfcHNFMkF5Y0RWYy1KVXE2NkhiVDlDZVFvaHE3cG14OVdfTTBOMC1PMTYtZ3EtMUFCcUNaWnB5T1lGV3Z4SUhQVkpKUlA4QUJMNi1UN0tONGZj0gHIAUFVX3lxTE9jLWVsWnJlRmtNUUdONGdiSS1ValdkNHNPdjlSY1diYlZlSHJRcE1QTDZvandUbXJibXRQbjlEVmk2aTJqd2FMbndLSFlfeDQzU1RYOUpZSkw0ak9vWGR6MlR0c2IyLUp5RFg2SnZlcUtqaEc5aWlhSU5vMk5icDhFODNZdlI1UzdzeVpVS2RfOWxrb2tsc2d3Zi1hX1B5cE9JN3lTYXpmd2pkMV9YRVdNWW94UGNBd2xzNE9rX2Y3dkVrRm52WG9P?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Wed, 03 Jun 2026 15:45:50 GMT"
-      },
-      {
-        "title": "Cruz Azul recibe reconocimiento y jugoso premio",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0NBdThiSkp1bjYtc3lSeWliZDRkY05XaDZ2T0V0Z0NVdVBCRVlTa0J5VEJManJmWlo2TmNibm1oclpZc1k0OXotN0piMmRHcjE4UzJwY0ROcnNRRXRVTXlvM3NGaXJqdTd1d1l5cUNXLTRQU0hoa3k5MGx3blkzVGZSTW1xUFBfNFN0WWNETVp5V3lDMy1kSnNYVjZYcDAxbXhn?oc=5",
-        "date": "1 jun 2026",
-        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjcnV6JTIwYXp1bCUyMHJlY2liZSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODA0OTA2MTh8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Mon, 01 Jun 2026 23:48:00 GMT"
-      },
-      {
-        "title": "Fútbol de Estufa Liga MX Hoy: fichajes, últimas noticias y rumores Miércoles 3 de Junio del Apertura 2026",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLS1XVzVtZDQwbENQbVpPM09Ja3FEODJ0cFdoOTdHa2U2RTc4NjMxaXFJUHowTmhuTXkyUWxBVUFGREd2SllleWNiSDh1MG9ydGpjOWtJQTZ6T1hTbkFWYThsMkxORFFYSUxqdElDYXlrc1dCZTB2V2RxQnY3ZjJ3MENQLWx4LUhQS21YbDN0S1drcnfSAZMBQVVfeXFMUHBpVzVzdHo2dUZSODNENnVwaENDZ25GLXgtdm04ODlsVlNjdXByeTdYUXA5aHdKN19NRjYzNVVJTW9Lc3ZabTlsWDB0SDU3UVZWeEVTazRFOVdSZTRuVUp4NVpTREhuSTk2U3hVRjljUzN5WnA4dWRZNjZSN0ZFVUtBRE9qUzJhS2lLVnJDbU1fQ1Bj?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxmJUMzJUJBdGJvbCUyMGVzdHVmYSUyMGxpZ2ElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzgwNDYwNDYxfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 13:40:18 GMT"
-      },
-      {
-        "title": "Ángel Leyva se mantiene en Liga MX y comienza una nueva historia con Puebla",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcXo5SWxrTDkxX2dsY2RnTjdJZWxNMExMTmNaOHI4SjRGZ2JDS0VPSXZDWWRVb3c5cWszZEVSUWUtSnJmc0VIY2ZralRuZWFISGFnOVZRN2I4dERLVmI2aHQtakNuWkJrNmlabVJFcG5Qd2lhMHNpYmZpMTlXdWtkXzlfX0tURkNpMk9tcVRCbEVVTEVSZjNLMEZhTS1EWmtoc09jdnM2Zm5YOUFuaGdlWGJVcG5kZXdVSVBVWDRjSUtpUTNhOXc?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Wed, 03 Jun 2026 17:16:20 GMT"
-      },
-      {
-        "title": "Historial de Campeones Cup",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZWxNOHJXdTByM2E4dDUyNWZvZWN3VEJDNW04dENKOTR4NUR3UkdyQ0RmdDRXLWZnUnVjMlVCSWRSWFpSSW84TU5XVUdOcHhrUDFyOEVwN3AxN3ZBcUJfYkNIMDBBdU4tZkhQb0F4M2FfRXVLbjBMTHRLS1dRRlBhaHFZTHJzb2dUTHRZTzVPOVowR3Z2b0FEcnVWcmlZQjNGTjY2eGpBcGRDR1JFVWE5WGpaRDl3WjhBZG1fTEtLMHBPUkgyOFZFVjd6cnhRSWdDc05NaktFMlRPV2htT0x1bUE5NDh2dTMyZDBpZXZESUh6VkkyWWc?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxoaXN0b3JpYWwlMjBjYW1wZW9uZXMlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzgwNTE2MjcwfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 14:03:07 GMT"
       },
       {
         "title": "Los dos zagueros que están en la mira del América para el mercado de verano",
@@ -238,24 +259,31 @@
         "_pub_raw": "Wed, 03 Jun 2026 15:11:54 GMT"
       },
       {
-        "title": "Liga MX Apertura 2026, fútbol de estufa: altas, bajas, fichajes y rumores hoy 2 de junio",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVd0NFc0eElkNnVGTTBqYlhydGRQMDBJc01rNlZvZVIwSFJHLUVMN1RkbGIzR3pfdzhUcDRwX0RkSkt2Z2ZiOGh4VWNsbzZUNzFCaXJjdms0TGVvdl8xc1V0MDliTlEwX0dFeEVfWTBVWUpUZkZKY0tGbVhUOHRWbkR2QmlWWXNKbWFJUmU3UWstLUIxYjI5Mm10by1sSUo2OG9xWk1iUGVRbFl5SmJsNVJmdDdCQ2FqSDhnOHgtNU1sdlpvWXNvR1pEamRtdw?oc=5",
+        "title": "Ángel Leyva se mantiene en Liga MX y comienza una nueva historia con Puebla",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcXo5SWxrTDkxX2dsY2RnTjdJZWxNMExMTmNaOHI4SjRGZ2JDS0VPSXZDWWRVb3c5cWszZEVSUWUtSnJmc0VIY2ZralRuZWFISGFnOVZRN2I4dERLVmI2aHQtakNuWkJrNmlabVJFcG5Qd2lhMHNpYmZpMTlXdWtkXzlfX0tURkNpMk9tcVRCbEVVTEVSZjNLMEZhTS1EWmtoc09jdnM2Zm5YOUFuaGdlWGJVcG5kZXdVSVBVWDRjSUtpUTNhOXc?oc=5",
         "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwYXBlcnR1cmElMjBmJUMzJUJBdGJvbCUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODA0MjkzNTd8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 02:10:02 GMT"
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Wed, 03 Jun 2026 17:11:53 GMT"
       },
       {
-        "title": "Mundial 2026: ¿Cuánto le pagan a América, Cruz Azul, Chivas y Pumas por prestar jugadores? - esto",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1NYbDZwMV9nc0xpRHhfY2ZySkZERUJEdDdHRjF5SENKa1FZRFZxcWZPc3o3di16QmMzdGlrUG1YVXNtLWxoa0UyekdTZktjUGZwUzZzLVJ5V3NKMzB5cnBsc3RvcUpWRS1TWFc4dXFuQmtBZldYOXRzS1VUY3k5WlozeFdfSVJnbkRYWjNCRzhNSm1MTlJobDFlbHhjM0dMbG1MRmRNTWhxaWlQY05WLWlZR0xfTnR1bjMycTFhaF80SVNYVVFoMHc1RQ?oc=5",
-        "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxtdW5kaWFsJTIwY3UlQzMlQTFudG8lMjBwYWdhbiUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODA0OTA2MjN8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 02 Jun 2026 03:28:42 GMT"
+        "title": "Historial de Campeones Cup",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZWxNOHJXdTByM2E4dDUyNWZvZWN3VEJDNW04dENKOTR4NUR3UkdyQ0RmdDRXLWZnUnVjMlVCSWRSWFpSSW84TU5XVUdOcHhrUDFyOEVwN3AxN3ZBcUJfYkNIMDBBdU4tZkhQb0F4M2FfRXVLbjBMTHRLS1dRRlBhaHFZTHJzb2dUTHRZTzVPOVowR3Z2b0FEcnVWcmlZQjNGTjY2eGpBcGRDR1JFVWE5WGpaRDl3WjhBZG1fTEtLMHBPUkgyOFZFVjd6cnhRSWdDc05NaktFMlRPV2htT0x1bUE5NDh2dTMyZDBpZXZESUh6VkkyWWc?oc=5",
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxoaXN0b3JpYWwlMjBjYW1wZW9uZXMlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzgwNTE2MjcwfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 14:03:07 GMT"
+      },
+      {
+        "title": "América confirma la salida de André Jardine: Guillermo Almada podría ser el relevo",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaXBPS3U4R2xENGlPUHFMc09xX0tya0NPRUZWMm9oS0tyV1BCbGx2UkhweGlSOS15Nm93UkF1dGZQMGNxR1R2WjdPdVB6SGdKMmItMUtEQWhBd2hLQ1ozWW5McldFYmgzZVo1czFCamtwTHpmajFHZGZjdWppWmJaOE5MZUJPMXA5Q0tjaHpEUVFDMGd5Y0pLQWljUlJwV2VlTjlUa1VqRDVYWktSRHhwa1FFZEVQMHZWWnRNc2JLMUJuZDZid1ZZblk3TEFEV1BtVndiOFBMY0VMYms5M2FrVXBiTzVtMFnSAYICQVVfeXFMTmt0OVBQUXV0ZnRHellUaDB4UVFUclRrNWdsQVg2eG1OZVNIcHNjUEtONVJmMkExSVFFVnQ0RmxCTU9jRWprZXJ1a0xkLWJNLUU0c3RLVWJIQTc4U01IZGdGY1l6Q2xTT1BBenJPNDV4TTdhMndXMU8xYWJJbU5hWkVYY0ZLMVR5SUtLbFU1bzA1emxZY2ZkYlhQckVvZElmWWhsR29YWW9MdWo5b1hnemhwYVpkUy1RdzUtR0FBTXpjRHI3OGNNTmJiUGx2ZUh6RVZ2Z01CYTM5eGR2a3JSQTZYQVcxZ3ZQd2tZWUF0bFB4RW4yRUZDYzZSd1RrMW0yNlZR?oc=5",
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1542339754-fe63b8476ab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxhbSVDMyVBOXJpY2ElMjBjb25maXJtYSUyMHNhbGlkYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODA1NDY1MjB8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 03 Jun 2026 22:21:00 GMT"
       },
       {
         "title": "Cruz Azul ya tiene al reemplazo de Erik Lira; Club América y Chivas, en serios problemas",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPamVacEVJeWZ1YU81d3l1MHNjaHpjSHBWOHNVblBCZEUyVi1pNjdGVEFsT2VOR0xnRURQTnNUT1RDLXo3UU1IbVRWNEtWUUpIcTFyb0N0T3pRemxBcmkzbUR1TXRPR1dPU0xJVHU4SDNaWXU3eHdIMDRpNURPdVFEN2hkdkFIaUnSAYcBQVVfeXFMTWx1aTc4QjJfM0puc2QyRTBCM2I4Mmc3SDJ4UUllSW1OX2F3RlZFMVZJOHlBMHV5MlIwaXJkQWNvSDdGd1RmX2lUQ0pqUzhnVzlGSkxCNDl4T2FZLS1ORXNNWGQxSm1kWlpJR2wtY1pTcTZucmItRkVCMFllS2VvVG9fa1gydVJF?oc=5",
         "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
         "_pub_raw": "Tue, 02 Jun 2026 05:44:33 GMT"
       },
       {
@@ -273,6 +301,27 @@
         "_pub_raw": "Tue, 02 Jun 2026 18:27:06 GMT"
       },
       {
+        "title": "¿Qué partidos del Mundial 2026 se juegan en México?",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdG1fOGxzaXJhT1h3emxkUm5RUkNaNER3SDRiMnJQakQ5V05WS3pHRzI4YUx6TmdNdFBZeFhRQThOYUNzQzBGRWtRRWJyU29BczJQOGtpZzRPSnFIUlpyX3gyTzh5MDhXQTlIb2dfbzU5VXBQY3g5ekRQWm9WNXh5Qi1DdVZTVG9STXJKYlMwQW1LWHZJYktMNHFqeFZsZ05lZ1J1Z0p1MFl5TlJyZ3p2Tl9hMDJoTkhOZVVaYmRlVk5waDZFMTgwLXZB?oc=5",
+        "date": "2 jun 2026",
+        "image": "https://images.unsplash.com/photo-1537222961176-50d25fff78ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxwYXJ0aWRvcyUyMG11bmRpYWwlMjBqdWVnYW4lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzgwNDYwNDcxfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Tue, 02 Jun 2026 23:38:03 GMT"
+      },
+      {
+        "title": "Alineaciones México vs Serbia: El 11 inicial que perfila Javier Aguirre a un paso de debutar en el Mundial 2026",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjJyVkZvMGpyVmJ4d3RZM0Iwb201UXpWSWRQUFE3eWM3Y0xaWWxoSW5mZm9MQmdfSGVUUGF6UnR6LXpRZjFjX2x2STc5SWJiNGE2bThaTU4yNWVlLWFoWnlCV1hWWF9sWVNDR3liVkpJQ3lkbDdJOUJXWjBWWjBfTUcwOTZwcFFXT0ZpWldR0gGOAUFVX3lxTE5MTXY2MGRkU1h5ZTZOeWRqOFRka1VIMHZ0WU1RVUE2R0pHVGVTT24tT3dlQ1dHQm9BdGhlWkxYdUhPbDNNOVFLdTQ0b3g3TlgxWDZYaFhvZnhXX2ZId25xZEhpTHpEb1Mzc3ZjWjI1bm9xYl8wZ1ZZZldWbWJGVWgzbXVlQ25MdDZUUFFYYnc?oc=5",
+        "date": "3 jun 2026",
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "_pub_raw": "Wed, 03 Jun 2026 17:11:48 GMT"
+      },
+      {
+        "title": "¿Qué uniformes usará México durante el Mundial 2026?",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTZuVzVGZEZudWROb0NmUUpxbzhQRk5rSTVBbU92ZDM2RnFPbURYTUdwUmJIZWRQZ25kM3BfV2xsTXdIYVg2SXV1T2JXbmdDQnN5TzltZTdLMnJVOTg4QnhKLXA4UTNMNUM3ajc4UkVxTnZGU0kyMzRVTDk5UGctZ1NuZWZJVW84anhWNkdHV3RVVndQUXlhMVBXM1ZKUkd1M1ZKckNxd2tnMWpWSW9aRmZ5NNIBxwFBVV95cUxQTmtqQ3hxeTZ0emRiVWtrdTNoNW5mZFhvVUxXTkhZbW9KOEs3WmVleG5BX3VBN1NZeTRFSzZrU1Vrb0YteDN0dGZFUUJQeGZRNGtZVzJ2YnFfanFlQ2ZHeG9JSHRmZ245UDZ6REFhbnRwa3J2UVBZVWMwdC1ZNGZiNklxNHVLSmlsdXMxSVhFWVlyLTlZdFp3ZDUyUlJOdGJySlRMY1JQRmZmQ0taZDRNR1ExbHdsc3paUWpOWFlacnQ5U194Q1c0?oc=5",
+        "date": "2 jun 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx1bmlmb3JtZXMlMjB1c2FyJUMzJUExJTIwbSVDMyVBOXhpY28lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzgwNTQ2NTI0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Tue, 02 Jun 2026 04:50:34 GMT"
+      },
+      {
         "title": "¡Listos para la Copa del Mundo! México revela su foto oficial rumbo al Mundial 2026",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdlh5RlB1SXVLRmg2NEI0WTYyc2Iwc0JmOU5RV1hBd2F1dE1ub2FJSDdlaE4yMjBEZng2UkVqbVZwdTRuSHF1WC16NUdKLUtUdFB4aVRxTGg2Sk9TUXlNZVZnOWRIeXpZOUFPZ2xqcUFTUkRBSVBVRlNPQ3h3eU5OZXRzZmdnQ01zUmZYUEZCdS1zQzFpOFZHQV8ySFpiQ05ubVRDX3dwZkliV2kzWEVFbnd3anfSAbQBQVVfeXFMT09MVTdEY1BCdEhxemdidUZ1NVdzdHBrbWYwMzN0enJLMjhHeENFSmV4M2VjYTFqM2JFY05UTDBjal9SemtQc05GYVZ3MXBKbkxvTjBueXBNcVF3d0RLMkt0cmkzZU5sOHRRQUJIcWc4R2thZC1ZRkQwemIwbE9LNnpkV3ZiNDBSR0ZYQWpuNWZKdmV4UzBoZnVHN0dab3pXelI0U3NkZkxSVWI4dEJZV1FwcS1y?oc=5",
         "date": "2 jun 2026",
@@ -280,53 +329,32 @@
         "_pub_raw": "Tue, 02 Jun 2026 21:38:42 GMT"
       },
       {
-        "title": "Selección Mexicana es un lujo: México es el equipo más caro de ver en el Mundial 2026",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEl0VWxRS2FZdXZMZGlGNWFtNFVSbTYwVzA3ZmV5c0ZOSFk2Tkwyb2FTZ29waW1MMWZucFB0bzI3SEV3aTYwUGZFSFVBd3hpaUswRHM1MUw4bUp0T3UxN3hwLVBjdFlXR0ZKeExnTkM2QkZsbXJENUNmbnZOVGdOX2ZTd3R2VjDSAYcBQVVfeXFMUFpWM3ZSSnlKNFZPeWQxYzRXaTQtM1BHLUQ5TWllOFBwcGRxbnM3TS15V1d6WV95NE9SUERCQzRHcS1jWERscUhTQktRbnNsRmNiZHBUb3pFUm4zekpPVU82T2dVTDRzVEd3enIyOVJ2UU02SUZnNklWcklhUG91dTBZdHE0OXhZ?oc=5",
+        "title": "Canales para ver partido Selección Mexicana vs Serbia, último examen del 'Tri' previo al Mundial 2026",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMUlLWVVrUTVONzVjZk5ndXpDWnZJSVpIREFHMk5XZ09oVDNqTmNRcnh0Wlc5VF9rOTl1N2ZVdFhWMzhvSTd5QVpZSmNFQkhvNlU3cktnemFYb0p6TEgwU1loUUdSdmcxTEZBUjBYX1BEdFl4dXJPU25HZmFEbzRtNzVaaUtIcmwtUTFkZjAtQ3hWRTE5aXZQd0RKTDlJbFVFQU92RHRrU1VZTUdfR2dBcUpoenppV0pvdHBYR3NvUEJBek1UWUJvWnRsMGdtLUFsVkVtUXpWWGxkTEpZejVqSlQtcko5QQ?oc=5",
         "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Wed, 03 Jun 2026 15:51:53 GMT"
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "_pub_raw": "Wed, 03 Jun 2026 19:01:04 GMT"
       },
       {
-        "title": "⚽🇲🇽 Selección Mexicana toma su fotografía oficial para el Mundial delante de la Piedra del Sol A unos días del inicio del Mundial 2026, los 26 jugadores convocados por Javier Aguirre se tomaron la fotografía oficial de la Selección Mexicana en el Museo Na",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc1NoT1VBZzF0WVg5SV83WnBuQlozdy1SRHNrSGEyN25Zei1OM2t2V3JmWDVQMmhkOXRJd1ZRSUlSWmNZUVhMZGRKMnpDRDJiUnBqR1ZtNDFuUEhfQmJHSlZqODNKbXp4OXNTM3hCU3gzVFF1VTIwelZUNWp4S2FIVjNhdGZsV3FSbDZFc1dHeEFTd2luclVXWHgyTXBZM0llQUdOV3FNR01TcnM5YUhjZTZUdGI4aWdjaFZkWUVJamx1elJWVkpyQkwyZWkxNlY5ejZLNVB6VUx6cFJDVVc0bTdEeW5Xa2dv?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1537222961176-50d25fff78ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxzZWxlY2NpJUMzJUIzbiUyMG1leGljYW5hJTIwdG9tYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODA0NjA0NzV8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 05:54:31 GMT"
+        "title": "UEFA Champions League: Resultados en vivo, partidos y tablas",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14Q3lHcG96Z3E3OHlacjR6Yk9RNkJnLTZ0NG1Id2lNQUZzWXQtcHcxc2hxOWhlVmZYRkxQUjZ2U1BsQUJPcXdveHQ5SWxHM0QydFpWcjFmNVdmRDFLSGRLcTJoR0lCenJBRmc1V1h1MlBtOVJYYlVyOW53?oc=5",
+        "date": "4 jun 2026",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx1ZWZhJTIwY2hhbXBpb25zJTIwbGVhZ3VlJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4MDM3MzQ4N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 04 Jun 2026 01:01:07 GMT"
       },
       {
-        "title": "Casi 300 futbolistas no jugarán con su país natal en el Mundial",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW15OUhpcVVtSVd2R0MtSnR4QnVlMWhGSjhjS1JqVm5VQnlXSXQza0w1U2JlaWxlVUhnSXJnLU1RM21NdmlIU1U1V2V5aWxZc3FwWkkwYllfNkdGSFc4N2xMclRmNmE0cWtyZDBmaXFEeHk1ZVJoMmxHRU1KMzhRMGNTbFhHYmx2dzZ2a0JrQlBJQy1UV2JUa3hkaVJEaWZueVJr?oc=5",
+        "title": "Las figuras de Liga MX que jugarán el Mundial 2026 con otras selecciones",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkhxY2R4Q0ZrRHNicGhLUTR4RUp4TVlLUllIWklxU3FvOERQQVdJRTI0eFExa3RDQTY0cThxYTdhNWt3SHRFNzVpU3pEa1dwcVlYZXhZUXM2b2J5YkRjTUpTQlJWdGN1aWpyZXV2SHZrYXVubTk1SFU2ZEZYUVIxQ3hxdm1VRGpOX0VWb0dlMWpaYV8tcEh3UmVNajVRdXlVdnV5Y3NpUQ?oc=5",
         "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjYXNpJTIwZnV0Ym9saXN0YXMlMjBqdWdhciVDMyVBMW4lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzgwNTE2Mjc3fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 17:20:10 GMT"
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Wed, 03 Jun 2026 01:56:38 GMT"
       },
       {
-        "title": "Fútbol · Javier Hernández, Diego Lainez y las principales ausencias de México para el Mundial 2026",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFBYODNZTGlNdWZNZ19Sbk02TXg0X1hFTTZQY0xFU1dJSVA5WThGeV9NWlNhcXVBRFdTMFdMTnpTLXZ1b09NVkplNWdHNlBJRGVONVVCbmJWT211Z1Z3WDRlbVQ0WUlMOF9iNDVnWUtHQ1NGZjNmMzFWN2ZfelZKLWR6Smc3aG02bGFWSWFGdVh4UnJ0?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Wed, 03 Jun 2026 15:40:00 GMT"
-      },
-      {
-        "title": "Convocatoria de México para el Mundial 2026: lista, capitanes, dorsales y cuerpo técnico de Javier Aguirre",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRjhScnVTcUdCTGZwMWN4Q1JsU0tXRTRuRVd3RW5pREZtd3FUVmJIMmZDTFZVYjdUOGIzOVBZSEhqdWxRN0RyaFg2cDREV0R3UmZYZHlJWFZzMlROZURBYzZrSEZUcHZnM3VlbVJhM1BoRk5ENGI1cFVUTUQzakxEOW5HbFJXNXl2bWJLMDFTVGRXQXAzOFV5dUxNNVViZEFpdmo2dUtpOWNqaTYzOU45THphN0RsUTJuaGNoUTNYX2hfUVZyZTJFb0YxOF9MQVBNc0k2dHpudE1YN0xWOFF1bWR5VDdRa1FQTzhEaG5uZw?oc=5",
+        "title": "Julio Ibáñez y Daniel García liberados en Sudáfrica y volverán a México",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTFFwRDFQRFc4N2p1X3NzUWlnOUpsQW1EWkdvdXhSWUc0MVF4UHF3ZTQxdlpjWTE4WEtmTi1nTGZHallNdTJkX2t6NHJsZ3B6Ym1Dckt0ZmZ3SXdkTGtpQWhDNTl2Z0NFb2JBQ0hFMnZSMUVQSmFhR0NvSjd2bktjaGwzd214bkE0bWFjVDh1UHV2VGVsZG9XTEFNdlJVRXJBTHRHbGRHbw?oc=5",
         "date": "2 jun 2026",
-        "image": "https://images.unsplash.com/photo-1537222961176-50d25fff78ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjb252b2NhdG9yaWElMjBtJUMzJUE5eGljbyUyMG11bmRpYWwlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzgwNDAxOTcwfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 02 Jun 2026 13:15:26 GMT"
-      },
-      {
-        "title": "¿Dónde Nacieron los Jugadores de la Selección Mexicana que Estarán en el Mundial?",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMXBqUUhXdmI3TmRYMFIwSWVrWFNXdFFneGVEeWRic0RUaUJydFNtcDBSclFqbm50QkIwSmR6Y2c3QXJEMkpVY2JER2JWUWprOHhIdzh3VmFidUJxaTEzZTl5YWZPVDM2M3ZrNFI3LVpXdVNVWHY2Q3g5S29wTkJlaXFIaktQLXpxWWVES1ViUUh5YkJhVjdBQ1VHUnFqUjRIRDhxTzVRWUd4ZVpYT0Vj?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxkJUMzJUIzbmRlJTIwbmFjaWVyb24lMjBqdWdhZG9yZXMlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzgwNTE2MjgwfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 03 Jun 2026 19:16:10 GMT"
-      },
-      {
-        "title": "¿De qué cantera surgió cada uno de los convocados de la Selección Mexicana al Mundial 2026?",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVd1R0NhY2VLWm9iWUVyUFhXLUQwQkZjeGdvVzhnSmNLWTR5T1FSR1E3UmpENjFhaFFNNTRnU2hlY3JtY0hDd1ZMWTA5ak8tNk1aQWI5TGIwbnRVZTZCNXNLMmVkZkRHd0V3LTBTamxzNU8tRFkxdERLeWFFZGtPdW8xVk93X1JubXJjTXdSbHEtTVVtYUVCV0k4YzZEOWpwNHpOcGY1MWkyaHJCcG1qQ0xtVWpqUU1UVWpvazdSQThfejZwNmpxRUVOempMMFdVai000gHnAUFVX3lxTE5CZ2pqeHEteDF2OWJIbm91UG1VZ1NzQW1GSTdweWo1ZFhaVFNid09BTUFCY2t5cVozZnNBcE1kTDlWMkRHQTVfdi1PNm5OUDhxTUF4ZUYzVHUtN3p0VTI2TnZaaldPMk1JTVZWTHZtdkFPVk1yYXBkYTAzdlQ4Nnk4SXY2TVphbWJEdmM5OGpwd0ZaTEdfZkNfbjhDNEdqZWE0WVpSMXlnNk1VVEJWWVJUTy1Ma2lyTm5YSk1uekpPbGVmbE5hWE9qR3lyRzZCYzlnU3BhUld1b2c0OXFRQWlRMjdOZkkxaw?oc=5",
-        "date": "3 jun 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Wed, 03 Jun 2026 18:30:58 GMT"
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "_pub_raw": "Tue, 02 Jun 2026 13:05:04 GMT"
       }
     ]
   }
