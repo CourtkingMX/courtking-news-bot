@@ -1,5 +1,5 @@
 {
-  "updated": "05/06/2026 21:16 UTC",
+  "updated": "05/06/2026 22:57 UTC",
   "sports": {
     "bk": [
       {
@@ -167,57 +167,57 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 24 May",
-        "local": "Parma",
+        "fecha": "Sun 23 Aug",
+        "local": "AS Roma",
+        "visita": "Fiorentina",
+        "score": "",
+        "liga": "Serie A",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
+      },
+      {
+        "fecha": "Sun 23 Aug",
+        "local": "Atalanta",
         "visita": "Sassuolo",
-        "score": "1-0",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 24 May",
-        "local": "Napoli",
-        "visita": "Udinese",
-        "score": "1-0",
+        "fecha": "Sun 23 Aug",
+        "local": "Bologna",
+        "visita": "Lazio",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 24 May",
-        "local": "Milan",
-        "visita": "Cagliari",
-        "score": "1-2",
+        "fecha": "Sun 23 Aug",
+        "local": "Frosinone",
+        "visita": "Juventus",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 24 May",
-        "local": "Cremonese",
-        "visita": "Como",
-        "score": "1-4",
+        "fecha": "Sun 23 Aug",
+        "local": "Genoa",
+        "visita": "Napoli",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 24 May",
-        "local": "Verona",
-        "visita": "AS Roma",
-        "score": "0-2",
+        "fecha": "Sun 23 Aug",
+        "local": "Inter Milan",
+        "visita": "Monza",
+        "score": "",
         "liga": "Serie A",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 24 May",
-        "local": "Lecce",
-        "visita": "Genoa",
-        "score": "1-0",
-        "liga": "Serie A",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       }
     ],
