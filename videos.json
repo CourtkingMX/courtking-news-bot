@@ -1,7 +1,14 @@
 {
-  "updated": "07/06/2026 10:30 UTC",
+  "updated": "07/06/2026 17:19 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "LNVKTzWXqoE",
+        "title": "New York Knicks | NBA Finals Game 3 Media Availability Press Conferences",
+        "thumb": "https://i.ytimg.com/vi/LNVKTzWXqoE/mqdefault_live.jpg",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=LNVKTzWXqoE"
+      },
       {
         "vid": "DBIA5G93Dag",
         "title": "Christian &amp; Scooby mic’d up at Game 2 of the NBA Finals in San Antonio 🔥",
@@ -29,13 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/fdRVEjS45T8/mqdefault.jpg",
         "date": "2026-06-06",
         "url": "https://www.youtube.com/watch?v=fdRVEjS45T8"
-      },
-      {
-        "vid": "ZFXR4HwKoGc",
-        "title": "When Allen Iverson Dropped 48 In His NBA Finals Debut vs Lakers! 👑 (25 Years Later) | June 6, 2001",
-        "thumb": "https://i.ytimg.com/vi/ZFXR4HwKoGc/mqdefault.jpg",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=ZFXR4HwKoGc"
       },
       {
         "vid": "sEINzhJIIXQ",
@@ -98,6 +98,27 @@
     ],
     "fx": [
       {
+        "vid": "LUGr8daAnk8",
+        "title": "¡Una PARADA INCREÍBLE por CADA EQUIPO! 🧤 | LALIGA EA SPORTS 2025/26",
+        "thumb": "https://i.ytimg.com/vi/LUGr8daAnk8/mqdefault.jpg",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=LUGr8daAnk8"
+      },
+      {
+        "vid": "cmhHW2bO6XQ",
+        "title": "SEMIFINALES Y FINAL - XXXIII TORNEO NACIONAL LALIGA FC FUTURES",
+        "thumb": "https://i.ytimg.com/vi/cmhHW2bO6XQ/mqdefault.jpg",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=cmhHW2bO6XQ"
+      },
+      {
+        "vid": "5UAkER1VScs",
+        "title": "¡El GOLAZO del ELCHE CF para ser campeones de #LALIGAFCFUTURES! 🏆💚",
+        "thumb": "https://i.ytimg.com/vi/5UAkER1VScs/mqdefault.jpg",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=5UAkER1VScs"
+      },
+      {
         "vid": "5zHVnXcnpUU",
         "title": "Puro Fede Valverde 🚀⚽",
         "thumb": "https://i.ytimg.com/vi/5zHVnXcnpUU/mqdefault.jpg",
@@ -112,25 +133,11 @@
         "url": "https://www.youtube.com/watch?v=qjZqcHnvt4I"
       },
       {
-        "vid": "PZANfV3AdSs",
-        "title": "¡El ELCHE es semifinalista de #LALIGAFCFUTURES! 🎯",
-        "thumb": "https://i.ytimg.com/vi/PZANfV3AdSs/mqdefault.jpg",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=PZANfV3AdSs"
-      },
-      {
-        "vid": "n7ZwDQR2RsA",
-        "title": "CUARTOS DE FINAL - XXXIII TORNEO NACIONAL LALIGA FC FUTURES",
-        "thumb": "https://i.ytimg.com/vi/n7ZwDQR2RsA/mqdefault.jpg",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=n7ZwDQR2RsA"
-      },
-      {
-        "vid": "vY3d6dKLgpo",
-        "title": "Al más puro estilo COURTOIS ✈️",
-        "thumb": "https://i.ytimg.com/vi/vY3d6dKLgpo/mqdefault.jpg",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=vY3d6dKLgpo"
+        "vid": "baxsWQeWah4",
+        "title": "Glasner couldn’t believe it!",
+        "thumb": "https://i.ytimg.com/vi/baxsWQeWah4/mqdefault.jpg",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=baxsWQeWah4"
       },
       {
         "vid": "gvgmNFqfB-8",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/gJNFP0qrgdI/mqdefault.jpg",
         "date": "2026-06-06",
         "url": "https://www.youtube.com/watch?v=gJNFP0qrgdI"
-      },
-      {
-        "vid": "GkxOFevUC3U",
-        "title": "When Enrique scored against Arsenal",
-        "thumb": "https://i.ytimg.com/vi/GkxOFevUC3U/mqdefault.jpg",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=GkxOFevUC3U"
       }
     ]
   }
