@@ -1,5 +1,5 @@
 {
-  "updated": "08/06/2026 04:12 UTC",
+  "updated": "08/06/2026 12:34 UTC",
   "sports": {
     "bk": [
       {
@@ -98,6 +98,20 @@
     ],
     "fx": [
       {
+        "vid": "lcJ7PJgo_0I",
+        "title": "Las MEJORES PARADAS de JOAN GARCIA 🧤 | LALIGA EA SPORTS 2025/26",
+        "thumb": "https://i.ytimg.com/vi/lcJ7PJgo_0I/mqdefault.jpg",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=lcJ7PJgo_0I"
+      },
+      {
+        "vid": "Hp55zLnr1Cg",
+        "title": "Todos reaccionaríamos igual si nos toca ese CROMO 😅",
+        "thumb": "https://i.ytimg.com/vi/Hp55zLnr1Cg/mqdefault.jpg",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=Hp55zLnr1Cg"
+      },
+      {
         "vid": "8VC9ZDp8e2A",
         "title": "¿Cómo sacó esto Remiro? 😮‍💨🧤",
         "thumb": "https://i.ytimg.com/vi/8VC9ZDp8e2A/mqdefault.jpg",
@@ -119,18 +133,11 @@
         "url": "https://www.youtube.com/watch?v=LUGr8daAnk8"
       },
       {
-        "vid": "cmhHW2bO6XQ",
-        "title": "SEMIFINALES Y FINAL - XXXIII TORNEO NACIONAL LALIGA FC FUTURES",
-        "thumb": "https://i.ytimg.com/vi/cmhHW2bO6XQ/mqdefault.jpg",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=cmhHW2bO6XQ"
-      },
-      {
-        "vid": "5UAkER1VScs",
-        "title": "¡El GOLAZO del ELCHE CF para ser campeones de #LALIGAFCFUTURES! 🏆💚",
-        "thumb": "https://i.ytimg.com/vi/5UAkER1VScs/mqdefault.jpg",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=5UAkER1VScs"
+        "vid": "b9PRkuKBo5Q",
+        "title": "Osimhen 🔋🔋🔋",
+        "thumb": "https://i.ytimg.com/vi/b9PRkuKBo5Q/mqdefault.jpg",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=b9PRkuKBo5Q"
       },
       {
         "vid": "mZZeRjhmKI4",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/baxsWQeWah4/mqdefault.jpg",
         "date": "2026-06-07",
         "url": "https://www.youtube.com/watch?v=baxsWQeWah4"
-      },
-      {
-        "vid": "gvgmNFqfB-8",
-        "title": "An experience these mascots will never forget at the #UECLfinal 🥹",
-        "thumb": "https://i.ytimg.com/vi/gvgmNFqfB-8/mqdefault.jpg",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=gvgmNFqfB-8"
       }
     ]
   }
