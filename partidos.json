@@ -1,5 +1,5 @@
 {
-  "updated": "10/06/2026 20:09 UTC",
+  "updated": "10/06/2026 22:46 UTC",
   "sports": {
     "bk": [
       {
@@ -113,57 +113,57 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 17 May",
-        "local": "Brest",
-        "visita": "Angers",
-        "score": "1-1",
+        "fecha": "Sat 22 Aug",
+        "local": "Angers",
+        "visita": "Lille",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 17 May",
-        "local": "Lille",
+        "fecha": "Sat 22 Aug",
+        "local": "Le Havre AC",
+        "visita": "Monaco",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sat 22 Aug",
+        "local": "Le Mans",
+        "visita": "Brest",
+        "score": "",
+        "liga": "Ligue 1",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
+      },
+      {
+        "fecha": "Sat 22 Aug",
+        "local": "Lens",
         "visita": "Auxerre",
-        "score": "0-2",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 17 May",
-        "local": "Lorient",
-        "visita": "Le Havre AC",
-        "score": "0-2",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 17 May",
-        "local": "Lyon",
-        "visita": "Lens",
-        "score": "0-4",
-        "liga": "Ligue 1",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sun 17 May",
+        "fecha": "Sat 22 Aug",
         "local": "Marseille",
-        "visita": "Rennes",
-        "score": "3-1",
+        "visita": "Strasbourg",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 17 May",
-        "local": "Nantes",
-        "visita": "Toulouse",
-        "score": "0-0",
+        "fecha": "Sat 22 Aug",
+        "local": "Nice",
+        "visita": "Lorient",
+        "score": "",
         "liga": "Ligue 1",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
