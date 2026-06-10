@@ -1,5 +1,5 @@
 {
-  "updated": "10/06/2026 03:55 UTC",
+  "updated": "10/06/2026 11:39 UTC",
   "sports": {
     "bk": [
       {
@@ -61,62 +61,76 @@
     ],
     "pd": [
       {
-        "vid": "LrVJoY2TnmA",
-        "title": "(Replay) Valencia Premier Padel P1 🇪🇸🎾: Centre Court (🇬🇧) (June 9th)",
-        "thumb": "https://i.ytimg.com/vi/LrVJoY2TnmA/mqdefault.jpg",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=LrVJoY2TnmA"
+        "vid": "CASupeZB50A",
+        "title": "Valencia Premier Padel P1 🇪🇸🎾:  Court 2 (🇪🇸)",
+        "thumb": "https://i.ytimg.com/vi/CASupeZB50A/mqdefault_live.jpg",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=CASupeZB50A"
       },
       {
-        "vid": "-PZ8VAZJr4g",
-        "title": "(Replay) Valencia Premier Padel P1 🇪🇸🎾: Centre Court (🇪🇸) (June 9th)",
-        "thumb": "https://i.ytimg.com/vi/-PZ8VAZJr4g/mqdefault.jpg",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=-PZ8VAZJr4g"
+        "vid": "oM2AprhYK0E",
+        "title": "Valencia Premier Padel P1 🇪🇸🎾: Centre Court",
+        "thumb": "https://i.ytimg.com/vi/oM2AprhYK0E/mqdefault_live.jpg",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=oM2AprhYK0E"
       },
       {
-        "vid": "fz-s5qy2FFg",
-        "title": "(Replay) Valencia Premier Padel P1 🇪🇸🎾:  Court 2 (🇪🇸) (June 9th)",
-        "thumb": "https://i.ytimg.com/vi/fz-s5qy2FFg/mqdefault.jpg",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=fz-s5qy2FFg"
-      },
-      {
-        "vid": "1PhImX-j6qA",
+        "vid": "hstKNecwRCY",
         "title": "Valencia Premier Padel P1 🇪🇸🎾: Centre Court (🇪🇸)",
-        "thumb": "https://i.ytimg.com/vi/1PhImX-j6qA/mqdefault_live.jpg",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=1PhImX-j6qA"
+        "thumb": "https://i.ytimg.com/vi/hstKNecwRCY/mqdefault_live.jpg",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=hstKNecwRCY"
       },
       {
-        "vid": "QEQ7c35EUgM",
-        "title": "Valencia Premier Padel P1 🇪🇸🎾: Centre Court (🇬🇧)",
-        "thumb": "https://i.ytimg.com/vi/QEQ7c35EUgM/mqdefault_live.jpg",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=QEQ7c35EUgM"
+        "vid": "ldFHyDBWpNE",
+        "title": "Valencia Premier Padel P1 🇪🇸🎾: Court 3",
+        "thumb": "https://i.ytimg.com/vi/ldFHyDBWpNE/mqdefault.jpg",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=ldFHyDBWpNE"
+      },
+      {
+        "vid": "bRUbI6tv1VU",
+        "title": "Valencia Premier Padel P1 🇪🇸🎾: Day 2 - Women&#39;s Highlights",
+        "thumb": "https://i.ytimg.com/vi/bRUbI6tv1VU/mqdefault.jpg",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=bRUbI6tv1VU"
       }
     ],
     "fx": [
+      {
+        "vid": "CN5UMUOMmvs",
+        "title": "Lo MEJOR de las Estrellas de MÉXICO, ESTADOS UNIDOS y CANADÁ en LALIGA 🌎",
+        "thumb": "https://i.ytimg.com/vi/CN5UMUOMmvs/mqdefault.jpg",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=CN5UMUOMmvs"
+      },
+      {
+        "vid": "KoGlsXE5Jfs",
+        "title": "CUBO Challenge con los chicos del ATLÉTICO DE MADRID 🪣⚽️",
+        "thumb": "https://i.ytimg.com/vi/KoGlsXE5Jfs/mqdefault.jpg",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=KoGlsXE5Jfs"
+      },
+      {
+        "vid": "SMmIYXDQXvs",
+        "title": "Qué disparo, qué momento 🚀⚽",
+        "thumb": "https://i.ytimg.com/vi/SMmIYXDQXvs/mqdefault.jpg",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=SMmIYXDQXvs"
+      },
+      {
+        "vid": "v8VYo-ztdUU",
+        "title": "TIC, TAC… MOURINHO 🤍",
+        "thumb": "https://i.ytimg.com/vi/v8VYo-ztdUU/mqdefault.jpg",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=v8VYo-ztdUU"
+      },
       {
         "vid": "Ch6t5NMUkTs",
         "title": "La PIZARRA de XAVIER GARCÍA PIMIENTA",
         "thumb": "https://i.ytimg.com/vi/Ch6t5NMUkTs/mqdefault.jpg",
         "date": "2026-06-09",
         "url": "https://www.youtube.com/watch?v=Ch6t5NMUkTs"
-      },
-      {
-        "vid": "y0ugvIXWLOo",
-        "title": "GOLAZOS de JUGADORES del MUNDIAL en LALIGA 🌍⚽",
-        "thumb": "https://i.ytimg.com/vi/y0ugvIXWLOo/mqdefault.jpg",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=y0ugvIXWLOo"
-      },
-      {
-        "vid": "Y3Xxp7nVnTc",
-        "title": "¡LOS 10 MEJORES GOLES DEL GETAFE CF EN LA TEMPORADA 25/26!",
-        "thumb": "https://i.ytimg.com/vi/Y3Xxp7nVnTc/mqdefault.jpg",
-        "date": "2026-06-08",
-        "url": "https://www.youtube.com/watch?v=Y3Xxp7nVnTc"
       },
       {
         "vid": "lIApyrFJUNo",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/GnhaKzMEWLA/mqdefault.jpg",
         "date": "2026-06-09",
         "url": "https://www.youtube.com/watch?v=GnhaKzMEWLA"
-      },
-      {
-        "vid": "dn3aq5YjAFE",
-        "title": "Martinelli at the Bernabéu 😮‍💨",
-        "thumb": "https://i.ytimg.com/vi/dn3aq5YjAFE/mqdefault.jpg",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=dn3aq5YjAFE"
-      },
-      {
-        "vid": "eqjk_6ixVUQ",
-        "title": "Unstoppable Olise 🤯🇫🇷",
-        "thumb": "https://i.ytimg.com/vi/eqjk_6ixVUQ/mqdefault.jpg",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=eqjk_6ixVUQ"
       }
     ]
   }
