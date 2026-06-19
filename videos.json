@@ -1,5 +1,5 @@
 {
-  "updated": "19/06/2026 04:39 UTC",
+  "updated": "19/06/2026 12:07 UTC",
   "sports": {
     "bk": [
       {
@@ -98,6 +98,20 @@
     ],
     "fx": [
       {
+        "vid": "zo06WaPaNos",
+        "title": "Un GOLAZO de CADA JORNADA de LALIGA 2025/26 ⚽",
+        "thumb": "https://i.ytimg.com/vi/zo06WaPaNos/mqdefault.jpg",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=zo06WaPaNos"
+      },
+      {
+        "vid": "OJIEnMAQ5V8",
+        "title": "11 asistencias de LAMINE YAMAL a 7 jugadores diferentes",
+        "thumb": "https://i.ytimg.com/vi/OJIEnMAQ5V8/mqdefault.jpg",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=OJIEnMAQ5V8"
+      },
+      {
         "vid": "Izoy5N1gMyk",
         "title": "¡Qué bombazo de Muñoz! 💣",
         "thumb": "https://i.ytimg.com/vi/Izoy5N1gMyk/mqdefault.jpg",
@@ -119,27 +133,6 @@
         "url": "https://www.youtube.com/watch?v=_ADQe5Kb42I"
       },
       {
-        "vid": "atp_JhYr9u0",
-        "title": "Rashford no falla en los contragolpes",
-        "thumb": "https://i.ytimg.com/vi/atp_JhYr9u0/mqdefault.jpg",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=atp_JhYr9u0"
-      },
-      {
-        "vid": "szfa31yIfK0",
-        "title": "VÍCTOR MUÑOZ, jugador REVELACIÓN en LALIGA EA SPORTS 2025/26  🚀",
-        "thumb": "https://i.ytimg.com/vi/szfa31yIfK0/mqdefault.jpg",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=szfa31yIfK0"
-      },
-      {
-        "vid": "SJD10D9aciM",
-        "title": "These Mexican Goalscorers Are Champions League Royalty  🇲🇽",
-        "thumb": "https://i.ytimg.com/vi/SJD10D9aciM/mqdefault.jpg",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=SJD10D9aciM"
-      },
-      {
         "vid": "LY-LV10lcqk",
         "title": "How do you stop Haaland? 😮‍💨",
         "thumb": "https://i.ytimg.com/vi/LY-LV10lcqk/mqdefault.jpg",
@@ -152,6 +145,13 @@
         "thumb": "https://i.ytimg.com/vi/q-WFc2gkA6o/mqdefault.jpg",
         "date": "2026-06-18",
         "url": "https://www.youtube.com/watch?v=q-WFc2gkA6o"
+      },
+      {
+        "vid": "FCV_hCSdJKA",
+        "title": "Playing the beautiful game 🇬🇷",
+        "thumb": "https://i.ytimg.com/vi/FCV_hCSdJKA/mqdefault.jpg",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=FCV_hCSdJKA"
       }
     ]
   }
