@@ -1,5 +1,5 @@
 {
-  "updated": "24/06/2026 13:10 UTC",
+  "updated": "24/06/2026 16:07 UTC",
   "sports": {
     "bk": [
       {
@@ -113,43 +113,25 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
       },
       {
-        "fecha": "Sun 23 Aug",
-        "local": "AS Roma",
-        "visita": "Fiorentina",
+        "fecha": "Sat 22 Aug",
+        "local": "Inter Milan",
+        "visita": "Monza",
         "score": "",
         "liga": "Serie A",
         "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 23 Aug",
-        "local": "Atalanta",
-        "visita": "Sassuolo",
+        "fecha": "Sat 22 Aug",
+        "local": "Udinese",
+        "visita": "Como",
         "score": "",
         "liga": "Serie A",
         "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 23 Aug",
-        "local": "Bologna",
-        "visita": "Lazio",
-        "score": "",
-        "liga": "Serie A",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 23 Aug",
-        "local": "Frosinone",
-        "visita": "Juventus",
-        "score": "",
-        "liga": "Serie A",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
-      },
-      {
-        "fecha": "Sun 23 Aug",
+        "fecha": "Sat 22 Aug",
         "local": "Genoa",
         "visita": "Napoli",
         "score": "",
@@ -158,9 +140,9 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
       },
       {
-        "fecha": "Sun 23 Aug",
-        "local": "Inter Milan",
-        "visita": "Monza",
+        "fecha": "Sat 22 Aug",
+        "local": "Parma",
+        "visita": "Cagliari",
         "score": "",
         "liga": "Serie A",
         "estado": "pre",
