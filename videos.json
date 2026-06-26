@@ -1,7 +1,14 @@
 {
-  "updated": "26/06/2026 10:53 UTC",
+  "updated": "26/06/2026 17:49 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "0SwUNK62fHo",
+        "title": "Caleb Wilson talks about his work ethic that drives him in basketball",
+        "thumb": "https://i.ytimg.com/vi/0SwUNK62fHo/mqdefault.jpg",
+        "date": "2026-06-26",
+        "url": "https://www.youtube.com/watch?v=0SwUNK62fHo"
+      },
       {
         "vid": "vBTZWIPgiwk",
         "title": "Cam Boozer, Karim López, &amp; Richie Saunders FULL Memphis Grizzlies Introductory Press Conference",
@@ -29,13 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/uQvoCzVRUgk/mqdefault.jpg",
         "date": "2026-06-25",
         "url": "https://www.youtube.com/watch?v=uQvoCzVRUgk"
-      },
-      {
-        "vid": "bdSFZRgLVp4",
-        "title": "No. 1 Overall Pick AJ Dybantsa FULL Washington Wizards Introductory Press Conference",
-        "thumb": "https://i.ytimg.com/vi/bdSFZRgLVp4/mqdefault.jpg",
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=bdSFZRgLVp4"
       },
       {
         "vid": "gQ6CHqCLTZU",
@@ -98,6 +98,20 @@
     ],
     "fx": [
       {
+        "vid": "GaAYQ7Pu9c4",
+        "title": "Hubo una vez… de Odegaard en el Real Madrid",
+        "thumb": "https://i.ytimg.com/vi/GaAYQ7Pu9c4/mqdefault.jpg",
+        "date": "2026-06-26",
+        "url": "https://www.youtube.com/watch?v=GaAYQ7Pu9c4"
+      },
+      {
+        "vid": "TPFTSpAEekw",
+        "title": "Spark the Team like Nicolás Pépé ✨ ⚽ | GOALITOS",
+        "thumb": "https://i.ytimg.com/vi/TPFTSpAEekw/mqdefault.jpg",
+        "date": "2026-06-26",
+        "url": "https://www.youtube.com/watch?v=TPFTSpAEekw"
+      },
+      {
         "vid": "FCvd4j1rmPY",
         "title": "¡TODOS los HAT-TRICKS de LALIGA 2025/26! 🎩⚽",
         "thumb": "https://i.ytimg.com/vi/FCvd4j1rmPY/mqdefault.jpg",
@@ -119,18 +133,18 @@
         "url": "https://www.youtube.com/watch?v=0mZCnbpfkoI"
       },
       {
-        "vid": "MpYsQWkK3HI",
-        "title": "¿Echas de menos a Rodrygo? 🇧🇷",
-        "thumb": "https://i.ytimg.com/vi/MpYsQWkK3HI/mqdefault.jpg",
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=MpYsQWkK3HI"
+        "vid": "t00wYmHeF7E",
+        "title": "👏👏👏",
+        "thumb": "https://i.ytimg.com/vi/t00wYmHeF7E/mqdefault.jpg",
+        "date": "2026-06-26",
+        "url": "https://www.youtube.com/watch?v=t00wYmHeF7E"
       },
       {
-        "vid": "sKV_jsC5Amo",
-        "title": "¡Los 10 MEJORES GOLES de RCD MALLORCA en LALIGA 2025/26! 👹",
-        "thumb": "https://i.ytimg.com/vi/sKV_jsC5Amo/mqdefault.jpg",
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=sKV_jsC5Amo"
+        "vid": "1aATOxL63ns",
+        "title": "What a talent! 😍",
+        "thumb": "https://i.ytimg.com/vi/1aATOxL63ns/mqdefault.jpg",
+        "date": "2026-06-26",
+        "url": "https://www.youtube.com/watch?v=1aATOxL63ns"
       },
       {
         "vid": "1GCjRoVrt1I",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/1GCjRoVrt1I/mqdefault.jpg",
         "date": "2026-06-25",
         "url": "https://www.youtube.com/watch?v=1GCjRoVrt1I"
-      },
-      {
-        "vid": "iini25cDVeo",
-        "title": "Pure Brazilian Magic In The Champions League 🇧🇷",
-        "thumb": "https://i.ytimg.com/vi/iini25cDVeo/mqdefault.jpg",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=iini25cDVeo"
-      },
-      {
-        "vid": "F3FRa7Z32VU",
-        "title": "Wow 😱",
-        "thumb": "https://i.ytimg.com/vi/F3FRa7Z32VU/mqdefault.jpg",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=F3FRa7Z32VU"
       }
     ]
   }
