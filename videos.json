@@ -1,5 +1,5 @@
 {
-  "updated": "28/06/2026 10:28 UTC",
+  "updated": "28/06/2026 17:14 UTC",
   "sports": {
     "bk": [
       {
@@ -98,6 +98,20 @@
     ],
     "fx": [
       {
+        "vid": "KGBpdF1vZ_s",
+        "title": "LO MEJOR de CUCHO en LALIGA 2025/26",
+        "thumb": "https://i.ytimg.com/vi/KGBpdF1vZ_s/mqdefault.jpg",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=KGBpdF1vZ_s"
+      },
+      {
+        "vid": "CEYWFB7ZBm8",
+        "title": "Dibu Martínez también paraba en LALIGA",
+        "thumb": "https://i.ytimg.com/vi/CEYWFB7ZBm8/mqdefault.jpg",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=CEYWFB7ZBm8"
+      },
+      {
         "vid": "qFKOkPtEUFk",
         "title": "¡Los MEJORES GOLES de la generación SUB21 en LALIGA 2025/26!",
         "thumb": "https://i.ytimg.com/vi/qFKOkPtEUFk/mqdefault.jpg",
@@ -119,18 +133,11 @@
         "url": "https://www.youtube.com/watch?v=92UWPe2GDKo"
       },
       {
-        "vid": "UaKXk-476VA",
-        "title": "¡Los 10 MEJORES GOLES de GIRONA FC en LALIGA 2025/26! ❤️",
-        "thumb": "https://i.ytimg.com/vi/UaKXk-476VA/mqdefault.jpg",
-        "date": "2026-06-27",
-        "url": "https://www.youtube.com/watch?v=UaKXk-476VA"
-      },
-      {
-        "vid": "tXROTeXzk6o",
-        "title": "¡TODAS las REMONTADAS del FC BARCELONA en LALIGA 2025/26! 🔵🔴",
-        "thumb": "https://i.ytimg.com/vi/tXROTeXzk6o/mqdefault.jpg",
-        "date": "2026-06-27",
-        "url": "https://www.youtube.com/watch?v=tXROTeXzk6o"
+        "vid": "iWNLv8k5y0U",
+        "title": "How Did He Save That?! 😱 BEST Champions League Saves of the Season!",
+        "thumb": "https://i.ytimg.com/vi/iWNLv8k5y0U/mqdefault.jpg",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=iWNLv8k5y0U"
       },
       {
         "vid": "KVC2eJRHPNU",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/VcgN3dT7uLQ/mqdefault.jpg",
         "date": "2026-06-27",
         "url": "https://www.youtube.com/watch?v=VcgN3dT7uLQ"
-      },
-      {
-        "vid": "oNtA7nQqxno",
-        "title": "Messi didn’t look at the goal once 🤯",
-        "thumb": "https://i.ytimg.com/vi/oNtA7nQqxno/mqdefault.jpg",
-        "date": "2026-06-27",
-        "url": "https://www.youtube.com/watch?v=oNtA7nQqxno"
       }
     ]
   }
