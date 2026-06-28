@@ -1,5 +1,5 @@
 {
-  "updated": "28/06/2026 04:00 UTC",
+  "updated": "28/06/2026 10:28 UTC",
   "sports": {
     "bk": [
       {
@@ -61,6 +61,13 @@
     ],
     "pd": [
       {
+        "vid": "Scs13aF7po4",
+        "title": "28 June 2026",
+        "thumb": "https://i.ytimg.com/vi/Scs13aF7po4/mqdefault.jpg",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=Scs13aF7po4"
+      },
+      {
         "vid": "azTG7VfZ6v8",
         "title": "Insane block by Coello in the Valladolid P2",
         "thumb": "https://i.ytimg.com/vi/azTG7VfZ6v8/mqdefault.jpg",
@@ -87,16 +94,23 @@
         "thumb": "https://i.ytimg.com/vi/WEKB17hkD3E/mqdefault.jpg",
         "date": "2026-06-25",
         "url": "https://www.youtube.com/watch?v=WEKB17hkD3E"
-      },
-      {
-        "vid": "rpduemy73Ho",
-        "title": "(Replay) Valladolid Premier Padel P2 🇪🇸🎾: Caja Rural Zamora (🇪🇸) (June 25th)",
-        "thumb": "https://i.ytimg.com/vi/rpduemy73Ho/mqdefault.jpg",
-        "date": "2026-06-25",
-        "url": "https://www.youtube.com/watch?v=rpduemy73Ho"
       }
     ],
     "fx": [
+      {
+        "vid": "qFKOkPtEUFk",
+        "title": "¡Los MEJORES GOLES de la generación SUB21 en LALIGA 2025/26!",
+        "thumb": "https://i.ytimg.com/vi/qFKOkPtEUFk/mqdefault.jpg",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=qFKOkPtEUFk"
+      },
+      {
+        "vid": "LF0338qjda4",
+        "title": "La conexión Lamine-Lewandowski 🔥⚽",
+        "thumb": "https://i.ytimg.com/vi/LF0338qjda4/mqdefault.jpg",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=LF0338qjda4"
+      },
       {
         "vid": "92UWPe2GDKo",
         "title": "Cuando HAZARD le tiró un año al árbitro 👀",
@@ -117,20 +131,6 @@
         "thumb": "https://i.ytimg.com/vi/tXROTeXzk6o/mqdefault.jpg",
         "date": "2026-06-27",
         "url": "https://www.youtube.com/watch?v=tXROTeXzk6o"
-      },
-      {
-        "vid": "DM3oHsHLgVA",
-        "title": "¿VALVERDE o PEDRI? 🤌",
-        "thumb": "https://i.ytimg.com/vi/DM3oHsHLgVA/mqdefault.jpg",
-        "date": "2026-06-26",
-        "url": "https://www.youtube.com/watch?v=DM3oHsHLgVA"
-      },
-      {
-        "vid": "Cqb6B0M5j54",
-        "title": "LO MEJOR de GONÇALO GUEDES en LALIGA 2025/26",
-        "thumb": "https://i.ytimg.com/vi/Cqb6B0M5j54/mqdefault.jpg",
-        "date": "2026-06-26",
-        "url": "https://www.youtube.com/watch?v=Cqb6B0M5j54"
       },
       {
         "vid": "KVC2eJRHPNU",
