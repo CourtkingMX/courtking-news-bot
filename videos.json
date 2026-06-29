@@ -1,5 +1,5 @@
 {
-  "updated": "29/06/2026 04:07 UTC",
+  "updated": "29/06/2026 12:36 UTC",
   "sports": {
     "bk": [
       {
@@ -43,6 +43,20 @@
         "thumb": "https://i.ytimg.com/vi/gQ6CHqCLTZU/mqdefault.jpg",
         "date": "2026-06-26",
         "url": "https://www.youtube.com/watch?v=gQ6CHqCLTZU"
+      },
+      {
+        "vid": "d51kqvLmjGQ",
+        "title": "San Antonio Spurs vs Minnesota Timberwolves Game 2 Full Highlights | 2026 WCSF | FreeDawkins",
+        "thumb": "https://i.ytimg.com/vi/d51kqvLmjGQ/mqdefault.jpg",
+        "date": "2026-05-07",
+        "url": "https://www.youtube.com/watch?v=d51kqvLmjGQ"
+      },
+      {
+        "vid": "TRnc5Ef8uGY",
+        "title": "San Antonio Spurs vs Portland Trailblazers Game 5 Full Highlights | 2026 WCR1 | FreeDawkins",
+        "thumb": "https://i.ytimg.com/vi/TRnc5Ef8uGY/mqdefault.jpg",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=TRnc5Ef8uGY"
       }
     ],
     "pd": [
@@ -84,6 +98,20 @@
     ],
     "fx": [
       {
+        "vid": "JT7XBSRDoaI",
+        "title": "Cómo lo hizo NEYMAR",
+        "thumb": "https://i.ytimg.com/vi/JT7XBSRDoaI/mqdefault.jpg",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=JT7XBSRDoaI"
+      },
+      {
+        "vid": "ks6HiQ3XKH0",
+        "title": "¡Lo mejor de SERGIO CANALES en LALIGA! 🪄",
+        "thumb": "https://i.ytimg.com/vi/ks6HiQ3XKH0/mqdefault.jpg",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=ks6HiQ3XKH0"
+      },
+      {
         "vid": "Xkh-zQymV3c",
         "title": "Una chilena para el recuerdo ✨⚽",
         "thumb": "https://i.ytimg.com/vi/Xkh-zQymV3c/mqdefault.jpg",
@@ -99,24 +127,17 @@
       },
       {
         "vid": "KGBpdF1vZ_s",
-        "title": "LO MEJOR de CUCHO en LALIGA 2025/26",
+        "title": "Lo MEJOR de CUCHO en LALIGA 2025/26",
         "thumb": "https://i.ytimg.com/vi/KGBpdF1vZ_s/mqdefault.jpg",
         "date": "2026-06-28",
         "url": "https://www.youtube.com/watch?v=KGBpdF1vZ_s"
       },
       {
-        "vid": "CEYWFB7ZBm8",
-        "title": "Dibu Martínez también paraba en LALIGA",
-        "thumb": "https://i.ytimg.com/vi/CEYWFB7ZBm8/mqdefault.jpg",
-        "date": "2026-06-28",
-        "url": "https://www.youtube.com/watch?v=CEYWFB7ZBm8"
-      },
-      {
-        "vid": "qFKOkPtEUFk",
-        "title": "¡Los MEJORES GOLES de la generación SUB21 en LALIGA 2025/26!",
-        "thumb": "https://i.ytimg.com/vi/qFKOkPtEUFk/mqdefault.jpg",
-        "date": "2026-06-28",
-        "url": "https://www.youtube.com/watch?v=qFKOkPtEUFk"
+        "vid": "TmoCVm7iT9I",
+        "title": "Messi 🔗 Mbappé",
+        "thumb": "https://i.ytimg.com/vi/TmoCVm7iT9I/mqdefault.jpg",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=TmoCVm7iT9I"
       },
       {
         "vid": "iWNLv8k5y0U",
@@ -131,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/KVC2eJRHPNU/mqdefault.jpg",
         "date": "2026-06-27",
         "url": "https://www.youtube.com/watch?v=KVC2eJRHPNU"
-      },
-      {
-        "vid": "VcgN3dT7uLQ",
-        "title": "EVERY Lautaro Martínez Champions League Goal!",
-        "thumb": "https://i.ytimg.com/vi/VcgN3dT7uLQ/mqdefault.jpg",
-        "date": "2026-06-27",
-        "url": "https://www.youtube.com/watch?v=VcgN3dT7uLQ"
       }
     ]
   }
