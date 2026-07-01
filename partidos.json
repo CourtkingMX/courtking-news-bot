@@ -1,5 +1,5 @@
 {
-  "updated": "01/07/2026 02:54 UTC",
+  "updated": "01/07/2026 04:04 UTC",
   "sports": {
     "bk": [
       {
@@ -32,12 +32,75 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 24 May",
-        "local": "Villarreal",
-        "visita": "Atlético",
-        "score": "5-1",
+        "fecha": "Sun 16 Aug",
+        "local": "Alavés",
+        "visita": "Getafe",
+        "score": "",
         "liga": "LaLiga",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 16 Aug",
+        "local": "Atlético",
+        "visita": "Málaga",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 16 Aug",
+        "local": "Barcelona",
+        "visita": "Athletic",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 16 Aug",
+        "local": "Celta Vigo",
+        "visita": "Osasuna",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 16 Aug",
+        "local": "Deportivo",
+        "visita": "Elche",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 16 Aug",
+        "local": "Espanyol",
+        "visita": "Levante",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 16 Aug",
+        "local": "Racing",
+        "visita": "Villarreal",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
+      },
+      {
+        "fecha": "Sun 16 Aug",
+        "local": "Real Madrid",
+        "visita": "Real Sociedad",
+        "score": "",
+        "liga": "LaLiga",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
