@@ -1,5 +1,5 @@
 {
-  "updated": "07/07/2026 14:04 UTC",
+  "updated": "07/07/2026 17:03 UTC",
   "sports": {
     "bk": [
       {
@@ -122,54 +122,9 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1"
       },
       {
-        "fecha": "Sun 23 Aug",
-        "local": "Angers",
-        "visita": "Lille",
-        "score": "",
-        "liga": "Ligue 1",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sat 22 Aug",
-        "local": "Le Havre AC",
-        "visita": "Monaco",
-        "score": "",
-        "liga": "Ligue 1",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sat 22 Aug",
-        "local": "Le Mans",
-        "visita": "Brest",
-        "score": "",
-        "liga": "Ligue 1",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sat 22 Aug",
-        "local": "Lens",
-        "visita": "Auxerre",
-        "score": "",
-        "liga": "Ligue 1",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
         "fecha": "Fri 21 Aug",
         "local": "Marseille",
         "visita": "Strasbourg",
-        "score": "",
-        "liga": "Ligue 1",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1"
-      },
-      {
-        "fecha": "Sat 22 Aug",
-        "local": "Nice",
-        "visita": "Lorient",
         "score": "",
         "liga": "Ligue 1",
         "estado": "pre",
