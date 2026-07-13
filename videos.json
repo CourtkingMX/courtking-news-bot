@@ -1,5 +1,5 @@
 {
-  "updated": "13/07/2026 11:12 UTC",
+  "updated": "13/07/2026 17:55 UTC",
   "sports": {
     "bk": [
       {
@@ -98,6 +98,13 @@
     ],
     "fx": [
       {
+        "vid": "dBSCGgCmwlI",
+        "title": "Imparable JUDE BELLINGHAM ⚔️",
+        "thumb": "https://i.ytimg.com/vi/dBSCGgCmwlI/mqdefault.jpg",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=dBSCGgCmwlI"
+      },
+      {
         "vid": "9Fh5J1mIPe8",
         "title": "¡19 GRANDES MOMENTOS de LAMINE YAMAL en LALIGA!",
         "thumb": "https://i.ytimg.com/vi/9Fh5J1mIPe8/mqdefault.jpg",
@@ -126,11 +133,11 @@
         "url": "https://www.youtube.com/watch?v=UHRRPkASPAY"
       },
       {
-        "vid": "uGO1h64FkX0",
-        "title": "Deportivo Alavés 2 - 4 Athletic Club 2025/26 PARTIDO COMPLETO",
-        "thumb": "https://i.ytimg.com/vi/uGO1h64FkX0/mqdefault.jpg",
-        "date": "2026-07-12",
-        "url": "https://www.youtube.com/watch?v=uGO1h64FkX0"
+        "vid": "SAht458MKLk",
+        "title": "Could have been assist of the century!",
+        "thumb": "https://i.ytimg.com/vi/SAht458MKLk/mqdefault.jpg",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=SAht458MKLk"
       },
       {
         "vid": "Eh_jQIf-jOs",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/bkLxmDaiCsw/mqdefault.jpg",
         "date": "2026-07-11",
         "url": "https://www.youtube.com/watch?v=bkLxmDaiCsw"
-      },
-      {
-        "vid": "Mq5Lhde_AkY",
-        "title": "Hmm 🤔",
-        "thumb": "https://i.ytimg.com/vi/Mq5Lhde_AkY/mqdefault.jpg",
-        "date": "2026-07-11",
-        "url": "https://www.youtube.com/watch?v=Mq5Lhde_AkY"
       }
     ]
   }
