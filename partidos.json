@@ -1,5 +1,5 @@
 {
-  "updated": "14/07/2026 09:45 UTC",
+  "updated": "14/07/2026 09:59 UTC",
   "sports": {
     "bk": [
       {
@@ -32,7 +32,7 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 16 Aug",
+        "fecha": "Sat 15 Aug",
         "local": "Alavés",
         "visita": "Getafe",
         "score": "",
@@ -41,63 +41,9 @@
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
       },
       {
-        "fecha": "Sun 16 Aug",
-        "local": "Atlético",
-        "visita": "Málaga",
-        "score": "",
-        "liga": "LaLiga",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 16 Aug",
-        "local": "Barcelona",
-        "visita": "Athletic",
-        "score": "",
-        "liga": "LaLiga",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 16 Aug",
-        "local": "Celta Vigo",
-        "visita": "Osasuna",
-        "score": "",
-        "liga": "LaLiga",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 16 Aug",
-        "local": "Deportivo",
-        "visita": "Elche",
-        "score": "",
-        "liga": "LaLiga",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 16 Aug",
-        "local": "Espanyol",
-        "visita": "Levante",
-        "score": "",
-        "liga": "LaLiga",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 16 Aug",
-        "local": "Racing",
-        "visita": "Villarreal",
-        "score": "",
-        "liga": "LaLiga",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1"
-      },
-      {
-        "fecha": "Sun 16 Aug",
-        "local": "Real Madrid",
-        "visita": "Real Sociedad",
+        "fecha": "Sat 15 Aug",
+        "local": "Sevilla",
+        "visita": "Rayo",
         "score": "",
         "liga": "LaLiga",
         "estado": "pre",
