@@ -1,5 +1,5 @@
 {
-  "updated": "17/07/2026 07:09 UTC",
+  "updated": "17/07/2026 09:45 UTC",
   "sports": {
     "bk": [
       {
@@ -26,9 +26,9 @@
         "fecha": "Fri 17 Jul",
         "local": "Tijuana",
         "visita": "Tigres",
-        "score": "1-1",
+        "score": "3-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
