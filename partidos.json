@@ -1,5 +1,5 @@
 {
-  "updated": "17/07/2026 01:43 UTC",
+  "updated": "17/07/2026 02:46 UTC",
   "sports": {
     "bk": [
       {
@@ -17,9 +17,9 @@
         "fecha": "Fri 17 Jul",
         "local": "Necaxa",
         "visita": "Atlante",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
