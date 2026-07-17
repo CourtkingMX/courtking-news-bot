@@ -1,5 +1,5 @@
 {
-  "updated": "17/07/2026 02:46 UTC",
+  "updated": "17/07/2026 04:52 UTC",
   "sports": {
     "bk": [
       {
@@ -17,18 +17,18 @@
         "fecha": "Fri 17 Jul",
         "local": "Necaxa",
         "visita": "Atlante",
-        "score": "0-0",
+        "score": "2-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Fri 17 Jul",
         "local": "Tijuana",
         "visita": "Tigres",
-        "score": "",
+        "score": "1-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
