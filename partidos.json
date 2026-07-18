@@ -1,5 +1,5 @@
 {
-  "updated": "18/07/2026 01:23 UTC",
+  "updated": "18/07/2026 02:37 UTC",
   "sports": {
     "bk": [
       {
@@ -17,18 +17,18 @@
         "fecha": "Sat 18 Jul",
         "local": "Atl. San Luis",
         "visita": "Cruz Azul",
-        "score": "",
+        "score": "2-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 18 Jul",
         "local": "León",
         "visita": "Atlas",
-        "score": "",
+        "score": "2-3",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
