@@ -1,5 +1,5 @@
 {
-  "updated": "18/07/2026 22:37 UTC",
+  "updated": "18/07/2026 23:41 UTC",
   "sports": {
     "bk": [
       {
@@ -17,9 +17,9 @@
         "fecha": "Sat 18 Jul",
         "local": "UNAM",
         "visita": "Pachuca",
-        "score": "",
+        "score": "0-2",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
