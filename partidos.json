@@ -1,5 +1,5 @@
 {
-  "updated": "19/07/2026 07:27 UTC",
+  "updated": "19/07/2026 09:43 UTC",
   "sports": {
     "bk": [
       {
@@ -14,39 +14,21 @@
     ],
     "fx": [
       {
-        "fecha": "Sat 18 Jul",
-        "local": "UNAM",
-        "visita": "Pachuca",
-        "score": "0-3",
+        "fecha": "Wed 22 Jul",
+        "local": "Cruz Azul",
+        "visita": "Puebla",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 19 Jul",
-        "local": "Monterrey",
-        "visita": "Santos",
-        "score": "3-2",
+        "fecha": "Wed 22 Jul",
+        "local": "Toluca",
+        "visita": "UNAM",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sun 19 Jul",
-        "local": "Guadalajara",
-        "visita": "Toluca",
-        "score": "0-2",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sun 19 Jul",
-        "local": "Queretaro",
-        "visita": "América",
-        "score": "0-1",
-        "liga": "Liga MX",
-        "estado": "live",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
