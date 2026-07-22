@@ -1,5 +1,5 @@
 {
-  "updated": "22/07/2026 04:57 UTC",
+  "updated": "22/07/2026 07:31 UTC",
   "sports": {
     "bk": [
       {
@@ -28,16 +28,16 @@
         "visita": "Puebla",
         "score": "2-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Wed 22 Jul",
         "local": "Toluca",
         "visita": "UNAM",
-        "score": "",
+        "score": "1-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
