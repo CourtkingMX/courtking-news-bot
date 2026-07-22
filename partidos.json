@@ -1,7 +1,16 @@
 {
-  "updated": "22/07/2026 01:28 UTC",
+  "updated": "22/07/2026 02:46 UTC",
   "sports": {
     "bk": [
+      {
+        "fecha": "Mon 05 Oct",
+        "local": "Kings",
+        "visita": "Lakers",
+        "score": "",
+        "liga": "NBA",
+        "estado": "pre",
+        "url": "https://www.espn.com/nba/scoreboard"
+      },
       {
         "fecha": "Mon 05 Oct",
         "local": "Hawks",
@@ -17,9 +26,9 @@
         "fecha": "Wed 22 Jul",
         "local": "Cruz Azul",
         "visita": "Puebla",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
