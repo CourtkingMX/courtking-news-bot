@@ -1,5 +1,5 @@
 {
-  "updated": "25/07/2026 07:09 UTC",
+  "updated": "25/07/2026 09:26 UTC",
   "sports": {
     "bk": [
       {
@@ -28,7 +28,7 @@
         "visita": "América",
         "score": "1-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -37,7 +37,7 @@
         "visita": "León",
         "score": "1-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
