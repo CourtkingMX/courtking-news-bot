@@ -1,5 +1,5 @@
 {
-  "updated": "25/07/2026 02:46 UTC",
+  "updated": "25/07/2026 09:48 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -254,6 +254,18 @@
     "standings": [
       {
         "pos": 1,
+        "team": "TIJ",
+        "name": "Tijuana",
+        "pj": "2",
+        "g": "2",
+        "e": "0",
+        "p": "0",
+        "gf": "4",
+        "gc": "1",
+        "pts": "6"
+      },
+      {
+        "pos": 2,
         "team": "CAZ",
         "name": "Cruz Azul",
         "pj": "2",
@@ -265,7 +277,19 @@
         "pts": "6"
       },
       {
-        "pos": 2,
+        "pos": 3,
+        "team": "AME",
+        "name": "América",
+        "pj": "2",
+        "g": "1",
+        "e": "1",
+        "p": "0",
+        "gf": "2",
+        "gc": "1",
+        "pts": "4"
+      },
+      {
+        "pos": 4,
         "team": "PAC",
         "name": "Pachuca",
         "pj": "1",
@@ -277,19 +301,7 @@
         "pts": "3"
       },
       {
-        "pos": 3,
-        "team": "TIJ",
-        "name": "Tijuana",
-        "pj": "1",
-        "g": "1",
-        "e": "0",
-        "p": "0",
-        "gf": "3",
-        "gc": "1",
-        "pts": "3"
-      },
-      {
-        "pos": 4,
+        "pos": 5,
         "team": "ATS",
         "name": "Atlas",
         "pj": "1",
@@ -301,7 +313,7 @@
         "pts": "3"
       },
       {
-        "pos": 5,
+        "pos": 6,
         "team": "TOL",
         "name": "Toluca",
         "pj": "2",
@@ -313,7 +325,7 @@
         "pts": "3"
       },
       {
-        "pos": 6,
+        "pos": 7,
         "team": "MTY",
         "name": "Monterrey",
         "pj": "1",
@@ -325,7 +337,7 @@
         "pts": "3"
       },
       {
-        "pos": 7,
+        "pos": 8,
         "team": "NCX",
         "name": "Necaxa",
         "pj": "1",
@@ -334,18 +346,6 @@
         "p": "0",
         "gf": "2",
         "gc": "1",
-        "pts": "3"
-      },
-      {
-        "pos": 8,
-        "team": "AME",
-        "name": "América",
-        "pj": "1",
-        "g": "1",
-        "e": "0",
-        "p": "0",
-        "gf": "1",
-        "gc": "0",
         "pts": "3"
       },
       {
@@ -374,6 +374,18 @@
       },
       {
         "pos": 11,
+        "team": "ATL",
+        "name": "Atlante",
+        "pj": "2",
+        "g": "0",
+        "e": "1",
+        "p": "1",
+        "gf": "2",
+        "gc": "3",
+        "pts": "1"
+      },
+      {
+        "pos": 12,
         "team": "SAN",
         "name": "Santos",
         "pj": "1",
@@ -385,7 +397,7 @@
         "pts": "0"
       },
       {
-        "pos": 12,
+        "pos": 13,
         "team": "ASL",
         "name": "Atl. San Luis",
         "pj": "1",
@@ -397,31 +409,7 @@
         "pts": "0"
       },
       {
-        "pos": 13,
-        "team": "LEO",
-        "name": "León",
-        "pj": "1",
-        "g": "0",
-        "e": "0",
-        "p": "1",
-        "gf": "2",
-        "gc": "3",
-        "pts": "0"
-      },
-      {
         "pos": 14,
-        "team": "ATL",
-        "name": "Atlante",
-        "pj": "1",
-        "g": "0",
-        "e": "0",
-        "p": "1",
-        "gf": "1",
-        "gc": "2",
-        "pts": "0"
-      },
-      {
-        "pos": 15,
         "team": "JUA",
         "name": "Juarez",
         "pj": "1",
@@ -433,7 +421,7 @@
         "pts": "0"
       },
       {
-        "pos": 16,
+        "pos": 15,
         "team": "QRO",
         "name": "Queretaro",
         "pj": "1",
@@ -442,6 +430,18 @@
         "p": "1",
         "gf": "0",
         "gc": "1",
+        "pts": "0"
+      },
+      {
+        "pos": 16,
+        "team": "LEO",
+        "name": "León",
+        "pj": "2",
+        "g": "0",
+        "e": "0",
+        "p": "2",
+        "gf": "2",
+        "gc": "4",
         "pts": "0"
       },
       {
