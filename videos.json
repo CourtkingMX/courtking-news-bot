@@ -1,7 +1,14 @@
 {
-  "updated": "25/07/2026 09:48 UTC",
+  "updated": "25/07/2026 16:59 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "CZ9SAc9BG5Y",
+        "title": "Liam McNeeley BALLED OUT at 2026 NBA Summer League 🗣️ 21.7 PPG, 5.0 REB",
+        "thumb": "https://i.ytimg.com/vi/CZ9SAc9BG5Y/mqdefault.jpg",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=CZ9SAc9BG5Y"
+      },
       {
         "vid": "5257AZ4J3Zw",
         "title": "31st Overall Pick Bruce Thornton BALLED OUT at 2026 NBA Summer League 🌟 18.6 PPG, 2.6 SPG",
@@ -29,13 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/oIqJ2mJpnfY/mqdefault.jpg",
         "date": "2026-07-24",
         "url": "https://www.youtube.com/watch?v=oIqJ2mJpnfY"
-      },
-      {
-        "vid": "STsUP0A4ubY",
-        "title": "13th Overall Pick Nate Ament BEST MOMENTS at 2026 NBA Summer League 🔥",
-        "thumb": "https://i.ytimg.com/vi/STsUP0A4ubY/mqdefault.jpg",
-        "date": "2026-07-24",
-        "url": "https://www.youtube.com/watch?v=STsUP0A4ubY"
       },
       {
         "vid": "d51kqvLmjGQ",
@@ -98,6 +98,20 @@
     ],
     "fx": [
       {
+        "vid": "GXWbjmGyotw",
+        "title": "¿Valiente o temerario? RADU 👀",
+        "thumb": "https://i.ytimg.com/vi/GXWbjmGyotw/mqdefault.jpg",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=GXWbjmGyotw"
+      },
+      {
+        "vid": "qubG7Ln0BsM",
+        "title": "FC Barcelona 4 - 1 Villarreal CF 2025/26 PARTIDO COMPLETO",
+        "thumb": "https://i.ytimg.com/vi/qubG7Ln0BsM/mqdefault.jpg",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=qubG7Ln0BsM"
+      },
+      {
         "vid": "tsG-TJvlVzY",
         "title": "Doblete de GAVI vs Real Madrid 🔙",
         "thumb": "https://i.ytimg.com/vi/tsG-TJvlVzY/mqdefault.jpg",
@@ -119,18 +133,18 @@
         "url": "https://www.youtube.com/watch?v=Z2Ya53zOLIc"
       },
       {
-        "vid": "AVMTrcg_HuU",
-        "title": "El gol de la temporada: ARDA GÜLER ✍️",
-        "thumb": "https://i.ytimg.com/vi/AVMTrcg_HuU/mqdefault.jpg",
-        "date": "2026-07-24",
-        "url": "https://www.youtube.com/watch?v=AVMTrcg_HuU"
+        "vid": "P5-c23m8ZXs",
+        "title": "EVERY Robert Lewandowski Champions League Goal!",
+        "thumb": "https://i.ytimg.com/vi/P5-c23m8ZXs/mqdefault.jpg",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=P5-c23m8ZXs"
       },
       {
-        "vid": "CDr3e8aeKwk",
-        "title": "¿Mejor dúo? 🤔",
-        "thumb": "https://i.ytimg.com/vi/CDr3e8aeKwk/mqdefault.jpg",
-        "date": "2026-07-24",
-        "url": "https://www.youtube.com/watch?v=CDr3e8aeKwk"
+        "vid": "sbdo6RelF9M",
+        "title": "How has he done that? 😅",
+        "thumb": "https://i.ytimg.com/vi/sbdo6RelF9M/mqdefault.jpg",
+        "date": "2026-07-25",
+        "url": "https://www.youtube.com/watch?v=sbdo6RelF9M"
       },
       {
         "vid": "NGCXH_upzPg",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/NGCXH_upzPg/mqdefault.jpg",
         "date": "2026-07-24",
         "url": "https://www.youtube.com/watch?v=NGCXH_upzPg"
-      },
-      {
-        "vid": "3Mag1gYYAag",
-        "title": "EVERY Ferran Torres Champions League Goal! 🇪🇸",
-        "thumb": "https://i.ytimg.com/vi/3Mag1gYYAag/mqdefault.jpg",
-        "date": "2026-07-23",
-        "url": "https://www.youtube.com/watch?v=3Mag1gYYAag"
-      },
-      {
-        "vid": "H0mwz-vHD5Q",
-        "title": "Adeyemi just kept going 😅",
-        "thumb": "https://i.ytimg.com/vi/H0mwz-vHD5Q/mqdefault.jpg",
-        "date": "2026-07-23",
-        "url": "https://www.youtube.com/watch?v=H0mwz-vHD5Q"
       }
     ]
   }
