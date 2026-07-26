@@ -1,5 +1,5 @@
 {
-  "updated": "25/07/2026 16:59 UTC",
+  "updated": "26/07/2026 02:55 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -362,6 +362,18 @@
       },
       {
         "pos": 10,
+        "team": "GDL",
+        "name": "Guadalajara",
+        "pj": "2",
+        "g": "1",
+        "e": "0",
+        "p": "1",
+        "gf": "1",
+        "gc": "2",
+        "pts": "3"
+      },
+      {
+        "pos": 11,
         "team": "UNAM",
         "name": "UNAM",
         "pj": "2",
@@ -373,7 +385,7 @@
         "pts": "3"
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "ATL",
         "name": "Atlante",
         "pj": "2",
@@ -385,7 +397,7 @@
         "pts": "1"
       },
       {
-        "pos": 12,
+        "pos": 13,
         "team": "SAN",
         "name": "Santos",
         "pj": "1",
@@ -397,7 +409,7 @@
         "pts": "0"
       },
       {
-        "pos": 13,
+        "pos": 14,
         "team": "ASL",
         "name": "Atl. San Luis",
         "pj": "1",
@@ -406,18 +418,6 @@
         "p": "1",
         "gf": "2",
         "gc": "3",
-        "pts": "0"
-      },
-      {
-        "pos": 14,
-        "team": "JUA",
-        "name": "Juarez",
-        "pj": "1",
-        "g": "0",
-        "e": "0",
-        "p": "1",
-        "gf": "0",
-        "gc": "1",
         "pts": "0"
       },
       {
@@ -458,12 +458,12 @@
       },
       {
         "pos": 18,
-        "team": "GDL",
-        "name": "Guadalajara",
-        "pj": "1",
+        "team": "JUA",
+        "name": "Juarez",
+        "pj": "2",
         "g": "0",
         "e": "0",
-        "p": "1",
+        "p": "2",
         "gf": "0",
         "gc": "2",
         "pts": "0"
