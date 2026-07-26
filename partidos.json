@@ -1,5 +1,5 @@
 {
-  "updated": "25/07/2026 23:50 UTC",
+  "updated": "26/07/2026 01:46 UTC",
   "sports": {
     "bk": [
       {
@@ -26,9 +26,9 @@
         "fecha": "Sat 25 Jul",
         "local": "Guadalajara",
         "visita": "Juarez",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
