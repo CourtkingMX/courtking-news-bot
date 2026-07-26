@@ -1,5 +1,5 @@
 {
-  "updated": "26/07/2026 05:20 UTC",
+  "updated": "26/07/2026 08:05 UTC",
   "sports": {
     "bk": [
       {
@@ -35,18 +35,18 @@
         "fecha": "Sun 26 Jul",
         "local": "Santos",
         "visita": "Atlas",
-        "score": "",
+        "score": "0-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 26 Jul",
         "local": "Tigres",
         "visita": "Atl. San Luis",
-        "score": "",
+        "score": "2-2",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
