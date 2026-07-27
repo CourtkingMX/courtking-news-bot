@@ -1,5 +1,5 @@
 {
-  "updated": "27/07/2026 03:20 UTC",
+  "updated": "27/07/2026 05:39 UTC",
   "sports": {
     "bk": [
       {
@@ -35,9 +35,9 @@
         "fecha": "Mon 27 Jul",
         "local": "Pachuca",
         "visita": "Queretaro",
-        "score": "1-0",
+        "score": "1-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
