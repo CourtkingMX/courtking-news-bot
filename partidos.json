@@ -1,5 +1,5 @@
 {
-  "updated": "27/07/2026 01:53 UTC",
+  "updated": "27/07/2026 03:20 UTC",
   "sports": {
     "bk": [
       {
@@ -26,18 +26,18 @@
         "fecha": "Sun 26 Jul",
         "local": "Necaxa",
         "visita": "Monterrey",
-        "score": "0-0",
+        "score": "2-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Mon 27 Jul",
         "local": "Pachuca",
         "visita": "Queretaro",
-        "score": "",
+        "score": "1-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
