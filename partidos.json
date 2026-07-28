@@ -1,5 +1,5 @@
 {
-  "updated": "28/07/2026 10:22 UTC",
+  "updated": "28/07/2026 10:36 UTC",
   "sports": {
     "bk": [
       {
@@ -23,21 +23,30 @@
     ],
     "fx": [
       {
-        "fecha": "Sun 26 Jul",
-        "local": "Necaxa",
-        "visita": "Monterrey",
-        "score": "2-1",
+        "fecha": "Sat 01 Aug",
+        "local": "Puebla",
+        "visita": "Guadalajara",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Mon 27 Jul",
-        "local": "Pachuca",
-        "visita": "Queretaro",
-        "score": "1-2",
+        "fecha": "Sat 01 Aug",
+        "local": "Atl. San Luis",
+        "visita": "Tijuana",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
+        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
+      },
+      {
+        "fecha": "Sat 01 Aug",
+        "local": "Juarez",
+        "visita": "UNAM",
+        "score": "",
+        "liga": "Liga MX",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
