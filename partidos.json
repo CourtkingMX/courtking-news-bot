@@ -1,20 +1,11 @@
 {
-  "updated": "29/07/2026 15:03 UTC",
+  "updated": "29/07/2026 17:02 UTC",
   "sports": {
     "bk": [
       {
-        "fecha": "Mon 05 Oct",
-        "local": "Hawks",
-        "visita": "Grizzlies",
-        "score": "",
-        "liga": "NBA",
-        "estado": "pre",
-        "url": "https://www.espn.com/nba/scoreboard"
-      },
-      {
-        "fecha": "Tue 06 Oct",
-        "local": "Kings",
-        "visita": "Lakers",
+        "fecha": "Sat 03 Oct",
+        "local": "Raptors",
+        "visita": "Heat",
         "score": "",
         "liga": "NBA",
         "estado": "pre",
