@@ -1,5 +1,5 @@
 {
-  "updated": "31/07/2026 10:40 UTC",
+  "updated": "31/07/2026 17:39 UTC",
   "sports": {
     "bk": [
       {
@@ -61,6 +61,13 @@
     ],
     "pd": [
       {
+        "vid": "29f2SD6Wuog",
+        "title": "This is how Andrea Ustero and Ari Sanchez became partners 🤝  #BandejaDePremierPadel",
+        "thumb": "https://i.ytimg.com/vi/29f2SD6Wuog/mqdefault.jpg",
+        "date": "2026-07-31",
+        "url": "https://www.youtube.com/watch?v=29f2SD6Wuog"
+      },
+      {
         "vid": "zL_1YGkUOos",
         "title": "Pretoria Premier Padel P1🇿🇦🎾: Day 4 - Women&#39;s Highlights",
         "thumb": "https://i.ytimg.com/vi/zL_1YGkUOos/mqdefault.jpg",
@@ -87,16 +94,23 @@
         "thumb": "https://i.ytimg.com/vi/o-LXIQP6wsM/mqdefault.jpg",
         "date": "2026-07-30",
         "url": "https://www.youtube.com/watch?v=o-LXIQP6wsM"
-      },
-      {
-        "vid": "-oDphmf1HCg",
-        "title": "Pretoria Premier Padel P1 🇿🇦🎾: Court 2",
-        "thumb": "https://i.ytimg.com/vi/-oDphmf1HCg/mqdefault.jpg",
-        "date": "2026-07-30",
-        "url": "https://www.youtube.com/watch?v=-oDphmf1HCg"
       }
     ],
     "fx": [
+      {
+        "vid": "HLs_DEWmjHo",
+        "title": "Un abrazo que refleja la confianza de FLICK con GAVI 🗣️",
+        "thumb": "https://i.ytimg.com/vi/HLs_DEWmjHo/mqdefault.jpg",
+        "date": "2026-07-31",
+        "url": "https://www.youtube.com/watch?v=HLs_DEWmjHo"
+      },
+      {
+        "vid": "uGM3Iy0Qf18",
+        "title": "Atlético de Madrid 3 - 2 Athletic Club 2025/26 PARTIDO COMPLETO",
+        "thumb": "https://i.ytimg.com/vi/uGM3Iy0Qf18/mqdefault.jpg",
+        "date": "2026-07-31",
+        "url": "https://www.youtube.com/watch?v=uGM3Iy0Qf18"
+      },
       {
         "vid": "0IQD6EVobBQ",
         "title": "CAMAVINGA 🙅",
@@ -119,18 +133,11 @@
         "url": "https://www.youtube.com/watch?v=kzmBup6k_6k"
       },
       {
-        "vid": "HuezaPaWvuY",
-        "title": "FC Barcelona 3 - 1 Atlético de Madrid 2025/26 PARTIDO COMPLETO",
-        "thumb": "https://i.ytimg.com/vi/HuezaPaWvuY/mqdefault.jpg",
-        "date": "2026-07-30",
-        "url": "https://www.youtube.com/watch?v=HuezaPaWvuY"
-      },
-      {
-        "vid": "W0rpwz3UXEM",
-        "title": "El GESTO del CHOLO lo dice todo 👀",
-        "thumb": "https://i.ytimg.com/vi/W0rpwz3UXEM/mqdefault.jpg",
-        "date": "2026-07-30",
-        "url": "https://www.youtube.com/watch?v=W0rpwz3UXEM"
+        "vid": "2yrsGC2a6LU",
+        "title": "Champions League scorpion kick 🦂",
+        "thumb": "https://i.ytimg.com/vi/2yrsGC2a6LU/mqdefault.jpg",
+        "date": "2026-07-31",
+        "url": "https://www.youtube.com/watch?v=2yrsGC2a6LU"
       },
       {
         "vid": "dzN6NH5PWhk",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/T-chdUkmCtA/mqdefault.jpg",
         "date": "2026-07-29",
         "url": "https://www.youtube.com/watch?v=T-chdUkmCtA"
-      },
-      {
-        "vid": "bLioOOyIkoE",
-        "title": "Messi with eyes in the back of his head",
-        "thumb": "https://i.ytimg.com/vi/bLioOOyIkoE/mqdefault.jpg",
-        "date": "2026-07-29",
-        "url": "https://www.youtube.com/watch?v=bLioOOyIkoE"
       }
     ]
   }
