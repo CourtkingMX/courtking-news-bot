@@ -1,5 +1,5 @@
 {
-  "updated": "01/08/2026 11:54 UTC",
+  "updated": "01/08/2026 12:53 UTC",
   "sports": {
     "bk": [
       {
@@ -15,38 +15,29 @@
     "fx": [
       {
         "fecha": "Sat 01 Aug",
-        "local": "Queretaro",
-        "visita": "Tigres",
-        "score": "",
+        "local": "Puebla",
+        "visita": "Guadalajara",
+        "score": "1-1",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 02 Aug",
-        "local": "Atlas",
-        "visita": "Monterrey",
-        "score": "",
+        "fecha": "Sat 01 Aug",
+        "local": "Atl. San Luis",
+        "visita": "Tijuana",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 02 Aug",
-        "local": "León",
-        "visita": "Pachuca",
-        "score": "",
+        "fecha": "Sat 01 Aug",
+        "local": "Juarez",
+        "visita": "UNAM",
+        "score": "1-5",
         "liga": "Liga MX",
-        "estado": "pre",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sun 02 Aug",
-        "local": "Cruz Azul",
-        "visita": "Atlante",
-        "score": "",
-        "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
