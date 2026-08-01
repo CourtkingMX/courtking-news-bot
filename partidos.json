@@ -1,5 +1,5 @@
 {
-  "updated": "01/08/2026 02:55 UTC",
+  "updated": "01/08/2026 05:16 UTC",
   "sports": {
     "bk": [
       {
@@ -17,27 +17,27 @@
         "fecha": "Sat 01 Aug",
         "local": "Puebla",
         "visita": "Guadalajara",
-        "score": "1-0",
+        "score": "1-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 01 Aug",
         "local": "Atl. San Luis",
         "visita": "Tijuana",
-        "score": "",
+        "score": "0-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sat 01 Aug",
         "local": "Juarez",
         "visita": "UNAM",
-        "score": "",
+        "score": "1-5",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
