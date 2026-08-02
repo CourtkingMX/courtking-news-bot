@@ -1,5 +1,5 @@
 {
-  "updated": "01/08/2026 17:02 UTC",
+  "updated": "02/08/2026 02:54 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -314,6 +314,18 @@
       },
       {
         "pos": 6,
+        "team": "QRO",
+        "name": "Queretaro",
+        "pj": "3",
+        "g": "2",
+        "e": "0",
+        "p": "1",
+        "gf": "5",
+        "gc": "4",
+        "pts": "6"
+      },
+      {
+        "pos": 7,
         "team": "AME",
         "name": "América",
         "pj": "2",
@@ -325,7 +337,7 @@
         "pts": "4"
       },
       {
-        "pos": 7,
+        "pos": 8,
         "team": "PUE",
         "name": "Puebla",
         "pj": "3",
@@ -337,7 +349,7 @@
         "pts": "4"
       },
       {
-        "pos": 8,
+        "pos": 9,
         "team": "GDL",
         "name": "Guadalajara",
         "pj": "3",
@@ -349,7 +361,7 @@
         "pts": "4"
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "PAC",
         "name": "Pachuca",
         "pj": "2",
@@ -361,7 +373,7 @@
         "pts": "3"
       },
       {
-        "pos": 10,
+        "pos": 11,
         "team": "TOL",
         "name": "Toluca",
         "pj": "2",
@@ -373,7 +385,7 @@
         "pts": "3"
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "MTY",
         "name": "Monterrey",
         "pj": "2",
@@ -382,18 +394,6 @@
         "p": "1",
         "gf": "4",
         "gc": "4",
-        "pts": "3"
-      },
-      {
-        "pos": 12,
-        "team": "QRO",
-        "name": "Queretaro",
-        "pj": "2",
-        "g": "1",
-        "e": "0",
-        "p": "1",
-        "gf": "2",
-        "gc": "2",
         "pts": "3"
       },
       {
@@ -424,12 +424,12 @@
         "pos": 15,
         "team": "UANL",
         "name": "Tigres",
-        "pj": "2",
+        "pj": "3",
         "g": "0",
         "e": "1",
-        "p": "1",
-        "gf": "3",
-        "gc": "5",
+        "p": "2",
+        "gf": "5",
+        "gc": "8",
         "pts": "1"
       },
       {
