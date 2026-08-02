@@ -1,5 +1,5 @@
 {
-  "updated": "02/08/2026 11:52 UTC",
+  "updated": "02/08/2026 12:56 UTC",
   "sports": {
     "bk": [
       {
@@ -14,39 +14,21 @@
     ],
     "fx": [
       {
-        "fecha": "Sat 01 Aug",
-        "local": "Queretaro",
-        "visita": "Tigres",
-        "score": "3-2",
+        "fecha": "Sun 02 Aug",
+        "local": "América",
+        "visita": "Santos",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
-        "fecha": "Sun 02 Aug",
-        "local": "Atlas",
-        "visita": "Monterrey",
-        "score": "0-2",
+        "fecha": "Mon 03 Aug",
+        "local": "Toluca",
+        "visita": "Necaxa",
+        "score": "",
         "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sun 02 Aug",
-        "local": "León",
-        "visita": "Pachuca",
-        "score": "1-0",
-        "liga": "Liga MX",
-        "estado": "post",
-        "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
-      },
-      {
-        "fecha": "Sun 02 Aug",
-        "local": "Cruz Azul",
-        "visita": "Atlante",
-        "score": "2-3",
-        "liga": "Liga MX",
-        "estado": "post",
+        "estado": "pre",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
