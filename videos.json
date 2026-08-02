@@ -1,5 +1,5 @@
 {
-  "updated": "02/08/2026 02:54 UTC",
+  "updated": "02/08/2026 09:58 UTC",
   "sports": {
     "bk": [
       {
@@ -98,6 +98,13 @@
     ],
     "fx": [
       {
+        "vid": "TyrW6G2JtGQ",
+        "title": "¡Qué golazo! 🤯",
+        "thumb": "https://i.ytimg.com/vi/TyrW6G2JtGQ/mqdefault.jpg",
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=TyrW6G2JtGQ"
+      },
+      {
         "vid": "4ry9_DwKiIE",
         "title": "Cuando el balón tenía un dueño. 😏",
         "thumb": "https://i.ytimg.com/vi/4ry9_DwKiIE/mqdefault.jpg",
@@ -124,13 +131,6 @@
         "thumb": "https://i.ytimg.com/vi/QKO7PmSCpTE/mqdefault.jpg",
         "date": "2026-08-01",
         "url": "https://www.youtube.com/watch?v=QKO7PmSCpTE"
-      },
-      {
-        "vid": "gY0y8X9pTW8",
-        "title": "¡Ese bombazo de Militão! 💣",
-        "thumb": "https://i.ytimg.com/vi/gY0y8X9pTW8/mqdefault.jpg",
-        "date": "2026-08-01",
-        "url": "https://www.youtube.com/watch?v=gY0y8X9pTW8"
       },
       {
         "vid": "txOmBkBnsEc",
