@@ -1,5 +1,5 @@
 {
-  "updated": "02/08/2026 05:16 UTC",
+  "updated": "02/08/2026 08:03 UTC",
   "sports": {
     "bk": [
       {
@@ -26,9 +26,9 @@
         "fecha": "Sun 02 Aug",
         "local": "Atlas",
         "visita": "Monterrey",
-        "score": "0-1",
+        "score": "0-2",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
@@ -37,16 +37,16 @@
         "visita": "Pachuca",
         "score": "1-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Sun 02 Aug",
         "local": "Cruz Azul",
         "visita": "Atlante",
-        "score": "",
+        "score": "2-3",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
