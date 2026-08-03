@@ -1,5 +1,5 @@
 {
-  "updated": "03/08/2026 02:55 UTC",
+  "updated": "03/08/2026 11:24 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -278,6 +278,18 @@
       },
       {
         "pos": 3,
+        "team": "TOL",
+        "name": "Toluca",
+        "pj": "3",
+        "g": "2",
+        "e": "0",
+        "p": "1",
+        "gf": "6",
+        "gc": "3",
+        "pts": "6"
+      },
+      {
+        "pos": 4,
         "team": "UNAM",
         "name": "UNAM",
         "pj": "3",
@@ -289,7 +301,7 @@
         "pts": "6"
       },
       {
-        "pos": 4,
+        "pos": 5,
         "team": "MTY",
         "name": "Monterrey",
         "pj": "3",
@@ -298,18 +310,6 @@
         "p": "1",
         "gf": "6",
         "gc": "4",
-        "pts": "6"
-      },
-      {
-        "pos": 5,
-        "team": "NCX",
-        "name": "Necaxa",
-        "pj": "2",
-        "g": "2",
-        "e": "0",
-        "p": "0",
-        "gf": "4",
-        "gc": "2",
         "pts": "6"
       },
       {
@@ -338,6 +338,18 @@
       },
       {
         "pos": 8,
+        "team": "NCX",
+        "name": "Necaxa",
+        "pj": "3",
+        "g": "2",
+        "e": "0",
+        "p": "1",
+        "gf": "5",
+        "gc": "5",
+        "pts": "6"
+      },
+      {
+        "pos": 9,
         "team": "ATS",
         "name": "Atlas",
         "pj": "3",
@@ -349,7 +361,7 @@
         "pts": "6"
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "ATL",
         "name": "Atlante",
         "pj": "3",
@@ -361,7 +373,7 @@
         "pts": "4"
       },
       {
-        "pos": 10,
+        "pos": 11,
         "team": "PUE",
         "name": "Puebla",
         "pj": "3",
@@ -373,7 +385,7 @@
         "pts": "4"
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "GDL",
         "name": "Guadalajara",
         "pj": "3",
@@ -385,7 +397,7 @@
         "pts": "4"
       },
       {
-        "pos": 12,
+        "pos": 13,
         "team": "PAC",
         "name": "Pachuca",
         "pj": "3",
@@ -394,18 +406,6 @@
         "p": "2",
         "gf": "4",
         "gc": "3",
-        "pts": "3"
-      },
-      {
-        "pos": 13,
-        "team": "TOL",
-        "name": "Toluca",
-        "pj": "2",
-        "g": "1",
-        "e": "0",
-        "p": "1",
-        "gf": "3",
-        "gc": "2",
         "pts": "3"
       },
       {
