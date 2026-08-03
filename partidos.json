@@ -1,5 +1,5 @@
 {
-  "updated": "03/08/2026 05:30 UTC",
+  "updated": "03/08/2026 09:18 UTC",
   "sports": {
     "bk": [
       {
@@ -28,7 +28,7 @@
         "visita": "Necaxa",
         "score": "3-1",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
