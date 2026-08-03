@@ -1,5 +1,5 @@
 {
-  "updated": "02/08/2026 17:00 UTC",
+  "updated": "03/08/2026 02:55 UTC",
   "nba": {
     "standings": {
       "east": [
@@ -254,6 +254,18 @@
     "standings": [
       {
         "pos": 1,
+        "team": "AME",
+        "name": "América",
+        "pj": "3",
+        "g": "2",
+        "e": "1",
+        "p": "0",
+        "gf": "5",
+        "gc": "1",
+        "pts": "7"
+      },
+      {
+        "pos": 2,
         "team": "TIJ",
         "name": "Tijuana",
         "pj": "3",
@@ -265,7 +277,7 @@
         "pts": "7"
       },
       {
-        "pos": 2,
+        "pos": 3,
         "team": "UNAM",
         "name": "UNAM",
         "pj": "3",
@@ -277,7 +289,7 @@
         "pts": "6"
       },
       {
-        "pos": 3,
+        "pos": 4,
         "team": "MTY",
         "name": "Monterrey",
         "pj": "3",
@@ -289,7 +301,7 @@
         "pts": "6"
       },
       {
-        "pos": 4,
+        "pos": 5,
         "team": "NCX",
         "name": "Necaxa",
         "pj": "2",
@@ -301,7 +313,7 @@
         "pts": "6"
       },
       {
-        "pos": 5,
+        "pos": 6,
         "team": "CAZ",
         "name": "Cruz Azul",
         "pj": "3",
@@ -313,7 +325,7 @@
         "pts": "6"
       },
       {
-        "pos": 6,
+        "pos": 7,
         "team": "QRO",
         "name": "Queretaro",
         "pj": "3",
@@ -325,7 +337,7 @@
         "pts": "6"
       },
       {
-        "pos": 7,
+        "pos": 8,
         "team": "ATS",
         "name": "Atlas",
         "pj": "3",
@@ -335,18 +347,6 @@
         "gf": "4",
         "gc": "4",
         "pts": "6"
-      },
-      {
-        "pos": 8,
-        "team": "AME",
-        "name": "América",
-        "pj": "2",
-        "g": "1",
-        "e": "1",
-        "p": "0",
-        "gf": "2",
-        "gc": "1",
-        "pts": "4"
       },
       {
         "pos": 9,
@@ -448,12 +448,12 @@
         "pos": 17,
         "team": "SAN",
         "name": "Santos",
-        "pj": "2",
+        "pj": "3",
         "g": "0",
         "e": "0",
-        "p": "2",
+        "p": "3",
         "gf": "2",
-        "gc": "4",
+        "gc": "7",
         "pts": "0"
       },
       {

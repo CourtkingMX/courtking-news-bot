@@ -1,5 +1,5 @@
 {
-  "updated": "03/08/2026 01:47 UTC",
+  "updated": "03/08/2026 02:55 UTC",
   "sports": {
     "bk": [
       {
@@ -17,18 +17,18 @@
         "fecha": "Sun 02 Aug",
         "local": "América",
         "visita": "Santos",
-        "score": "1-0",
+        "score": "3-0",
         "liga": "Liga MX",
-        "estado": "live",
+        "estado": "post",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
         "fecha": "Mon 03 Aug",
         "local": "Toluca",
         "visita": "Necaxa",
-        "score": "",
+        "score": "1-0",
         "liga": "Liga MX",
-        "estado": "pre",
+        "estado": "live",
         "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/mex.1"
       },
       {
