@@ -1,5 +1,5 @@
 {
-  "updated": "05/08/2026 02:38 UTC",
+  "updated": "05/08/2026 10:36 UTC",
   "sports": {
     "bk": [
       {
@@ -98,6 +98,20 @@
     ],
     "fx": [
       {
+        "vid": "wvH-qziwGp4",
+        "title": "¡Lo MEJOR de RAPHINHA en LALIGA 2025/26! 🔥",
+        "thumb": "https://i.ytimg.com/vi/wvH-qziwGp4/mqdefault.jpg",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=wvH-qziwGp4"
+      },
+      {
+        "vid": "Zqy4fY4Rmco",
+        "title": "RASHFORD, en carrera, fue IMPARABLE 🏎️",
+        "thumb": "https://i.ytimg.com/vi/Zqy4fY4Rmco/mqdefault.jpg",
+        "date": "2026-08-05",
+        "url": "https://www.youtube.com/watch?v=Zqy4fY4Rmco"
+      },
+      {
         "vid": "YLzDiME0zIs",
         "title": "Qué contraataque 👀⚽",
         "thumb": "https://i.ytimg.com/vi/YLzDiME0zIs/mqdefault.jpg",
@@ -119,20 +133,6 @@
         "url": "https://www.youtube.com/watch?v=TWTe81Ce9BU"
       },
       {
-        "vid": "yS_5aj8osbQ",
-        "title": "POV: Intenta quitarle el balón a PABLO FORNALS 😵‍💫",
-        "thumb": "https://i.ytimg.com/vi/yS_5aj8osbQ/mqdefault.jpg",
-        "date": "2026-08-04",
-        "url": "https://www.youtube.com/watch?v=yS_5aj8osbQ"
-      },
-      {
-        "vid": "64vXrBa6TD0",
-        "title": "Los MEJORES goles de CONTRAGOLPE⚡ | LALIGA EA SPORTS 2025/26",
-        "thumb": "https://i.ytimg.com/vi/64vXrBa6TD0/mqdefault.jpg",
-        "date": "2026-08-04",
-        "url": "https://www.youtube.com/watch?v=64vXrBa6TD0"
-      },
-      {
         "vid": "uq7qMg9VY6A",
         "title": "The BEST Barcelona Goals Of ALL TIME!",
         "thumb": "https://i.ytimg.com/vi/uq7qMg9VY6A/mqdefault.jpg",
@@ -140,18 +140,18 @@
         "url": "https://www.youtube.com/watch?v=uq7qMg9VY6A"
       },
       {
-        "vid": "yydw47L-RA4",
-        "title": "Penalty mind games!",
-        "thumb": "https://i.ytimg.com/vi/yydw47L-RA4/mqdefault.jpg",
-        "date": "2026-08-04",
-        "url": "https://www.youtube.com/watch?v=yydw47L-RA4"
-      },
-      {
         "vid": "TrJCCy7RjmQ",
         "title": "Müller was so confused 🤣",
         "thumb": "https://i.ytimg.com/vi/TrJCCy7RjmQ/mqdefault.jpg",
         "date": "2026-08-03",
         "url": "https://www.youtube.com/watch?v=TrJCCy7RjmQ"
+      },
+      {
+        "vid": "4ElxKkGtPTU",
+        "title": "What a goal!",
+        "thumb": "https://i.ytimg.com/vi/4ElxKkGtPTU/mqdefault.jpg",
+        "date": "2026-08-02",
+        "url": "https://www.youtube.com/watch?v=4ElxKkGtPTU"
       }
     ]
   }
