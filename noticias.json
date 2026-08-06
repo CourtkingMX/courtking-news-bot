@@ -1,69 +1,76 @@
 {
-  "updated": "06/08/2026 02:41 UTC",
+  "updated": "06/08/2026 10:40 UTC",
   "sports": {
     "bk": [
       {
-        "title": "Euroliga: Resultados en vivo, partidos y tablas",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBodnh3Z0pVV00xWE9DOHBSeDBfNGZMMlZrOHo2Z21Bd0V1SE5yel9WbVZsWDBvaW1saTdHVE1pRFlhU0xFWnJmcm5HWHpHT2RtQ1Z2X2pxS1h5RURUXzVqUEZNX3JuOWRITXVsX2xn?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1581852549708-72910bd52cff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxldXJvbGlnYSUyMHJlc3VsdGFkb3MlMjB2aXZvJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg1ODY1Nzc3fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 04 Aug 2026 05:13:08 GMT"
-      },
-      {
-        "title": "Suns retienen a Dillon Brooks con una extensión de $73 millones de dólares hasta 2030",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNzhpUzdrbDRJNWJYSVMyVTF5bVdlVjZ1bTZKMFNuWmR6ZGlnb1prWkZUbi1uMWNjZlJrekF6SGpFTEJiNmh2cnYzZExPajJhY1pMektUMDZONjVKbk1xU19VbGlYUGVxRHVwSTV5TDdoRGozM1ZqdTZFRThfdmltSjdiUy1STkpuc1BFeG0zZjJidkFkYjU0?oc=5",
-        "date": "6 ago 2026",
-        "image": "https://images.unsplash.com/photo-1571561506106-80e72cbd1154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxzdW5zJTIwcmV0aWVuZW4lMjBkaWxsb24lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODU5ODQwNzR8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 06 Aug 2026 02:09:00 GMT"
+        "title": "WNBA: Resultados en Vivo y Calendario de Básquetbol",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ycFYtUzVma2pnUlpuUkNfOTBnaWtHLTVBXzB6Q1puWWFuSV9panBXd1FpVVZzLWNpZW5fM25FZ2Vlc2RCa1FMY3VMeU1VTWdoRm5YckgzZkhKdld4WmNSWkpNZ3lNczVoTlE?oc=5",
+        "date": "5 ago 2026",
+        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
+        "_pub_raw": "Wed, 05 Aug 2026 19:49:04 GMT"
       },
       {
         "title": "Alegan manipulación de testigos en el caso de apuestas de Rozier",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDhDTmlodDhwX1UxdFlwSEQ2T3VINXFyNEYxOFRmSWtpcGxRd2tGMVd6a2xKSmtMa2V2NzJvWUJpQl95WjlKV0IyQldVeTBrTHBUaHMzUlNPRGdWT0FNUjRVNXJ5cUxyS2toVXNJRWFjZUVfNmxJaWhYczdqcUs1M0s4bmIycVk1YTAxYXhNNENWN3NFNXk4VDV6VlcwQkZwcGx3c2Q4N1Q3dERTa2lDLWFB?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxhbGVnYW4lMjBtYW5pcHVsYWNpJUMzJUIzbiUyMHRlc3RpZ29zJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg1OTg0MDc1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxhbGVnYW4lMjBtYW5pcHVsYWNpJUMzJUIzbiUyMHRlc3RpZ29zJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg2MDEyODQ3fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 18:22:00 GMT"
+      },
+      {
+        "title": "Suns retienen a Dillon Brooks con una extensión de $73 millones de dólares hasta 2030",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNzhpUzdrbDRJNWJYSVMyVTF5bVdlVjZ1bTZKMFNuWmR6ZGlnb1prWkZUbi1uMWNjZlJrekF6SGpFTEJiNmh2cnYzZExPajJhY1pMektUMDZONjVKbk1xU19VbGlYUGVxRHVwSTV5TDdoRGozM1ZqdTZFRThfdmltSjdiUy1STkpuc1BFeG0zZjJidkFkYjU0?oc=5",
+        "date": "6 ago 2026",
+        "image": "https://images.unsplash.com/photo-1571561506106-80e72cbd1154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxzdW5zJTIwcmV0aWVuZW4lMjBkaWxsb24lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODYwMTI4NDl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 06 Aug 2026 02:09:00 GMT"
+      },
+      {
+        "title": "Lonnie Walker IV y los Nuggets acuerdan un contrato de un año",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDREUkpKd2hYY3FHbGRSci1uOG5XOGJYOEM5N2t3aUlFdFpqOElBbTZIUjRpTGc0YlJCZlhDcDBRSVJOdl8zblUyQk84WVRGUk9hcUp2cHMwMVBzQ3dJOU01Z3Bvb3p0dFF1VTZkSkIyQ3hSbjRMU0VTRmtYYnlRbElnNFloZjlUSjFjT0dwR2VEV2NtY09qd2poclJmc2NZNENaVUNyYw?oc=5",
+        "date": "6 ago 2026",
+        "image": "https://images.unsplash.com/photo-1672420407912-125861e086a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsb25uaWUlMjB3YWxrZXIlMjBudWdnZXRzJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg2MDEyODUwfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 06 Aug 2026 03:45:00 GMT"
       },
       {
         "title": "LeBron James descarta la idea de Jaylen Brown si los Sixers ganan el título",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDJiaXhnVFBBd2lVbUZZZkpqNXBkLTlGbmE2WW5jVzV5Q19TS2l6WWpTZ04zRzZCbTZTUGdZMXFOU1NOc2pPSGNrRUZvemF6T1U2OG84dlVFYkJwa25kMGkydktLN3NMRlpjLUlkNFZZRFE2NG5fMXB6b01UVFYwUjRsYjZydnJQN1BPaHFxZlUwNzNNQ2FkMnI0SQ?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1663292039460-188fe02b5968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsZWJyb24lMjBqYW1lcyUyMGRlc2NhcnRhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg1OTg0MDc3fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1663292039460-188fe02b5968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsZWJyb24lMjBqYW1lcyUyMGRlc2NhcnRhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg2MDEyODUxfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 21:09:00 GMT"
       },
       {
         "title": "El anticipadísimo análisis de Bobby Marks sobre la temporada baja de la NBA: 10 preguntas para el verano de 2027",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTNYUUFHOFhlNlBZdmtxOC04RDlOejZUcGZydXN3ak84V1FGQlZFQUx3cUFSRjZFUG9OM3VpQ1p5LU5hc0FNZUV3WTIzWWJKVHdqTUNubWhYVmlweEwwc0piTXBPNjgtRHRCZjFXUkRXMEJsbGI3YllORVFpSXUzSXBoZWhCTDFRM3h3MURlWURkR2lkbmRLSG5LYw?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1576683564128-e4f3a22f231a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxhbnRpY2lwYWQlQzMlQURzaW1vJTIwYW4lQzMlQTFsaXNpcyUyMGJvYmJ5JTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg1OTg0MDc4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1549210194-fb0aac030c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxhbnRpY2lwYWQlQzMlQURzaW1vJTIwYW4lQzMlQTFsaXNpcyUyMGJvYmJ5JTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg2MDEyODUyfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 12:08:00 GMT"
       },
       {
         "title": "Exprometida de Luka Doncic retira petición de manutención de los hijos",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYW1xcWN0b3VXdmwzQnFrQy1aZzhxMTdyMzhqWFZucDJBeG5lRmUxMWx0TFluVTROQ0s2c3VDYWw4OWoyUWFKMUhmZXRiOG00MGJCZWVMM3Q1S01yUWJWSnlXWEFFLUVqX0xmbTd3SzhfU0FUUFVmc2oyZlJtRUM4cHZpWDZSdTJEbF9vWExfZE1laUQ1QThOUDhuQQ?oc=5",
         "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
         "_pub_raw": "Tue, 04 Aug 2026 22:09:00 GMT"
       },
       {
         "title": "Agencia libre de NBA 2026: hechos vs. ficción tras un mes agitado",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVllVVkzWWpPTk1saDNnX2tzUS1Ea1IwdVJQeU9uQ2EyYk9RdThZY1dkV1htS0o2QjFCNUROaFh3S0l6YjkxS2NNdUxDUk52SUY3TzFlNkhFeG1UQUFaMG1pek9xSVFLNUlxcUt2OUdpSlhTZDNQMDNibGxpOENGeWQ4NG5pM1VxU2NrZDdKcVFPZGNHVm1WMlBUTFVJaXVLVlZ0cGplT1NwYklUc1NMbA?oc=5",
         "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
         "_pub_raw": "Tue, 04 Aug 2026 20:31:00 GMT"
       },
       {
         "title": "WNBA Power Rankings: Fever, Aces y Dream ascienden",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVlKRDRjeEJzbHUtbTZGWUV5TGNwYm03VnpxU1pxYnRSUzNCdjFrbEs4emZSaExSNkNhdnRuQVJzRWMwS2s5eHk3MlhwZ3F1ckVHVWpFN3hJTTVaZVVTNmlnYllpcTNlQzZhaDExYUJqQUR2SHZCaHppcEp3MU1DTjFQazVNLWJKX2RkaGtWb1paMV8tenp2ZGlqdU93elc4LU5JNXRlNDFNeGtEalJuRVpBRzBRMzl3OWJPZzNjU0JOMjM1?oc=5",
         "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1595939281699-095354274439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHx3bmJhJTIwcG93ZXIlMjByYW5raW5ncyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4NTk4NDA4Mnww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1595939281699-095354274439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHx3bmJhJTIwcG93ZXIlMjByYW5raW5ncyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4NjAxMjg1NXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Tue, 04 Aug 2026 16:55:00 GMT"
       },
       {
-        "title": "Ejecutivo Gersson Rosas deja a Knicks tras cuatro años, fuentes",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXM3NVdGc0xHdDNuZ3VtTkhYbUlkYnQ2ZVRZbU93VExzS1NNU2t3OXRHZU9SanRpZnJiekdsSHZpVTJpOHJhSWlDdk83MjEyM3c4SEdOOGF4ckVxajJic0FzckhqSFJGSTlvaVBnNG1FRDIxYmFlaFltNE16Xzdod2xmZXJBdG03U2RzR2dIMTF2Qms0RGtQY3F6czAzdGd2aVB2Wg?oc=5",
+        "title": "Mexicano Marcelo Mayer cambia de equipo en el cierre de cambios de MLB",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYl9VR1hXTWxjNkFiU1N2ZDN2REozQzdHRkNMT1dVdHZDcjNxYzRld1hjSW82QXg0UXM4MXJGMDcxampFMjYwTjA4RkVDSVhIV0d6Q3V4aFNYLUlTbUZkTHNfZzBHVll5SEFaU09HRDhlMFZ3dF9jZWJydjRMNENzc2V2NDJPR1F4dUg4NERCci1yN1BqQnVENHdlaEY0anhrN2o0dTM5Sy1QaUFZTmRYLXpfblNSdGJPelFDbDJQSldYbEE?oc=5",
         "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1516802273409-68526ee1bdd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxlamVjdXRpdm8lMjBnZXJzc29uJTIwcm9zYXMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODU4NjU3ODB8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 04 Aug 2026 16:58:00 GMT"
+        "image": "https://images.unsplash.com/photo-1641541659898-c4be143c62b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxtZXhpY2FubyUyMG1hcmNlbG8lMjBtYXllciUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4NjAxMjg1N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Tue, 04 Aug 2026 16:41:00 GMT"
       }
     ],
     "pd": [
@@ -71,205 +78,149 @@
         "title": "Resultados de los dieciseisavos de final del London Premier Padel P1",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVIzeXBnYk1NejhOVUI2aFRJMURMalozRFJuU256ODdiUjEweExlQjltZ0V6dk12STJCbGxLdUZpOXFvQ1ZkR2RxLXJCbUR0V1VSLTJOYXhDa3Q4Q2NJeFdNUXk3SGFFUlNlbnhBdnNQZVUyUmZwWktjN0lQR3JRREZYWDRENnAxUzR3UWtDMldEbHRNUkxWSVRPOEs?oc=5",
         "date": "6 ago 2026",
-        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXN1bHRhZG9zJTIwZGllY2lzZWlzYXZvcyUyMGZpbmFsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg1OTg0MDk0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXN1bHRhZG9zJTIwZGllY2lzZWlzYXZvcyUyMGZpbmFsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg2MDEyODY2fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Thu, 06 Aug 2026 00:18:59 GMT"
       },
       {
         "title": "Resultados Premier Padel Londres P1 2026",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0R1Nud3pJbXNiN1BSVWRQb043Qm55Y1hKYWNnOFA1VzZ5ZnA2UTU3cEZvT21heGdrdmEzcWh1QkhtQWRkZnFoTm1KTFprWndodkFNalBfRXZxUUJrWE9iZVhNX0xIeHp1dk9DNzRha3VFdw?oc=5",
         "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1672223304816-d96242210bcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxyZXN1bHRhZG9zJTIwcHJlbWllciUyMHBhZGVsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg1ODk3NTQzfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1672223304816-d96242210bcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxyZXN1bHRhZG9zJTIwcHJlbWllciUyMHBhZGVsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg2MDEyODY3fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Tue, 04 Aug 2026 21:56:33 GMT"
       },
       {
         "title": "Enfado brutal de Javi Leal con Fran Guerrero tres días después de su primera final: \"Mierda de compañero\"",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZml5RHloc1FvX25kOWNXX2N5a01oNjg1MTM3ZmZMNWpjaV8wc3IwS2c3VVlsbEFZWnJFdUdfVUlZQ1VQYm9KbkxfcXh2cmdDV0xqb2pOZUhJdkRONkhscWxkM010aFFJWFZsVnlQOEtkaHc5OWxyTHJfNEwzRGd4ZFJiOW1YeDVyTWhwRWItTlRKcHZ0ZURkQWpnRlZQa0d0eVlfTFVfVTkxYk5PWXF0SEs3akFjRWNnekJETVRJbkVmM3gyVW5pdmdn0gHKAUFVX3lxTE5scUNONVF2ZmVWem1TQ1o4NjdITkMtdmpLcS1VSHIyOWhwRm9Fc0hhX0RzUkVCVjA3U0p6aHpOaEJaR0YwMWFiOG50ZnVjajBZSUtZVy1vMnNhMlpPZEl2YjFVU0hfOWh1X3YxczVpVVNEenFfOUUzRHkzSTgxM0NQMU5sUWhlYm4yMmRQTkRxMEYyLVFiNFJPM2JjckRLcGh6YllUX0lYaHlWbFVIajNIU1l0Sm92eHIzVHB4c2ZiY2RDTUtPYndpSWc?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxlbmZhZG8lMjBicnV0YWwlMjBqYXZpJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg1OTg0MDk2fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxlbmZhZG8lMjBicnV0YWwlMjBqYXZpJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg2MDEyODY5fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 15:42:08 GMT"
+      },
+      {
+        "title": "Fran Guerrero aclara la polémica tras lo ocurrido con Javi Leal: \"Una frase sacada de contexto\"",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ01PYkd0X2xQbFFZQWlYTzNwd1hvMlBLelBSMlpQSTZ4SXZRTGhiR1ViYW5PWW02M1gwOHdEZ2JjdUx0OHBsMFk1ZWlaZnZhNk9uQ0hjRV9IamU1bG5UTmF0VzVKM2VQUzVfYUNVdC1ydWFfVTA4cVdZYXAzbHBwVERMRHNGeUZzNk9mQkYxa2p5UDM1MU1YS3RUSktYSjFJaHJIVTNENENIcVpDV21MaF9BQTjSAbQBQVVfeXFMT3UxZXZJdVQ2M09hWXpibDcyWFRjVDVwMHZkVEVUbE8wS204Ni12MFl0d21UQ0JjbDNlSTZBYmZVOU81OUNidmdYaVl0WktpMzNLQTN6azk4MnhHbXJoR0VPWXNkMHBvQTJHemRRMndET1BHYXNYOUttUVBKeW1mV0k1VmhBOGdlYTNrejVadkk0YXNQWnRlel9rQU8xZGFPdFBSYWd3cUxadU9nUW5LSkdKSURX?oc=5",
+        "date": "6 ago 2026",
+        "image": "https://images.unsplash.com/photo-1560012057-4372e14c5085?w=480&q=70",
+        "_pub_raw": "Thu, 06 Aug 2026 06:28:05 GMT"
       },
       {
         "title": "Otro duro golpe para Yanguas y Stupaczuk: eliminados en dieciseisavos de Londres",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTgtRVFNS3pMVXJmTFg5Ym9RMWZEcnIyM2p0UDlxRWlTbS1DSldIRkVLdEZIUWpsc2x0UE1Dd0VlcnN5eFRDNDU2c3BVR3FBSkRyTEtEUmxidzJ6QUJLclVCeHlyV1FuMi1OcXdpTllDUV8wWTBJVkdGcndpN2ZlbVJHRUMwNWppSzVxa3pmYkJnS2E1M2lrYVdfQnFWZzlmWHZyN2pwVWPSAagBQVVfeXFMUFpuWC1YY1JLM3Bxbjl0c0VKWjhOMnh2My1CV2tHcjFjcGZXR2RzZ3hzTzZWcVBiMHU1THF5UG1pejBPTVRHSG95RlBfTFJYU3hTWThuNENKQUtQazdMWW4tUlFMNGNOeGtCQ3hKdlhZX1pKU2U4VDRoRmEwWnZTc08xcUdkZ1RhUUd0S2ZkVGItZFAzTWhSMHJFNXUtR00zWnlYT21OVC0z?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1612534847738-b3af9bc31f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxvdHJvJTIwZHVybyUyMGdvbHBlJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg1OTg0MDk4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1612534847738-b3af9bc31f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxvdHJvJTIwZHVybyUyMGdvbHBlJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg2MDEyODcxfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 17:06:38 GMT"
       },
       {
         "title": "Julián Alvarez desconecta en Ibiza con Enzo Fernández jugando al pádel... mientras Deco se reúne con su agente en Madrid",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmx3Vy15YVJSVnFoTFBJRE5Jc215U0xVcFdDNXloWkZJRU1rYWk4a1MzSkxlRjFfRHpEWk54T1hsdU9RSDBvYUl1OGQ3dkFQVEU1OVpoVFNOZTBTUjYwb3hJTDRVQ3NKalpqSmthMGpYU0UxbFN1N3lkNmJMRFN0dUIycnV4MWNKVGdoSFNYSU1YNnV2YVgtTmItSUN3dldjQkpxSDJTa1cyQlhsUmtmaUVxajhoc2tFcEs1ak9kWmt6a0V6U0tnbXdqOXBDd9IBzgFBVV95cUxOWDRRWGt5OW1ITVJlYmg2Y3BWR0w4dDFsd2lWeDFjUE5mV0VHbDRleWE1R015alZhaGlIUTZXbzBZNkttTzdOU05SMjRtVW12ODBCMkxsZFJQQVRSTkNLLWxvQmJaT2VNdV95YXF2MUdybHlNRVBjVjJVR1Vlc3NNUXB3clRGOEdHRE91R3hsVGVFS3pmUk1mYjd3dG5OY2wyUVVFRTg0em9teG9OTGk2QVg4b2Rja2x3QmdoVjRaWlBTWllvWUR6SGpMWENVdw?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxqdWxpJUMzJUExbiUyMGFsdmFyZXolMjBkZXNjb25lY3RhJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg1OTg0MTAwfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxqdWxpJUMzJUExbiUyMGFsdmFyZXolMjBkZXNjb25lY3RhJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg2MDEyODcyfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 10:35:45 GMT"
       },
       {
         "title": "Claudia y Martina: un proceso rápido o lento y sin pausa",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTF3TEt2S1dZQXRoVkZxUEsteWpMaTB4N0NHbC1tRmFZZFpCV3VxeXBidUFFWGM1NVVveUJvSkNHUVMycWNPWU5wbzNNenM4ZGdFODdpQndjWmdENk9oTjRMa3NWQmNLbkVOYnpJYUtib1kyenhqZi15WlpHMzd0YWtiZ3NPdzZjQ082VDJZNWRsR0dTNFZqRlFn0gGaAUFVX3lxTE9kd2RDU0UzM3RCYkpDMzFpenZmWFJEV0llMDNVeGpvSFpvUWdDTVdFRHlXU3ZfdmpnOTlIblJKUUFCUmFNa24yUWlwOGplRF9aMkhjbjdQcTdiQU5IcEFwN1JnUzdLMEkwVjh0NkhUVl9hX2JZdnZqS0cyNTV4UU1UcHpBclFjZEVvNjVyVDhubnZDSlRrcWVhMHc?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=480&q=70",
         "_pub_raw": "Wed, 05 Aug 2026 07:24:54 GMT"
       },
       {
         "title": "Compra Entradas Oficiales Para El Partido Milano Premier Padel P1. Mejores Precios Y Asientos Garantizados.",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZmxKM0E1N0owMmpKY3p5UE51WFlrNHBLb21wS2dmQWxWQ0RfaW01TVdxbU95Z05oNGVIZ3d5VHhxMTd1S3VjZzBGUnNGSkJZY0tjdGVOSkg4QUdXejBPcGlPY0R2Nkp6a3h5a3lqR2hvNGdiMjE5OERQcENlUQ?oc=5",
         "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1580153111806-5007b971dfe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjb21wcmElMjBlbnRyYWRhcyUyMG9maWNpYWxlcyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4NTk4NDEwM3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1580153111806-5007b971dfe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjb21wcmElMjBlbnRyYWRhcyUyMG9maWNpYWxlcyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4NjAxMjg3NXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Tue, 04 Aug 2026 18:31:23 GMT"
-      },
-      {
-        "title": "Stefanie Graf salta a la pista de pádel con una nueva colección de CRIVIT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMW5kcm1Vck5xN3RaUEZjVXZJZ2xraU8tUGVjX3I1N1ZGMGgzbmxrMzVOczJFTk1wdG9waWlmMzdBOTVrT2JxbUtNV2IzRWc0ZHNYeXFHeGdtQ25ZTl94d3gteGJ1SF9hT2hnTkN3dzJlUHpMZjFiX21PcTlFVTRGM1FFOE14QS00a1ZHREZ4alg2R2xQU3gzUlBlTDRUNjg?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=480&q=70",
-        "_pub_raw": "Tue, 04 Aug 2026 07:48:03 GMT"
-      },
-      {
-        "title": "Coello y Tapia vuelven a tener un duro sorteo en el P1 de Londres",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0hhUVpvZkxTSEJjVDNZem1EZTJJb29WU0tJVjRPLWd6OHZlUGNPVElOUkVaeWhIQllrZXgxX0NWQXI3SG9vRUFldFQzN1NIRjdMRVQ3S0h6YzRWNVpOemdMWHY4YU43aXJrd1Rnczk1YXFQSFpSN0FzSWZxOG1xNzZwd2dUQzYyNk0tUnhua1HSAZABQVVfeXFMUElVQldtckRITkx0Wi1FWmhUMnhOZ3FxQ01FZU5TcDBVR2tYMmRZb0x4QzZuaHBiREFIVlktLW9HbDRpRFhNQUZoNWRKTFV5bnpIaGtpNDN1U1VvMmJmaXlwRXFfWFhFR2Z4OW83eHRuVXl4d3gzRmplQW1heXJTWlBNUk9uXy1aREtvQTNkMlJ1?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1657704358775-ed705c7388d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxjb2VsbG8lMjB0YXBpYSUyMHZ1ZWx2ZW4lMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODU4NjU4MDZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 04 Aug 2026 08:47:19 GMT"
-      },
-      {
-        "title": "Londres P1 de Premier Padel: horarios, calendario y dónde ver en TV y online",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVjBpRTFRQ0pDc01TZGd3dmZEWVVfSjBmMWNUT2FSRUF0eWJGd3Vram9rTFlEX3g5ZlV6d3ZzVEtFRmx0VF9hd2ZiOUdlNmNiVzZGeWh4MzVheGpxZXlpTy1vUDEyanp4RUpKaUJ0X0VIVzdBcVcxMjFPU3g2R0NlNE5LSzFCWlB0QzFrNjRIcUlSZXFrM19VZWlkQU5IVmNwcnZaedIBpAFBVV95cUxObWpRVEZUUnpFM1pMaEdOZ0h2WHZEc0ZKZjJ6X2dnREZMc3kyYlI4YnpsYllxSmNiLVcxTUh5MFc1Q2lKeFJFS09ENXozQXlRNEtlM3JfWm1iVWdWb1ZkUmZ5YnBHMHRvMVE2WG41RzFLQktkRzV2aDBOZEhIVUJGSUxWZTY1cjA0TGFyOWtXZ0JkNU1oRXNUMmxKMkFUbUZMVHIxSw?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1560012057-4372e14c5085?w=480&q=70",
-        "_pub_raw": "Tue, 04 Aug 2026 06:10:09 GMT"
       }
     ],
     "fx": [
       {
-        "title": "Liga Femenil BBVA: Calendario y resultados de la Jornada 1",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc19LSmhFLWM4SkVheF9KUVFZRjZFaHYwWTlWWVFXM1V1Qmc5LTc2NFZ0T3c5LUZ5WWVGVFlKR20xQk9yWHhNOEhhLWhrQk5scGZ0NzZjbG1KM1FhNDVJeVcwWVZzRkN0RDJETXFBNVJXeEpPdmNFNUFweHFaTXk3TlVpUjNYVGhhZXRpTE9reEd6Y2xLVDBfQUppaEdTMXpkYzlmT2h2b1N6TTNUaEVhV2ZiSTJCMnVwUUhjQlVlUW82UQ?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
-        "_pub_raw": "Tue, 04 Aug 2026 04:23:00 GMT"
-      },
-      {
-        "title": "¡Terminó la primera jornada! Estos son los resultados y así quedaron las tablas de la Liga MX Femenil",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0VpNkpTeFNRcmFrLWtZZGhRRmt0OUY4SGtJZVpSZ1BzV01DLWU5a1JXQmNzUWxYYzlCMHR6aEZRYlo5QnBHQ1RjWW5qSTM1SDdmUW5HX1llVmJuV3E3S2JMYUNNanJmY1VKZXZZVnNvSjh2NDdNNmRhMWFid2FlZjZuVzFLWkZOSjhDT211SldROEZ5bVdmWFRfeUNWZk0yYTdjVXBSbHR3Z3BnSHZTeG5uOGJGVVU3MklB?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx0ZXJtaW4lQzMlQjMlMjBwcmltZXJhJTIwam9ybmFkYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODU4NjU4MjV8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 04 Aug 2026 03:06:00 GMT"
-      },
-      {
         "title": "Liga MX: Futbol de Estufa rumbo al Apertura 2026",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHE1c3VLTHJ6cXVzOHp6UzNtR2lLZjRTd1h0NUJXajBPcXhGWk1ndTRjTDBJa1h4cWs2TmZkSmFEWlNOS25RRFQydFRQUXowcUxWVDdFUnZ2cTFDRWx3emMxclhObUotV2ZuYk9GU2FYUjlhZG9FdHNseXRZb2ZiSnpLbzVGdEh0WmpjRkNxcjR4OFZNdHNrbWk0ZFhoTHhLLUxxd1hXSzl4U2hBLXc?oc=5",
         "date": "6 ago 2026",
-        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwZnV0Ym9sJTIwZXN0dWZhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NTg2NTgyOXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 06 Aug 2026 01:41:28 GMT"
+        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwZnV0Ym9sJTIwZXN0dWZhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NjAxMjg4M3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 06 Aug 2026 07:46:06 GMT"
       },
       {
         "title": "Cecilio de los Santos, histórico del América, convencido de que el título del Clausura 2026 debió ser de Ch...",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT25NTDZjaWU3dS05bEVFQ25meFR1NkVGNUh1cVk1N3JaYkgzM09TaDNuVkNVangxZkdFaFhrX0FMWDEtcDc0RWVMLXI3LUhycWZFZEVrcXdVV3lmcWRQM1BPNWJERndTeGhZYzJpempvWGtZLTM5UVRzeG9rUEJXYUxaaldOVTd5X0ZaYVp6ckkxVWN2cEpNT0JHUDg0Y2lnNkJaOG02QTJXMFg1YTdmc1pUU0NQLXc3cGRmWGxpT3l1eTNqWm5KdE5aVVlWVTliSE84M2Yxb00xVmd3OV9fbGdhUzFrUdIB5gFBVV95cUxNT25NTDZjaWU3dS05bEVFQ25meFR1NkVGNUh1cVk1N3JaYkgzM09TaDNuVkNVangxZkdFaFhrX0FMWDEtcDc0RWVMLXI3LUhycWZFZEVrcXdVV3lmcWRQM1BPNWJERndTeGhZYzJpempvWGtZLTM5UVRzeG9rUEJXYUxaaldOVTd5X0ZaYVp6ckkxVWN2cEpNT0JHUDg0Y2lnNkJaOG02QTJXMFg1YTdmc1pUU0NQLXc3cGRmWGxpT3l1eTNqWm5KdE5aVVlWVTliSE84M2Yxb00xVmd3OV9fbGdhUzFrUQ?oc=5",
         "date": "6 ago 2026",
-        "image": "https://images.unsplash.com/photo-1617337331555-d5ce4bdf39dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxjZWNpbGlvJTIwc2FudG9zJTIwaGlzdCVDMyVCM3JpY28lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg1OTg0MTE4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1617337331555-d5ce4bdf39dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxjZWNpbGlvJTIwc2FudG9zJTIwaGlzdCVDMyVCM3JpY28lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg2MDEyODg0fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Thu, 06 Aug 2026 01:10:24 GMT"
       },
       {
         "title": "Chiapanecas al Torneo Apertura 2026 de la Liga MX Femenil",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLXNuMFJxSHFrX21nMTN4c3VOMTZkYVVLcDNPS0ZoVU1JaGJjV1N1ckxfSmU5TFFhM2FCR1M5bWN3WTNKOVhIdlBybmhVZDI0UnFHWlpua3BzR0NLaW9rYVlhV1kzTGhrQlRYSV9xdHpISlFaM2hMVGp0M0dhbnBfd21saGhhYndTVFdUYlBFejFWZmhOT2tHODBVTQ?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjaGlhcGFuZWNhcyUyMHRvcm5lbyUyMGFwZXJ0dXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NTk4NDExOXww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjaGlhcGFuZWNhcyUyMHRvcm5lbyUyMGFwZXJ0dXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NjAxMjg4Nnww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 17:58:44 GMT"
       },
       {
-        "title": "OFICIAL: Así va la tabla general de la Liga Femenil BBVA MX, tras la Jornada 1 del Apertura 2026",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2EzeU1oMjZpUVA1bnlXM3g2U01hWF8taWlObWJvNU92X0p0QkZOVTVWeDJ6X0Q2TUo5ZkFpMkoxaG9mVHJHUUJjNWh2T0thTTFmRTAwcXFTRWNDZ1Z6SlpLdWRWOGNuQkVZQWNSWG1qT3RsMFVDdjNWNFh1RnFqemljbnM2TEhOdDVkY1hCZlFRM0ZtY2pWSy0xZW5zTHR60gGuAUFVX3lxTE9pOE5UeWJIbHVQYzU4djFRTU1NeEo0QnM0R19TYUNJcHk1Wl9FREJUNmRFVjEyb2hRWWdvMURpeDRuclRkZ05TY0xhTk44R081SkNMTlYxVG0ydWhMT1FTSURtSXREWXZmWWdsQnRnVTFuTHFjREJObXJNVGktanl6X0duSGp0a1JwV0VmenVUWUxQTXN3endjaGxhaWpEbGF5YkVCVEljaEloYld3UQ?oc=5",
+        "title": "Cruz Azul y los rivales que debe sortear en Leagues Cup y Liga MX para enfrentar al América",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlBabUNHNlNUZndwdWtGNDFoaTR6MFhaSVUxY2FNTHoxYmdxdllCTG5UOGUtMkxNVmVtNUpnR3VVSUtGeXYwUW1tbW5YWE9yY2dVMjl4aGV3MFUxUXBEa3J2VXk1Z1FpanVHU3RHOUNTZ0xLNWJTMHNPLURWMnNXeDZ4Yy1kV3lVRGFfckMxbERwT1BXU3JyVk5jWTFkRTMxT245UWxpVGVOakhBay1lQ0szSlJRZGlmc2ZqS2tzb0R3Z9IBwgFBVV95cUxPYlBabUNHNlNUZndwdWtGNDFoaTR6MFhaSVUxY2FNTHoxYmdxdllCTG5UOGUtMkxNVmVtNUpnR3VVSUtGeXYwUW1tbW5YWE9yY2dVMjl4aGV3MFUxUXBEa3J2VXk1Z1FpanVHU3RHOUNTZ0xLNWJTMHNPLURWMnNXeDZ4Yy1kV3lVRGFfckMxbERwT1BXU3JyVk5jWTFkRTMxT245UWxpVGVOakhBay1lQ0szSlJRZGlmc2ZqS2tzb0R3Zw?oc=5",
+        "date": "6 ago 2026",
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "_pub_raw": "Thu, 06 Aug 2026 01:21:00 GMT"
+      },
+      {
+        "title": "La Selección Mexicana de Futbol derrota a Panamá y se clasifica al Mundial Sub 20",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb3NyWlU2bDNCalNiMGdSTE5OT1UyRFEwS0c4Xzd6ZFMycDBWQWhreXJodHpxNWtQRXNweGdnSXo5SVNKZkM3alJRVTZXRmNpYURzNGp4bVlwRzJra3ZNZkFRX0tLV3JzNzdGY055TjZ0b04yMHZQQzFSMHlFU0htRWJTZ0dpczI2Unl5MTFhZkExNDdKMEdnQkhIbm5jR0FDaDFzY3hLWXZnQ0p1MWhKV3VIM3MzX3c2RElzbHRfNm8?oc=5",
+        "date": "6 ago 2026",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxzZWxlY2NpJUMzJUIzbiUyMG1leGljYW5hJTIwZnV0Ym9sJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NjAxMjg4OHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 06 Aug 2026 04:00:59 GMT"
+      },
+      {
+        "title": "Rafa Márquez suma nuevo rival en su Fecha FIFA de debut",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDRZcDJEVXBfaUd2MGNsNzJhTldWMHVQcU9DWmY2WGpXZFJzQ1NWNGVJODVJUlk1Wmg3OGVIcWZyR1lPekVuSkNodGJKRHk0Mk5WUU52WHJYWHB2aS1EREtObTJiRlZLZGlJZW9ZMU1oelNabm9RS21pZTUwNnhhNTBCdXRrNEpHZFdEbXVVcl9nM0NCY1Q0OWZoZGg0aDFMNy13TFdVd0Zsdw?oc=5",
         "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1537222961176-50d25fff78ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxvZmljaWFsJTIwdGFibGElMjBnZW5lcmFsJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NTk4NDEyMXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 04 Aug 2026 03:57:34 GMT"
-      },
-      {
-        "title": "⚽ ¡Apúntale! Estos son los partidos de la Leagues Cup que se podrán ver GRATIS por TV abierta 📺",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU3RKLWJ5RmxscnpXS0tqM1JybnpTNmxCV1RoTklFdHI5SEF1ODg0SE10NjZxbE1yMUdORy1aRDJCYnYxYVplN0F6NFk5bUY5R2Rfd190RUZ5Sk45VlBwNExxN1pGY1ExVl9OU1dVOGI0SlY0b3BYYUpMdjZ6YTA0Q0xMb0tiOVVLMlRBd05PZ0lxWnh1T09mQ3Z4X1c4bjFURUp2ZVdibEhvMUZIcVByUmFRelZpdU5DZnZ6RGFKY2hER2xuS0RuV3ZhS3V6dFZnSlJtUE9maHk0dDdkTERJQXhUQjllQzQ2?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1609779858641-af32f73effa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxhcCVDMyVCQW50YWxlJTIwZXN0b3MlMjBwYXJ0aWRvcyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODU4OTc1NzB8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 04 Aug 2026 21:13:56 GMT"
-      },
-      {
-        "title": "México golea a Panamá y jugará por el oro en Juegos Centroamericanos 2026",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2tTcGN5ZkR2Szlld3QwSGZFU3NBT1U0QlBxOElYZWg1eFFSQUIxNGJPeGRLUnB6YmJwMmRmQk9CLUlSZVBBX3JxVzVmcUVSY0VqeHY0TFZMVUJ4aEg0TnBQODRYR3pUSk84bEFzVzhwdUk5a2YzV1l2dW5xUTRuUnh1QmdmTk9MQ3NveENSRXE3cGt2ZWQxOWE5TjJmN0RkWmhNSXlNU3JyWmtkNl9BWkw3VDc5WWxTdDJ5eDZUdTBWdw?oc=5",
-        "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Wed, 05 Aug 2026 22:13:00 GMT"
-      },
-      {
-        "title": "La Selección Mexicana de Futbol Sub 23 va por el oro en JCC",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRlJWNzF1Rno1NXcxN2NGSmhNYkNUSTJDbERDV19fZzdraE1QOEl5TXdXSjNBNUF1YWNIWGtUNHBCWkZqWTJWUEQ4SjluZDRkalpDZ0V6b2hmbVR5NUtBeEFiRGd2dXFmRTY3dUNCSjFTSUZTWXZhc0RmMVg1VG4wWllENmM5YWJKaHhJQVJ4ZXFHWkY1MlhKNTU0S0pKWklOenl3?oc=5",
-        "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1631926284417-b25875bdea31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxzZWxlY2NpJUMzJUIzbiUyMG1leGljYW5hJTIwZnV0Ym9sJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NTk4NDEyNXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 05 Aug 2026 22:44:48 GMT"
+        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyYWZhJTIwbSVDMyVBMXJxdWV6JTIwc3VtYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODYwMTI4ODl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Tue, 04 Aug 2026 16:05:39 GMT"
       },
       {
         "title": "Balance del Mundial 2026: asistencia récord y el mejor desempeño de la Selección Nacional desde 1986",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjF0SHlwWnluZTNxb1ZBeW5RTUxIRmNSb3hMWV9QQXlNVkFBTlY1QVBXbnZobzk2cXoyMGY3RDlqY3Y0aThTNzhLQnczZFZLcjh3S2hkLVdQS2llSEZ6M3BveGx5Y1g5T3g1bEQ1RHBTSmF0T0R1RXItcklkX1hSTjMtVHpDdXZxNmliazNMdjZXTGN1M0RzTnh5Nkd2V3VQRHZsYmVNbVZycy1mVmVQRjljb2NBWkJrNmRjR2tianozZzdEWlE?oc=5",
         "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxiYWxhbmNlJTIwbXVuZGlhbCUyMGFzaXN0ZW5jaWElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg1ODk3NTc1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxiYWxhbmNlJTIwbXVuZGlhbCUyMGFzaXN0ZW5jaWElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg2MDEyODkwfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Tue, 04 Aug 2026 16:24:23 GMT"
       },
       {
-        "title": "¿A qué hora juega México vs Panamá en Cuartos de Final del Premundial Concacaf 2026 y dónde verlo?",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1hJTmJHV3FlWGcyQTlMMGk0ZGRsSWdualR1dGdfek9keUVkdG9LR0hQN1NGalM5QWMwc05BR3ZyS2RPT1MzYzZVU1ZDVzNEMEJ5NE5PUENJMTVIcWhCcnlkRXdTZFEya2djdWkzUUJrdGxiMURzWlRCUlFRZDRWZ3JnRm1nMUFSNERaNnlycHRKUWc1SDNxNTdxWTJUcVRaSFBmWEp0NG9jbHhPWWNQdlRTaVVnVTDSAbcBQVVfeXFMUGh1eDVWWjVidnpKV1VXZFRUaUdFOUhEUElRTTEtbWgzSDBXY2FBQUlPV3BiSFNBREswZnBscXgyV085S2tUM0hlaG5ZbmM4YlA0OHZFanZBd1JVRktHWlJKYzlGWHllMVVYZ2VfbHNETV9hZnhCV1hwRFJkeU80dkV3b2FwUW5wYXNQODhqXzhiSTZ5RUZwaUkydWRFaXliMXN2YUwtaHpOR3FQSFBQcnBoaUlGLXpN?oc=5",
-        "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxob3JhJTIwanVlZ2ElMjBtJUMzJUE5eGljbyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODU5ODQxMjd8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 05 Aug 2026 21:31:00 GMT"
+        "title": "¿Cómo le fue a los equipos de la Liga MX en la Leagues Cup 2026 HOY 5 de agosto? | Resultados Jornada 1",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWWx2NFJNclRhVmh4b3Y4QXE0VllNbVFJVVU5MFpJUkc3cExsWldXZ2hoak9ibTV4cVZlT0twMkdZTEU2UUNEc294OFVtcktfNXVJeVdmN09aSzlDbmdOaFZRNEVzc1dteGJ5V1JTWlcxMFVYYXJ4QVFyTlNhcFdvYXR2OU9Xd2p2eU95VkZiZW1MZXNIRV9IYlN6Um16Q2o0cTV0MlAzbWNCTGVmdUkwNm1SYlZwdGZxWk1vdGhWQ2VUdkUxMkRkNWF1d3R3OTBOR2xodmRKMGV4WjBsbElnZHZESmtuRjVQT3c?oc=5",
+        "date": "6 ago 2026",
+        "image": "https://images.unsplash.com/photo-1609779858641-af32f73effa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxjJUMzJUIzbW8lMjBlcXVpcG9zJTIwbGlnYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODYwMTI4OTF8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 06 Aug 2026 05:01:00 GMT"
       },
       {
-        "title": "Bernardo Cueva es una candidato para que trabaje con Rafael Márquez en la Selección Mexicana - esto",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekVxcGJyV09ydWlxRTR2djhhTlhuemFhTzc0ZUFxR2pFcGF3NW1iNHE0MkdDeVJ5Qk42Vy1Pbk5ITl9JNFk0d1lRaDNtMC1TcTFLSEc0MzJtYnZMR19wanNJZEhmYmM1d3hvYlBEOEJsbkx4bVQwR1F3YW9NQ184REhHaHFMdFh6NmRRS19LdWJUd09DWFNRb3o2YnF0aWFLZThGbmtjM0pTTktrdEdRMzk3ZHVQOVplTDg0RmNQd2VXZVE3d1UtcWVrM2EwTkdKbmJJVFlkMWNxb0xy?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxiZXJuYXJkbyUyMGN1ZXZhJTIwY2FuZGlkYXRvJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NTg5NzU3NHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 04 Aug 2026 20:16:45 GMT"
-      },
-      {
-        "title": "Liga Femenil Apertura 2026: Resultados y tabla de la Jornada 1",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNk1FVWRPQTRfcXFVWlBjMDJxMHBQak5RWFBXRmxQdjN4b2haelR6V2JMSEJzb1N1aTlMUmFDQ25KSzhmMEhnNWdvd3FMTzJZWjlCTi1OQTY3S2dSZVBCdEk2OEJvek9kZzE5UzB3MkNiSHlGbVFhdUg4N0RPYUdSYWt5QjI1NG9qajZuNnN3RmNnaEIwSGN0WNIBngFBVV95cUxOSUVOOVVHdWlHaUFDU3VEZFNDaU84LTZZNDczSHhHTjFCZmZTVmp3X0JkWnFFTktjRHJaaUFLQ2ZxTlBYVjBtYlh3SEZ6a1VDTmtqR0VGTG1hU1ZjZVB2OFpwSjRDeG9GQ09RUjBPR2w1azkwZUU3clpxLWZuRjN5ZmZJQ2FlUl9TcnRKSTRFSzhwZUZ2YUkzaDFjQmxFQQ?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwZmVtZW5pbCUyMGFwZXJ0dXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NTk4NDEyOXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 04 Aug 2026 03:07:41 GMT"
-      },
-      {
-        "title": "¿Cómo le fue a los equipos de la Liga MX en la Leagues Cup 2026 HOY 4 de agosto? | Resultados Jornada 1",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWXlESkVYLUJtaWMySHYwLTRwN0h4ajZoSWRBTDQ5S3V2bmxVQmFvRDV1X2RfVENtcXRqbFBBWWJJZm9POGhER3QzV2pBU3p5eENKdTBLXzRTNjRzcTRGV05JeGZpQmhFMEw0M1pMSHYyUnFacGZpYmgyR05aUFgtMWd3blR0QWtFc2xOWkZhclpTTHdiSEl6MURYSzRYZ0xZdHQxeTdUZzJGVmNORXFpeTQyWFVucTVhcEw1amRjZ2FPblhZRzF2ZG5PRWc4N29UX1pVbm1QaXU1WGVZNTdmRUotVkdhTnBsUEE?oc=5",
-        "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1609779858641-af32f73effa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxjJUMzJUIzbW8lMjBlcXVpcG9zJTIwbGlnYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODU5ODQxMzF8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 05 Aug 2026 05:32:00 GMT"
-      },
-      {
-        "title": "Everton vs. Liverpool (28 Nov., 2026) Resultados en Vivo",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPblVSU2N3V21HWWk0WlVOTkEtSHIzTG1MbmNTYnZKNjJ3RmUyblktNXl6Ul9UY3BwUmREVzV0dW1vYzhSRy1NQ0Zkay00QVV2UklFd2ZfalJ2eWRKQkN2dm9ydWlEbWtPTndYNUVYazFDZ3NaOTFWdHRTNmtkdzUxeDVR?oc=5",
+        "title": "México golea a Panamá y jugará por el oro en Juegos Centroamericanos 2026",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2tTcGN5ZkR2Szlld3QwSGZFU3NBT1U0QlBxOElYZWg1eFFSQUIxNGJPeGRLUnB6YmJwMmRmQk9CLUlSZVBBX3JxVzVmcUVSY0VqeHY0TFZMVUJ4aEg0TnBQODRYR3pUSk84bEFzVzhwdUk5a2YzV1l2dW5xUTRuUnh1QmdmTk9MQ3NveENSRXE3cGt2ZWQxOWE5TjJmN0RkWmhNSXlNU3JyWmtkNl9BWkw3VDc5WWxTdDJ5eDZUdTBWdw?oc=5",
         "date": "5 ago 2026",
         "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
-        "_pub_raw": "Wed, 05 Aug 2026 11:41:43 GMT"
+        "_pub_raw": "Wed, 05 Aug 2026 22:13:00 GMT"
       },
       {
         "title": "Se complica posible fichaje de Israel Reyes a Europa",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWFYyN2UzaTZZZzIyQ2JaMXNpcWtHTGdWYWlGUE9ETi1IbTZtaHNmd0pUQTFmZFkzdzQ5SmstQkZ4X2tIRmVtQ0E2LWtRR0lGOElnbVh1WDJxbVRFWHR2Wjd6a29QVWxRNExJRUhhTzRCMGpXTVV0cFVmbFhtcThiNC1ON1BBQnNqb1JFdF9CWFA2cVBlX2l4cnd3OHM4Wk9DRDI0TA?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1617337331555-d5ce4bdf39dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjb21wbGljYSUyMHBvc2libGUlMjBmaWNoYWplJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NTk4NDEzNHww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1617337331555-d5ce4bdf39dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjb21wbGljYSUyMHBvc2libGUlMjBmaWNoYWplJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NjAxMjg5M3ww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 20:09:39 GMT"
-      },
-      {
-        "title": "ÚLTIMA HORA: Comunicado de Cruzeiro sobre Brian Rodríguez",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOW5OdHBROE1wWWRyZzZReWZ2eXMyTVE5bEF6c0I5XzdEejFzSUJIa0liSnRPNVR4UmxXS3Z0Skdyd21Bb0lkM2hwYnpGZHBJY0NkRlBOQzRkdGliYkcxWVdqYlp1eS1CMU9LRFN2THk1a252bjBYQllVcWdmQi1PWmxjVF9lQklLckpEWW8ycjdQbVpvWkFWTFB3Y1BmRWp1MVNhTA?oc=5",
-        "date": "4 ago 2026",
-        "image": "https://images.unsplash.com/photo-1645921441624-3d8f9098a2a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHwlQzMlQkFsdGltYSUyMGhvcmElMjBjb211bmljYWRvJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NTk4NDEzNXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 04 Aug 2026 15:17:47 GMT"
       },
       {
         "title": "Erik Lira mantiene firme su sueño y descarta oferta millonaria",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSTFFbFdKT1BYRkpianpVdjUwYVEzVEt3cFUwZjBWblBIcUJNTzVaV1pZM1JCc2F1S3JIU2xfN0M1Q21nOWZUMHR5bTYwVjhfNEdvOWl1OEZTRm9xYkpmOEV6Yk51MzVzNHRkdTY2S3NVb2JLbjlsSGpILXlDQzlqQ1ROLTR5VnhSQ3dCSWRDWlVSZ0wxcmE0MllWLU5COFBNc3o2dWpIQlRvWC1TWXc?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxlcmlrJTIwbGlyYSUyMG1hbnRpZW5lJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NTk4NDEzNnww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxlcmlrJTIwbGlyYSUyMG1hbnRpZW5lJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NjAxMjg5NHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 00:40:56 GMT"
+      },
+      {
+        "title": "ÚLTIMA HORA: Comunicado de Cruzeiro sobre Brian Rodríguez",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOW5OdHBROE1wWWRyZzZReWZ2eXMyTVE5bEF6c0I5XzdEejFzSUJIa0liSnRPNVR4UmxXS3Z0Skdyd21Bb0lkM2hwYnpGZHBJY0NkRlBOQzRkdGliYkcxWVdqYlp1eS1CMU9LRFN2THk1a252bjBYQllVcWdmQi1PWmxjVF9lQklLckpEWW8ycjdQbVpvWkFWTFB3Y1BmRWp1MVNhTA?oc=5",
+        "date": "4 ago 2026",
+        "image": "https://images.unsplash.com/photo-1645921441624-3d8f9098a2a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHwlQzMlQkFsdGltYSUyMGhvcmElMjBjb211bmljYWRvJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NjAxMjg5NXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Tue, 04 Aug 2026 15:17:47 GMT"
       },
       {
         "title": "El fichaje más caro en la historia del Madrid se aproxima",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXVINGtSbTRZRnhMQmY2NG0zQlJ1WnFUZDVYVHRmOVhaaUg5SzZlZG9YdnhxMGt2eWVQR2phaWM5SV9vN0RJZWtXM3hkM3djYThfUDlzSW9QMlVHdEdPUkY5LTdRY29RUDZrbndoTGR6amhIbktyQmEtTkdiX3lqallWMnozQlZBTTBKMmJFclMxMWp2VmY5MnZOdm54SFVOdnQ0TldQd1Rxdw?oc=5",
         "date": "5 ago 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxmaWNoYWplJTIwY2FybyUyMGhpc3RvcmlhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4NjAxMjg5N3ww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 05 Aug 2026 15:13:53 GMT"
       }
     ]
