@@ -1,5 +1,5 @@
 {
-  "updated": "07/08/2026 02:43 UTC",
+  "updated": "07/08/2026 09:00 UTC",
   "sports": {
     "bk": [
       {
@@ -36,6 +36,27 @@
         "thumb": "https://i.ytimg.com/vi/0ZULyy_ax6M/mqdefault.jpg",
         "date": "2026-08-06",
         "url": "https://www.youtube.com/watch?v=0ZULyy_ax6M"
+      },
+      {
+        "vid": "si0VTaX8Q5s",
+        "title": "AJ Dybantsa Summer League Debut Full Play | 27 Pts, 7 Rebs 🔥🔥",
+        "thumb": "https://i4.ytimg.com/vi/si0VTaX8Q5s/hqdefault.jpg",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=si0VTaX8Q5s"
+      },
+      {
+        "vid": "Of3WQuarexY",
+        "title": "What's Next To Luka, AR & The Lakers Post LeBron Era",
+        "thumb": "https://i4.ytimg.com/vi/Of3WQuarexY/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=Of3WQuarexY"
+      },
+      {
+        "vid": "c6fnKfJSc6U",
+        "title": "'Happiness Over Money' | What's Next To LeBron? 👀",
+        "thumb": "https://i4.ytimg.com/vi/c6fnKfJSc6U/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=c6fnKfJSc6U"
       }
     ],
     "pd": [
@@ -77,6 +98,13 @@
     ],
     "fx": [
       {
+        "vid": "KahYLlOXP5I",
+        "title": "Quién lo iba a decir… MBAPPÉ 🤝 DIOMANDE",
+        "thumb": "https://i.ytimg.com/vi/KahYLlOXP5I/mqdefault.jpg",
+        "date": "2026-08-07",
+        "url": "https://www.youtube.com/watch?v=KahYLlOXP5I"
+      },
+      {
         "vid": "S2dwCsglO60",
         "title": "¿Mejor dúo? 🤔",
         "thumb": "https://i.ytimg.com/vi/S2dwCsglO60/mqdefault.jpg",
@@ -105,13 +133,6 @@
         "url": "https://www.youtube.com/watch?v=UpvENAUFla4"
       },
       {
-        "vid": "UpnQHg8gugo",
-        "title": "Las MEJORES JUGADAS de MESSI y NEYMAR en LALIGA ✨",
-        "thumb": "https://i.ytimg.com/vi/UpnQHg8gugo/mqdefault.jpg",
-        "date": "2026-08-06",
-        "url": "https://www.youtube.com/watch?v=UpnQHg8gugo"
-      },
-      {
         "vid": "9DSCUOznwBc",
         "title": "These Beşiktaş Goals Shouldn&#39;t Be Missed!",
         "thumb": "https://i.ytimg.com/vi/9DSCUOznwBc/mqdefault.jpg",
@@ -119,18 +140,18 @@
         "url": "https://www.youtube.com/watch?v=9DSCUOznwBc"
       },
       {
-        "vid": "igBYu73h37I",
-        "title": "When Salah scored against Roma",
-        "thumb": "https://i.ytimg.com/vi/igBYu73h37I/mqdefault.jpg",
-        "date": "2026-08-06",
-        "url": "https://www.youtube.com/watch?v=igBYu73h37I"
-      },
-      {
         "vid": "yZq4C5qvG8c",
         "title": "EVERY Mo Salah Europa League Goal! 🇪🇬👑",
         "thumb": "https://i.ytimg.com/vi/yZq4C5qvG8c/mqdefault.jpg",
         "date": "2026-08-05",
         "url": "https://www.youtube.com/watch?v=yZq4C5qvG8c"
+      },
+      {
+        "vid": "igBYu73h37I",
+        "title": "When Salah scored against Roma",
+        "thumb": "https://i.ytimg.com/vi/igBYu73h37I/mqdefault.jpg",
+        "date": "2026-08-06",
+        "url": "https://www.youtube.com/watch?v=igBYu73h37I"
       }
     ]
   }
