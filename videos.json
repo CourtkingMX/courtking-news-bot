@@ -1,7 +1,14 @@
 {
-  "updated": "09/08/2026 01:50 UTC",
+  "updated": "09/08/2026 08:44 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "_Sk8eET6WGs",
+        "title": "Nike Mamba Invitational: Girls Game 2 - Team Fearless vs. Team Resilience",
+        "thumb": "https://i.ytimg.com/vi/_Sk8eET6WGs/mqdefault.jpg",
+        "date": "2026-08-09",
+        "url": "https://www.youtube.com/watch?v=_Sk8eET6WGs"
+      },
       {
         "vid": "OePOfhhuyGM",
         "title": "Nike Mamba Invitational: Boys Game 1 - Team Relentless vs. Team Obsession",
@@ -29,13 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/DZXBSPvM3p4/mqdefault.jpg",
         "date": "2026-08-08",
         "url": "https://www.youtube.com/watch?v=DZXBSPvM3p4"
-      },
-      {
-        "vid": "P4kQZZg6O6k",
-        "title": "How Old were Members of USAB when They First Dunked?",
-        "thumb": "https://i.ytimg.com/vi/P4kQZZg6O6k/mqdefault.jpg",
-        "date": "2026-08-08",
-        "url": "https://www.youtube.com/watch?v=P4kQZZg6O6k"
       },
       {
         "vid": "d51kqvLmjGQ",
@@ -98,6 +98,13 @@
     ],
     "fx": [
       {
+        "vid": "xCuUcMOX1u8",
+        "title": "Un derbi para recordar 🔥⚽",
+        "thumb": "https://i.ytimg.com/vi/xCuUcMOX1u8/mqdefault.jpg",
+        "date": "2026-08-09",
+        "url": "https://www.youtube.com/watch?v=xCuUcMOX1u8"
+      },
+      {
         "vid": "yVi8VS7ZZ40",
         "title": "El primer gol de LOOKMAN en el Derbi de Madrid 👀",
         "thumb": "https://i.ytimg.com/vi/yVi8VS7ZZ40/mqdefault.jpg",
@@ -124,13 +131,6 @@
         "thumb": "https://i.ytimg.com/vi/uHqcvUteCwU/mqdefault.jpg",
         "date": "2026-08-08",
         "url": "https://www.youtube.com/watch?v=uHqcvUteCwU"
-      },
-      {
-        "vid": "mBp701kEr0c",
-        "title": "¿Te acuerdas de ese golazo? 💣",
-        "thumb": "https://i.ytimg.com/vi/mBp701kEr0c/mqdefault.jpg",
-        "date": "2026-08-08",
-        "url": "https://www.youtube.com/watch?v=mBp701kEr0c"
       },
       {
         "vid": "N_H7AUlczqo",
