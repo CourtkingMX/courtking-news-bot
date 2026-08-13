@@ -1,5 +1,5 @@
 {
-  "updated": "13/08/2026 02:05 UTC",
+  "updated": "13/08/2026 09:13 UTC",
   "sports": {
     "bk": [
       {
@@ -61,13 +61,6 @@
     ],
     "pd": [
       {
-        "vid": "D7gCUXdxORI",
-        "title": "(Replay) London Premier Padel P1 🇬🇧🎾: Pista Central(🇪🇸) (August 6th)",
-        "thumb": "https://i.ytimg.com/vi/D7gCUXdxORI/mqdefault.jpg",
-        "date": "2026-08-06",
-        "url": "https://www.youtube.com/watch?v=D7gCUXdxORI"
-      },
-      {
         "vid": "J6w5_nND5qQ",
         "title": "One of the best smashers on the game, Leo Augsburger 💥🍔 #PremierPadel",
         "thumb": "https://i.ytimg.com/vi/J6w5_nND5qQ/mqdefault.jpg",
@@ -94,15 +87,22 @@
         "thumb": "https://i.ytimg.com/vi/BeM1uBIcR4U/mqdefault.jpg",
         "date": "2026-08-07",
         "url": "https://www.youtube.com/watch?v=BeM1uBIcR4U"
+      },
+      {
+        "vid": "-oDphmf1HCg",
+        "title": "(Replay) Pretoria Premier Padel P1 🇿🇦🎾: Court 2 (July 30th)",
+        "thumb": "https://i.ytimg.com/vi/-oDphmf1HCg/mqdefault.jpg",
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=-oDphmf1HCg"
       }
     ],
     "fx": [
       {
-        "vid": "tJGjXjSxOeA",
-        "title": "Atlético de Madrid 4 - 2 Málaga CF 2016/17 PARTIDO COMPLETO",
-        "thumb": "https://i.ytimg.com/vi/tJGjXjSxOeA/mqdefault.jpg",
-        "date": "2026-08-12",
-        "url": "https://www.youtube.com/watch?v=tJGjXjSxOeA"
+        "vid": "AY0ezbrPr6I",
+        "title": "El gol que casi le mete RODRI al BARCELONA 😮‍💨",
+        "thumb": "https://i.ytimg.com/vi/AY0ezbrPr6I/mqdefault.jpg",
+        "date": "2026-08-13",
+        "url": "https://www.youtube.com/watch?v=AY0ezbrPr6I"
       },
       {
         "vid": "LR73uYV_acA",
@@ -112,13 +112,6 @@
         "url": "https://www.youtube.com/watch?v=LR73uYV_acA"
       },
       {
-        "vid": "V8-6PvWaR5o",
-        "title": "GOLAZOS de FALTA del FC BARCELONA en LALIGA 🎯",
-        "thumb": "https://i.ytimg.com/vi/V8-6PvWaR5o/mqdefault.jpg",
-        "date": "2026-08-12",
-        "url": "https://www.youtube.com/watch?v=V8-6PvWaR5o"
-      },
-      {
         "vid": "x3OhYY9nGAU",
         "title": "La carrera que se pegó JORDI ALBA para defender 🔝",
         "thumb": "https://i.ytimg.com/vi/x3OhYY9nGAU/mqdefault.jpg",
@@ -126,11 +119,18 @@
         "url": "https://www.youtube.com/watch?v=x3OhYY9nGAU"
       },
       {
-        "vid": "P2QHMGnD6ks",
-        "title": "Celta 2 - 3 Levante UD 2025/26 PARTIDO COMPLETO",
-        "thumb": "https://i.ytimg.com/vi/P2QHMGnD6ks/mqdefault.jpg",
-        "date": "2026-08-11",
-        "url": "https://www.youtube.com/watch?v=P2QHMGnD6ks"
+        "vid": "tJGjXjSxOeA",
+        "title": "Atlético de Madrid 4 - 2 Málaga CF 2016/17 PARTIDO COMPLETO",
+        "thumb": "https://i.ytimg.com/vi/tJGjXjSxOeA/mqdefault.jpg",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=tJGjXjSxOeA"
+      },
+      {
+        "vid": "uVy959vIJEU",
+        "title": "BATALLA 😬🫣",
+        "thumb": "https://i.ytimg.com/vi/uVy959vIJEU/mqdefault.jpg",
+        "date": "2026-08-12",
+        "url": "https://www.youtube.com/watch?v=uVy959vIJEU"
       },
       {
         "vid": "ooDoJu9_ivs",
