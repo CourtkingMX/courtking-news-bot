@@ -1,13 +1,27 @@
 {
-  "updated": "18/08/2026 08:37 UTC",
+  "updated": "18/08/2026 16:32 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "R9cc_PUg-e0",
+        "title": "NBA 2K27 | Preseason Breakdown: Game Reveal",
+        "thumb": "https://i.ytimg.com/vi/R9cc_PUg-e0/mqdefault_live.jpg",
+        "date": "2026-08-18",
+        "url": "https://www.youtube.com/watch?v=R9cc_PUg-e0"
+      },
       {
         "vid": "6pupeT5TLJc",
         "title": "SLAM SUMMER CLASSIC VOL 8. | BOYS GAME",
         "thumb": "https://i.ytimg.com/vi/6pupeT5TLJc/mqdefault.jpg",
         "date": "2026-08-18",
         "url": "https://www.youtube.com/watch?v=6pupeT5TLJc"
+      },
+      {
+        "vid": "uac5hg-_IP8",
+        "title": "The BEST Chasedown Blocks of the 2025-26 NBA Season",
+        "thumb": "https://i.ytimg.com/vi/uac5hg-_IP8/mqdefault.jpg",
+        "date": "2026-08-18",
+        "url": "https://www.youtube.com/watch?v=uac5hg-_IP8"
       },
       {
         "vid": "KsMdlueNcEk",
@@ -22,20 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/k_ePnYByXs0/mqdefault.jpg",
         "date": "2026-08-17",
         "url": "https://www.youtube.com/watch?v=k_ePnYByXs0"
-      },
-      {
-        "vid": "kXbAXuwalyM",
-        "title": "Rewinding back to one of the most clutch shots of the playoffs 💯",
-        "thumb": "https://i.ytimg.com/vi/kXbAXuwalyM/mqdefault.jpg",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=kXbAXuwalyM"
-      },
-      {
-        "vid": "D4RylKhxXik",
-        "title": "Jennifer Lopez was like every other Knicks fan out there after they won the title",
-        "thumb": "https://i.ytimg.com/vi/D4RylKhxXik/mqdefault.jpg",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=D4RylKhxXik"
       },
       {
         "vid": "d51kqvLmjGQ",
@@ -66,9 +66,65 @@
         "thumb": "https://i.ytimg.com/vi/J6w5_nND5qQ/mqdefault.jpg",
         "date": "2026-08-12",
         "url": "https://www.youtube.com/watch?v=J6w5_nND5qQ"
+      },
+      {
+        "vid": "zAFxj6Z2Cr4",
+        "title": "The making of the CHAMPIONS photo 📸🧚🦸‍♀️🏆 #PremierPadel #LondonPremierPadelP1",
+        "thumb": "https://i.ytimg.com/vi/zAFxj6Z2Cr4/mqdefault.jpg",
+        "date": "2026-08-09",
+        "url": "https://www.youtube.com/watch?v=zAFxj6Z2Cr4"
+      },
+      {
+        "vid": "-oDphmf1HCg",
+        "title": "(Replay) Pretoria Premier Padel P1 🇿🇦🎾: Court 2 (July 30th)",
+        "thumb": "https://i.ytimg.com/vi/-oDphmf1HCg/mqdefault.jpg",
+        "date": "2026-07-30",
+        "url": "https://www.youtube.com/watch?v=-oDphmf1HCg"
+      },
+      {
+        "vid": "Xf2fZyNVZwQ",
+        "title": "(Replay) Pretoria Premier Padel P1 🇿🇦🎾: Centre Court (🇬🇧) (July 28th)",
+        "thumb": "https://i.ytimg.com/vi/Xf2fZyNVZwQ/mqdefault.jpg",
+        "date": "2026-07-28",
+        "url": "https://www.youtube.com/watch?v=Xf2fZyNVZwQ"
+      },
+      {
+        "vid": "6n1jp1zJvTk",
+        "title": "(Replay) Bordeaux Premier Padel P2 🇫🇷🎾: Pista Central (🇪🇸) (July 2nd)",
+        "thumb": "https://i.ytimg.com/vi/6n1jp1zJvTk/mqdefault.jpg",
+        "date": "2026-07-02",
+        "url": "https://www.youtube.com/watch?v=6n1jp1zJvTk"
       }
     ],
     "fx": [
+      {
+        "vid": "1StNnwbKgqU",
+        "title": "El GOLAZO de Sergio Martínez que gritó todo el racinguismo",
+        "thumb": "https://i.ytimg.com/vi/1StNnwbKgqU/mqdefault.jpg",
+        "date": "2026-08-18",
+        "url": "https://www.youtube.com/watch?v=1StNnwbKgqU"
+      },
+      {
+        "vid": "MNgFnsPw2M4",
+        "title": "Se cumplen 2 años del debut de MBAPPÉ con el REAL MADRID",
+        "thumb": "https://i.ytimg.com/vi/MNgFnsPw2M4/mqdefault.jpg",
+        "date": "2026-08-18",
+        "url": "https://www.youtube.com/watch?v=MNgFnsPw2M4"
+      },
+      {
+        "vid": "Tph5FPXgva4",
+        "title": "¡Lo MEJOR de JOÃO CANCELO con el BARÇA en LALIGA! 🔵🔴",
+        "thumb": "https://i.ytimg.com/vi/Tph5FPXgva4/mqdefault.jpg",
+        "date": "2026-08-18",
+        "url": "https://www.youtube.com/watch?v=Tph5FPXgva4"
+      },
+      {
+        "vid": "aZ-v-qdqoZg",
+        "title": "Mariano volvió a marcar en LALIGA",
+        "thumb": "https://i.ytimg.com/vi/aZ-v-qdqoZg/mqdefault.jpg",
+        "date": "2026-08-18",
+        "url": "https://www.youtube.com/watch?v=aZ-v-qdqoZg"
+      },
       {
         "vid": "J22BqISvBgw",
         "title": "Auba está de vuelta 🔥⚽ף",
@@ -77,32 +133,18 @@
         "url": "https://www.youtube.com/watch?v=J22BqISvBgw"
       },
       {
-        "vid": "_5X4EgbhHfg",
-        "title": "Antonio Hidalgo: &quot;Sabemos del talento de Aubameyang&quot;",
-        "thumb": "https://i.ytimg.com/vi/_5X4EgbhHfg/mqdefault.jpg",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=_5X4EgbhHfg"
+        "vid": "BAZAOl7b7nQ",
+        "title": "Onana ❌",
+        "thumb": "https://i.ytimg.com/vi/BAZAOl7b7nQ/mqdefault.jpg",
+        "date": "2026-08-18",
+        "url": "https://www.youtube.com/watch?v=BAZAOl7b7nQ"
       },
       {
-        "vid": "feJQC4Ofqg4",
-        "title": "RC DEPORTIVO 1 - 1 ELCHE CF | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/feJQC4Ofqg4/mqdefault.jpg",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=feJQC4Ofqg4"
-      },
-      {
-        "vid": "4ABZ-X66v7w",
-        "title": "¡Lo iguala Marc Aguado! 💚",
-        "thumb": "https://i.ytimg.com/vi/4ABZ-X66v7w/mqdefault.jpg",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=4ABZ-X66v7w"
-      },
-      {
-        "vid": "z7Xt0KH2hD4",
-        "title": "¡DOBLE PARADA DE LEO ROMÁN! 😮",
-        "thumb": "https://i.ytimg.com/vi/z7Xt0KH2hD4/mqdefault.jpg",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=z7Xt0KH2hD4"
+        "vid": "mNcEVNgymUE",
+        "title": "Goalkeeper saves a header from a goalkeeper 🤯",
+        "thumb": "https://i.ytimg.com/vi/mNcEVNgymUE/mqdefault.jpg",
+        "date": "2026-08-18",
+        "url": "https://www.youtube.com/watch?v=mNcEVNgymUE"
       },
       {
         "vid": "I6Xg1jkathM",
@@ -110,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/I6Xg1jkathM/mqdefault.jpg",
         "date": "2026-08-17",
         "url": "https://www.youtube.com/watch?v=I6Xg1jkathM"
-      },
-      {
-        "vid": "5hNPC0j6_t8",
-        "title": "Yamal 🆚 Sommer",
-        "thumb": "https://i.ytimg.com/vi/5hNPC0j6_t8/mqdefault.jpg",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=5hNPC0j6_t8"
-      },
-      {
-        "vid": "G-1I3WfSJHA",
-        "title": "Perfect flick!",
-        "thumb": "https://i.ytimg.com/vi/G-1I3WfSJHA/mqdefault.jpg",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=G-1I3WfSJHA"
       }
     ]
   }
