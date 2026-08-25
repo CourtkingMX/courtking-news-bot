@@ -1,5 +1,5 @@
 {
-  "updated": "25/08/2026 08:43 UTC",
+  "updated": "25/08/2026 16:38 UTC",
   "sports": {
     "bk": [
       {
@@ -61,6 +61,13 @@
     ],
     "pd": [
       {
+        "vid": "l04XveiL9-U",
+        "title": "A day in the life of Ari Sanchez 🪄 ... Si quieres venir, vení",
+        "thumb": "https://i.ytimg.com/vi/l04XveiL9-U/mqdefault.jpg",
+        "date": "2026-08-25",
+        "url": "https://www.youtube.com/watch?v=l04XveiL9-U"
+      },
+      {
         "vid": "R-39sTPwfGs",
         "title": "Bea González: crecer dentro del pádel profesional | Bandeja+",
         "thumb": "https://i.ytimg.com/vi/R-39sTPwfGs/mqdefault.jpg",
@@ -87,16 +94,30 @@
         "thumb": "https://i.ytimg.com/vi/-oDphmf1HCg/mqdefault.jpg",
         "date": "2026-07-30",
         "url": "https://www.youtube.com/watch?v=-oDphmf1HCg"
-      },
-      {
-        "vid": "Xf2fZyNVZwQ",
-        "title": "(Replay) Pretoria Premier Padel P1 🇿🇦🎾: Centre Court (🇬🇧) (July 28th)",
-        "thumb": "https://i.ytimg.com/vi/Xf2fZyNVZwQ/mqdefault.jpg",
-        "date": "2026-07-28",
-        "url": "https://www.youtube.com/watch?v=Xf2fZyNVZwQ"
       }
     ],
     "fx": [
+      {
+        "vid": "fsPQUpMnkv8",
+        "title": "Los GOLES en el ÚLTIMO MINUTO del REAL MADRID en LALIGA ⏰",
+        "thumb": "https://i.ytimg.com/vi/fsPQUpMnkv8/mqdefault.jpg",
+        "date": "2026-08-25",
+        "url": "https://www.youtube.com/watch?v=fsPQUpMnkv8"
+      },
+      {
+        "vid": "pI6xy00HD6k",
+        "title": "Doblete de asistencias de Gordon y estreno goleador de Adeyemi",
+        "thumb": "https://i.ytimg.com/vi/pI6xy00HD6k/mqdefault.jpg",
+        "date": "2026-08-25",
+        "url": "https://www.youtube.com/watch?v=pI6xy00HD6k"
+      },
+      {
+        "vid": "JigRBiDnxRg",
+        "title": "TODOS los GOLES de la JORNADA 2 de LALIGA EA SPORTS 2026/27",
+        "thumb": "https://i.ytimg.com/vi/JigRBiDnxRg/mqdefault.jpg",
+        "date": "2026-08-25",
+        "url": "https://www.youtube.com/watch?v=JigRBiDnxRg"
+      },
       {
         "vid": "hqqg-o9cbSY",
         "title": "Un héroe llamado Carlos Espí",
@@ -112,25 +133,18 @@
         "url": "https://www.youtube.com/watch?v=1oZnJSnjnn8"
       },
       {
-        "vid": "f_W2MvF3r44",
-        "title": "Antonio Hidalgo: &quot;Ha sido un partido parejo, hay que pensar en el siguiente&quot;",
-        "thumb": "https://i.ytimg.com/vi/f_W2MvF3r44/mqdefault.jpg",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=f_W2MvF3r44"
+        "vid": "EvwgDszBFkI",
+        "title": "Which one? 🤔",
+        "thumb": "https://i.ytimg.com/vi/EvwgDszBFkI/mqdefault.jpg",
+        "date": "2026-08-25",
+        "url": "https://www.youtube.com/watch?v=EvwgDszBFkI"
       },
       {
-        "vid": "wWLKyVNDCjA",
-        "title": "MÁLAGA CF 1 - 1 RC DEPORTIVO | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/wWLKyVNDCjA/mqdefault.jpg",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=wWLKyVNDCjA"
-      },
-      {
-        "vid": "LzYGqrTAixg",
-        "title": "🤯 No hace falta decir nada.",
-        "thumb": "https://i.ytimg.com/vi/LzYGqrTAixg/mqdefault.jpg",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=LzYGqrTAixg"
+        "vid": "zeHCG515RDk",
+        "title": "Magical Pogba",
+        "thumb": "https://i.ytimg.com/vi/zeHCG515RDk/mqdefault.jpg",
+        "date": "2026-08-25",
+        "url": "https://www.youtube.com/watch?v=zeHCG515RDk"
       },
       {
         "vid": "-fh8XeuBfz0",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/-fh8XeuBfz0/mqdefault.jpg",
         "date": "2026-08-24",
         "url": "https://www.youtube.com/watch?v=-fh8XeuBfz0"
-      },
-      {
-        "vid": "2CwTAOAkY1E",
-        "title": "Top tier strike 😳",
-        "thumb": "https://i.ytimg.com/vi/2CwTAOAkY1E/mqdefault.jpg",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=2CwTAOAkY1E"
-      },
-      {
-        "vid": "mdu0L6Xz5dw",
-        "title": "This technique from Pogba 🤣",
-        "thumb": "https://i.ytimg.com/vi/mdu0L6Xz5dw/mqdefault.jpg",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=mdu0L6Xz5dw"
       }
     ]
   }
