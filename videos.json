@@ -1,5 +1,5 @@
 {
-  "updated": "02/09/2026 03:25 UTC",
+  "updated": "02/09/2026 12:36 UTC",
   "sports": {
     "bk": [
       {
@@ -36,46 +36,88 @@
         "thumb": "https://i.ytimg.com/vi/42dNv7U0TgQ/mqdefault.jpg",
         "date": "2026-09-01",
         "url": "https://www.youtube.com/watch?v=42dNv7U0TgQ"
+      },
+      {
+        "vid": "si0VTaX8Q5s",
+        "title": "AJ Dybantsa Summer League Debut Full Play | 27 Pts, 7 Rebs 🔥🔥",
+        "thumb": "https://i4.ytimg.com/vi/si0VTaX8Q5s/hqdefault.jpg",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=si0VTaX8Q5s"
+      },
+      {
+        "vid": "Of3WQuarexY",
+        "title": "What's Next To Luka, AR & The Lakers Post LeBron Era",
+        "thumb": "https://i4.ytimg.com/vi/Of3WQuarexY/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=Of3WQuarexY"
+      },
+      {
+        "vid": "c6fnKfJSc6U",
+        "title": "'Happiness Over Money' | What's Next To LeBron? 👀",
+        "thumb": "https://i4.ytimg.com/vi/c6fnKfJSc6U/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=c6fnKfJSc6U"
       }
     ],
     "pd": [
       {
-        "vid": "JcsKyegUs6U",
-        "title": "Madrid Premier Padel P1 🇪🇸🎾: Pista Central(🇪🇸)",
-        "thumb": "https://i.ytimg.com/vi/JcsKyegUs6U/mqdefault.jpg",
+        "vid": "lkZdXHqUij4",
+        "title": "Madrid Premier Padel P1🇪🇸🎾: Day 1 - Men&#39;s Highlights",
+        "thumb": "https://i.ytimg.com/vi/lkZdXHqUij4/mqdefault.jpg",
         "date": "2026-09-02",
-        "url": "https://www.youtube.com/watch?v=JcsKyegUs6U"
+        "url": "https://www.youtube.com/watch?v=lkZdXHqUij4"
       },
       {
-        "vid": "T3AR8cM6TeE",
-        "title": "Madrid Premier Padel P1 🇪🇸🎾: Pista Central(🇪🇸)",
-        "thumb": "https://i.ytimg.com/vi/T3AR8cM6TeE/mqdefault_live.jpg",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=T3AR8cM6TeE"
+        "vid": "rPaiJMKk2iw",
+        "title": "Madrid Premier Padel P1🇪🇸🎾: Day 1 - Women&#39;s Highlights",
+        "thumb": "https://i.ytimg.com/vi/rPaiJMKk2iw/mqdefault.jpg",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=rPaiJMKk2iw"
       },
       {
-        "vid": "MpUYmTWu7HM",
+        "vid": "FVRNkKIvRWg",
+        "title": "(Replay) Madrid Premier Padel P1 🇪🇸🎾: Court 3 (September 1st)",
+        "thumb": "https://i.ytimg.com/vi/FVRNkKIvRWg/mqdefault.jpg",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=FVRNkKIvRWg"
+      },
+      {
+        "vid": "-NdLbZZnRwg",
+        "title": "Madrid Premier Padel P1 🇪🇸🎾: Court 2",
+        "thumb": "https://i.ytimg.com/vi/-NdLbZZnRwg/mqdefault.jpg",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=-NdLbZZnRwg"
+      },
+      {
+        "vid": "uM5WzrvfXO0",
         "title": "Madrid Premier Padel P1 🇪🇸🎾: Centre Court (🇬🇧)",
-        "thumb": "https://i.ytimg.com/vi/MpUYmTWu7HM/mqdefault_live.jpg",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=MpUYmTWu7HM"
-      },
-      {
-        "vid": "8ckhR1fGw1w",
-        "title": "Madrid Premier Padel P1 🇪🇸🎾: Court 2 (🇪🇸)",
-        "thumb": "https://i.ytimg.com/vi/8ckhR1fGw1w/mqdefault_live.jpg",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=8ckhR1fGw1w"
-      },
-      {
-        "vid": "g-RcwuzLN04",
-        "title": "Madrid Premier Padel P1 🇪🇸🎾: Court 3",
-        "thumb": "https://i.ytimg.com/vi/g-RcwuzLN04/mqdefault_live.jpg",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=g-RcwuzLN04"
+        "thumb": "https://i.ytimg.com/vi/uM5WzrvfXO0/mqdefault.jpg",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=uM5WzrvfXO0"
       }
     ],
     "fx": [
+      {
+        "vid": "4iX4wfLoz6M",
+        "title": "ZABIRI hace historia con un hat-trick",
+        "thumb": "https://i.ytimg.com/vi/4iX4wfLoz6M/mqdefault.jpg",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=4iX4wfLoz6M"
+      },
+      {
+        "vid": "rNCrNChrTLE",
+        "title": "Los 60 GOLES de KYLIAN MBAPPÉ en LALIGA⚪🔥",
+        "thumb": "https://i.ytimg.com/vi/rNCrNChrTLE/mqdefault.jpg",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=rNCrNChrTLE"
+      },
+      {
+        "vid": "Td5WepstIAw",
+        "title": "Todos felicitan a LAMINE YAMAL",
+        "thumb": "https://i.ytimg.com/vi/Td5WepstIAw/mqdefault.jpg",
+        "date": "2026-09-02",
+        "url": "https://www.youtube.com/watch?v=Td5WepstIAw"
+      },
       {
         "vid": "bACLUOop8IA",
         "title": "Auba no para de dar volteretas 🤸",
@@ -89,27 +131,6 @@
         "thumb": "https://i.ytimg.com/vi/D4u1-deycK4/mqdefault.jpg",
         "date": "2026-09-01",
         "url": "https://www.youtube.com/watch?v=D4u1-deycK4"
-      },
-      {
-        "vid": "GeY2pSVQ8EY",
-        "title": "Tres palos del Villarreal CF",
-        "thumb": "https://i.ytimg.com/vi/GeY2pSVQ8EY/mqdefault.jpg",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=GeY2pSVQ8EY"
-      },
-      {
-        "vid": "IYpLmDDkQjo",
-        "title": "Los NUEVOS FICHAJES y sus INCREÍBLES DEBUTS ⚡ | LALIGA EA SPORTS 2026/27",
-        "thumb": "https://i.ytimg.com/vi/IYpLmDDkQjo/mqdefault.jpg",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=IYpLmDDkQjo"
-      },
-      {
-        "vid": "XsFBFCIBd2E",
-        "title": "LAMINE es estratosférico",
-        "thumb": "https://i.ytimg.com/vi/XsFBFCIBd2E/mqdefault.jpg",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=XsFBFCIBd2E"
       },
       {
         "vid": "BwNfF-7-W8A",
