@@ -1,5 +1,5 @@
 {
-  "updated": "05/09/2026 03:27 UTC",
+  "updated": "05/09/2026 11:42 UTC",
   "sports": {
     "bk": [
       {
@@ -36,6 +36,27 @@
         "thumb": "https://i.ytimg.com/vi/dMwraUOcJbw/mqdefault.jpg",
         "date": "2026-09-04",
         "url": "https://www.youtube.com/watch?v=dMwraUOcJbw"
+      },
+      {
+        "vid": "si0VTaX8Q5s",
+        "title": "AJ Dybantsa Summer League Debut Full Play | 27 Pts, 7 Rebs 🔥🔥",
+        "thumb": "https://i4.ytimg.com/vi/si0VTaX8Q5s/hqdefault.jpg",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=si0VTaX8Q5s"
+      },
+      {
+        "vid": "Of3WQuarexY",
+        "title": "What's Next To Luka, AR & The Lakers Post LeBron Era",
+        "thumb": "https://i4.ytimg.com/vi/Of3WQuarexY/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=Of3WQuarexY"
+      },
+      {
+        "vid": "c6fnKfJSc6U",
+        "title": "'Happiness Over Money' | What's Next To LeBron? 👀",
+        "thumb": "https://i4.ytimg.com/vi/c6fnKfJSc6U/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=c6fnKfJSc6U"
       }
     ],
     "pd": [
@@ -77,6 +98,20 @@
     ],
     "fx": [
       {
+        "vid": "zKOft4fUBuc",
+        "title": "Fran García saluda a sus ex compañeros 💚🤍",
+        "thumb": "https://i.ytimg.com/vi/zKOft4fUBuc/mqdefault.jpg",
+        "date": "2026-09-05",
+        "url": "https://www.youtube.com/watch?v=zKOft4fUBuc"
+      },
+      {
+        "vid": "W9cXRu12ins",
+        "title": "Messi vs Valencia ✨",
+        "thumb": "https://i.ytimg.com/vi/W9cXRu12ins/mqdefault.jpg",
+        "date": "2026-09-05",
+        "url": "https://www.youtube.com/watch?v=W9cXRu12ins"
+      },
+      {
         "vid": "BEC-2cOR16Q",
         "title": "REAL BETIS vs REAL MADRID | RUEDA DE PRENSA",
         "thumb": "https://i.ytimg.com/vi/BEC-2cOR16Q/mqdefault.jpg",
@@ -98,18 +133,11 @@
         "url": "https://www.youtube.com/watch?v=aF0hr8y0Tcw"
       },
       {
-        "vid": "09coNJMW0GU",
-        "title": "HÉROE VALLES🧤",
-        "thumb": "https://i.ytimg.com/vi/09coNJMW0GU/mqdefault.jpg",
-        "date": "2026-09-04",
-        "url": "https://www.youtube.com/watch?v=09coNJMW0GU"
-      },
-      {
-        "vid": "rBSh5tzNeL8",
-        "title": "REAL BETIS 1 - 0 REAL MADRID | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/rBSh5tzNeL8/mqdefault.jpg",
-        "date": "2026-09-04",
-        "url": "https://www.youtube.com/watch?v=rBSh5tzNeL8"
+        "vid": "fUhJE7gaAn8",
+        "title": "Neymar x Mbappé",
+        "thumb": "https://i.ytimg.com/vi/fUhJE7gaAn8/mqdefault.jpg",
+        "date": "2026-09-05",
+        "url": "https://www.youtube.com/watch?v=fUhJE7gaAn8"
       },
       {
         "vid": "jTsmQkNhggk",
@@ -124,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/sV9CNeS-x3o/mqdefault.jpg",
         "date": "2026-09-04",
         "url": "https://www.youtube.com/watch?v=sV9CNeS-x3o"
-      },
-      {
-        "vid": "ynO2uV0vhAY",
-        "title": "Genius Barella 🧠",
-        "thumb": "https://i.ytimg.com/vi/ynO2uV0vhAY/mqdefault.jpg",
-        "date": "2026-09-03",
-        "url": "https://www.youtube.com/watch?v=ynO2uV0vhAY"
       }
     ]
   }
