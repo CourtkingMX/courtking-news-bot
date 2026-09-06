@@ -1,5 +1,5 @@
 {
-  "updated": "06/09/2026 03:27 UTC",
+  "updated": "06/09/2026 11:59 UTC",
   "sports": {
     "bk": [
       {
@@ -61,6 +61,13 @@
     ],
     "pd": [
       {
+        "vid": "m65xjbtD9Eo",
+        "title": "Madrid Premier Padel P1 🇪🇸🎾: Pista Central(🇪🇸)",
+        "thumb": "https://i.ytimg.com/vi/m65xjbtD9Eo/mqdefault_live.jpg",
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=m65xjbtD9Eo"
+      },
+      {
         "vid": "dklwGthuvx8",
         "title": "Y qué remontada de Perlamita 😮‍💨🧨🍍 #PremierPadel #MadridPremierPadelP1",
         "thumb": "https://i.ytimg.com/vi/dklwGthuvx8/mqdefault.jpg",
@@ -87,16 +94,16 @@
         "thumb": "https://i.ytimg.com/vi/9Xq5oOeCnBw/mqdefault.jpg",
         "date": "2026-09-03",
         "url": "https://www.youtube.com/watch?v=9Xq5oOeCnBw"
-      },
-      {
-        "vid": "hNVFGkHlBes",
-        "title": "(Replay) Madrid Premier Padel P1 🇪🇸🎾: Pista Central(🇪🇸) (September 3rd)",
-        "thumb": "https://i.ytimg.com/vi/hNVFGkHlBes/mqdefault.jpg",
-        "date": "2026-09-03",
-        "url": "https://www.youtube.com/watch?v=hNVFGkHlBes"
       }
     ],
     "fx": [
+      {
+        "vid": "X5hiUJPi2oU",
+        "title": "Aubameyang, non-stop 😮‍💨",
+        "thumb": "https://i.ytimg.com/vi/X5hiUJPi2oU/mqdefault.jpg",
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=X5hiUJPi2oU"
+      },
       {
         "vid": "huD9Tg3dkp8",
         "title": "VILLARREAL CF 2 - 3 RC DEPORTIVO | RESUMEN LALIGA EA SPORTS",
@@ -126,11 +133,11 @@
         "url": "https://www.youtube.com/watch?v=ow0MawfV57E"
       },
       {
-        "vid": "g-X47GOLG5U",
-        "title": "VILLARREAL CF 2 - 3 RC DEPORTIVO | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/g-X47GOLG5U/mqdefault.jpg",
-        "date": "2026-09-05",
-        "url": "https://www.youtube.com/watch?v=g-X47GOLG5U"
+        "vid": "zW0cMA9W2D4",
+        "title": "Incredible save!",
+        "thumb": "https://i.ytimg.com/vi/zW0cMA9W2D4/mqdefault.jpg",
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=zW0cMA9W2D4"
       },
       {
         "vid": "F4JNr6pYX5Y",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/fUhJE7gaAn8/mqdefault.jpg",
         "date": "2026-09-05",
         "url": "https://www.youtube.com/watch?v=fUhJE7gaAn8"
-      },
-      {
-        "vid": "jTsmQkNhggk",
-        "title": "The Women&#39;s Champions League League Phase Draw 2026/27",
-        "thumb": "https://i.ytimg.com/vi/jTsmQkNhggk/mqdefault.jpg",
-        "date": "2026-09-04",
-        "url": "https://www.youtube.com/watch?v=jTsmQkNhggk"
       }
     ]
   }
