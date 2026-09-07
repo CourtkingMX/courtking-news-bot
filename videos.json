@@ -1,7 +1,14 @@
 {
-  "updated": "07/09/2026 03:27 UTC",
+  "updated": "07/09/2026 14:02 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "E03UVgs1_UE",
+        "title": "Donovan Mitchell&#39;s Top 30 Career Plays 🕷️",
+        "thumb": "https://i.ytimg.com/vi/E03UVgs1_UE/mqdefault.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=E03UVgs1_UE"
+      },
       {
         "vid": "o6uZg1OXn0U",
         "title": "The Most INSANE Endings of the 2025-26 NBA Season | Pt. 1",
@@ -31,13 +38,6 @@
         "url": "https://www.youtube.com/watch?v=EjHtV2jSCx4"
       },
       {
-        "vid": "CNIn4OxYQU4",
-        "title": "One of the WILDEST ENDINGS of the Season 🤯 Nuggets vs. Lakers | Presented by @xfinity",
-        "thumb": "https://i.ytimg.com/vi/CNIn4OxYQU4/mqdefault.jpg",
-        "date": "2026-09-05",
-        "url": "https://www.youtube.com/watch?v=CNIn4OxYQU4"
-      },
-      {
         "vid": "si0VTaX8Q5s",
         "title": "AJ Dybantsa Summer League Debut Full Play | 27 Pts, 7 Rebs 🔥🔥",
         "thumb": "https://i4.ytimg.com/vi/si0VTaX8Q5s/hqdefault.jpg",
@@ -61,42 +61,63 @@
     ],
     "pd": [
       {
-        "vid": "dklwGthuvx8",
-        "title": "Y qué remontada de Perlamita 😮‍💨🧨🍍 #PremierPadel #MadridPremierPadelP1",
-        "thumb": "https://i.ytimg.com/vi/dklwGthuvx8/mqdefault.jpg",
-        "date": "2026-09-05",
-        "url": "https://www.youtube.com/watch?v=dklwGthuvx8"
+        "vid": "kMFCkFG0-Vo",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 5",
+        "thumb": "https://i.ytimg.com/vi/kMFCkFG0-Vo/mqdefault_live.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=kMFCkFG0-Vo"
       },
       {
-        "vid": "pwd3jr3c-38",
-        "title": "Great smash by Arroyo in the Madrid P1",
-        "thumb": "https://i.ytimg.com/vi/pwd3jr3c-38/mqdefault.jpg",
-        "date": "2026-09-04",
-        "url": "https://www.youtube.com/watch?v=pwd3jr3c-38"
+        "vid": "5e3MApKplrw",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 6",
+        "thumb": "https://i.ytimg.com/vi/5e3MApKplrw/mqdefault_live.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=5e3MApKplrw"
       },
       {
-        "vid": "Ota8oMac5Fc",
-        "title": "Jensen&#39;s insane return from outside the court",
-        "thumb": "https://i.ytimg.com/vi/Ota8oMac5Fc/mqdefault.jpg",
-        "date": "2026-09-04",
-        "url": "https://www.youtube.com/watch?v=Ota8oMac5Fc"
+        "vid": "LlegCvVbP78",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 7",
+        "thumb": "https://i.ytimg.com/vi/LlegCvVbP78/mqdefault_live.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=LlegCvVbP78"
       },
       {
-        "vid": "9Xq5oOeCnBw",
-        "title": "Madrid Premier Padel P1🇪🇸🎾: Day 3 - Women&#39;s Highlights",
-        "thumb": "https://i.ytimg.com/vi/9Xq5oOeCnBw/mqdefault.jpg",
-        "date": "2026-09-03",
-        "url": "https://www.youtube.com/watch?v=9Xq5oOeCnBw"
+        "vid": "XQ-xei2HPCw",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾:  Pista Central(🇪🇸)",
+        "thumb": "https://i.ytimg.com/vi/XQ-xei2HPCw/mqdefault_live.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=XQ-xei2HPCw"
       },
       {
-        "vid": "hNVFGkHlBes",
-        "title": "(Replay) Madrid Premier Padel P1 🇪🇸🎾: Pista Central(🇪🇸) (September 3rd)",
-        "thumb": "https://i.ytimg.com/vi/hNVFGkHlBes/mqdefault.jpg",
-        "date": "2026-09-03",
-        "url": "https://www.youtube.com/watch?v=hNVFGkHlBes"
+        "vid": "af_KyJmmz1I",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Centre Court (🇬🇧)",
+        "thumb": "https://i.ytimg.com/vi/af_KyJmmz1I/mqdefault_live.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=af_KyJmmz1I"
       }
     ],
     "fx": [
+      {
+        "vid": "D0MBWgr9nLo",
+        "title": "CAMELLO no dudó en regalarle su camiseta 🎁",
+        "thumb": "https://i.ytimg.com/vi/D0MBWgr9nLo/mqdefault.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=D0MBWgr9nLo"
+      },
+      {
+        "vid": "DxuliYjFiCM",
+        "title": "El ZURDAZO de KANG-IN LEE | ¡Los 10 MEJORES GOLES de AGOSTO! ⚽🔝",
+        "thumb": "https://i.ytimg.com/vi/DxuliYjFiCM/mqdefault.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=DxuliYjFiCM"
+      },
+      {
+        "vid": "681iKwkawTg",
+        "title": "ADEYEMI 😎",
+        "thumb": "https://i.ytimg.com/vi/681iKwkawTg/mqdefault.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=681iKwkawTg"
+      },
       {
         "vid": "F48wSLw1RKY",
         "title": "Lamine Yamal ⚽️🌟",
@@ -112,32 +133,18 @@
         "url": "https://www.youtube.com/watch?v=X7GbgS8ZlaA"
       },
       {
-        "vid": "J0Oc0xJ61D0",
-        "title": "DEPORTIVO ALAVÉS 5 - 2 CA OSASUNA | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/J0Oc0xJ61D0/mqdefault.jpg",
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=J0Oc0xJ61D0"
+        "vid": "NihJdjB9wz8",
+        "title": "Super strike from Yıldız",
+        "thumb": "https://i.ytimg.com/vi/NihJdjB9wz8/mqdefault.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=NihJdjB9wz8"
       },
       {
-        "vid": "SZY4t7T_dmM",
-        "title": "RCD ESPANYOL vs SEVILLA FC | RUEDA DE PRENSA",
-        "thumb": "https://i.ytimg.com/vi/SZY4t7T_dmM/mqdefault.jpg",
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=SZY4t7T_dmM"
-      },
-      {
-        "vid": "56-xUqjHv-I",
-        "title": "RCD ESPANYOL 1 - 1 SEVILLA FC | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/56-xUqjHv-I/mqdefault.jpg",
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=56-xUqjHv-I"
-      },
-      {
-        "vid": "YyJdKiyxAR0",
-        "title": "We Tested Erling Haaland&#39;s BALL KNOWLEDGE",
-        "thumb": "https://i.ytimg.com/vi/YyJdKiyxAR0/mqdefault.jpg",
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=YyJdKiyxAR0"
+        "vid": "gbHKw8Wfm_c",
+        "title": "When Marcus Rashford scored this for Barcelona!",
+        "thumb": "https://i.ytimg.com/vi/gbHKw8Wfm_c/mqdefault.jpg",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=gbHKw8Wfm_c"
       },
       {
         "vid": "zW0cMA9W2D4",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/zW0cMA9W2D4/mqdefault.jpg",
         "date": "2026-09-06",
         "url": "https://www.youtube.com/watch?v=zW0cMA9W2D4"
-      },
-      {
-        "vid": "F4JNr6pYX5Y",
-        "title": "ICONIC Liverpool Goals From The Champions League!",
-        "thumb": "https://i.ytimg.com/vi/F4JNr6pYX5Y/mqdefault.jpg",
-        "date": "2026-09-05",
-        "url": "https://www.youtube.com/watch?v=F4JNr6pYX5Y"
       }
     ]
   }
