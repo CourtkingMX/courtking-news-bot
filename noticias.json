@@ -1,20 +1,20 @@
 {
-  "updated": "06/09/2026 18:05 UTC",
+  "updated": "07/09/2026 03:27 UTC",
   "sports": {
     "bk": [
-      {
-        "title": "\"Hay superestrellas de la NBA ahora mismo que no podrían jugar en Europa\"",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUZPejd2UTBrajBiR3ZIU3Z2LVc0cW5pNDgzRHJpWnZTNS02VzhEZ1U4TWhhV2xEVWtQYkJwY3BCZm03MUNGbTFzdDJKbU81YmViekw3OFpiT3lwSHJNZERNRXBLYWRGR0R4c09uRGRCM0FMY2pXMFdqUnZjeC0zNW11NTR5WmdYdUdtbzZRREV0WTJ6SkJROVNScFHSAZwBQVVfeXFMT0JoVmRHa3pTYzhfLUpZNWFTTkZrR0RMLXlwcXdXMVZtRnh6V3hOTkdwZUFNdXVvSG93U1BtT09GclZFamcwNEoyUVRLbVhoYUxSWmJfaHZWbFI5aTF1Vk1waGlzSEViQmR1SENkWXA2Tk1XaFRNN2dDVUVUTGdIVFFGWnlhYlpRNlB3YUNuTnc4anRhMUo4V2FmZFhW?oc=5",
-        "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1595939281699-095354274439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxzdXBlcmVzdHJlbGxhcyUyMGFob3JhJTIwbWlzbW8lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODg2OTU5ODh8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 06 Sep 2026 09:03:55 GMT"
-      },
       {
         "title": "Mentirosos, farsantes, tramposos, mentirosos, farsantes, tramposos...",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFdXa0hTM0F3X3JvQUxaQ1hDWVlCcmZjLUJ4RHc3dGMyeXhER19jOE9nVy1yUmswZVpESzQ4bW9oZVJaQXp1VGg2RU1TUnJXWXVVX29uanpjaThoTmxsa0VzU0pRUnpRZTFDYU11SnhsanRBU05KRVRhekJlLWRaRVdrRWc1SVZpT2Q3LTlsbHpDS3VKVi15R3NRMDg4eGZEVGpfLdIBuAFBVV95cUxNakhzaFNjY0t4NlhaMFMxdW1nb1JEMUdDOWl1THZqdDJaaER5dVVHUnZsOHJObXF6c0JOdHdFTGV0NmZMSWlOLTdKQUZGYVp1WG9uWkNhdzJXRHlJRTh4RlFnTFc5TWxTOE0xbDN2Y3FuV05sMHBoYTF1MWhtTlZSZk4tUGlrWWRrU1ZRd1ROQ1JLMHdwUkRzLUJ1RHQzVVJteV9wR3VIUzRpTnFfTmFpTE5LYnd0T0lt?oc=5",
         "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1576683564128-e4f3a22f231a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxtZW50aXJvc29zJTIwZmFyc2FudGVzJTIwdHJhbXBvc29zJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg4Njk1OTg5fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1576683564128-e4f3a22f231a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxtZW50aXJvc29zJTIwZmFyc2FudGVzJTIwdHJhbXBvc29zJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg4NzUxNjQwfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 05 Sep 2026 05:23:55 GMT"
+      },
+      {
+        "title": "\"Hay superestrellas de la NBA ahora mismo que no podrían jugar en Europa\"",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUZPejd2UTBrajBiR3ZIU3Z2LVc0cW5pNDgzRHJpWnZTNS02VzhEZ1U4TWhhV2xEVWtQYkJwY3BCZm03MUNGbTFzdDJKbU81YmViekw3OFpiT3lwSHJNZERNRXBLYWRGR0R4c09uRGRCM0FMY2pXMFdqUnZjeC0zNW11NTR5WmdYdUdtbzZRREV0WTJ6SkJROVNScFHSAZwBQVVfeXFMT0JoVmRHa3pTYzhfLUpZNWFTTkZrR0RMLXlwcXdXMVZtRnh6V3hOTkdwZUFNdXVvSG93U1BtT09GclZFamcwNEoyUVRLbVhoYUxSWmJfaHZWbFI5aTF1Vk1waGlzSEViQmR1SENkWXA2Tk1XaFRNN2dDVUVUTGdIVFFGWnlhYlpRNlB3YUNuTnc4anRhMUo4V2FmZFhW?oc=5",
+        "date": "6 sep 2026",
+        "image": "https://images.unsplash.com/photo-1595939281699-095354274439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxzdXBlcmVzdHJlbGxhcyUyMGFob3JhJTIwbWlzbW8lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODg3NTE2NDF8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 09:03:55 GMT"
       },
       {
         "title": "Ya es un hecho: Ben Simmons vuelve a la NBA",
@@ -24,89 +24,75 @@
         "_pub_raw": "Sat, 05 Sep 2026 07:11:32 GMT"
       },
       {
-        "title": "Windhorst: Clippers deben aceptar el castigo y seguir adelante",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnA1bS1qbEZNVTE2U281UU00U181MWNzaklaTWdiZk5YUks4R3IwTy1uN1hOdnYtNEE2cXJKZmx4bUVtU2xmSFpSa3RtV0hNdVFkNTVyV1dFYVVXWlVpU3ZxcTBybm5XdUFNT0ZuME9tMzVid2F3bE5IeFhWdUkydElCaVRDbld4cTNGRGZfczRRUG1TRFBMS2NUa1AxdFhNY2Itd3loSzd2Zk1Rd3I0?oc=5",
-        "date": "4 sep 2026",
-        "image": "https://images.unsplash.com/photo-1533923156502-be31530547c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx3aW5kaG9yc3QlMjBjbGlwcGVycyUyMGRlYmVuJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg4Njk1OTkyfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 04 Sep 2026 21:37:00 GMT"
-      },
-      {
-        "title": "¿Qué significa para la WNBA el retiro de Cathy Engelbert?",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSV9sY21EZ0JDS3JfQ0hUVXRISGplQTRzMHpnYV9Ybk52cDNPTTJzS3o5aVhuanprcVRaVFh1anpTTWd2RURUX2poVGZDSWRHaGxqY0h2bWNOUGNxNi1HSWtJNjE0OTd6elpEQXRudE9CcWtNWkhQNEFLXzN0TmFveF9sWmRLOU5MN0JrX0ZvUUNVTWxaODRnNElYX084ZEtB?oc=5",
-        "date": "4 sep 2026",
-        "image": "https://images.unsplash.com/photo-1720715060285-37d2be50c8f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxzaWduaWZpY2ElMjB3bmJhJTIwcmV0aXJvJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg4Njk1OTkzfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 04 Sep 2026 22:52:00 GMT"
-      },
-      {
-        "title": "Copa Mundial FIBA Femenina: Grupos, calendario y resultados",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzRVUmRTaEphM2FlWTdTa1dSQ2p5U2ptU0tHclBvUnBHcmoxV25kd1lid1RMa1V4Z1lwOWtfQTNCWVdpNHpoSklLaHZyRlVHdkFqUWN5NHRESkJMWlV0aTAyS3pQdG52YUhhNk1hYmV4V1BlbEJoVWJhaVZJd3VNVEFGY2c4dXpkcU1IYU82aUdfbUdCcGxHLVQ3RkZidWZCUnlLdDJFbXNzWDREX0VlLUZsVmttWGN3a2JRWllxZkI2bmF6dHd0QQ?oc=5",
-        "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1523142096306-cca37b5aa001?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxjb3BhJTIwbXVuZGlhbCUyMGZpYmElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODg2OTU5OTZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 05 Sep 2026 13:20:00 GMT"
+        "title": "Team USA logra victoria ajustada ante Italia en Copa Mundial FIBA",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVlYX1FaWGw4dDFla3U1dDVMU3RsczgwLXlmV2VibVZCN0pSQTVFeXRTRkppcDBWNXF0cjRBdG1JWHQtLThjc0ZxclVSeU9NbDlJamg2VkR6MkN0MWdOWENMc2JnZjhVR2hmSG9KYXpqanRkdGZuM1Q2VUNIVlljX3E1N2hxWVJsYWJsQWhwRzlZdzFURkxQd1lOcGllTEdtNm13cURhY3JMR1RmMDlYcFFhX1Axblp5UUJvYw?oc=5",
+        "date": "6 sep 2026",
+        "image": "https://images.unsplash.com/photo-1573800495261-93132cc8d578?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwbG9ncmElMjB2aWN0b3JpYSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4ODc1MTY0NHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 21:35:00 GMT"
       }
     ],
     "pd": [
       {
+        "title": "Galán y Chingotto siguen soñando con el número 1 tras coronarse en Madrid en una final épica",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3RfbUxXRGNxR2pkNXg5alJLTl9DMk9TMzF0MFVJQWZlTUVrb2twa2x4ZGVZR2hxdEkwOV8zQzNRTjVOSm9JVVNyVGR1dl85SHc4Mm5HbjBrSlc0YjlyV0E4dHhtTThtcDVJMVJQSXY1dkhKQk9IdkJ4Z3cydXZDN1d2TzhyVG9kX3BldDhhLVZkd1p3TGVrZENNWkJpSWpiVmVsdnp2bklsZTRUV2lMRzF30gGyAUFVX3lxTFBTNy15bC1oOFdhRlVlenFFbVF3Z2l5NVU5MWZiaEhaUDdOQWVfdnM1Tm5xd0tNY1cxaGdQUGJ5V09wNzhUeEd2ZDhRVExsYlp2Z3o1SkxTdmVlLUFvcUZjZkhhVjB5U0NLa01kVXd2ekthUVNjYWFlVUhSZlNqeDc5bEFuclhiRm1HM0tkZ1RKZEdlWFN1Z1liaU5KazlOandOODUyN0l4SG1DOXQzaDBZTHc?oc=5",
+        "date": "6 sep 2026",
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxnYWwlQzMlQTFuJTIwY2hpbmdvdHRvJTIwc2lndWVuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg4NzUxNjU0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 20:20:56 GMT"
+      },
+      {
         "title": "Resultados de las semifinales del Madrid Premier Padel P1",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFROdVRvTEZYZG9VZHJ5SXpScm00SlV5UGd4NDYwM3BWSVZQYndFR0lVNm5IVWR4MGF0d3JGX3BGNzRwaWJhUzU1am5XUVVEVnkxUTROMVBDY1ZDZ1R3aW5ONmVBeU5YbnFTZ2dYRWd3c1lfUlg1eVBRcUNvSEQ3b1VjWDhJanVwUmdsbnhB?oc=5",
         "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=480&q=70",
         "_pub_raw": "Sat, 05 Sep 2026 22:36:14 GMT"
-      },
-      {
-        "title": "Resultados de los cuartos de final del Madrid Premier Padel P1",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWVqMElaeVBzYk0wVDdtdzdqQ3RZVFlObkRYbndTTl9KWG1Dc2VDLThZamgxcUZTbXpUV1h3V3dybXZmNXJ2Q1o0eS1XLTdBRzFLczBfQkJzT1kwTElNaDY5MnMxRlFFeWN2NV93NnNrYmVEcGR3YXM5c1o5cE9RU1ZhSFVRZjljRVBkNERONmljQnph?oc=5",
-        "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXN1bHRhZG9zJTIwY3VhcnRvcyUyMGZpbmFsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg4Njk2MDA3fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 05 Sep 2026 01:57:14 GMT"
       },
       {
         "title": "Comunidad de Madrid P1 Premier Padel 2026: horarios de hoy, resultados en directo y dónde ver el torneo",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFhhaDluaFRBSEdVU2dUNUZsMUdHRUlIQjN1bDQ5VGc5aUo3RTZBWEFxSGg2ZTdoTWtITU9DR1M2S1ZnbEY4OW9nUVVvRHVtSEJRLWlZS25hdkRwOTlBOWdPLURfZzJIbnpGSkVST2l4S29kNFN2X2Y1Yno4SzlCSm1QanA5QlRLc2fSAYoBQVVfeXFMUG5fc1dTTm1kZTBvZzBlU3JhZUM4RnZjNS1LTVNCUi1RRGlJYXo1OVcyZU85eHdtaGJEOXZKWkNxckdyV0hSUDZkQ3JOUWxTRXdqdEJrN2xJNDJLNmltbVJvWmY0eFJ0cGVNMmtkMnZNcTI3OUI4RWdzN2hsb1BqZFZyRjV3OEdrcmRn?oc=5",
         "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1743121252000-723e32073d2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxjb211bmlkYWQlMjBtYWRyaWQlMjBwcmVtaWVyJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg4Njk2MDA4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1743121252000-723e32073d2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxjb211bmlkYWQlMjBtYWRyaWQlMjBwcmVtaWVyJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg4NzUxNjU2fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 05 Sep 2026 05:59:28 GMT"
       },
       {
-        "title": "Tres historias que cambian el Madrid P1: ¡Así fueron los cuartos!",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWTNlU3BvcEJybzdTMmpobUt3SUVqUkpscWUtM19jQm5mcmgyMFBsVDl1T2dtTmtKZ2U5NTFIZnBsN2w1QWR4Q28xdjd6cVB0cU9UR0RNMldUaGNteWJiX3dwYWJLdzFsRjk3dDJWaTZzQTc1aHQ2dUROaFVEOWFNcl9R?oc=5",
-        "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1646649851780-d9701b7c3c04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx0cmVzJTIwaGlzdG9yaWFzJTIwY2FtYmlhbiUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4ODcxNzk0OHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 05 Sep 2026 00:15:03 GMT"
-      },
-      {
-        "title": "Ale Galán y Fede Chingotto vs. Coki Nieto y Mike Yanguas | Final del Comunidad de Madrid Premier Padel, en directo",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHFGbkFKUHAyTjBxS1c0M0hHVDBWRy1WM3E3SFdGV20wQ01sOHZ0Slh2M3ZQenUteUFaekVBMU1lRUdwbVlTQ1VnVzlmWEFiLWN4QTZ6TDBQMFpIQ0VKNlh0X3VGZF9GU3kzazI2aG5oY3pEeHdDeDU3ZDNvS1ZrdVB30gGCAUFVX3lxTFBZbTY5V0NYd1FoRGc3OV9TQ3p0c1lFVWIzc3NnR0dzNFZWLVJrNHNBY2ozemdzcHh5dm1QR1VmdDFwa28zbTd1SHZsSWhqNGxfTVRmQlNWbWtMVmFtcXMtSE5uRnUtNVBna01KNVZTOE5TM3Y2M015UzAyZVlCbE9Kcmc?oc=5",
+        "title": "El dinero que se llevan Galán y Chingotto tras ganar el Comunidad de Madrid P1",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2E2Q280V3JqVVhEa1g3RDZXRmM2ZmRRWEkxSk11QnJEVU9nT1I0NlNqd1F4S0J3MG1rX05xTG1fOHZWRjdUU00yMTI4OVdrSzNrNk1lNUcwai1hdV9UYnU0UVBnYTNieU5NcmhfdE5kTUxyeklQZUdsenU1ZTJBZGJqRHNFZDFwTmJNNlpaem1lN2pBaGQ1VWVvZmhaVkZC0gGgAUFVX3lxTFBVel9Na1JGcnExVWhmM1hub2tXc0RlS3NIcm92d2RRNHd0MXZkZHRLMjhwcU9SeFg2WTJkVXFkbkhIdXVSaWpRc0lMa1NTZmxsZTBtNDByVUNPZGJENXR3Y1FibVdyTl96eXVHTlhKdWxhUjk5My1XQkVZX1ZtcjJRTWNTb1dWdVBmUVVSRWpRYWJvU19haTJraVhfMW1hMkk?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxnYWwlQzMlQTFuJTIwZmVkZSUyMGNoaW5nb3R0byUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4ODcxNzk0OXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 06 Sep 2026 17:16:36 GMT"
+        "image": "https://images.unsplash.com/photo-1673266893744-17a8cc6518fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxkaW5lcm8lMjBsbGV2YW4lMjBnYWwlQzMlQTFuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg4NzUxNjU3fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 20:35:59 GMT"
       },
       {
         "title": "El emotivo homenaje a Ale Salazar en Madrid: “He disfrutado como una niña”",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczlsTkpBUmpNT3NURFdqUTZTZE9Tbk5VZTFpSU9Sc3NXZC04aGEyWDdrdHhzSGROY3ozQU04V2luUk5qZDFqZlIwamNBVEQ0R2RvSlAwaW1ZM1BQWTRYeHNJRWVySmJnaW1GWDdKVkZjN1JJc1ItSUVfVFJDMVZLdlhzV0szRUdGSTA2NU5RLXNJREI5c1A3alB1am14aE3SAZ8BQVVfeXFMTzYwd3JDYll6SHlkNWdaN3FhQnFoVFFMZTRBS0RLY2VuUmlKdTZDVUliZ1FqZTIyejZ2eFB5WmY2RFhKanlfSXd1eWpIYXpWVlRjLWRwanpIOHI3LXB5ZW5yd0ppRkxNRTl0NHoxUmJFS0NxbXozZmpUcmdveGJmRDZZR3ozTTlpelh0VWN0MjZRd1lmQnYtMWRJeG4zUTZ3?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxlbW90aXZvJTIwaG9tZW5hamUlMjBzYWxhemFyJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg4NzE3OTUwfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 06 Sep 2026 17:34:55 GMT"
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxlbW90aXZvJTIwaG9tZW5hamUlMjBzYWxhemFyJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg4NzUxNjU5fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 18:41:46 GMT"
       },
       {
         "title": "Las número uno vuelven a ganar a sus 'bestias negras' para campeonar en Madrid",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWxsc2R5aUZtcGFYbTFPd2ZGRlExdjVHcXBiZWI4ZkRXQWhHdmxlbXpVR1dobG1hRDV3dTdQa3hnOUI5ZzFQM3hVbFdFYmtTbjdGMXQyZEQ4Yl9tS3p0S1F4LTJ0VUVJbjViS281Z2owRmFQYUx4TnZQaml3ajJlMEZsdXFaWk5FX2xuTVdXUWV1azZJdDBQMWlSdHfSAZwBQVVfeXFMT0Q1dmFoM29FU0JWeDhodVMyMkY4LTRjMUEzLXBQbFNveGVCUkZlMnN3WHRfUHJ3Vk1fUnViQk16blJGSVpBN2l5eE81aGpRTnFrMEFsQWRLNTItUHRVMDhpTUJvVHBkdWpIYXBVZE9mdklfRGxpWWZyZl9SSF9iSjdTV3E5eXd3NndCSlpKckcxX0E2VHFWNERQV3R1?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxuJUMzJUJBbWVybyUyMHZ1ZWx2ZW4lMjBnYW5hciUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4ODcxNzk1MXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 06 Sep 2026 17:04:31 GMT"
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxuJUMzJUJBbWVybyUyMHZ1ZWx2ZW4lMjBnYW5hciUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4ODc1MTY2MHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 18:43:59 GMT"
       },
       {
         "title": "Galán y Chingotto vs. Nieto y Yanguas: horario y dónde ver hoy en TV la final del Madrid P1 de Premier Padel",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUUVadklvNVZheVo5NmxkUEhCb3RSQzZtNEpSNzlTWGdBQ3J1ZDV1VlhxZTF1bWJZRGJPSFRTcU1tSkZ3cnh4cDh5dEpIazV2YmRKZ2kxRkR2VkxWWHkwaEIwem5OMkhGT2s5RDJ0ZWs0TWkySzYwYWNjdXpkWGMtTVNXaWlRd05ERUpQdXdkejRaZmVtMWNzS2lXR1Bla1NvY3lreGc4Qk1aMXZmX0JKZDJXVWRqa2M4Q3R3YnA1X0hiVC1ya0HSAcYBQVVfeXFMUG1iZTJpM0YwR1dKaHBWekpiSmdKajFWVVlZLVZOc0hNMktmWEpVT2NlZ0k4Z2ZjNURTQXlJOXhaem1xbm0wekZHb2YxdE5CaTNVRnctU1NnbkhGaTBSUXN3RDFUYk1xb0gxNnVfQjk0SmppSHg5cUlVVVktRUVlSGQ0alVrdFNzeTRJSEVuYTlPcUNvOG1LQUl2UTZpclFyVWpmVEk3V2ExUFotcGUtTWt3Z2IxRE05bkc5MnJ4ZWxaNEx3azdB?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxnYWwlQzMlQTFuJTIwY2hpbmdvdHRvJTIwbmlldG8lMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODg2OTYwMDl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxnYWwlQzMlQTFuJTIwY2hpbmdvdHRvJTIwbmlldG8lMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODg3NTE2NjF8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 06 Sep 2026 06:10:41 GMT"
+      },
+      {
+        "title": "Compra Entradas Oficiales Para El Partido Dubai Premier Padel P1. Mejores Precios Y Asientos Garantizados.",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWhfelZDT2xWNENQQVh0djNKaTNmQm9TUzR3N0VkM2pmclZGQlFZOGxIY1UzNnRyWTk1aWhzTDRVTnFRTll5a09WdldmR1NpTjFkZmUxay03dS1NaWJDcHdWTkhsbTZlQ2JhVUVzVTl3aVczcktRZnBRdmx4SzdzTkMxZWFpSjRib2dya01GRHQyNU0?oc=5",
+        "date": "6 sep 2026",
+        "image": "https://images.unsplash.com/photo-1596559058872-595ea5281b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxjb21wcmElMjBlbnRyYWRhcyUyMG9maWNpYWxlcyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4ODc1MTY2Mnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 06:04:01 GMT"
       },
       {
         "title": "Coki y Yanguas, último obstáculo por el título para Galán y Chingotto",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEtYbUlMZTVLdDh4T29tT2ZTYXpZM1FiNEtqN3JxZWd5V1BwZk9haHRYMVBDLUttalJWWHdyTl9wbnIyeHNPWHZ1QUFpT1VSZlM5ZmVxR016aVZFT0c4RmhNX3JPLThnMGo5NW1kbFM4LWpVMExzWDVudURMTEhKM296Sjh0LVYweWx1akJqc1hIZzZNemJnNmxpMEPSAZwBQVVfeXFMTTFFdmFjeUJRanhERnotQ1MyckZPOXhHNEp5TmJaUHNLc0hoV0NhSDVjclJsNUJQbGxmdVJ5eV9icVNIUzEzOGx0ZnFkQ0trOWJOV2JvV3pNUHM3U25VOUR5XzVlbVk4ZkRnOUtLVWlZUTcxN2xVdG4xcXoyTXY3cmY4Vk9UN0N0dng3R1UxUlZ5TTlla284b1lvVllI?oc=5",
         "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1646649852033-7e0f3d679f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjb2tpJTIweWFuZ3VhcyUyMCVDMyVCQWx0aW1vJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg4Njk2MDEwfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1646649852033-7e0f3d679f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjb2tpJTIweWFuZ3VhcyUyMCVDMyVCQWx0aW1vJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzg4NzUxNjYzfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 05 Sep 2026 19:09:29 GMT"
       },
       {
@@ -115,154 +101,147 @@
         "date": "5 sep 2026",
         "image": "https://images.unsplash.com/photo-1560012057-4372e14c5085?w=480&q=70",
         "_pub_raw": "Sat, 05 Sep 2026 16:42:16 GMT"
-      },
-      {
-        "title": "Compra Entradas Oficiales Para El Partido Milano Premier Padel P1. Mejores Precios Y Asientos Garantizados.",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uajJOazN2UUdUZEgxYUVILUtnV1FOa0VwWS1NTWI3RDVTdXhkUUREcmVrWUduSEktS0M3dUM3ei1DRFBTbXBkNkFPMHpLYmduc1J6bjdRTWhickFBT01FeHlKZThOQmxjUTRpWVZlOVdxMk8yUXlOYkQzdnJrQQ?oc=5",
-        "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjb21wcmElMjBlbnRyYWRhcyUyMG9maWNpYWxlcyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4ODY5NjAxMnww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 05 Sep 2026 12:33:38 GMT"
       }
     ],
     "fx": [
       {
+        "title": "Resultados Liga MX Jornada 7: tabla general, goleadores y calendario de la próxima semana",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTmstWmVmdGhicVhoaS1LWVpwYWpnZWZuSk9pMVp4bmIxMWJjQzY4MkNXM19oa0tyN0kxa01DcFIzbmtCblVvanBYd2E4dldQZE92VFFvMXpyY04yanpIZmFfeklXSFVzS1hLRzg2MXFobkZiLXdZZ3RsWVBwZTVpRHowUlkxZWdaM3R6QmxPVFh5WDVlS05YNHZyQ3VnbU9hNEF2bjRGTmVuV2NXb2ozOWNhSHc5SHdZVTlwMElSa041UUhkTWpib2l3LVVxbW05Y2lhSHhRamRwdk3SAe8BQVVfeXFMT08zYnQ4UWxucldCNGd0NUhSVW1HZEg0VU4zckVuSFprZF9waXJhOWlMMGdJaWVjY3QwQXFwblo3Z1pLZWhmcjZZRHJlUkhDX0JzLWZUcmNoWC1FQmRHM2V0TURpZXJLaThBTUpOS1pzOE92R2c2VWhibDVPQWNXeUhQOWVOM1ZYTDJWRXA5QlozZmpUdGVwY1oxYnhIbnlsa0JhVVMwNDNoX1pQeTRzWFN6dFdyaUMweW1RbUtBMmZ5NUN1N3FXQUxydWJCRDM0TTdma3BOR09VcVgzUXBORTRSRzloMktEMHpmSkZjQ0k?oc=5",
+        "date": "7 sep 2026",
+        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXN1bHRhZG9zJTIwbGlnYSUyMGpvcm5hZGElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4NzUxNjc0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 07 Sep 2026 01:05:15 GMT"
+      },
+      {
+        "title": "Atlas vs. Atlante: Goles, resultado y resumen del partido Apertura 2026 Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjV3Y2xRRk5fUUg2dU9ESXI0emJYeUpEZHFpOWJ2OHRtVG85c1RUQUdlZ24yeWJmb2dodGMtVmt4a1RxY2E4LVZoMmJxRzVnUzNLaUx4T1dQSjY3am9iYVhXSGZBU25hdFNaZTM0MlBBTFFpb2pZVG5PNmhVVEtGbms5c0V4eXNlZG5lTU9nNDRVUy1Nd0dRTzdjQ0ExblNPbFdBbWtNS3ZNVENjcFdZV1l5cjBscDZJYVE?oc=5",
+        "date": "6 sep 2026",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "_pub_raw": "Sun, 06 Sep 2026 05:00:00 GMT"
+      },
+      {
         "title": "Liga Femenil: Resultados y horarios de la Jornada 6",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc19LSmhFLWM4SkVheF9KUVFZRjZFaHYwWTlWWVFXM1V1Qmc5LTc2NFZ0T3c5LUZ5WWVGVFlKR20xQk9yWHhNOEhhLWhrQk5scGZ0NzZjbG1KM1FhNDVJeVcwWVZzRkN0RDJETXFBNVJXeEpPdmNFNUFweHFaTXk3TlVpUjNYVGhhZXRpTE9reEd6Y2xLVDBfQUppaEdTMXpkYzlmT2h2b1N6TTNUaEVhV2ZiSTJCMnVwUUhjQlVlUW82UQ?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsaWdhJTIwZmVtZW5pbCUyMHJlc3VsdGFkb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4Njk2MDI1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsaWdhJTIwZmVtZW5pbCUyMHJlc3VsdGFkb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4NzUxNjc3fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 06 Sep 2026 03:28:00 GMT"
       },
       {
-        "title": "Así marcha la tabla de goleo del Apertura 2026 de la Liga MX",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkg4ZUs1bTJZQUdUVDJtcUg2VDVwSXY3WWloMlBhZDB4OWpjZHlhSFpKUmVsaTQ0d2t2bFdOMVJvS1JsQUZsQWNZbWpvUXVuaU8wUEN4T255UWZRUUtRRTQxeW9RSjZnV2hvdUljSXB2V3BJdTJMbWlxbHhKVmx0ZzRVVXNBa3ZLZXFBaEgycEVUTjIybzZCVw?oc=5",
+        "title": "Liga MX: Futbol de Estufa rumbo al Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM1ZBREowbEtiSjhsWVVWRTVzTHdSQXIwZVlySVExRmxFLTBQMWxCRUtKWlVPVTFHMG9pRVJjU2xEOVBJM09UTVBJZFROeHF6ZEhZU2VBT05wMjlaZlBKYTNFYi0zU0otd0tsZl92dDAtMS1MbFRZYTRKUWRJcGNZOXc3TnM3ckFfUFhwSmZKWTVqSHVZWENZYmJsNGtjWFIxcmc4Qkl0V25VZHNYMVByU3g4cmcwUQ?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxtYXJjaGElMjB0YWJsYSUyMGdvbGVvJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODY5NjAzMXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 06 Sep 2026 01:55:39 GMT"
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwZnV0Ym9sJTIwZXN0dWZhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODc1MTY3OHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 19:16:00 GMT"
+      },
+      {
+        "title": "Cruz Azul vs. Santos Laguna: Goles, resultado y resumen del partido Apertura 2026 Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmN0R1BjWUR1WmxlY1A3MmFUdEFUY0ZOWWZBV2JBNy0zeENYNG9mUmdjX3lzdktaSUE2bVhyZGR1NF9rUl9GbWVRVWdEd0J0MFJnRi1qLXJzNExrc0NVbDByN1NiZUtwcENJT1Ntb2c2OVVBQ0FBS21EaG9SWHRsaDlMR0oyaWRLQzFxZ3dWcGtoZ0U0bGVyd2FTdHpWN0w1OU5VYTM5cXp2QnJUa0cwOC1IcVlORE56SVRldFdXaTFOUG9jaDI0TVdn?oc=5",
+        "date": "7 sep 2026",
+        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
+        "_pub_raw": "Mon, 07 Sep 2026 01:16:41 GMT"
+      },
+      {
+        "title": "¡Cruz Azul escaló! Así quedó la Tabla General de la Liga MX tras la Jornada 7 del Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQzNlWlVwUDdjaWdsT0VkMmwwaEV3ZGNuV2RVWmlIX1Bmc0ZCa1hDUHVObXB5dXYtQ09xWHE5ZkRIQ3FiVzF4Y1V6bkJSRkVYYW5kaHA1V1ZIUFo0M3hpNzNmcG1YeVdkNXU1Zjl3NHZLeDJScUxIMWgybzN0SlZjWnIxVGZ3NjVTakliMTV3cThlYmoxZWJiWjZkd3VrcnZhMTUwMm16WHdvNjlaRUpJYlBOZ2V3U3VFaGNhcDF4ZTZqWE05dGpTU2hIdHV5ZG8?oc=5",
+        "date": "7 sep 2026",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Mon, 07 Sep 2026 01:24:00 GMT"
+      },
+      {
+        "title": "Tabla general Liga MX: Posiciones, partidos y resultados de la Jornada 7 del Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUkExWjhMSDk0YXdWaUFJMFpZd1ZfLWxzWWtPNVNmdGllc1p3aGthLXJkNkwzYXdJQ05SZ0NQZEJSRTMxaVNjLW5CQ2J3Q3o2OGxhcXF1LUo3SjdaaFNuM0NpYk1yaVh1RXl2T0JYTHE3dEl3Y3BzXzUzYUpEWjVyRzBnRnVPeExpS3AxMk53LVZkakxndkxQWUFtY282UlZnR3FRbnBQd1plMmhINS1JVDk2UXdkbkRjZjVNdlVjSG8wNzdVaFR5cDdhcVXSAcwBQVVfeXFMUC1rV2hCdjhJeWw3N0VZd3E2bzVnWVoycmNmR0lrTHk3TmhuTEV6aE93UVZ2ZXhIa2JjWnBHcUJjTmtyMHRlTW84WlpUZVgtTl94dEhMYV9DYXRtLUhZeHg5bmpaWk1UVTh1RjM1TFBCQmdXWGRuTzB6UFNaSjN0eUFTZWZRV05fOFZyeFUtSFlGNE9qOUxRb01IMlgxLXA5YjF5cm5YeU9Lb1BGbXJacWROYXpBNmFHQ1NkRkhwVVQyNHZJYlpxVFk1c0Fn?oc=5",
+        "date": "6 sep 2026",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx0YWJsYSUyMGdlbmVyYWwlMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODc1MTY4MXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 17:01:00 GMT"
+      },
+      {
+        "title": "Mercado Liga MX Apertura 2026: Fichajes, altas y bajas OFICIALES de todos los 18 equipos del futbol mexicano",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nM0txMXp0ckxsRVA2SjdGOC1yd3BMSVZTemNyWUJCS1dwS3lHVjRHcHhGcURYRjZlTkxPcjQ4b2ZuM3RfSGp6ZFp4TmtXOGRaR0dqOWFTczc0U0dFUDZDb0VvU1g2c2hVb0VNRUhrOUZXWkcz?oc=5",
+        "date": "6 sep 2026",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxtZXJjYWRvJTIwbGlnYSUyMGFwZXJ0dXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODc1MTY4M3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 03:52:00 GMT"
       },
       {
         "title": "Tabla general del Apertura 2026: Partidos, resultados y posiciones de la Liga MX",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29Ud2NseTFNWEVrd1BuMGxlYmpMdm1MbV9EcU83T1lRYzZhZEVsQ3NDejlYZkszaHoxWXo3MUgzU0s4WU9IY1hwb2RHQ0dyRWR1QUw3YmRnQ2VuSEpvenFJcDhFbXVmNnJBWHdXbnhzOWx6Y09DOFlfN1NkeW1wRlpERUp1Y1Nha3g5Nzl5RlQ0ZFRLZDBvbw?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx0YWJsYSUyMGdlbmVyYWwlMjBhcGVydHVyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODg3MTc5NjV8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx0YWJsYSUyMGdlbmVyYWwlMjBhcGVydHVyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODg3NTE2ODR8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 06 Sep 2026 10:19:54 GMT"
       },
       {
-        "title": "‘No está para campeón’; en LUP no ven a Chivas coronándose en el Apertura 2026 de la Liga MX",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeE81Y3I3MnM3NDBVelBvQl9VRU1WT1lzcS1QSG5kbGUwVTN3aUQtWC1zWF9FUkIydm9ZUVczckN2X2JpS3h6OTN5XzJ1YjJpb0Jmc3oxbDcxYXRWQW91bGIycWpkVGNldWlWS21BY3NIR0hvX3dvcnpZSjA0OW9Xd0xLY3NpMVRUOG8wQXFvd1h0VGs4bEdvQTl2ZVllXzM3VjNNbUo4QkZnZmlBei1HUjRta0VVeDNOMzh6MEp3M0RtN2RfZ2pycml3?oc=5",
-        "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
-        "_pub_raw": "Sun, 06 Sep 2026 07:42:49 GMT"
-      },
-      {
-        "title": "Jornada 7 del Apertura 2026 de la Liga MX: Chivas golea al Atlético San Luis - López",
+        "title": "Jornada 7 del Apertura 2026 de la Liga MX: Chivas golea al Atlético San Luis",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDB2QlpoM1pxeDhZSXdBZS0teXJTVzRIYXBMcWRwLXduMzJORUtNTFpwRXN5YU05LWpjcEs3eVZPV19MZ0VIUVdqSlJ1TnJDaEhldWpHb2p6NzlhRFFobFl0cnZibHViU0w4VUp3dVR4Wml5dktKY1ZZQVJnRVoyb0JSVGpONmlmVUt5eEpGcHFsNEp0a013Qnp1Qk91cmh6LUtqdXF3?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxqb3JuYWRhJTIwYXBlcnR1cmElMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODY5NjAyOHww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxqb3JuYWRhJTIwYXBlcnR1cmElMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODc1MTY4NXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 06 Sep 2026 07:20:12 GMT"
       },
       {
-        "title": "Mercado Liga MX Apertura 2026: Fichajes, altas y bajas OFICIALES de todos los 18 equipos del futbol mexicano",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nM0txMXp0ckxsRVA2SjdGOC1yd3BMSVZTemNyWUJCS1dwS3lHVjRHcHhGcURYRjZlTkxPcjQ4b2ZuM3RfSGp6ZFp4TmtXOGRaR0dqOWFTczc0U0dFUDZDb0VvU1g2c2hVb0VNRUhrOUZXWkcz?oc=5",
-        "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxtZXJjYWRvJTIwbGlnYSUyMGFwZXJ0dXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODY5NjAzNHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 05 Sep 2026 04:52:00 GMT"
-      },
-      {
-        "title": "Leagues Cup Reaches Its Championship Final, With More Liga MX Action Across TelevisaUnivision Platforms",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUUp3TThkUGNjU2NlcEk1ejk4NUkyYjV0ZUwyckVHMHVwNTR3NlZucG50WDY0QXQ2VHNkdDhycnp3bFNZVFN1UElGSDlXOUJvRFlfSEdCOS0xQTZObzhDdEhFRUZtMlZoV1pPejZoMkN0ZGFnMEhLaFRhZG5IbWxKdnNsVWdTS0szYm12ZEhEdkk1VVhjTnE3WVlwUnVRN0NDSFYwVEVjeXplYUFxc25BY3lYSUxEQ2RLVl9MTXBlZ0t0M01NS1AtSjlOLV93T3QtdUpHUE93cDFLOEd3TVFFdHA1RlJ6WWRkZXRwc1RSZlJIUdIB9wFBVV95cUxPSzFSWmxGSnJIc3lwWUJ6LS1tSm5FLUJ2SjB5eWoyd2p6bEh4OHpNU19yUDM0a1VaWjhyUUZfQTV6UjJFczZOR3NLTl92YUdkc3NvYjFUVGVtR1dpQVp4V0RKLUVCTEgtZ19oMGxQelVzZTZySjlUcDhWX2Z3bF9wdkg1N2hkNFY2d2xMRlFUTFdKUHZnb3B1bGphSU9jZTR2NnlFMWJmUWFGck5ETW5SOGUyenlLanByUkVkSllrbVdtR3pJSExmLVA2TVV4YnpXbTRncjNkclNPY1BELTZQWHA2SlFFSEVFemJRQmF5NmRkS3RGOW5j?oc=5",
-        "date": "4 sep 2026",
-        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsZWFndWVzJTIwcmVhY2hlcyUyMGNoYW1waW9uc2hpcCUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODg1NDc5Nzh8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 04 Sep 2026 18:08:32 GMT"
-      },
-      {
-        "title": "Clásico Joven en Estados Unidos; América anuncia enfrentamiento vs. Cruz Azul",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdk5HZGhWZ1czSml2ZFY0U2pQQlJFSmpaVXNSNjlYUHVvNXNjVTViZlNzRDg1T29tME43ZkZ2UTc2VHY1S2t1OVNZTlc0aDc4a2RodWRVbWhibkt1eUpDb01FRG5tN043MXk0NW42bXBJVWVabXZzX1NLUVFQd0p1TzNRa0ZHRWo3OGlfdG1FYm9lRGZSbktyMllOQUg?oc=5",
-        "date": "4 sep 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Fri, 04 Sep 2026 20:25:36 GMT"
-      },
-      {
-        "title": "Alan Mozo llegó a Cruz Azul luego de que La Máquina rechazara a dos conocidos laterales, ¿quiénes eran?",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLXByalU0R2hCb05RMEIwQWluRmRZQTBDbTR5M1pnSzNvVzAyY001dEZFd0JzenFBVTFxQnZiOXFYQzZxaHhCRWp6cE5OU1lBVGItMXBYb0hQU3BnM0hWVEJvUGZ4Y0w3MVM0VG1iSWlBcnRab0tqOTF1WTZWUjhJUVU5bmlrY2ZMZnVVNTRxYjlEaGlOV3ozT1hxLS1HRng3ZW9YQThMLWhybC1aa0ZnamwxLUoyX3F5QS1uaEh3QjZVX2tlNEMyaGVrdTJQUWFhRmt30gHTAUFVX3lxTE4tcHJqVTRHaEJvTlEwQjBBaW5GZFlBMENtNHkzWmdLM29XMDJjTTV0RkV3QnN6cUFVMXFCdmI5cVhDNnFoeEJFanpwTk5TWUFUYi0xcFhvSFBTcGczSFZUQm9QZnhjTDcxUzRUbWJJaUFydFpvS2o5MXVZNlZSOElRVTluaWtjZkxmdVU1NHFiOURoaU5XejNPWHEtLUdGeDdlb1hBOEwtaHJsLVprRmdqbDEtSjJfcXlBLW5oSHdCNlVfa2U0QzJoZWt1MlBRYWFGa3c?oc=5",
+        "title": "Calendario Liga MX: Partidos próxima Jornada 8 del Apertura 2026; ¿con quién va América, Chivas, Cruz Azul y Pumas?",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYW9XMHVsMFA0MU1KN3NWUHF1Q1JaS2ZrdWRjcklGam1MSE9UTXp6R2l6NThOMi1fWXlVQ2ctNVZXRDhFZVdjLXlyQzZEVDZfS2xCdUQwT2hIM241cklKNFlLaUN2RV95ZUNZVG5iRTU3djhUUzNwTkp0bzRSNVdfS1BiUkRkWWlZWi1qdlpmdmtvdlpNNGl6OGlPcm10YVN6Ui1sYlJtZFJ1bGpCdGRFb0JqS2ZXemdpckV0amx5ZllGaWc4TVN1QTRERnc5X0hVdXUxUl96dHpKeFV0Uk9v?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhbGFuJTIwbW96byUyMGxsZWclQzMlQjMlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4Njk2MDMzfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 06 Sep 2026 02:08:00 GMT"
+        "image": "https://images.unsplash.com/photo-1645921441624-3d8f9098a2a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjYWxlbmRhcmlvJTIwbGlnYSUyMHBhcnRpZG9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODc1MTY4Nnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 16:31:00 GMT"
       },
       {
-        "title": "Lo que dicen los momios para el partido entre San Luis vs Chivas en el estadio Alfonso Lastras",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUUJHczd6eUZDbXJhenRBQ1J5WXFNX1BpRzRkRGloMUZiLVFfSnB6VHMtVlN2cHRJTHIyMFZyOFBXZ0g3dHNkNTFWSThPYl9DM1plY2ZYc2V3RzJPNVBjdHMzN3lEa3YtZ3NEajVxUFA3bzJkWDloWnRTVUwzdzlfQ2hQRXRKZ0NrWkI1WUxzeTc1aG9hcWVFUElDaF85ZU9MWTRmMVFIdElmWGNTcEcteVlsc09NbThROU1lakdrbjdJV1Fyd3Bnc2pPTWhHdjdqaDNTVC1hWW9leFE5Y1JkdzRENGrSAfgBQVVfeXFMT19xVjF3RE1GV1JvRzhHaVdONzZrMUE3ZXNDVjU3M080UlQxWmROYTlfYnpfbVFvcnRSMV96NUc0UHN5aWRJMXpGLWNiT3FlWDFieXNVb0N3ZU5LQjZQVGFuQlVOLVBqT3FBQTVQVWpUU3djek4xTXhmOWJUWnNSckdPcGNWU3ppM19EaVdyRl8tTExxZzdJTElqS3RIVE0wMnJaWENPWFU5TVllbzBVRjl5anA1S3pWdW9nengtZmZVZW9iM1B2dzZDU1lQNE9wWjJydG1rRVJfYVZUeF9WNV9uaExZQ1VSU1I4dC02ZUg4akFNdk9ybmQ?oc=5",
-        "date": "4 sep 2026",
-        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
-        "_pub_raw": "Fri, 04 Sep 2026 23:25:51 GMT"
+        "title": "Cruz Azul vuelve a zona de Liguilla al cierre de la Jornada 7",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcXhtRUZiS3FfYVRXS2JHQks5YWlVOC1zNy10Wlh4bmlRdEFNYkpyYUF5LTUyT1dVNjFNdjQySm42Y0dsV25OZUdCNWc2ay1yUjAtbUtrNlJyNW81UVF3U3RGOGV5V1FNYXl5a19pMExROHQtTU9vRVhaRk0tam5tX0t2OUlkUTVsTGJlUnlPS25NMDdDczdCdld3TEJ1UXhpTWpld3EtdzFOazjSAbABQVVfeXFMT3NtcDBKQlQ3c29qZ1J1ZC0yTlYweWtGQnVxV2dxYjUyallucmVCOFdYZl96UDJjbVJNX1BrVXRrbkw3cWRWTG1Nc2x3dkYyN1RvNzlGSzFaRndBLXdDanNDYkgtWkltWkZWRUdXLTFJWlNvYnRmQ3NZMWxOb1FNV0ZBRFBBY2lwN1BTNVNRU1Q0eTFlV1oxM3I5MGRuZnAtTWJNS29BSXFPYWZBNklteHg?oc=5",
+        "date": "7 sep 2026",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Mon, 07 Sep 2026 02:23:24 GMT"
       },
       {
-        "title": "¿Dónde ver a México Femenil en la Copa Mundial de Fútbol Sub-20? Canales de TV y streaming para Polonia 2026",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd1BjNjBiTnhqb2t1ZHowMFVBSnZKcVpTQ3BDeVBCS29STWtMamhrSDQ4LUplemJfTjZwemNhYW8xdzZ6WDVERmVoNFFQQVNKdGxtOWdCejNoZEdVTTFiY3NQYmxFck1DSHBYRFFMRlpjS0EwVzhWSUNoRHZyOFc0ajJzamtWelBBU0F1UUJ1aVIxZG5jLU42dEQ3NTFjUks3Z05Dd3JISEdOcFRLOHlNdUFpcmZVOU10dE9LMk1BUXA5c3FqY2NkSzdNLWtseGZLbEtkdzZyb9IB1wFBVV95cUxPVHZGRi1VQkUxcDV5SUF0bEFTUlJ1THdKWExqUDg5cXVxajFKRWVjSFVleWJCbVVnY2U0UDFlckR0S0JZbXhMNVNPMDVrX1Y3T1pLaVk2MEU1OEp0V3NuN09oZ0FvY2UtckROZUZDcHU0M21ybmRwT1huTWNPdV9wOUY5ZmJmZmVHd2hIV0JtN2hKUXcyWHpnMThGNzVMeW81R1FtUzYxNzVESDk2RzVTMktObE95YTFoT1ZyeDhmR2dmeFRPSWZWUXBicWJHeWJHVlVPODBMbw?oc=5",
+        "title": "León gana bronce en Leagues Cup y califica a Concachampions",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDNpWUcwLUpHZEhFZkxRVllIcnFDejJDNmlkOTRnQXhnRUR1eFhmVWpNeEdLaEhCOFBSN0dHZDlJTERxbHk2aUhsQk96QVMwaVRJWFhFSnVmUjRPU0k4dzdvUldnNU1TS1JKMVpORHNyZVVidFlGVjEzYXlYS1Z4bDV6c3EwekY5UE5ZX0F4NHhjdGFUTENUWlJSSzEzRTl4SDVsS29GUFBHWGhfd1hoclktR2XSAboBQVVfeXFMTzM3d19ubVJ6S1NCekItYVZUbWNNeFBzVEpzRUQxcjlYSTNiU1dQdmh2X2otSWowUkhrT003MnpYV3FmVzZqNlhFaGltWFR6STJ3TWZ5dGNRaEgwUl9VMjRidWozanV4WWs2Y2Q2NlpoT1RUVHhlUXhINmtPOElBSVFjbVYzUnhRY1ZsUkNEMTQ2VHMyMzZQVl9XYUdSSlpTR01IZ0xuN0Q2UENYTkNLWlM2M3RlaElhS0hn?oc=5",
+        "date": "7 sep 2026",
+        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsZSVDMyVCM24lMjBicm9uY2UlMjBsZWFndWVzJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODc1MTY4OXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 07 Sep 2026 01:45:08 GMT"
+      },
+      {
+        "title": "¿Cuándo juega México en la Copa Mundial Femenina de Fútbol Sub-20? Calendario y transmisión de la Fase de Grupos",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa0duOHhBRmJRMm90XzNSTHg4NVFqNXJhOUNpUGFYaGJ1RXNtd2ZRWVhhTEdQS3RKRjdFUXQwNDJEbzlIbDVNLUZUS1NmZkUxNFBzOXh1ekNvLVppMldLckhBWkJJU0lGX2lpX1hWYkQtTTJhTGFBNTh2QXJpbDlDSVppNWhJZTFpNTNhdWJ0NC1CdkFPbU4yZXZHV2dIYVRUeDN5SDd5REU1Mk84OVhoam9IQ3V1TlJ4UEF4NDFERGdhajNuYTI2cnBiaHk0V0FMM05hLTdqM1N0VWtC0gHcAUFVX3lxTE5xdXhOOU9tYzAzYkhDV0Yyak8ySHRZUExRX2QxdUQ5dWlQSkdnb3pmQW5aX0JseTFfTjM4SWc1a0JhNmJFVGVJWmJkQ0xEaWZiellHZDRROVc0VlQ1bnV2VEt5MWVhbmowOVNFSE05TTVvdnVvcWEzSFlvdTBPbG4xWmt6OHJWZjEtaHkxMVNzZ0xJU0QxSGNsYUItOUY1RDVvbVBzeVVFZ200RUYyRDNlc3VfMTA0MGl1VjhIZ0p3R255UUJTVGlqUFRHSDdzTGh4MjRaejlUb0ZTSGg?oc=5",
         "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxkJUMzJUIzbmRlJTIwbSVDMyVBOXhpY28lMjBmZW1lbmlsJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODY5NjAzN3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 05 Sep 2026 14:25:57 GMT"
-      },
-      {
-        "title": "¿Dónde ver el Mundial Sub-20 Femenil 2026 en México? TV y canales de plataformas",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0J6bTB0aFJFbnp6UC1wdWNvUFpleFk3djdLMzlDQVJRdHpnbWstMnNaYndCcTk3Q3lvMk14ZU53NDBoTkFKelRvLTZMWDIyMFlIME4xWnFTSTlJbVpiVUtlOHB6S1ZjN0RIZ2MxZHhDNThtY1F2akZDTE5OUEdtRmRRUzdpblhZX3VCZEl4VF9jcmx3MnhtZkpLakZQaGhObm9pYkcxYmctWU90dExsT2J0ck5wVE5oT3fSAc4BQVVfeXFMTU1kT25Nak1HLWNPNlctRWROdmxJN1BmT1lidGhZc0hmbk52MGpTcXRQTDNsTUN1TVI0SnBfVGF4M3RUa2dQUUVaNXhQSHpRTmpreGNWVTlZeXZzY25sUDRUY1M5THhnVm1XS1lKVW02Z294bEZjaGdDUWxFS2ZuSXBDYldMazFBclE0QWxQSDFKMXlKZXZCYS1LVExwMDN5b2cyZlk4UFl0MnBzYVp4cjRqcWQ2dnBpNmlSakNDWTg2OFNTNm43cEMwWEYtX1E?oc=5",
-        "date": "4 sep 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxkJUMzJUIzbmRlJTIwbXVuZGlhbCUyMGZlbWVuaWwlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4Njk2MDM5fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 04 Sep 2026 22:53:41 GMT"
-      },
-      {
-        "title": "“Sumamos un punto y es mejor que no sumar”: DT de México Femenil sub 20 tras empatar ante Benín",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd1lyZnI2LWVtNVRFc3JEYVBnemRRX0NqNnBoSkNPX0oxbUNES0VXN192SjR5MVYta2E2VmJpOGc1OGxYS1lvdVFDdWJUQVZHSG1pSzNzY1NSVERTLTFRS1pEbUtfemxmMEotdmdmc3dBU1VJUjQwZUY0eUVZd1UtdjN5RGFDYmtPQlZBZnhoUzdLYzQtWHFHeVFMT3didWpkaFIwV0ZvZDVUdFI0UWZmSGhlUk03S0YwR1lnOC1EZWxrbDU5MDNoc09XNUE?oc=5",
-        "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxzdW1hbW9zJTIwcHVudG8lMjBtZWpvciUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODg2OTYwMzh8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 05 Sep 2026 21:06:57 GMT"
-      },
-      {
-        "title": "Jornada 4 de la Liga: horarios, resultados y resumen de los partidos",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1dQalBJSm1zVDU1dGNLTFItUGN6SmZfX2xNenJ1dXYxYVlpbllsSjhWZURKcUM5NDhvdjFxTmhJRGN3WXNhazQ4YUdhNjdzbzlUZmZ6UnlKOVM4ME9SZFpoQUNTREhUNEVGQjF1N1VWYTByd3BwbzE5VDF2UGFPaTJXY3FZQnFzSzVrQmprQTRRYktEUXZibEo4QUpHT0dJRnFkUm83dFdGeHFaRTBJazl5NUV3MklN0gHMAUFVX3lxTE4tZ1M0M1R6cVZINDhfZ2pEN3poRE9FYjRxbF9Fa09CV2NiOFVQR2xPdC14Wjg0dFE4SkpYMmZDMDVEQzNZZXcwOVpoX21jdjBaRGN1YTEyaXdzSnpmc1Q1dEJvUmJIRloyUzJFVlFoOTFVUGNnVEhkWDVpU1A2VlpOaDFwSzM1T01UbzJCMGJJSm9DTFNNaWlrc05wWi1fRVZlclVPeF9IZUNsNlZoVzRZRTl4ZDNDbW5wU1J1MXhweDRVbGNnZEFDWVRxTQ?oc=5",
-        "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1725772387870-94c3590bca48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxqb3JuYWRhJTIwbGlnYSUyMGhvcmFyaW9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODY5NjA0MHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 06 Sep 2026 11:50:31 GMT"
+        "image": "https://images.unsplash.com/photo-1732037618180-b858701bc106?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjdSVDMyVBMW5kbyUyMGp1ZWdhJTIwbSVDMyVBOXhpY28lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4NzUxNjkwfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 05 Sep 2026 14:26:51 GMT"
       },
       {
         "title": "Liga MX Apertura 2026: Qué partidos de la Jornada 7 de América, Rayados de Monterrey, Toluca y León no se juegan por la Leagues Cup",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yZTZqYzFIOXVzQ0JvSGcycEZxOGg1RFB0Q282alRwd0hISUp1N2dVbWJ0UzR0cHB2RVRDVE9GT0pIXzR3Z0w2eFJYbVYxT0l5TWR4R2NJV3RVRjAxVW9aTVEyV3hqMWVUYlN1a29BYnJnaWFUYUNDcnNYWDBadw?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwYXBlcnR1cmElMjBwYXJ0aWRvcyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODg3MTc5NzR8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwYXBlcnR1cmElMjBwYXJ0aWRvcyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODg3NTE2OTF8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 06 Sep 2026 01:37:00 GMT"
       },
       {
-        "title": "Dónde ver Valencia - Barcelona en México: Horario y transmisión de LaLiga 2026/27",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2VaX2ZyVXYtTzQ5OFRGWm42LTRPejgyOTJxajdIYklwOVA0cDVKQ0hKQ2IyamtweXdWOWp2c3pJM3BTcEJHcUxIV3N5V3lnTE5OMzdGQW1fc3l2b1NuYU9NbG83elE4VXd2dlFBUGIxd09UOW1PTWg5dFVZQUcxNEdCa1NyQVJrRFhMb0M2YjQ2UmROMmQta21vbm1aQ0RPWWUxS0RjZ2dLWnl0WHpzczVqYVZnTkN1a1VvY9IBvAFBVV95cUxPY2VaX2ZyVXYtTzQ5OFRGWm42LTRPejgyOTJxajdIYklwOVA0cDVKQ0hKQ2IyamtweXdWOWp2c3pJM3BTcEJHcUxIV3N5V3lnTE5OMzdGQW1fc3l2b1NuYU9NbG83elE4VXd2dlFBUGIxd09UOW1PTWg5dFVZQUcxNEdCa1NyQVJrRFhMb0M2YjQ2UmROMmQta21vbm1aQ0RPWWUxS0RjZ2dLWnl0WHpzczVqYVZnTkN1a1VvYw?oc=5",
+        "title": "Jornada 4 de la Liga: horarios, resultados y resumen de los partidos",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1dQalBJSm1zVDU1dGNLTFItUGN6SmZfX2xNenJ1dXYxYVlpbllsSjhWZURKcUM5NDhvdjFxTmhJRGN3WXNhazQ4YUdhNjdzbzlUZmZ6UnlKOVM4ME9SZFpoQUNTREhUNEVGQjF1N1VWYTByd3BwbzE5VDF2UGFPaTJXY3FZQnFzSzVrQmprQTRRYktEUXZibEo4QUpHT0dJRnFkUm83dFdGeHFaRTBJazl5NUV3MklN0gHMAUFVX3lxTE4tZ1M0M1R6cVZINDhfZ2pEN3poRE9FYjRxbF9Fa09CV2NiOFVQR2xPdC14Wjg0dFE4SkpYMmZDMDVEQzNZZXcwOVpoX21jdjBaRGN1YTEyaXdzSnpmc1Q1dEJvUmJIRloyUzJFVlFoOTFVUGNnVEhkWDVpU1A2VlpOaDFwSzM1T01UbzJCMGJJSm9DTFNNaWlrc05wWi1fRVZlclVPeF9IZUNsNlZoVzRZRTl4ZDNDbW5wU1J1MXhweDRVbGNnZEFDWVRxTQ?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1617337331555-d5ce4bdf39dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxkJUMzJUIzbmRlJTIwdmFsZW5jaWElMjBiYXJjZWxvbmElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4NzE3OTc1fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 06 Sep 2026 14:02:12 GMT"
+        "image": "https://images.unsplash.com/photo-1725772387870-94c3590bca48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxqb3JuYWRhJTIwbGlnYSUyMGhvcmFyaW9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODc1MTY5Mnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 18:34:42 GMT"
+      },
+      {
+        "title": "Partidos de la Liga MX 2026 HOY domingo 6 de septiembre: Horarios y canales de transmisión",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDRmNXpSZXZ3LWJDYlZNV3J6U1hsc3llU0JIbTZ2MVo3WWVLUWRnMWtyX2dJMHlyTm5LOUNiU05DWFVkYUxiTjBuV183b2FSX3ZJRUFMSHdwZExHNUpyMTNuT3hhQ0dYMEQ5ZUxZRk5SeWtWajN2dGgya2w2eG1ySHFiblZVMktVYTZfNWcxUWtmNHBWbFZfOTZ2bDBSbkdaZDlmbEVaZ3nSAagBQVVfeXFMTTBhbWkybHdQSGFGT0l0RWpnb0N4dHdBUm5DM0N6Zk14QUIwTlBDZUhjRU15RlgyM1IyU3FZQmtIVlFRcWJOY0N1bjlSVHl3S0NBTFdSQU1EUGlJQ19jcTYzT0tEQkpYN014eFB3bk80aFlTa2dWak10dHFzYlFtcHhPcTJDQWNNMWs0V292OFFZMFBYcTBiRXVNc3ZVbUNvSTN0UDJWZU9P?oc=5",
+        "date": "6 sep 2026",
+        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxwYXJ0aWRvcyUyMGxpZ2ElMjBkb21pbmdvJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4ODc1MTY5NHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 06 Sep 2026 18:45:00 GMT"
       },
       {
         "title": "Así marcha la Tabla General de la Liga MX tras la Jornada 7: ¡Chivas ya es SUBLÍDER!",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnVQS3RuU3BnbTZ3NVZXVDVfQTFsQlZiR29mbWdtTDdpcjRVNDRQOU1wRXlybThDX3NscWpIb3VFRzl0eHpVNVk3TllUZ3JjWGtmTHhQQ1FOT3lXeHZNS0VJeng0ek93UEZMM0NEdGNXNlJsYWdTdy1KaXVTMFNPUjRKNVpJVkZoandVRkwtaUVsMDBjNlRnaXdwYS1sVnJGNl9wSmJiZTZfbDJ0MWp0QWZHMk9laWNIbllsTS1jbw?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxtYXJjaGElMjB0YWJsYSUyMGdlbmVyYWwlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4Njk2MDQxfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxtYXJjaGElMjB0YWJsYSUyMGdlbmVyYWwlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4NzUxNjk1fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 06 Sep 2026 06:19:35 GMT"
       },
       {
-        "title": "Liga MX EN VIVO: Agenda de partidos hoy 5 de septiembre",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSkp4Y2Rlb1ZOaEVob2RzclFZWjRlb0VCWjhfVUR1b2JkaWdTMGV2N3UwWWJ4OTFaZXRGeGR0ZExLTGluSWwzYzAtZWpOZ0ozWGFpV01rZFBqaTdlN2lBY3VMclAyZTRRTFJlTnJZTWpDNW92RVlpci1rR1pzOGpvVFk4RV9NSURUdU5MT1ZBTUN2aVEwU2tJUlRWNnJRQ1hQeWQ2ZzduUDRQVjl4UGpPS0lVX3hGTGVQbVVYT2l5SUQ4bFVndU5mdzBHV0ZIc3p5MUxMRk9ENUk0bHRsNm9QOFB3MC1scGNkeUHSAe8BQVVfeXFMT1c4SlRMUGQ0UTcwc0FBN1NtNFdBMzdxTDlqTGZfY0ZNbVhMb1RiNk03RDNlcWxQWGowVWM3dl9TTjlUd1V1REpwaTVFejlNekJ6MzFTN1FOSy1xN21JbTBVWlBmVTRYMjl4cXZ3S2E4YVhZOVJDSEpGUDRpZVVYSnBySFhrc0FuVF9pRXFGMFA4Umx4YXRjYk5vV3BLSXhMMjlUem9zQkdoMzlaNTlCWmVYN2MxZ2JaamdjSGlJbDlMeGt5eEZjVWt6UFVFWkhVaWVzTS1OZ1dQWER5dkt0TGVpX3VlWWU2NUExOW9FNnc?oc=5",
-        "date": "5 sep 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
-        "_pub_raw": "Sat, 05 Sep 2026 13:42:53 GMT"
-      },
-      {
-        "title": "Premier League 2026-2027: pichichi y máximo asistente tras la Jornada 3",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXFuSGZmRTdjWWc1dzdNU1IweHZuTzF5MnBtTzBkS05UUXU5QkdPeEMxYUtaSEgzQjlOZXFka2QzOWllZ1habTJ5WFBlOVBhS2NRTHFFcTd1ODFUVVA5b1VWWEJOLXNRajlVNE9mSktQWFNmOTZtTnJCN2ZaRHR2MzhlNjN6T0RTWk1pLXUtQi1mY05JSUpybm9WZTNxUVlySzF1cHJ2Sld5R2RRbFRFR1dtdWNySDRLVDRPSlZfbWtoTHB0a00w0gHMAUFVX3lxTE44VmkySnJxdnFmUE1hTzRQSFhONGN6M1BrRW8xTzRCWVVyajFfaGQwaXFCaVZzUnprUURqdGQybkxhR0FjcEg3ei1ldWNZMXFNU1BfSVUxM014ckZVV1NaX0w2QnFkWUpGc19KQWFYY1VzOGZtUXZsNHA1R1FTREQxLVNyZ24wR1hIUHRvLUZQNGtfQkhNSGd1QVdmVTRrdGh6U3ltNnRocnhtZ1dyOGwwQXRPeUlNUlRhOGlTSFM5cGdKNURRRTRKczdGTQ?oc=5",
+        "title": "Así está la clasificación de la Premier League tras los resultados de los partidos de la Jornada 3 disputados hoy, domingo 6 de septiembre",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWDAtZFpoeFUwaG0xak91VWh5d2dlNTFISUdpMzFKTzlwaGpVTGFqOFFBR2hTQzRKejBhZEljejRiR2ozREEzU0I5WGVtcHpzSUFHTW1kTXAtcGxnT1JqS0RBRXNTM3F2MUxBNzhTUnA1cEVzSG1VNEpUM0Q1V3NHVGM0Y3NJQWxSYm40SXp6dExVdlExWGZpdkRZNmlyMkYyLU9tSTNaVTFKaWhYYkRYbDducVNHSS1zREE2d2ZXd1RmNkhv0gHKAUFVX3lxTE9qbjVlcVVNNkdzMG9ET3ZOdjdnSElRb01JRmFhMzMxQjNpSE1rRWpVWGZfS05wZkJZbU04WkFrV0tOQUlNV0UzUTdqY25fejFJRDE0bS1Udlg4NDlRTTFFX096UUVFQjZ3U2owUk1tSzRGcDJYNnV2d1RzUlA0X2xHUkI5cERJV2dOaVIyQ0hEeGM4X2I5ZHVlNnpvd1lPNU9SUldkd0Y3bnpISDlXb0lJM0l1clRDSDRDdEJOQWZJaDdZNERMdEgya0E?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxwcmVtaWVyJTIwbGVhZ3VlJTIwcGljaGljaGklMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg4Njk2MDQ1fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 06 Sep 2026 05:30:00 GMT"
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "_pub_raw": "Sun, 06 Sep 2026 21:00:00 GMT"
       },
       {
         "title": "Premier League · Resultados",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnQzlXRUlTTFpGeVU3MWtjZlZfelNFaXd5UXJMU0pWaks3UGhjZ1BsZjJxc1JvODF4akJ2RDM3Zk15YXZySUcyU2tCSEFyRUF5TXlILUM0TXY5YWtkZ2tEUktZU1ZTTjQ?oc=5",
         "date": "6 sep 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwcmVtaWVyJTIwbGVhZ3VlJTIwcmVzdWx0YWRvcyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODg3NTE2OTd8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 06 Sep 2026 03:21:11 GMT"
       }
     ]
