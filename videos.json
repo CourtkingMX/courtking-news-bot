@@ -1,5 +1,5 @@
 {
-  "updated": "08/09/2026 12:40 UTC",
+  "updated": "08/09/2026 19:18 UTC",
   "sports": {
     "bk": [
       {
@@ -61,42 +61,56 @@
     ],
     "pd": [
       {
-        "vid": "gINYME8J2NU",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 7",
-        "thumb": "https://i.ytimg.com/vi/gINYME8J2NU/mqdefault_live.jpg",
-        "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=gINYME8J2NU"
-      },
-      {
         "vid": "cduAFEvkD5U",
         "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 5",
-        "thumb": "https://i.ytimg.com/vi/cduAFEvkD5U/mqdefault_live.jpg",
+        "thumb": "https://i.ytimg.com/vi/cduAFEvkD5U/mqdefault.jpg",
         "date": "2026-09-08",
         "url": "https://www.youtube.com/watch?v=cduAFEvkD5U"
       },
       {
         "vid": "6lOLVyZB85o",
         "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 6",
-        "thumb": "https://i.ytimg.com/vi/6lOLVyZB85o/mqdefault_live.jpg",
+        "thumb": "https://i.ytimg.com/vi/6lOLVyZB85o/mqdefault.jpg",
         "date": "2026-09-08",
         "url": "https://www.youtube.com/watch?v=6lOLVyZB85o"
       },
       {
-        "vid": "e67lZp9VxKg",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Centre Court (🇬🇧)",
-        "thumb": "https://i.ytimg.com/vi/e67lZp9VxKg/mqdefault_live.jpg",
+        "vid": "gINYME8J2NU",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 7",
+        "thumb": "https://i.ytimg.com/vi/gINYME8J2NU/mqdefault.jpg",
         "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=e67lZp9VxKg"
+        "url": "https://www.youtube.com/watch?v=gINYME8J2NU"
       },
       {
-        "vid": "QCHBZfJY3bc",
-        "title": "Alpine Paris Major Premier Padel 🇫🇷🎾:  Pista Central (🇪🇸)",
-        "thumb": "https://i.ytimg.com/vi/QCHBZfJY3bc/mqdefault_live.jpg",
+        "vid": "xRNR8QCq8DU",
+        "title": "Alpine Paris Major Premier Padel 🇫🇷🎾: CNE B",
+        "thumb": "https://i.ytimg.com/vi/xRNR8QCq8DU/mqdefault_live.jpg",
         "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=QCHBZfJY3bc"
+        "url": "https://www.youtube.com/watch?v=xRNR8QCq8DU"
+      },
+      {
+        "vid": "xOrCRHTtgV4",
+        "title": "Alpine Paris Major Premier Padel 🇫🇷🎾:  CNE A",
+        "thumb": "https://i.ytimg.com/vi/xOrCRHTtgV4/mqdefault_live.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=xOrCRHTtgV4"
       }
     ],
     "fx": [
+      {
+        "vid": "qBxtIVVS7Sk",
+        "title": "Vaya gol de falta de SERGIO CANALES 🔥🎯",
+        "thumb": "https://i.ytimg.com/vi/qBxtIVVS7Sk/mqdefault.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=qBxtIVVS7Sk"
+      },
+      {
+        "vid": "tfgZYfre4d8",
+        "title": "Los MEJORES MOMENTOS de DANI CEBALLOS con el REAL BETIS en LALIGA 💚",
+        "thumb": "https://i.ytimg.com/vi/tfgZYfre4d8/mqdefault.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=tfgZYfre4d8"
+      },
       {
         "vid": "OrnLSqLegH8",
         "title": "Todas las PARADAS de VALLES ante el Real Madrid 🔥⛔️",
@@ -119,39 +133,25 @@
         "url": "https://www.youtube.com/watch?v=CjbePWyygBc"
       },
       {
-        "vid": "UOu3Y7IpKxU",
-        "title": "Kang-in empieza fuerte 🔥",
-        "thumb": "https://i.ytimg.com/vi/UOu3Y7IpKxU/mqdefault.jpg",
+        "vid": "pD5NQyzlEx8",
+        "title": "Nothing Works Twice. | UWCL 26/27",
+        "thumb": "https://i.ytimg.com/vi/pD5NQyzlEx8/mqdefault.jpg",
         "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=UOu3Y7IpKxU"
+        "url": "https://www.youtube.com/watch?v=pD5NQyzlEx8"
       },
       {
-        "vid": "-cX7wcS9EL4",
-        "title": "ELCHE CF vs REAL SOCIEDAD | RUEDA DE PRENSA",
-        "thumb": "https://i.ytimg.com/vi/-cX7wcS9EL4/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=-cX7wcS9EL4"
-      },
-      {
-        "vid": "LaADHznVSNg",
-        "title": "Official UEFA Champions League Anthem",
-        "thumb": "https://i.ytimg.com/vi/LaADHznVSNg/mqdefault.jpg",
+        "vid": "mRDqzhONH3Q",
+        "title": "Lautaro 😮‍💨",
+        "thumb": "https://i.ytimg.com/vi/mRDqzhONH3Q/mqdefault.jpg",
         "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=LaADHznVSNg"
+        "url": "https://www.youtube.com/watch?v=mRDqzhONH3Q"
       },
       {
-        "vid": "FgynBIGwDxU",
-        "title": "Unstoppable Kvara!",
-        "thumb": "https://i.ytimg.com/vi/FgynBIGwDxU/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=FgynBIGwDxU"
-      },
-      {
-        "vid": "UKTwc5Gm1NI",
-        "title": "EVERY Champions League Opening Day Goal 2025/26!",
-        "thumb": "https://i.ytimg.com/vi/UKTwc5Gm1NI/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=UKTwc5Gm1NI"
+        "vid": "AhJjGSJZ5rE",
+        "title": "We Tested Erling Haaland&#39;s Ball Knowledge",
+        "thumb": "https://i.ytimg.com/vi/AhJjGSJZ5rE/mqdefault.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=AhJjGSJZ5rE"
       }
     ]
   }
