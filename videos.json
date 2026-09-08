@@ -1,5 +1,5 @@
 {
-  "updated": "08/09/2026 03:33 UTC",
+  "updated": "08/09/2026 12:40 UTC",
   "sports": {
     "bk": [
       {
@@ -36,46 +36,88 @@
         "thumb": "https://i.ytimg.com/vi/r00rHKjcRPI/mqdefault.jpg",
         "date": "2026-09-07",
         "url": "https://www.youtube.com/watch?v=r00rHKjcRPI"
+      },
+      {
+        "vid": "si0VTaX8Q5s",
+        "title": "AJ Dybantsa Summer League Debut Full Play | 27 Pts, 7 Rebs 🔥🔥",
+        "thumb": "https://i4.ytimg.com/vi/si0VTaX8Q5s/hqdefault.jpg",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=si0VTaX8Q5s"
+      },
+      {
+        "vid": "Of3WQuarexY",
+        "title": "What's Next To Luka, AR & The Lakers Post LeBron Era",
+        "thumb": "https://i4.ytimg.com/vi/Of3WQuarexY/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=Of3WQuarexY"
+      },
+      {
+        "vid": "c6fnKfJSc6U",
+        "title": "'Happiness Over Money' | What's Next To LeBron? 👀",
+        "thumb": "https://i4.ytimg.com/vi/c6fnKfJSc6U/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=c6fnKfJSc6U"
       }
     ],
     "pd": [
       {
-        "vid": "ayU-FB3sIgE",
-        "title": "Alpine Paris Major Premier Padel 🇫🇷🎾:  Pista Central (🇪🇸)",
-        "thumb": "https://i.ytimg.com/vi/ayU-FB3sIgE/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=ayU-FB3sIgE"
-      },
-      {
-        "vid": "kMFCkFG0-Vo",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 5",
-        "thumb": "https://i.ytimg.com/vi/kMFCkFG0-Vo/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=kMFCkFG0-Vo"
-      },
-      {
-        "vid": "5e3MApKplrw",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 6",
-        "thumb": "https://i.ytimg.com/vi/5e3MApKplrw/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=5e3MApKplrw"
-      },
-      {
-        "vid": "Tx_R6zihq2A",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Centre Court (🇬🇧)",
-        "thumb": "https://i.ytimg.com/vi/Tx_R6zihq2A/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=Tx_R6zihq2A"
-      },
-      {
-        "vid": "LlegCvVbP78",
+        "vid": "gINYME8J2NU",
         "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 7",
-        "thumb": "https://i.ytimg.com/vi/LlegCvVbP78/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=LlegCvVbP78"
+        "thumb": "https://i.ytimg.com/vi/gINYME8J2NU/mqdefault_live.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=gINYME8J2NU"
+      },
+      {
+        "vid": "cduAFEvkD5U",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 5",
+        "thumb": "https://i.ytimg.com/vi/cduAFEvkD5U/mqdefault_live.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=cduAFEvkD5U"
+      },
+      {
+        "vid": "6lOLVyZB85o",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 6",
+        "thumb": "https://i.ytimg.com/vi/6lOLVyZB85o/mqdefault_live.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=6lOLVyZB85o"
+      },
+      {
+        "vid": "e67lZp9VxKg",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Centre Court (🇬🇧)",
+        "thumb": "https://i.ytimg.com/vi/e67lZp9VxKg/mqdefault_live.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=e67lZp9VxKg"
+      },
+      {
+        "vid": "QCHBZfJY3bc",
+        "title": "Alpine Paris Major Premier Padel 🇫🇷🎾:  Pista Central (🇪🇸)",
+        "thumb": "https://i.ytimg.com/vi/QCHBZfJY3bc/mqdefault_live.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=QCHBZfJY3bc"
       }
     ],
     "fx": [
+      {
+        "vid": "OrnLSqLegH8",
+        "title": "Todas las PARADAS de VALLES ante el Real Madrid 🔥⛔️",
+        "thumb": "https://i.ytimg.com/vi/OrnLSqLegH8/mqdefault.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=OrnLSqLegH8"
+      },
+      {
+        "vid": "ulj_IZbwCo8",
+        "title": "TODOS los GOLES de la JORNADA 4 de LALIGA EA SPORTS 2026/27",
+        "thumb": "https://i.ytimg.com/vi/ulj_IZbwCo8/mqdefault.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=ulj_IZbwCo8"
+      },
+      {
+        "vid": "CjbePWyygBc",
+        "title": "LAMINE YAMAL y otro GOLAZO para el recuerdo 🤩",
+        "thumb": "https://i.ytimg.com/vi/CjbePWyygBc/mqdefault.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=CjbePWyygBc"
+      },
       {
         "vid": "UOu3Y7IpKxU",
         "title": "Kang-in empieza fuerte 🔥",
@@ -91,25 +133,11 @@
         "url": "https://www.youtube.com/watch?v=-cX7wcS9EL4"
       },
       {
-        "vid": "nVMT4EsI090",
-        "title": "ELCHE CF 3 - 2 REAL SOCIEDAD | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/nVMT4EsI090/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=nVMT4EsI090"
-      },
-      {
-        "vid": "CGwY-AJRZOc",
-        "title": "ELCHE CF 2 - 3 REAL SOCIEDAD | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/CGwY-AJRZOc/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=CGwY-AJRZOc"
-      },
-      {
-        "vid": "yW2ywJj4riI",
-        "title": "DRAMA FINAL.🤯",
-        "thumb": "https://i.ytimg.com/vi/yW2ywJj4riI/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=yW2ywJj4riI"
+        "vid": "LaADHznVSNg",
+        "title": "Official UEFA Champions League Anthem",
+        "thumb": "https://i.ytimg.com/vi/LaADHznVSNg/mqdefault.jpg",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=LaADHznVSNg"
       },
       {
         "vid": "FgynBIGwDxU",
@@ -124,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/UKTwc5Gm1NI/mqdefault.jpg",
         "date": "2026-09-07",
         "url": "https://www.youtube.com/watch?v=UKTwc5Gm1NI"
-      },
-      {
-        "vid": "NihJdjB9wz8",
-        "title": "Super strike from Yıldız",
-        "thumb": "https://i.ytimg.com/vi/NihJdjB9wz8/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=NihJdjB9wz8"
       }
     ]
   }
