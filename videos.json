@@ -1,7 +1,14 @@
 {
-  "updated": "09/09/2026 12:47 UTC",
+  "updated": "09/09/2026 19:07 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "tnZi9rsx_Kk",
+        "title": "Jayson Tatum teaches his son Deuce how to conduct a proper interview 🎤🥲",
+        "thumb": "https://i.ytimg.com/vi/tnZi9rsx_Kk/mqdefault.jpg",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=tnZi9rsx_Kk"
+      },
       {
         "vid": "2ybJjUnMCE8",
         "title": "Spida’s 30th birthday calls for some dancing 🕺",
@@ -31,13 +38,6 @@
         "url": "https://www.youtube.com/watch?v=R8R9leQIJhQ"
       },
       {
-        "vid": "r00rHKjcRPI",
-        "title": "Happy Birthday Donovan Mitchell 🎉",
-        "thumb": "https://i.ytimg.com/vi/r00rHKjcRPI/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=r00rHKjcRPI"
-      },
-      {
         "vid": "si0VTaX8Q5s",
         "title": "AJ Dybantsa Summer League Debut Full Play | 27 Pts, 7 Rebs 🔥🔥",
         "thumb": "https://i4.ytimg.com/vi/si0VTaX8Q5s/hqdefault.jpg",
@@ -61,42 +61,56 @@
     ],
     "pd": [
       {
-        "vid": "tp4t_M8AY3g",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Day 2 - Women&#39;s Highlights",
-        "thumb": "https://i.ytimg.com/vi/tp4t_M8AY3g/mqdefault.jpg",
-        "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=tp4t_M8AY3g"
-      },
-      {
-        "vid": "x8x1Dh6ozHQ",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Day 2 - Men&#39;s Highlights",
-        "thumb": "https://i.ytimg.com/vi/x8x1Dh6ozHQ/mqdefault.jpg",
-        "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=x8x1Dh6ozHQ"
-      },
-      {
         "vid": "tNOsRYD-XDA",
         "title": "Alpine Paris Major Premier Padel 🇫🇷🎾: Court 4",
-        "thumb": "https://i.ytimg.com/vi/tNOsRYD-XDA/mqdefault_live.jpg",
+        "thumb": "https://i.ytimg.com/vi/tNOsRYD-XDA/mqdefault.jpg",
         "date": "2026-09-09",
         "url": "https://www.youtube.com/watch?v=tNOsRYD-XDA"
       },
       {
+        "vid": "GzIGuic8axo",
+        "title": "Alpine Paris Major Premier Padel 🇫🇷🎾: Suzanne Lenglen",
+        "thumb": "https://i.ytimg.com/vi/GzIGuic8axo/mqdefault.jpg",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=GzIGuic8axo"
+      },
+      {
+        "vid": "1VHO7PHKSbQ",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 5",
+        "thumb": "https://i.ytimg.com/vi/1VHO7PHKSbQ/mqdefault.jpg",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=1VHO7PHKSbQ"
+      },
+      {
         "vid": "p24oP2neHsU",
         "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 7",
-        "thumb": "https://i.ytimg.com/vi/p24oP2neHsU/mqdefault_live.jpg",
+        "thumb": "https://i.ytimg.com/vi/p24oP2neHsU/mqdefault.jpg",
         "date": "2026-09-09",
         "url": "https://www.youtube.com/watch?v=p24oP2neHsU"
       },
       {
-        "vid": "8FdHQgNBpFc",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 6",
-        "thumb": "https://i.ytimg.com/vi/8FdHQgNBpFc/mqdefault_live.jpg",
+        "vid": "35Sc65vIWLQ",
+        "title": "9 September 2026",
+        "thumb": "https://i.ytimg.com/vi/35Sc65vIWLQ/mqdefault.jpg",
         "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=8FdHQgNBpFc"
+        "url": "https://www.youtube.com/watch?v=35Sc65vIWLQ"
       }
     ],
     "fx": [
+      {
+        "vid": "auBSEgWdVxU",
+        "title": "Los 3 delanteros con más remates bien orientados son…",
+        "thumb": "https://i.ytimg.com/vi/auBSEgWdVxU/mqdefault.jpg",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=auBSEgWdVxU"
+      },
+      {
+        "vid": "askYRL53yNI",
+        "title": "¿El mejor MARIANO está de vuelta? Los datos dicen que sí ⚽",
+        "thumb": "https://i.ytimg.com/vi/askYRL53yNI/mqdefault.jpg",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=askYRL53yNI"
+      },
       {
         "vid": "3pSd2_SCjZk",
         "title": "ADEYEMI y una camiseta como regalo",
@@ -119,39 +133,25 @@
         "url": "https://www.youtube.com/watch?v=_yvbesNh1GE"
       },
       {
-        "vid": "6WRQExuNk8M",
-        "title": "Qué golazo de Boyé 🚀⚽",
-        "thumb": "https://i.ytimg.com/vi/6WRQExuNk8M/mqdefault.jpg",
+        "vid": "jQvmTzobbnY",
+        "title": "Classic Goals From Liverpool v Atleti! | Highlights",
+        "thumb": "https://i.ytimg.com/vi/jQvmTzobbnY/mqdefault.jpg",
         "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=6WRQExuNk8M"
+        "url": "https://www.youtube.com/watch?v=jQvmTzobbnY"
       },
       {
-        "vid": "2zjoPiXP1Ns",
-        "title": "Así vivió el árbitro el partido entre VALENCIA y BARCELONA 📹🔊",
-        "thumb": "https://i.ytimg.com/vi/2zjoPiXP1Ns/mqdefault.jpg",
-        "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=2zjoPiXP1Ns"
-      },
-      {
-        "vid": "E4xaD4D7kes",
-        "title": "Răzvan Marin take a bow! 👏",
-        "thumb": "https://i.ytimg.com/vi/E4xaD4D7kes/mqdefault.jpg",
+        "vid": "C0xWwq8zMxY",
+        "title": "🍿🍿🍿",
+        "thumb": "https://i.ytimg.com/vi/C0xWwq8zMxY/mqdefault.jpg",
         "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=E4xaD4D7kes"
+        "url": "https://www.youtube.com/watch?v=C0xWwq8zMxY"
       },
       {
-        "vid": "3iekg1KgZ8E",
-        "title": "EVERY Champions League Opening Goal",
-        "thumb": "https://i.ytimg.com/vi/3iekg1KgZ8E/mqdefault.jpg",
+        "vid": "bsNE2XZN4qE",
+        "title": "Commitment from Bisseck!",
+        "thumb": "https://i.ytimg.com/vi/bsNE2XZN4qE/mqdefault.jpg",
         "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=3iekg1KgZ8E"
-      },
-      {
-        "vid": "pD5NQyzlEx8",
-        "title": "Nothing Works Twice. | UWCL 26/27",
-        "thumb": "https://i.ytimg.com/vi/pD5NQyzlEx8/mqdefault.jpg",
-        "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=pD5NQyzlEx8"
+        "url": "https://www.youtube.com/watch?v=bsNE2XZN4qE"
       }
     ]
   }
