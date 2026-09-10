@@ -1,7 +1,14 @@
 {
-  "updated": "10/09/2026 12:45 UTC",
+  "updated": "10/09/2026 18:59 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "pPHOlLVyjQc",
+        "title": "The Most INSANE Endings of the 2025-26 NBA Season | Pt. 2",
+        "thumb": "https://i.ytimg.com/vi/pPHOlLVyjQc/mqdefault.jpg",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=pPHOlLVyjQc"
+      },
       {
         "vid": "sfFEUmHMhvc",
         "title": "Nike | End of Ordinary Fashion Show",
@@ -31,13 +38,6 @@
         "url": "https://www.youtube.com/watch?v=2ybJjUnMCE8"
       },
       {
-        "vid": "07omvY-vYJM",
-        "title": "Happy 30th Birthday to one of the NBA’s most explosive scorers 🔥🕷️",
-        "thumb": "https://i.ytimg.com/vi/07omvY-vYJM/mqdefault.jpg",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=07omvY-vYJM"
-      },
-      {
         "vid": "si0VTaX8Q5s",
         "title": "AJ Dybantsa Summer League Debut Full Play | 27 Pts, 7 Rebs 🔥🔥",
         "thumb": "https://i4.ytimg.com/vi/si0VTaX8Q5s/hqdefault.jpg",
@@ -61,32 +61,32 @@
     ],
     "pd": [
       {
+        "vid": "YdKvPH8XDrE",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 7",
+        "thumb": "https://i.ytimg.com/vi/YdKvPH8XDrE/mqdefault.jpg",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=YdKvPH8XDrE"
+      },
+      {
+        "vid": "m-B_YqNByJE",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 6",
+        "thumb": "https://i.ytimg.com/vi/m-B_YqNByJE/mqdefault.jpg",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=m-B_YqNByJE"
+      },
+      {
+        "vid": "0sOwRHUoUMg",
+        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 5",
+        "thumb": "https://i.ytimg.com/vi/0sOwRHUoUMg/mqdefault.jpg",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=0sOwRHUoUMg"
+      },
+      {
         "vid": "dIlUC2kj2aE",
         "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Day 3 - Men&#39;s Highlights",
         "thumb": "https://i.ytimg.com/vi/dIlUC2kj2aE/mqdefault.jpg",
         "date": "2026-09-10",
         "url": "https://www.youtube.com/watch?v=dIlUC2kj2aE"
-      },
-      {
-        "vid": "YdKvPH8XDrE",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 7",
-        "thumb": "https://i.ytimg.com/vi/YdKvPH8XDrE/mqdefault_live.jpg",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=YdKvPH8XDrE"
-      },
-      {
-        "vid": "0sOwRHUoUMg",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 5",
-        "thumb": "https://i.ytimg.com/vi/0sOwRHUoUMg/mqdefault_live.jpg",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=0sOwRHUoUMg"
-      },
-      {
-        "vid": "m-B_YqNByJE",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 6",
-        "thumb": "https://i.ytimg.com/vi/m-B_YqNByJE/mqdefault_live.jpg",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=m-B_YqNByJE"
       },
       {
         "vid": "ZJei_q6dL4g",
@@ -98,11 +98,32 @@
     ],
     "fx": [
       {
+        "vid": "z0asVNs_5O4",
+        "title": "Los dos minutos que condenaron a los de SIMEONE ⏰",
+        "thumb": "https://i.ytimg.com/vi/z0asVNs_5O4/mqdefault.jpg",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=z0asVNs_5O4"
+      },
+      {
+        "vid": "yiE1smypOvA",
+        "title": "Mariano: promedio por asistencias",
+        "thumb": "https://i.ytimg.com/vi/yiE1smypOvA/mqdefault.jpg",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=yiE1smypOvA"
+      },
+      {
         "vid": "Maz-y4_g1v4",
         "title": "¿AUBAMEYANG es la MEJOR OPCIÓN Fantasy? | LALIGA FANTASY SHOW #5",
-        "thumb": "https://i.ytimg.com/vi/Maz-y4_g1v4/mqdefault_live.jpg",
+        "thumb": "https://i.ytimg.com/vi/Maz-y4_g1v4/mqdefault.jpg",
         "date": "2026-09-10",
         "url": "https://www.youtube.com/watch?v=Maz-y4_g1v4"
+      },
+      {
+        "vid": "4PuHi40a7xc",
+        "title": "Yosgart Gutiérrez: &quot;Apoyo al Madrid por Hugo Sánchez&quot; | Con los Tacos x Delante",
+        "thumb": "https://i.ytimg.com/vi/4PuHi40a7xc/mqdefault.jpg",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=4PuHi40a7xc"
       },
       {
         "vid": "WeJtDLkGRw8",
@@ -112,46 +133,25 @@
         "url": "https://www.youtube.com/watch?v=WeJtDLkGRw8"
       },
       {
-        "vid": "j8bCKhZFSyc",
-        "title": "Raphinha anota y Lamine Yamal asiste",
-        "thumb": "https://i.ytimg.com/vi/j8bCKhZFSyc/mqdefault.jpg",
+        "vid": "3OiRbhE5VRU",
+        "title": "Ødegaard’s winner for Arsenal 💪",
+        "thumb": "https://i.ytimg.com/vi/3OiRbhE5VRU/mqdefault.jpg",
         "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=j8bCKhZFSyc"
+        "url": "https://www.youtube.com/watch?v=3OiRbhE5VRU"
       },
       {
-        "vid": "t6ni_AX2FBk",
-        "title": "Aubameyang ✨",
-        "thumb": "https://i.ytimg.com/vi/t6ni_AX2FBk/mqdefault.jpg",
+        "vid": "GXiJK0oAYi4",
+        "title": "We Tested Bryan Mbeumo&#39;s Ball Knowledge!",
+        "thumb": "https://i.ytimg.com/vi/GXiJK0oAYi4/mqdefault.jpg",
         "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=t6ni_AX2FBk"
+        "url": "https://www.youtube.com/watch?v=GXiJK0oAYi4"
       },
       {
-        "vid": "f40j1faFCSA",
-        "title": "AUBAMEYANG no solo mete goles",
-        "thumb": "https://i.ytimg.com/vi/f40j1faFCSA/mqdefault.jpg",
-        "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=f40j1faFCSA"
-      },
-      {
-        "vid": "7q74-tAdGoY",
-        "title": "So good from Raphinha 😮‍💨",
-        "thumb": "https://i.ytimg.com/vi/7q74-tAdGoY/mqdefault.jpg",
+        "vid": "gjL1E_l8w44",
+        "title": "Ferran Torres’ Paris hat-trick!",
+        "thumb": "https://i.ytimg.com/vi/gjL1E_l8w44/mqdefault.jpg",
         "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=7q74-tAdGoY"
-      },
-      {
-        "vid": "jQvmTzobbnY",
-        "title": "Classic Goals From Liverpool v Atleti! | Highlights",
-        "thumb": "https://i.ytimg.com/vi/jQvmTzobbnY/mqdefault.jpg",
-        "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=jQvmTzobbnY"
-      },
-      {
-        "vid": "C0xWwq8zMxY",
-        "title": "🍿🍿🍿",
-        "thumb": "https://i.ytimg.com/vi/C0xWwq8zMxY/mqdefault.jpg",
-        "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=C0xWwq8zMxY"
+        "url": "https://www.youtube.com/watch?v=gjL1E_l8w44"
       }
     ]
   }
