@@ -1,5 +1,5 @@
 {
-  "updated": "11/09/2026 12:39 UTC",
+  "updated": "11/09/2026 19:00 UTC",
   "sports": {
     "bk": [
       {
@@ -61,6 +61,13 @@
     ],
     "pd": [
       {
+        "vid": "F_WC2eg0zko",
+        "title": "Insane block by Tapia in the Paris Major",
+        "thumb": "https://i.ytimg.com/vi/F_WC2eg0zko/mqdefault.jpg",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=F_WC2eg0zko"
+      },
+      {
         "vid": "N-Gmfto7nUM",
         "title": "Drop shot by Gonzalez in the Paris Major",
         "thumb": "https://i.ytimg.com/vi/N-Gmfto7nUM/mqdefault.jpg",
@@ -87,16 +94,30 @@
         "thumb": "https://i.ytimg.com/vi/ZJei_q6dL4g/mqdefault.jpg",
         "date": "2026-09-10",
         "url": "https://www.youtube.com/watch?v=ZJei_q6dL4g"
-      },
-      {
-        "vid": "YdKvPH8XDrE",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Court 7",
-        "thumb": "https://i.ytimg.com/vi/YdKvPH8XDrE/mqdefault.jpg",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=YdKvPH8XDrE"
       }
     ],
     "fx": [
+      {
+        "vid": "27RZekQAGFs",
+        "title": "🔴 SEVILLA FC vs VALENCIA CF - PREVIA DEL PARTIDO",
+        "thumb": "https://i.ytimg.com/vi/27RZekQAGFs/mqdefault.jpg",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=27RZekQAGFs"
+      },
+      {
+        "vid": "3s_l8v54Tns",
+        "title": "Atlético de Madrid 3 - 2 Real Sociedad 2025/26 PARTIDO COMPLETO",
+        "thumb": "https://i.ytimg.com/vi/3s_l8v54Tns/mqdefault.jpg",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=3s_l8v54Tns"
+      },
+      {
+        "vid": "yIY59S6XkJ8",
+        "title": "La reacción de MBAPPÉ al calor de Sevilla",
+        "thumb": "https://i.ytimg.com/vi/yIY59S6XkJ8/mqdefault.jpg",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=yIY59S6XkJ8"
+      },
       {
         "vid": "uXM_IHfMiKY",
         "title": "Cuando RODRYGO salvó al REAL MADRID  ⚪🔥 | LALIGA EA SPORTS",
@@ -112,25 +133,18 @@
         "url": "https://www.youtube.com/watch?v=EAnM7J2WvoU"
       },
       {
-        "vid": "Xf0vgRE9sh8",
-        "title": "De Jong ✨",
-        "thumb": "https://i.ytimg.com/vi/Xf0vgRE9sh8/mqdefault.jpg",
+        "vid": "8DPdbW2N_k4",
+        "title": "Manchester United back in the Champions League",
+        "thumb": "https://i.ytimg.com/vi/8DPdbW2N_k4/mqdefault.jpg",
         "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=Xf0vgRE9sh8"
+        "url": "https://www.youtube.com/watch?v=8DPdbW2N_k4"
       },
       {
-        "vid": "z0asVNs_5O4",
-        "title": "Los dos minutos que condenaron a los de SIMEONE ⏰",
-        "thumb": "https://i.ytimg.com/vi/z0asVNs_5O4/mqdefault.jpg",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=z0asVNs_5O4"
-      },
-      {
-        "vid": "yiE1smypOvA",
-        "title": "Mariano: promedio por asistencias",
-        "thumb": "https://i.ytimg.com/vi/yiE1smypOvA/mqdefault.jpg",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=yiE1smypOvA"
+        "vid": "DLOUfAVwuXA",
+        "title": "EVERY Champions League Goal From Matchday 1 | Highlights",
+        "thumb": "https://i.ytimg.com/vi/DLOUfAVwuXA/mqdefault.jpg",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=DLOUfAVwuXA"
       },
       {
         "vid": "hm14rvAVkDg",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/hm14rvAVkDg/mqdefault.jpg",
         "date": "2026-09-11",
         "url": "https://www.youtube.com/watch?v=hm14rvAVkDg"
-      },
-      {
-        "vid": "3OiRbhE5VRU",
-        "title": "Ødegaard’s winner for Arsenal 💪",
-        "thumb": "https://i.ytimg.com/vi/3OiRbhE5VRU/mqdefault.jpg",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=3OiRbhE5VRU"
-      },
-      {
-        "vid": "GXiJK0oAYi4",
-        "title": "We Tested Bryan Mbeumo&#39;s Ball Knowledge!",
-        "thumb": "https://i.ytimg.com/vi/GXiJK0oAYi4/mqdefault.jpg",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=GXiJK0oAYi4"
       }
     ]
   }
