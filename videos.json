@@ -1,5 +1,5 @@
 {
-  "updated": "12/09/2026 03:37 UTC",
+  "updated": "12/09/2026 12:00 UTC",
   "sports": {
     "bk": [
       {
@@ -36,6 +36,27 @@
         "thumb": "https://i.ytimg.com/vi/qrtIkGU3bWA/mqdefault.jpg",
         "date": "2026-09-10",
         "url": "https://www.youtube.com/watch?v=qrtIkGU3bWA"
+      },
+      {
+        "vid": "si0VTaX8Q5s",
+        "title": "AJ Dybantsa Summer League Debut Full Play | 27 Pts, 7 Rebs 🔥🔥",
+        "thumb": "https://i4.ytimg.com/vi/si0VTaX8Q5s/hqdefault.jpg",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=si0VTaX8Q5s"
+      },
+      {
+        "vid": "Of3WQuarexY",
+        "title": "What's Next To Luka, AR & The Lakers Post LeBron Era",
+        "thumb": "https://i4.ytimg.com/vi/Of3WQuarexY/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=Of3WQuarexY"
+      },
+      {
+        "vid": "c6fnKfJSc6U",
+        "title": "'Happiness Over Money' | What's Next To LeBron? 👀",
+        "thumb": "https://i4.ytimg.com/vi/c6fnKfJSc6U/hqdefault.jpg",
+        "date": "2026-07-01",
+        "url": "https://www.youtube.com/watch?v=c6fnKfJSc6U"
       }
     ],
     "pd": [
@@ -62,20 +83,27 @@
       },
       {
         "vid": "fdPsDpQQ6FI",
-        "title": "Alpine Paris Major Premier Padel 🇫🇷🎾:  Pista Central (🇪🇸)",
+        "title": "(Replay) Alpine Paris Major Premier Padel 🇫🇷🎾:  Pista Central (🇪🇸) (September 10th)",
         "thumb": "https://i.ytimg.com/vi/fdPsDpQQ6FI/mqdefault.jpg",
         "date": "2026-09-10",
         "url": "https://www.youtube.com/watch?v=fdPsDpQQ6FI"
       },
       {
         "vid": "ZJei_q6dL4g",
-        "title": "Alpine Paris Premier Padel Major 🇫🇷🎾: Centre Court (🇬🇧)",
+        "title": "(Replay) Alpine Paris Premier Padel Major 🇫🇷🎾: Centre Court (🇬🇧) (September 10th)",
         "thumb": "https://i.ytimg.com/vi/ZJei_q6dL4g/mqdefault.jpg",
         "date": "2026-09-10",
         "url": "https://www.youtube.com/watch?v=ZJei_q6dL4g"
       }
     ],
     "fx": [
+      {
+        "vid": "FFkdFu1CwbQ",
+        "title": "Rodrygo ✨",
+        "thumb": "https://i.ytimg.com/vi/FFkdFu1CwbQ/mqdefault.jpg",
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=FFkdFu1CwbQ"
+      },
       {
         "vid": "iBgeZcXv-Wg",
         "title": "SEVILLA FC vs VALENCIA CF | RUEDA DE PRENSA",
@@ -105,11 +133,18 @@
         "url": "https://www.youtube.com/watch?v=E5al6rhy5s8"
       },
       {
-        "vid": "zTwzRNMb6n8",
-        "title": "𝗗𝗜𝗠𝗜𝗧𝗥𝗜𝗘𝗩𝗦𝗞𝗜. 🧤",
-        "thumb": "https://i.ytimg.com/vi/zTwzRNMb6n8/mqdefault.jpg",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=zTwzRNMb6n8"
+        "vid": "_5i8_CMzsgg",
+        "title": "Como’s style of play 👏",
+        "thumb": "https://i.ytimg.com/vi/_5i8_CMzsgg/mqdefault.jpg",
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=_5i8_CMzsgg"
+      },
+      {
+        "vid": "6RBkmsacNH4",
+        "title": "BEST Champions League Saves From Matchday 1! | Highlights",
+        "thumb": "https://i.ytimg.com/vi/6RBkmsacNH4/mqdefault.jpg",
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=6RBkmsacNH4"
       },
       {
         "vid": "8DPdbW2N_k4",
@@ -117,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/8DPdbW2N_k4/mqdefault.jpg",
         "date": "2026-09-11",
         "url": "https://www.youtube.com/watch?v=8DPdbW2N_k4"
-      },
-      {
-        "vid": "DLOUfAVwuXA",
-        "title": "EVERY Champions League Goal From Matchday 1 | Highlights",
-        "thumb": "https://i.ytimg.com/vi/DLOUfAVwuXA/mqdefault.jpg",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=DLOUfAVwuXA"
-      },
-      {
-        "vid": "hm14rvAVkDg",
-        "title": "Olise’s screamer! 👏",
-        "thumb": "https://i.ytimg.com/vi/hm14rvAVkDg/mqdefault.jpg",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=hm14rvAVkDg"
       }
     ]
   }
