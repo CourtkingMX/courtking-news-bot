@@ -1,5 +1,5 @@
 {
-  "updated": "17/09/2026 03:55 UTC",
+  "updated": "17/09/2026 13:07 UTC",
   "sports": {
     "bk": [
       {
@@ -36,9 +36,23 @@
         "thumb": "https://i.ytimg.com/vi/GmYmztu-Kog/mqdefault.jpg",
         "date": "2026-09-16",
         "url": "https://www.youtube.com/watch?v=GmYmztu-Kog"
+      },
+      {
+        "vid": "Vu3-PKGaqFo",
+        "title": "Pelinka Taking A Shot At LeBron? “This Lakers Group Wants To Compete” 😳",
+        "thumb": "https://i.ytimg.com/vi/Vu3-PKGaqFo/mqdefault.jpg",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=Vu3-PKGaqFo"
       }
     ],
     "pd": [
+      {
+        "vid": "9SRufBT_Bcg",
+        "title": "A week ago, Alex Arroyo showed us exactly how to start a match 😮‍💨#PremierPadel #AlpineParisMajor",
+        "thumb": "https://i.ytimg.com/vi/9SRufBT_Bcg/mqdefault.jpg",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=9SRufBT_Bcg"
+      },
       {
         "vid": "Gc5R94NSCjI",
         "title": "A little 𝙍𝙀𝙈inder from Paris 😴 #PremierPadel #TheSleepShot #WHOOP",
@@ -61,13 +75,6 @@
         "url": "https://www.youtube.com/watch?v=i4hijQ18u2I"
       },
       {
-        "vid": "mkVQUHcEIRw",
-        "title": "The King Coello finishes the point incredibly in the Paris Major",
-        "thumb": "https://i.ytimg.com/vi/mkVQUHcEIRw/mqdefault.jpg",
-        "date": "2026-09-12",
-        "url": "https://www.youtube.com/watch?v=mkVQUHcEIRw"
-      },
-      {
         "vid": "F_WC2eg0zko",
         "title": "Insane block by Tapia in the Paris Major",
         "thumb": "https://i.ytimg.com/vi/F_WC2eg0zko/mqdefault.jpg",
@@ -77,60 +84,60 @@
     ],
     "fx": [
       {
-        "vid": "hiU0T_i72ps",
-        "title": "Bellingham y Vinícius",
-        "thumb": "https://i.ytimg.com/vi/hiU0T_i72ps/mqdefault.jpg",
+        "vid": "sGmWwG8WqlU",
+        "title": "La velocidad de Giuliano Simeone",
+        "thumb": "https://i.ytimg.com/vi/sGmWwG8WqlU/mqdefault.jpg",
         "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=hiU0T_i72ps"
+        "url": "https://www.youtube.com/watch?v=sGmWwG8WqlU"
       },
       {
-        "vid": "UcLA-t4QcfI",
-        "title": "FC BARCELONA vs R. RACING CLUB | RUEDA DE PRENSA",
-        "thumb": "https://i.ytimg.com/vi/UcLA-t4QcfI/mqdefault.jpg",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=UcLA-t4QcfI"
+        "vid": "ZEWqXDjN8tw",
+        "title": "Jornada 2: Barcelona y Real Madrid, protagonistas",
+        "thumb": "https://i.ytimg.com/vi/ZEWqXDjN8tw/mqdefault.jpg",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=ZEWqXDjN8tw"
       },
       {
-        "vid": "hmZbSZ4E3sQ",
-        "title": "ATLÉTICO DE MADRID 4 - 0 CA OSASUNA | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/hmZbSZ4E3sQ/mqdefault.jpg",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=hmZbSZ4E3sQ"
+        "vid": "HOOQJiABdeI",
+        "title": "Jornada 3: Una jornada llena de grandes partidos",
+        "thumb": "https://i.ytimg.com/vi/HOOQJiABdeI/mqdefault.jpg",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=HOOQJiABdeI"
       },
       {
-        "vid": "6vPdKTvB4_g",
-        "title": "FC BARCELONA 7 - 2 R. RACING CLUB | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/6vPdKTvB4_g/mqdefault.jpg",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=6vPdKTvB4_g"
+        "vid": "W3LGMXHcTn8",
+        "title": "Cuando el REAL MADRID visita el campo del ATLÉTICO DE MADRID | LALIGA EA SPORTS",
+        "thumb": "https://i.ytimg.com/vi/W3LGMXHcTn8/mqdefault.jpg",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=W3LGMXHcTn8"
       },
       {
-        "vid": "bo9g36xT5UA",
-        "title": "FC BARCELONA 7 - 2 R. RACING CLUB | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/bo9g36xT5UA/mqdefault.jpg",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=bo9g36xT5UA"
+        "vid": "ihNJJ27o4iI",
+        "title": "Jornada 3: LALIGA con Los 3 Amigos",
+        "thumb": "https://i.ytimg.com/vi/ihNJJ27o4iI/mqdefault.jpg",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=ihNJJ27o4iI"
       },
       {
-        "vid": "ypYPcba5rnc",
-        "title": "A1 - B1: UEFA Friendship Cup Final",
-        "thumb": "https://i.ytimg.com/vi/ypYPcba5rnc/mqdefault_live.jpg",
+        "vid": "tfJshNLaaKQ",
+        "title": "Canada – Spain: UEFA Friendship Cup 2026 ¦ Group B ¦ Match 12",
+        "thumb": "https://i.ytimg.com/vi/tfJshNLaaKQ/mqdefault_live.jpg",
         "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=ypYPcba5rnc"
+        "url": "https://www.youtube.com/watch?v=tfJshNLaaKQ"
       },
       {
-        "vid": "_uw2eqMZoQs",
-        "title": "A3 - B3: UEFA Friendship Cup",
-        "thumb": "https://i.ytimg.com/vi/_uw2eqMZoQs/mqdefault_live.jpg",
+        "vid": "MVb_KdWKpKU",
+        "title": "Brazil – Côte d’Ivoire: UEFA Friendship Cup 2026 ¦ Group B ¦ Match 11",
+        "thumb": "https://i.ytimg.com/vi/MVb_KdWKpKU/mqdefault_live.jpg",
         "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=_uw2eqMZoQs"
+        "url": "https://www.youtube.com/watch?v=MVb_KdWKpKU"
       },
       {
-        "vid": "JFnAAd68M6g",
-        "title": "A2 - B2: UEFA Friendship Cup",
-        "thumb": "https://i.ytimg.com/vi/JFnAAd68M6g/mqdefault_live.jpg",
+        "vid": "F1WIYGMl9Lo",
+        "title": "Korea Republic – England: UEFA Friendship Cup 2026 ¦ Group A ¦ Match 10",
+        "thumb": "https://i.ytimg.com/vi/F1WIYGMl9Lo/mqdefault_live.jpg",
         "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=JFnAAd68M6g"
+        "url": "https://www.youtube.com/watch?v=F1WIYGMl9Lo"
       }
     ]
   }
