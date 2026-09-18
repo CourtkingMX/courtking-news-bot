@@ -1,83 +1,69 @@
 {
-  "updated": "17/09/2026 19:35 UTC",
+  "updated": "18/09/2026 03:42 UTC",
   "sports": {
     "bk": [
-      {
-        "title": "La NBA quiere llegar a Europa de la mano de la Euroliga",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUFTTVdEczAtTV90VnJaX3Ryd0Y0dUtEZHYyTmtqUHo0eUpQZGJId0lsM3k2dVNkTVhCVFlueHJxOUROQVBtMEFoSU9NN3UtQTVNbVVUMlZodjBrZjg5ZnY4SGEyM3dDbnNtZDBlcGJ1Z2dwNEk0bGJEZnhrbkhNUDBUY0luNjFtQ2ZwWTJVM1FuR2dubzRYTkJqRXhYLU02YVZQQjY1R3FzS1nSAasBQVVfeXFMTVFlTVJRQ3JVeHlBdFNtaHpFNkhpNjB4eUswSVdfWHBlcFRzQWR5UWFJYUtENGJDMW5COTMycm1uaXlpWWVpSS1TdDg3QXpjQWVCYVdlcFNaVFRWYVpaOGZ3MHFSYkZUdzhiUmlKRllkNUxXUjFDRWo1cnBtN19Uam01S0ViRGo0UHU2LWI5cjFQVEg4NU5HcVhuamhDQ1pmSm54aE8tWkFQQ1FR?oc=5",
-        "date": "15 sep 2026",
-        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
-        "_pub_raw": "Tue, 15 Sep 2026 20:26:51 GMT"
-      },
       {
         "title": "NBA Future Power Rankings: Panorama a tres años de los 30 equipos",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVTRLMG9JamRhRklkMTVwS1FHUi1USkZWS2ltNTAwa2RpblY3YW1MYjJLTWNwemxSR3loa3hnajVteVNEMmRlTFpSbTd4TVJVcjFFVnRIZGVSSHN1RzJnVHF3WTBFOHZaODlnRXNhVmF5MzJQa0ZXWjgxcWJFSVBka2x6VEZqWDhaWmMyTWlrTjN3VnFMTlFqbmQxTlpKb3lWTVF3VDNMWG5oeTdJUnlxTWJpcW4wTlhRUVE?oc=5",
         "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1595939281699-095354274439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxmdXR1cmUlMjBwb3dlciUyMHJhbmtpbmdzJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg5NjczNzMxfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1595939281699-095354274439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxmdXR1cmUlMjBwb3dlciUyMHJhbmtpbmdzJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg5NzAyOTYyfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 16 Sep 2026 17:51:00 GMT"
-      },
-      {
-        "title": "Ranking Conmebol 2026: Así está la clasificación para el Mundial de Clubes 2029 en Sudamérica",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHNMbVYxX0RuUzBETHNHTGdNeWt0cDVFSFNmbHFKR1BXYkwyVmRiUWtqWC1kX0FjdXZseTZjSDlSd3BuOHctYnRFclV3U3RkZU8tLWY3V3psMDFqS1Z0RzAtRUFaNHp4VnZEaFFzX055SXFZUG9mWTg4NS00Q1RIcXdOTWpEQm5tQi1lVDg2UFIwNkhqLXdtUnBFaFdpVlVjNjI1c2prdHQ?oc=5",
-        "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxyYW5raW5nJTIwY29ubWVib2wlMjBlc3QlQzMlQTElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODk2NzM3MzJ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 17 Sep 2026 02:34:36 GMT"
       },
       {
         "title": "NFL: Kyrie Irving ofrece pagar multa de Al-Shaair por protesta",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2FGUVBvTWs3M3J4c2hlNjFvSXJnRTFDQWwxNkYzVXJmUGxRekRla2xBVHVtc1NXeHVfMnpQZkxQdGpfamxpWHF6eENDNDVvVi13WUp3ZENqelhDb2lJenF5ZWk5UzdFMnVfYlRyY09mQmR6VUp1WGdST3VhcDJhTHRadnRVSXRLbFpockx4U3NKY3ptR0dpazFjeUtyZkNtNGNFOVU0NWR2Y3JlVlFhb2p3dTFtdUI4cWxNSEJMU2V2S0JCZXdxTWszVnV0cnQ2LTdUMFVQaldXSFZSZnc?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
         "_pub_raw": "Thu, 17 Sep 2026 04:07:13 GMT"
+      },
+      {
+        "title": "Peyton Watson, listo para demostrar su versatilidad con Cavs",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEp4anA4cHJMLWJNeUl3aTU1cVlBMDBwQlBxWk8xQXpIYVp6X1Rpc04ybUoyTUo4VmlXUVBMNGRjdVBreEc1NVJEQWxuUGJwUC1OdzIyUXJMcWxiVzFscmFkekdFRUxYRVNaY0JkRHJMdmUtN0puZzJKWHdhZ0RYU0lNdDBXMlhHei1HZTZaSTJqdjRoOUZiZkVzdTg5U0hvamc?oc=5",
+        "date": "17 sep 2026",
+        "image": "https://images.unsplash.com/photo-1613265020375-38bdb1315e98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxwZXl0b24lMjB3YXRzb24lMjBsaXN0byUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4OTcwMjk2NHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 21:20:00 GMT"
       },
       {
         "title": "Suns refuerzan posición de pívot fichando a Duop Reath: fuentes",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUlFnY3FRTGhPM0lSODJQOV9ESEFsRzVYc25oS2xFSk1SUE1QUV85dE0zZnFBM1JLZVV1a0Q2a0NXeHJNelUzV3dwQUNRSFNFaU92c3lPVEdPZ3l2eS1QMFlzUGk5NFpOcFdacVp2ekhjZU5DdFVKamVOMmxINWlwMVNnU2Z5d2pPQUpFaGhuU3hKU0JFVF9ZMkFlSTZLMkpLcFRRQzYwQXEyMlhXUEI4VDViZDMwYVBxanpLd0JqZEFuaVk?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxzdW5zJTIwcmVmdWVyemFuJTIwcG9zaWNpJUMzJUIzbiUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4OTY3MzczNXww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxzdW5zJTIwcmVmdWVyemFuJTIwcG9zaWNpJUMzJUIzbiUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4OTcwMjk2NXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Thu, 17 Sep 2026 19:15:00 GMT"
       },
       {
         "title": "Toronto Raptors: Resumen de temporada baja y previa de 2026-27",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzRwRlI2Q2JJM1UtcWVZVWNQcXdlb3lqRjFQYUEtY1JldlNMRko4RWZOZWVtR2hteTgyY3JySERtME42cHdEM1RUV1JScXF4aEgwZnpXN3NSM0JldEhHblBpeDFKTEMwY1pJalJSZEFEc2tubWcyWVF6T210d1BZOTVZc25hX184LURpSFg5bW10UFBGT3NBTHY4cTZLeURTcGxqakFKZktTWWNYRGhSc085dW4xM3BuVjQzRUs5ODM?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1560829361-d36bad923347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHx0b3JvbnRvJTIwcmFwdG9ycyUyMHJlc3VtZW4lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODk2NzM3MzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1560829361-d36bad923347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHx0b3JvbnRvJTIwcmFwdG9ycyUyMHJlc3VtZW4lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODk3MDI5NjZ8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Thu, 17 Sep 2026 17:30:00 GMT"
       },
       {
-        "title": "Brooklyn Nets: resumen de temporada baja y previa 2026-27",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYmtLRzlxTzg2RllnRlVsUE00cDl3VkFNY0hmLXhfSG9FUHdvTzk2a2c1b0tTODJqb3Bjb2tfc3dJbW4tSmxfeGtrc2VxWjZtVzJqMGF6MXI2djhoZ0hjN0V2eUF1cVBCTHU2bHhPQTVOb3Z0ZFVrQzVhSk91TlpsYjZmMnh4U20xckE1ZVpjd1lGc1RpUEdTZFBZV2ctWUtrOUx5MmN5cw?oc=5",
-        "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1635117743327-a9ab9d47b509?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxicm9va2x5biUyMG5ldHMlMjByZXN1bWVuJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg5NjczNzM4fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 16 Sep 2026 17:34:00 GMT"
+        "title": "Knicks suspenden venta de entradas tras error que elevó precios",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVHpJUXFQMDJPWXowR1R3YUxEN1A0Z09DbngxbUpjZ1Bod1BWVk5lSmZaaGNxbm44Vlp5QzBOc3RsS21HenJmZDVjUGNRY0NveDZVS0JGVlA0WUlTSEJQdGo1TTNFRGxJVFg1UmVDcGpTQkFxV29DeFNoQkwtczVWUjlCcXo3d3BuUUt0MmZQbVhERjFGWVZkNWNKQQ?oc=5",
+        "date": "17 sep 2026",
+        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxrbmlja3MlMjBzdXNwZW5kZW4lMjB2ZW50YSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4OTcwMjk2OHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 21:01:00 GMT"
       },
       {
-        "title": "¿Con un Joel Embiid saludable, los 76ers son imparables?",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0VkcmYwSXhzalZVSV9RRUtBeTJ3dmowdlRVNGpKNHhoaGU1UHQ3OTR6RkpneHAwZVduelVNSEEyMVowZVVLbWQtZXQ0NDl3R050YlJfVWRCeXVCdjBRWU5NZFB0OXZLOWdUZDRIMUVEanlJOXZtOWdhamRQT0YwSDZDOFpoc242VkxwQS1UUVpiV1B4VVI4U3ltTzhOMTNvZ21KM1VGSTRhMUVBb0x5QS1MbTU?oc=5",
-        "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1781565377874-5990bcf89b68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxqb2VsJTIwZW1iaWlkJTIwc2FsdWRhYmxlJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzg5NjczNzM5fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 16 Sep 2026 12:17:15 GMT"
+        "title": "Saddiq Bey y Pelicans acuerdan extensión por tres años y $55.5 millones de dólares",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnNlVFctZ252bkNQLWNHTEhvZ19lOEQtX0FTdnFDeHJmbEwzTmZYdkJFMjFRa25jc2c2bHpzelR0NC04d3lFMEhneHBUTFBOR0NsOHg2QmlVN094WjA3YXRFQjhrZkp5eENEeDBSLVM0NnBQREFNWVI2S3hWS3JMVUJtRGp6a0FoUDFELXg2TDZZd20yOENjTw?oc=5",
+        "date": "17 sep 2026",
+        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
+        "_pub_raw": "Thu, 17 Sep 2026 22:40:00 GMT"
       },
       {
-        "title": "Knicks fichan al agente libre John Konchar con un contrato de un año",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVG9lcHFneHVqYkcycDdYTlJTUVJNaThiVXNnRzB5YUhXYzBQMkR0amlNX1VibGxLV0RILTZqNE9wQXZKdjhVY2g0TTlNcm8tUnRaWEg0VVp2c3dKTDJjYXkyS0Vlc0dhNGFuRkNxZWN5ZEFxQVd5TjFuVEdoWnI4MFhTajZZam5ZWlB5UXFhY09ULWJqc0hBQzU3V1Y?oc=5",
-        "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1785103182040-db9dab2e9964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxrbmlja3MlMjBmaWNoYW4lMjBhZ2VudGUlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODk2NzM3NDF8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 16 Sep 2026 01:09:00 GMT"
+        "title": "Michael Sweetney, exjugador de Hoyas, Knicks y Bulls, fallece a los 43 años",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWQzTDRfbXJKVXJxS1dOUWoxVnF4MjBzakxQQ1lTU1RybU1ZQjFZWk5xNXJpR1NxaEV1WDVUNHlrWFZydTVGZ056SlpicjMybHJfWG9GVVRHc3Y2bnl3bE9NMlduTjBfT0wzZmljZmtFbnVqeHZGUEhsU0FrNWVMYlBXMWcycnN4YWVtaThQZDF4UXJXVjljTHJrV3FRZVA1NWJr?oc=5",
+        "date": "17 sep 2026",
+        "image": "https://images.unsplash.com/photo-1595351627287-584177cecaca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxtaWNoYWVsJTIwc3dlZXRuZXklMjBleGp1Z2Fkb3IlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3ODk3MDI5NzB8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 22:01:00 GMT"
       },
       {
         "title": "Kyrie Irving se ofrece a pagar multa de jugador de NFL por mensaje en apoyo a Palestina",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSnU3UGN1RXFzN2MydnNVcUpSOGdVel80QjBnR3VreEMyRm4xRDI0UHpiYTFJX2Fhd083X1Q3UGtqMXZiM3hSQWpvTDNMZ3Z4SjJVekhEdXllNDlkZ2ZWTUFydV9tMHpmak5qSVdwQ2VWVUFoZ0RNdHVETG5ReWNhVWtEYmFpNVRRUzItTmZ4d1JUOEE3dUU1T0l2MUJJa2N6ZEZhc1hRZVdMLUdETFlrbjlidW1PM29UeEFuNjNjSUo2VkFRZ1hUeUFKMDFQUl9qeG9rcUxvUTZFUQ?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1577471488278-16eec37ffcc2?w=480&q=70",
         "_pub_raw": "Thu, 17 Sep 2026 18:46:00 GMT"
-      },
-      {
-        "title": "NFL, NBA, MLB, NHL y MLS buscan frenar amenazas de apostadores",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkt6UzQyYnc1WG1vQUxmZlhfc0NhMGlDWTFrOFVaZW9VQk5rZDFoYmphTnA2NjBIMUVpUVRBWFFCaGE4XzYtOVFmb1VnS2RVbU9Ka1BGQ183aldLNEdsMWV3azdOU0pzWHdUOTZMUWZjZ3BwVkkwZHlWbFdld09JZkpqS1ZHcWdLZW9ENEs1TDAtSDBKblMyTzJYcUUyQm9PaV9fbUZqVnR1NmloSUNPa3JEaUY?oc=5",
-        "date": "15 sep 2026",
-        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxidXNjYW4lMjBmcmVuYXIlMjBhbWVuYXphcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc4OTY3Mzc0M3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 15 Sep 2026 20:36:00 GMT"
       }
     ],
     "pd": [
@@ -85,7 +71,7 @@
         "title": "Courtois se mete de lleno en el pádel",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqMmhmLWJITDRHSzlaRE1Uckt4WldjRWROd2EzeXU4UC1HTVF5ZTlXRV9DWHBOV3dvbVU3ZEE3NEtFOVZ3eHI2bGlCZldLbDRObXkzZ0F3cXpqQnROWUdYYzBFQ01VdmxBZTFsQ0NuOGpJNURZU1Y1aNIBeEFVX3lxTE40NmJnVndRQjhva0FUdHNnQTlVWHdPR3VSaklNNGVyMUd6djFxUHQzaWtjNTlaWDVtTXdPbUlQZHA2dmgwbUxlbWNsQTVXRlNmOFBxTHQ3ZmpWM2FNR1NSVGthbTRwQ05vcXhIWDVuQ0xOU3RDZHNiZw?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxjb3VydG9pcyUyMG1ldGUlMjBsbGVubyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4OTY3Mzc1Nnww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxjb3VydG9pcyUyMG1ldGUlMjBsbGVubyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4OTcwMjk4MXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Thu, 17 Sep 2026 09:42:47 GMT"
       },
       {
@@ -96,160 +82,167 @@
         "_pub_raw": "Thu, 17 Sep 2026 11:25:56 GMT"
       },
       {
+        "title": "Ni Hyrox, ni CrossFit: por qué el pádel puede ser el deporte perfecto para los mayores de 50 que quieran mantener la masa muscular, la fuerza y la movilidad",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdjhEbTYwOUZUQmZoSVNFcmZyYldiSk1EUHBOM2QyQ1VlY29GNHhDQmJoRUI4d1c2VThNRUd5dmhLYm56YjMwWjdjTHlTT0FfSC1TNHg4Q2U4ODJ5bXJfajY5NkN5UFRFeG9wbFdJMUlEbkJWcm9rNEJ5QTNSTnNVYVlOMnVHZTNCc2VUdERVa3A5Q2MycW1PWHI4cDhwWTB0bjFyajAtVVJ4bElic3dfejFUQkpfNjNpaW1WUHJyY2g2ZFJoUHdHOW0wRVZQVE9USkZld1gzVmFVV1hpU21NaWxyVlNtOFBsT0lnQ0x0bGYxSUZuZGhINTg5SHdSVjTSAf8BQVVfeXFMUHY4RG02MDlGVEJmaElTRXJmcmJXYkpNRFBwTjNkMkNVZWNvRjR4Q0JiaEVCOHdXNlU4TUVHeXZoS2JuemIzMFo3Y0x5U09BX0gtUzR4OENlODgyeW1yX2o2OTZDeVBURXhvcGxXSTFJRG5CVnJvazRCeUEzUk5zVWFZTjJ1R2UzQnNlVHREVWtwOUNjMnFtT1hyOHA4cFkwdG4xcmowLVVSeGxJYnN3X3oxVEJKXzYzaWltVlBycmNoNmRSaFB3RzltMEVWUFRPVEpGZXdYM1ZhVVdYaVNtTWlsclZTbThQbE9JZ0NMdGxmMUlGbmRoSDU4OUh3UlY0?oc=5",
+        "date": "17 sep 2026",
+        "image": "https://images.unsplash.com/photo-1757147517528-cbeb3b481282?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxoeXJveCUyMGNyb3NzZml0JTIwcCVDMyVBMWRlbCUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc4OTcwMjk4M3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 05:07:54 GMT"
+      },
+      {
         "title": "España hace pública su prelista para el Mundial con importantes novedades",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcGcySjc0V3NBTXFieHBCMVctcTBtVklpRlpSLWJVaTJHT0xLYnJmUVNrcGw5Q0RMMWxIamZPS1lwU2QyZG15eC0tN0pDM0RubjZpakJ2bGhtVERHUDJheUJHV3llanZQcHdiMGFZclpQWk5CeXVGb29FZW1kcVI3c3lzTzhKQkJxbndyd1cyZ2NqUndvdWlqUlA4SHB6Z9IBngFBVV95cUxQSW05UDRqWV9tMXppRmd2MDA5SHBpUFE5YWNpOXllbzJlelJ4WXp3bmQ3SS1NcWFuaG5hSjA0ZDhuV0syOTJIbDR2cGVrZ0dZRnE5YV9qZGFrU01WMFY5UF84OEwxMVNpbmFMRDdLX2ZQT00xVFYxbkgzeF9kNnA2bEFPRDRZRTNlQXYtOFJMa1dSelFzVU5OYUl1blJfUQ?oc=5",
         "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1714924762559-33a3a8b173c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxlc3BhJUMzJUIxYSUyMGhhY2UlMjBwJUMzJUJBYmxpY2ElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODk2NzM3NTh8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1714924762559-33a3a8b173c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxlc3BhJUMzJUIxYSUyMGhhY2UlMjBwJUMzJUJBYmxpY2ElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODk3MDI5ODV8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 16 Sep 2026 13:45:48 GMT"
       },
       {
         "title": "La cuarta plaza de Premier Padel tiene nuevos dueños: Paquito Navarro y Martín Di Nenno",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnRLQlRUTjJTMV9rekhEX01scHZEdTZVNGtadUVyYXV1dUlEam9oRm8zMkdyTE9WVF9XYVlIeUhHVUJOUXFSS1BZMXpOVWRITHJlWUh4bW9wc3JNRUlkVlNRUnNfNm9TSzJhU0tSVmJmd29FLXJzX0Zsck5sU3hRbWtCb2RzVEp6SWhpLU94RHdnVUhWVVlPNFRCNzAyXzc3YnRnSUp3aWxDWjY5OUlaNWpKbEh5QnfSAbcBQVVfeXFMUEVONmdaam0zVkFIVXdROC1EMmppTjFTeWJxZy1OcW0yTjBxTTJNcHlBR0JoUEp1Ni1ZRGd0X25hWEQ4dnpzUlRwNndmQVFTT3UwaDZvZ2VtSnBRS09SMjRZX3JyRE01SUtqQ0otNi1xMjdfekpDVG9JSWpJT0MtWTcwV0J5ZmVRb0ZUNGxSY1BCREt3U002aWdITmV4TVpBQkk1MEZkcTY1QjlCb1ctb3JCMllOUnJn?oc=5",
         "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1709587825175-65de1201ab29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjdWFydGElMjBwbGF6YSUyMHByZW1pZXIlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODk2NzM3NjB8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1709587825175-65de1201ab29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjdWFydGElMjBwbGF6YSUyMHByZW1pZXIlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3ODk3MDI5ODZ8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 16 Sep 2026 07:29:58 GMT"
       }
     ],
     "fx": [
       {
-        "title": "Liga Femenil: Resultados de la Jornada 7",
+        "title": "Liga Femenil: Horarios y cómo ver la Jornada 8 del Apertura 2026",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc19LSmhFLWM4SkVheF9KUVFZRjZFaHYwWTlWWVFXM1V1Qmc5LTc2NFZ0T3c5LUZ5WWVGVFlKR20xQk9yWHhNOEhhLWhrQk5scGZ0NzZjbG1KM1FhNDVJeVcwWVZzRkN0RDJETXFBNVJXeEpPdmNFNUFweHFaTXk3TlVpUjNYVGhhZXRpTE9reEd6Y2xLVDBfQUppaEdTMXpkYzlmT2h2b1N6TTNUaEVhV2ZiSTJCMnVwUUhjQlVlUW82UQ?oc=5",
-        "date": "15 sep 2026",
-        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwZmVtZW5pbCUyMHJlc3VsdGFkb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg5NjczNzcxfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 15 Sep 2026 22:14:00 GMT"
+        "date": "17 sep 2026",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsaWdhJTIwZmVtZW5pbCUyMGhvcmFyaW9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTcwMjk5OHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 22:50:00 GMT"
       },
       {
-        "title": "Resumen | Toluca saca la victoria de visita ante Puebla",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelVvVS1HUlZESkFDX2lFcURpMGJyaDUwREZSQUxyMC12a203UWNaZ1NrRDI2ci10N2I5T085M0Y3c01LbEtKX1FJTno1WU1LbmZ2VnBDX0hvQXV1Ui01aGVhWTE1U2dkMG80RDkyaVZKR0diM0VRYWJFVUVaQ3V5Mk5hZ0Q3TVNOaF9zWmpVQXRaNWdpTS1CcWpuN3ZyQXIwaWc?oc=5",
-        "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxyZXN1bWVuJTIwdG9sdWNhJTIwc2FjYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODk2NzM3NzJ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 16 Sep 2026 03:01:00 GMT"
+        "title": "Querétaro y León se miden en el duelo más parejo de la jornada",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1VEUFNDTUhBSGM4MXZFWDNXdzRMZGlqbTZkdkxSYXo3dXBUNHBaaG9ndmVuemk0ekFfUDNkQXNsM0RRenVRZmlNN1ZjZkNXczlBUl9VbDZ1SWZ1SEN4SXAzcWtxWHU0MF80SndkTldLQTFMOUdtWmJIWTJyWXhBOXljM1UxZmhzalc4ZndzLXpYTEF5WmtLSWVGQUdaU0h4SmJVcXBBZ1FETktBV0Y2WEpVZERaMTVPbENXSGN0N2pFdWs5?oc=5",
+        "date": "18 sep 2026",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "_pub_raw": "Fri, 18 Sep 2026 03:01:00 GMT"
       },
       {
         "title": "Calendario de partidos de la J9 del Apertura 2026",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTDFhSmgtWm1wVG9aNDdNV3VESXh3R0lxTEFYWC1hMUdMM3l0VGZIN1MyWHJfYjA2LTYyZlBCTUxmakJsemkwaG5JcWZZYXZxMXFtZUdOZmN5ZzFiVi0tUHpZczh1VWNBSElWRm5fZGt0RFA3aDAwelRtV0Rhb1NtRF9ac3dkUHhyTmdETHRjVlprRDRFTUNOUkI0YWZMM0ZfcXVvSE1VSldsSnkzc2w4dVA5T0tMcURUYlBFR0hqZ3B0TUlYdGI4dVdQTXY1d0YtbGZzLUhrVVZSeWJaR2dGeFdjbXPSAeoBQVVfeXFMUHZYX3Q4X19nSG5ieUFiaG1mOUw2UV9yeE5rcjV1LXlxdG9oS3BkY0ppejk2ZldtNTR1dG40MmtDcWQtY1ZkRGpaUy1DXzhnQk04MGhHZklRWnNWQjNaUTl5bkdTdTJvUElTSGhMX0E0aWpqTTc2UUM0YS05dXZ0LUVrX0R1ejJ2Z01nLXpJOGVXT1l2cm5CZnowYjBYRFdNOHJrWkk4eEprdzNkYk1BQUtja19CR09NMnRGVGg3MmJMcW13dG5FY29ISWtIaFROVnVwTjhNcmlwRDljakJZOFBObWJiUUdfYlJ3?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjYWxlbmRhcmlvJTIwcGFydGlkb3MlMjBhcGVydHVyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODk2NzM3NzR8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjYWxlbmRhcmlvJTIwcGFydGlkb3MlMjBhcGVydHVyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODk3MDMwMDB8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Thu, 17 Sep 2026 14:40:24 GMT"
+      },
+      {
+        "title": "De la Final del Siglo a la goleada 7-0: los siete mejores Clásicos Nacionales entre América y Chivas",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMkxmQk9ycHhiaHZEOXNsVmZ5Tlp3cnQ2bk5faUxhWTZNM1NkdXZxcS1ybS1ZNXMyWW1OVUF5aVNuUWlxNThiak81b1BCd3RKTDMxVnBtcjEyOU5aQ2RwczFrVlEybGZsRlNlVzhGMzBMMUoxRHp1YzhMaUFwRmJZVnFkWkNWR0NxY3EzajVrREFWcEQwWFhWd3gwLW1rNTNQZXFtRFJVRGR0RmNBeXYxSkwzLTM0UlYxYnZOU1FraFB4dGs5eG9jSHNfdXo2U3dWZTNZb3lrN0ZrQdIB9AFBVV95cUxQcGg1eFdOVDg3bmFqRUFoQ19oMkhwRHRqajZzMWhWQTZZR09WSWNNM0hqd3diMXVlWXhDbzVjWFVpLUpaMmxtclpQamtmbG90b3hkSVNlZ1ZXeFpKTWJoWGJCY21ERlIyLXZENU9paUVLZzNlVlR5dmR2WVZzMm9HYlhRU29oUUhNV2pnZjVGTmFNSy1mWTRDMW1OTGpKandMTmlBZ29OS0ZhbGlnQU5Ma2w4T1NiTkVsT3U0OGRZcUZqb2pTczlTQW9GSzR2SjhUSk5iSjM2ckZLUTE5Ny04ampVMEtjMDMyaHVDRWFRZHJ1QmlM?oc=5",
+        "date": "18 sep 2026",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxmaW5hbCUyMHNpZ2xvJTIwZ29sZWFkYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODk3MDMwMDF8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 18 Sep 2026 03:30:38 GMT"
+      },
+      {
+        "title": "Monterrey vs Cruz Azul: previa | Apertura 2026 J9",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMW51SWRjOGJ1Ni11S3hNODFSbWxZUTRWT1kyY1JhaWszREdaQTRHcFRSSmhROEhLRVdadVBhTjIzQTBGdUZfNHBhbTAzOXVobk53ZmJRWmpaV25nSXRCTUVqWFlnU3diUi1WVFYwVHZTUFlJc3lvd1BjR01iVTIwN1Y5RG9KN1RIS0FwWFB3?oc=5",
+        "date": "17 sep 2026",
+        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
+        "_pub_raw": "Thu, 17 Sep 2026 23:24:00 GMT"
       },
       {
         "title": "Puebla y Querétaro: las sorpresas de este Apertura 2026",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXBUVzVnLVlBSVNQVEdnTDU0bFVPR1NQeWFfcWVHSmRINTdxN2wwbUFLWHNDRTdKZVhwWWg3WE9WN3VVUUVZWUNyeG42Q0k0aFNQVUNVMXpHUkJqWlpOcUJMWmFoYk5YYmJTelYtU202dGRBb2ZiemZHdTJ4Nm5vcm9MLWRLc0FiTzZNWnFoM0tUTjZsRGhEWThjNA?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
         "_pub_raw": "Thu, 17 Sep 2026 17:42:04 GMT"
       },
       {
         "title": "Inter Miami evita tercer título de Cruz Azul en la era Huiqui",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTA2Qi1xWEJ4aDJpcnJNTDlaSHp0SXFNdHhDMG9sYU80U0kwVHZua24zUzBDTXNpemEtc240Ym5nbGpIakhRb2VhRDdCMmxjdDlKTzBsSzQ4RDlZc3RmYlFFb3MzTWtZLWZUSDRuX0RaYkxzSnlUd090QTFMSkZEQWNIMFNSYmdBV2U0TTdLVEtTNzhFQlpXVm5mU3hWUjNLWldULTlNZmpCdkNHMFM00gG0AUFVX3lxTE9GY1k5VFhfdnZUZVp5VVkxektzUXhNQ21pVTl5Y3FEVGJ3UXViX3N0azVsUFU3d2RaWWdPZGNlMlZYR3BSUkZveV9aalFsMDEwU2t1SzBaOEZ6NW5tR1k1MlZmbGZfdkxoT2FrMzNFbWpuc3dJamM3T3hYT0tLY2lmY3dadzNvU0tacms3NGp5WHFZTExncU5sMnBBZ3BIcjV6ZWxvZFYxRjg4ZW5LNFhfa3JMXw?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
         "_pub_raw": "Thu, 17 Sep 2026 11:55:56 GMT"
       },
       {
         "title": "Monterrey vs Cruz Azul en vivo la Liga MX: horario, alineaciones y dónde ver el partido del Apertura 2026; jornada 9",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdFNRNnZZeVVkeG5zSmI1eTZhOHRmZTlqRkRZVTd0cjJXVS16aUlhRUJ2MEk2Ujl4RUZDLXU5TnhQQjZDUkdCNkNfc2lWRlNKUmhxb0hQQnExUEc3SjNTb1RFd2MyUnBCaGZSSmkxOUpPV0hKNE5QdEd5YTRqNGF1ckJhdVM3eW1ZTUZjVXpuT09hak9QYXpQcHl0YXYzMEh2dno2anFkMzBOOWljUGZhbVdPN1BlblU3NU92VlRSVzlKeXBMeXFKV1YzS2JWZmR0N1BuejNGZW9md2NKWWJGTWhPcWUzbDVuT2xtZWFR?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
         "_pub_raw": "Thu, 17 Sep 2026 14:45:57 GMT"
       },
       {
-        "title": "Tigres: obligado a ganar ante FC Juárez en Apertura 2026",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2VTQ25icWxCX2V6Nk4xLTd3eTljbFNSMm5lSnMyREJPU3VNaE0wT3dONFZ3OHA0RkVmZlUwbWU5ZGRqNTlyOVNvaVROb2JxNjJwXzhiM1NmbFVGcGVWd05pTExZSjQ4aFg4WXFoWUpEM2N2dnNMQlE5amZYTFRtSlQwRFZSd0h5WDBqeVVtaTU2cGlISXpmdzVyV1cxdVlFXy14NVlvN2RETmtMS21jX1RR?oc=5",
-        "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx0aWdyZXMlMjBvYmxpZ2FkbyUyMGdhbmFyJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTY3Mzc3OXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 17 Sep 2026 11:00:00 GMT"
+        "title": "Apertura 2026: las mejores combinadas para la Jornada 9 de la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckZXbkx4RXJYNlF4bUEyV2RxX2FUSkNkVnY4alF2RHdKOHBoQVdsOFpIdEhTeHNqYnc4aTlrZmgzUkx1YV9WRGktSzdxWkh3b3BTd2VFWDVkUnFRZ0diSXRtR3JWLWtUM1ZvUWVYTl9YOTNkOHhHVjAwWlN4My15ZmtsUmFzeGpaNDVYZnNiN1BVY3RUMFBpWG9JbllDQ21IbklOd0dnMFIzcEJTUWFMdVdB?oc=5",
+        "date": "18 sep 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxhcGVydHVyYSUyMG1lam9yZXMlMjBjb21iaW5hZGFzJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTcwMzAwNnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 18 Sep 2026 00:00:00 GMT"
       },
       {
-        "title": "¿Quién pitará el Clásico Nacional? Conoce al cuerpo arbitral del América vs Chivas",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN1pJeWJFQ3htVjJReThtUTd0bFFBNlM4ZjhiZjRNem0tdVdBcGpMZUVKcW5acUpxUzJtTDZ5akZmRW83SENiclJkVVZxenJRWlJ4RUdfT3M5Ym9ISHJWVWl5TEpHdkdNek5lZTI5QXBHaWN3WG5wU21hN2MtMFQ0cWpKMUpkNGZkdWFvbk4tSTE4UE9pbE9tQmRYS2taa3B4UUlJSnFGX25YMEg1MThBbEdCXzJwYTVON0JmVFRzU01kWjZJeml6bnNIdXjSAecBQVVfeXFMTXJCRnRySzVhWFJoQ3lIZmJNbWVham1uTVZEREdIM2N1MUx1Q1hfSGh4ME1mTTVFVTh4cmR3aW5KVUkwdmpveEFPR0dDNmZ6RmxuTmZuWnVYMTZSR1JWVE1PM1dod0I2ajFWT0Zmci1VOV9CSWJLMEgzNUxfQUU3OWJ6V2hoTzJteFVUdmJoU00wVzBldzY5c2UzZmdwSFJlZEdua2FqUUhLT1FnQnNDZW1XTHZwa1prSFdvN2J4bE52N09zaXVUS3BJbDNnbTc0NXZXQ04teXpnM3VKZV9iUGROWlFVc2VV?oc=5",
-        "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxxdWklQzMlQTluJTIwcGl0YXIlQzMlQTElMjBjbCVDMyVBMXNpY28lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg5NjczNzgwfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 17 Sep 2026 14:49:00 GMT"
-      },
-      {
-        "title": "Atlético San Luis vs Necaxa EN VIVO: Dónde ver en TV, online y hora Jornada 9 Liga MX Apertura 2026",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSEdYeF9iNzNMS0VjRzZpZmFYaHYxWkhRbTE1ZkhYMXpHS1NSZk9uck5tWjFIUjFtejU0aE84cjVCalVlSVBFRVFOeHlTSlNOVkJQT0xmTmg2ZlhXRWRRT25WdEc3LXNFX0VyOEtKU2pzUDNYRFFmRWhRakF1UlF0U3k3RklQb1lVdllTUE56QzlHVnBSTTU3eUFycXNuVWNlYVhFU3oyYmZ3RUNEdlRZZlBUUk16ZXRxOWxGT1dfWkQyeFdEVXZDTUNWem14d3VodUh6Zg?oc=5",
-        "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhdGwlQzMlQTl0aWNvJTIwbHVpcyUyMG5lY2F4YSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODk2NzM3ODJ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 17 Sep 2026 03:28:00 GMT"
-      },
-      {
-        "title": "América vs Chivas: Duelo por el liderato general en la Jornada 9 del Apertura 2026",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ySkZmLTcwNldBT3RnUDhrVWM2ZFhkYXZnQWtDRkNtenNqODlwR1psT0JpNEdYZFFkeEtxNnZOeHh4eTdyRWUzYld6eDNId3BjYUVweExsYVpCREd2czlTaDlQcTM5ZlpyRmR5aFFPa3NmMzgtZlE?oc=5",
-        "date": "17 sep 2026",
+        "title": "Chivas, América, Cruz Azul y Pumas van a jugar el mismo día en la jornada 9 - esto",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUloVEQwVEJuQ3o2R3pxRzFSdEdfMXNXWmpseXJwVS1oWGxFb2dGVm1lbzlBdlQ5YXgxUFBYSG8ySmJ6d0NEV0RtWDBxbjJ2N3UycTQ4Nng5Q1dyMFlTZVVhZW1xWWtwVWpQWnpzakw0b1phdkFCNlJ3QkhONXJMY2djYUZXYUMtSDdUUWNJTE9vTlNmRGRSWWlrV3dDaFBjQnQ3X2ZaWWZtYl9TTzJNSk54Tks?oc=5",
+        "date": "18 sep 2026",
         "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
-        "_pub_raw": "Thu, 17 Sep 2026 08:58:11 GMT"
+        "_pub_raw": "Fri, 18 Sep 2026 00:44:35 GMT"
       },
       {
-        "title": "Chivas será dura prueba para América tras caer ante Cruz Azul",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXVBMGxPcWZsc3ZiSFJoNkNCLUt2SUEtT0IxZFlzdlkwRnQwV1p0ZFc3MkJ2aVlvZkFFOVhUeW5ldnF3emhZcDRzNEMzSzJzN3BGZHYxOWZVa1poTTdBRVdkb3ZVT3VMMnhBM29uaVBQTHNMV2VVU055QVBLYW0xNXJhRzk0M2ZfSXhaWXFpZi1VOVRzTEFDa0tpTUpBRS1RLUVBN3RHWmdmVE1ta3BLQlliT0RHWGE3dEVvNVdYcmJHRzhMLU9XYmhGSzhHQW0xbWtsSkpmZ1fSAdsBQVVfeXFMTTlQd0lFVm5kdXV3bUk5OFNmeHBFM1lUaDFDVGVpUnpzOExKdVdVNE9OMmp5SGM5VkliMlpad1hQYVFZaHNIZEMtOWxnOHFHVFZtQWVDUU9oMG9meTRiS2lqcmszWnRuNTA3ZWw4ZnZGZkdwbU5tZkRFdS1MMmd3VUs1cld0OVE3aTNaV3pBWkJ0ZHB0ZjRhNjdDNW5xVmxSLTFKS1Zaa2daTXpjSGdXemF0dXF1VFNzQVhtb2IxSjdHV1UyeTJUNDdoNms3YjZGUkRDTkg1STR0cWdz?oc=5",
+        "title": "Liga MX: lo que se juegan América, Chivas, Cruz Azul y Pumas en 90 minutos",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWxfcHpiX0dHMkhzcWNXaHFlREtTYnhPWmx1YjhxZHI0Z011a1RKd0pQaW9DcW10M0FPWWR2R1hfdDZrTmJEVWg2RHYzdVRGdGM4RXFlVFIxRlJBZTRzQ3ZQdk05NmJYV05rRFBiLTA4Tk8yZGZvZ0llMUZzRXdQaktkOHYxSXVzYkkwR3JpUEhNVWlkWjlVTkpiWWRzT2FxVTFTNEhR?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1707798178440-84403072d249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjaGl2YXMlMjBzZXIlQzMlQTElMjBkdXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTY3Mzc4NXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 17 Sep 2026 17:38:52 GMT"
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsaWdhJTIwanVlZ2FuJTIwYW0lQzMlQTlyaWNhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTcwMzAwOHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 21:02:42 GMT"
       },
       {
-        "title": "¿Quién ha ganado más veces el Clásico Chivas vs América y cómo nació la mayor rivalidad del fútbol mexicano?",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWxSMV9lX01hazdOM2R3N2lVcElRSUZodE4xSzh0ald0c2lZdFZncDE1Mm5lWS1fRE1NejM5LW9mUzFWc0x0YndOSFU2T0NRWVJOTkhyWnVDVV9ONDRlcXFKSXRfdFFXTFZLRUdSNXlzS0h5cXZBc0lqZlpERTVBeFZGdmZLWGVYT2xVUVNicTRlc1hfSU44VGNITUdmbS03NUptakNjYXZ2WTJ4NlBidUQzcnYxREtZdG1ucVFjazQ3OHpkU0dVb3RranTSAcwBQVVfeXFMUG43aW1HeXU2ZTNGYk9XazVSY2dvRVlPTkd6d25vRFRtSEliUXk2Y2V6SU9qbVpLS21yalVaaUxTY2t1Y19aVDNPd3pwOTRkQ0ZOSDN3QVJhTEhnYWlXTnZmRXRwNWJNQXhwUXRIQVNBcDJEZG04QXZDbXptLXp3cUZNUnVzamxyYmhoNU9SbUttd3U0MHdVT2NucHRrbnlkY2Z5c3htOVVmMDhDenVjRldTdTNMVy1uVWltUnQtSEU0am05RnY3M0JfaHF5?oc=5",
+        "title": "América vs Chivas: Cuándo y dónde ver EN VIVO el Clásico Nacional",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEdvdU5DSGhTRkxadFVDYmRtdmZ4dDJ6Y1hpakdZcG8yRDRvLWxsSEI0MU12Y0p5Zl9tRjdWNFpSdmM2NDFVLWE3azMxelNpX0FWU0g5N3R6RjZZZnhUMko5M1o2YkNiZnhMUlkyb2tkQWthVHVabVZXeEtuTVh2VkFNbWo2aU44cmEyZ0Q5NThOamFhR0hVTjA3bmI3QXpJdmlEaGZQaEpaWUJDSGpWWGJGck9WUdIBygFBVV95cUxPRHdJWTZMWWEwdWNlY240dzBrS3Q2anhMRTl2ODZNMFUxbEIwWGpSckoydGN1UVNnVmVDQWpJdGhuRmxwVzZVbDhoVkxTV3FseE50TDdqTG9jNXVOSVRwODd2WTh0VUtjVXZ0eGstM2ppUnZqeFNoZmhJVkd0WHhXM3k2Vm05a0RsN0R5MTZLLW13d29kaks0MDk2RUpBU0J0REkxb0pSSmxYMjZRYUtqZXBhSVlCbFJ3Sy1HVFNWU3RCZGVzenRpYzRB?oc=5",
+        "date": "18 sep 2026",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Fri, 18 Sep 2026 01:16:02 GMT"
+      },
+      {
+        "title": "América arrastra una racha de siete clásicos sin ganar y buscará romperla ante Chivas",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMkdKcFQ4UlBRZVYwYldzOXdJdm92WlMxM1RHeTMtTnk1eFl2bjNmUjdnbEd0eTVmRG0zWHlpOUNPQ3VzdTFnZkpIVFUzeWx2eWdxaVBXM044US1GQS1qN09CWG9EdTFUSElva1kzSGNBNURWNE1PQU1LdTNNc3BtUjItYmw2bzAyYjlHaGNOR2xsS1NKeEJaZkQtSFBNeVhjVGRlM0Vzd01JRXNGWVRRUFdkdUlRelZNeV93RUQzUHBXdHNmQm50UWg4WmJNTWN4Zm1Oc0J30gHbAUFVX3lxTFBSdi1XVGZTYzk3blg1S2trRHN2SF94T2tOZUJhUWpVZWFoZlM4VGF5RWVnTklfWC1nLTRjUmlIQ0tjNFQ2ejVVeXdxN2Q1M292ckpYQ2xSdFVab3NpUWZyV2xnSU1pR1NkbEdwMXFiaHV0NTNyZ1B0R3U4clAtUEJfU2ZCNnJiWldHSXZoT3lmbzdKS2V3NHV4T3c5ZDNqbXRtT2w5YWt4THI3Z0VXdDYtTmVELVF1c0dQTFVnN3dlcnpaVmRQTzk0eGJualFuQndXWUxJemZ6bGVzTQ?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxxdWklQzMlQTluJTIwZ2FuYWRvJTIwdmVjZXMlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg5NjczNzg3fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 17 Sep 2026 14:15:59 GMT"
+        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxhbSVDMyVBOXJpY2ElMjBhcnJhc3RyYSUyMHJhY2hhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTcwMzAxMXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 23:46:31 GMT"
       },
       {
-        "title": "La IA ya tiene su pronóstico para el Clásico Nacional entre América y Chivas",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWJ1Nnc0ZkpYN0RjOUFvT2czM05MMzR0d2w3QlE1TzRrR1djbUw2NmU5UU8tOFBmOXU0b1lFNmNiN1d0OFBYbVBHbjZhV2FTdElVQTNjYlFoNFk1VWlpYU1SQWFESUtPeXdibnVfdnZvLTZXTWZrVkJIR1Voc29WaVJfSi0tS3FIWV9Jb21TSmp5ZDNGeUNrUngzZC1GbnQzbTZDcXFOZVZoZ9IBrwFBVV95cUxOZlZWZVo5eE92UWFCYmJXMHZRcjRDeVN2VFNYdUs2aXJKNVNuVUtIV3dpdWNFUXBBNHlqa19qX2RCSFR6ckpHcFVlUDQxQmdDbDdvQ09JVDBmQnV4SHpmdnVfcEFtWVBTVVFnczktNmlUZWNrT0tLVFJDU0VRcWNTYVJRdThtZFg4bm9VU0xrcG5JSFR5OEl4bC1BbkY3RTVjaXZkX1JrbFM0aVdIbzI0?oc=5",
+        "title": "Brian Rodríguez advierte a Chivas en su visita al América y también deja claro mensaje a Cruz Azul",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRVkydlFCREx6cEhrc2otYk96OExxTzZwZ0M1Zm03ZExDVWN2em9QeFhLWm9jMm4xdUhsWGRELUVIZE54Q3RyM2VFWjAtMUwzcjNKNG8xMmxwM055VWYwLWU3RWdITGltVUJLVXhmVXNDeWxuSjREQWJuYkplSlViZDFtd0NYczdqRWI5OGowM3lERExXYk9oSzJPWU9qcHRoQ012U1hfQUhPaDJNNEl1T0twUUR3SjdTanpXRkcwQVJ4ZVVydmkwNm5Od1ZpMDJjZjZBN0xR0gHWAUFVX3lxTE05ek5BczhHRDRJNmYzVUFKU09OX1N5VkxoXzlZYXh6TENMZXYtNlJHZTRoS0J2cUZCb01FdFdZcmNGTjdsUjZqUlk4N0FCcDZWUkxaQmtpZk44aEdKVVU3Njd3UTJzT2U0S3VwdTlOdlZOcGVhZy1CWGJ6ck5TdDJCNTVoVHUxbVVQTVRkU1NsQUQwbURJMHdnb0JaX19tWi00cjJQVW83RzJWcVNWS0FOazRRWC1USjFodUFoWUZpTXdrdk1CWkhVeFRhUGdiSXFKTENEZFE?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx0aWVuZSUyMHByb24lQzMlQjNzdGljbyUyMGNsJUMzJUExc2ljbyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODk2NzM3ODh8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 17 Sep 2026 15:18:04 GMT"
+        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxicmlhbiUyMHJvZHIlQzMlQURndWV6JTIwYWR2aWVydGUlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg5NzAzMDEyfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 19:07:00 GMT"
       },
       {
-        "title": "¿Antonio Carlos Santos traiciona al América rumbo al Clásico?: 'Chivas es mucho mejor equipo'",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDFKZkJnQlIzelRxV0pFQzZXZFNOdkJMQXBQamtxb1UyT19BNlAwQktrakhVd0dhTmFSNFE4RWhoeS1GeVdvdzlwVTNqYjVXTWd5cHlDejUwaTZsQTlnOHRLU1QxeGswd2laSnRtT0pIR2pJU1F4QV96TnlqTUV5Q3dxSDhvVXdXUTJqU19QdnJVWHFid0dwQ1FoR1MtS3RJUFlwQkwwLW01RWFnajBUT2xoaTBrSEppTFHSAboBQVVfeXFMTmgxSmZCZ0JSM3pUcVdKRUM2V2RTTnZCTEFwUGprcW9VMk9fQTZQMEJLa2pIVXdHYU5hUjRROEVoaHktRnlXb3c5cFUzamI1V01neXB5Q3o1MGk2bEE5Zzh0S1NUMXhrMHdpWkp0bU9KSEdqSVNReEFfek55ak1FeUN3cUg4b1V3V1EyalNfUHZyVVhxYndHcENRaEdTLUt0SVBZcEJMMC1tNUVhZ2owVE9saGkwa0hKaUxR?oc=5",
-        "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Wed, 16 Sep 2026 23:37:00 GMT"
+        "title": "Rayados y su sufrimiento ante Cruz Azul",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMklNTXF6d0lkY2N0QnpIUmJmSkw4UUJ4RjF3SUJyMko2RTlpMkdEUFcwczEyekwtUFBFMjQ1Qi1RZlRHSjhWSWNWTVpJLUJ6a0poekYyampjZUxWMVplV19RZHNZbUpVWGpYdDZvdl9NcWdvYTlmdHpvaGR5V2pmNDJRYldTdXRRNUtrUU1xS3FrWS1xcENWVXEyY9IBrwFBVV95cUxNaG1iRktOREFpcFAtRmIwX1NGVlpOWnJZNkVEWmxvYkNDYVltbFhmZjA4R0dCTnVKeUdvRUpIT29acWNHaFQ1T0JBSG56Tm5vU2J3LWVpWmVSbktXZUJmbmhucUd4aUp2LUxuaHo4OVpVODNpQlFFMTRCaWhqenhFU1BXaU5ZTG5vdjBkazBhMHptS3ZtdTVFSWtOalJ3ckhISDJLQlVYVWtEdXJqd2xr?oc=5",
+        "date": "17 sep 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxyYXlhZG9zJTIwc3VmcmltaWVudG8lMjBhbnRlJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTcwMzAxM3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 22:16:47 GMT"
       },
       {
-        "title": "América vs Chivas: fecha, hora y favorito del Clásico de Clásicos del futbol mexicano",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcERkNmo1ZU1TM2R3eWxyRm0wTDRYdV9yNGZEcFBTd3VmdnNXc2R3Skh0aDRjVktBcHpMODRqbXdaWnBOaWpZQUVKMHJaRFJzalFTbnh5NnRYZEdLOElBUnNva2RVMzkzalM2WEQtV2lHa0Nvd3pBNFdaWldDaE13SzN1SjBrSHNBQXlqUDVNNmFhc0xJMDQ3QkpEMkYyVFNWVnU0WVZ6QnJmQQ?oc=5",
-        "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
-        "_pub_raw": "Wed, 16 Sep 2026 12:45:00 GMT"
+        "title": "Ángel Sepulveda enciende el Clásico del futbol mexicano y tira dardo al América: “Vamos de visita y parece que somos locales”",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORy0ySGtpVnZVb0xXUWhkNjhuZHRTQ0EwZV9uNE9hSUowdnV4dEFCYUdZdEtkbE9ySlZrV3ZRWUtNZTVOUDhSRGdySzg3aWJmb3RwQ3dKRjhIY0p1RGQ0c3pHRGJ2emNMamRUYWNQaGFnYVY0YWxGb2JkMTVkUWRUdkxEUE5rcGliWXFWNlJEQzRqa0thRl9tNV9VRUFZODRjWkxROFFJZW5nUjk0SEFKM0xJWWFVeTNmaWx4dFRKUGpDazNpUnQ0VWtmaExrZXFiZnJ5LUVCUzByZ1ZCV2VjSnpydTRObHFyaWVtbjNfNi1mbllUOEI0OG5xQk1QNmU3TlFWVdIBnwJBVV95cUxOTFVtYjgtekFLdEYwcDhGd1ptdXFNR0g5dXFxMk5tYmlxa2RkTUk4TFZ3QUdmUkRnVkxfcGw0NHhMN0djNV9FLWJyN25qSXBRTHI0cFRmdG9fV1U2cHlmLUJGMTFnODBNYy0zV3JmRWRoZGd6NXpiYkp4MEoyZ2VhNDdzTm1KS2V6LXNldnJTVHNpQnFUVVRaRWtZNzh0c21FUmRRa2N3ZjRsQkNuU295WmQzOUJYc2taZ21XNFhmeGkybVBaWVVBRUlRMlJpR0lGZHlwM1JxdUFOMW9IMG9JMjlVWkJsSXdZajhOYU1SUGlnMWRpWms4a0RDdmQ3enRENEpxSUpFWWt4NUNYQlZtWk54dmdwV0JyeE5Eb1hWcw?oc=5",
+        "date": "17 sep 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHwlQzMlQTFuZ2VsJTIwc2VwdWx2ZWRhJTIwZW5jaWVuZGUlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzg5NzAzMDE0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 22:36:44 GMT"
+      },
+      {
+        "title": "Liga MX: Horarios y transmisiones del Clásico Nacional y los partidos de la Jornada 9",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2lIT0hrcUljdFNMQy1ScUcwQ1NCc1pYV05FcU9HT2g0cWdVYU56ZFRBcjI4UV9CMHdHWXZabEE4eFFKWGRaeEN0RVZzY2JEckJsaUVrcVFrZkx6UkY5dmdHX1k1aV9saHY0aDlsamVXSG1QVUV6MlpDTFE1dVZzMzBPM1U1S0FfaW5oYlUwUG1QcF8tcUlRMDNFTm5ES1NCZ3ExNm9aaEQzd0NhS3VuQVF1YVNGb0hNdjRn?oc=5",
+        "date": "18 sep 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwaG9yYXJpb3MlMjB0cmFuc21pc2lvbmVzJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTcwMzAxNXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 18 Sep 2026 01:00:27 GMT"
+      },
+      {
+        "title": "Rafael Márquez presenta su primera convocatoria con México",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeThVbHhnSlNfUGZaMHhDazkyRUpCNUxWYjFyOEMzQzNUTklzejRaa1A1Z0F5cHFnVVd4RmxucHFtX21RZWd0MWJxdkRmV1NPWEtzVlpxRk1JUW02M1BGVFZBSUJCZ1JjNVhDZUMwSUpvUVItMnk1andua0VtOWVYVXZhd01sS0o0OUgtbnJ4Tk04XzVKazZXdnBlaGlZQXdUdWNXaWVGajBWaW1ZYl9jZzVxSWFLb3c?oc=5",
+        "date": "18 sep 2026",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Fri, 18 Sep 2026 00:39:09 GMT"
+      },
+      {
+        "title": "¡OFICIAL! Con algunas sorpresas y continuidad, así la primera lista de Rafa Márquez",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGg0aU44WHdweFBLdEstM0VKbzFkamYxRGVTcGhlV2pFRXc1bHhPZndrelEtVi1JZFlaRjY2di1ZUmpaMWtpNW1mZEhvaWctU25Ob29jOW1pX2pfdUNmd1ZHQkMxck1QSU5xSVZOYkFDc1ZTVHNMYzB5TjFQN1Q4Ym93dTU4R2o1OWJxdDZKYzhldEVBM0d5NGxLNHh6cERwMXc3djRLN01RczljSWtQakJSSlNkazhCSWhJbkRIUF82WkxUQ2E4RGhn0gHKAUFVX3lxTE9UbGkwUUM0clktMS1CNWRmN0RKaTFMVVNTcDduXzBHb1NpRzcyXzV6X0ZLaDJTY2VnQ3p2TVM2OV9uWHU4N1Z2SUQ5eWplMk04d3dWZGR5Yzk1MHJGMjJaZ0V4VTRjR1JZNXpVRnFWckNiY3Q5ck1VbTJwUUI4Z2hoX1FleGhjajFEdXlueVk2NVhNQy1oMW9HVTByU1R2NnRQRHlDTWZyamVPdnJmTVR2Qi1mQWlwNzA5eWw1OHBjRk9RM2kzQm9FTUE?oc=5",
+        "date": "18 sep 2026",
+        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxvZmljaWFsJTIwYWxndW5hcyUyMHNvcnByZXNhcyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODk3MDMwMTd8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 18 Sep 2026 00:09:00 GMT"
       },
       {
         "title": "Sin Raúl, ni Quiñones: los probables convocados de Rafa Márquez en su primera lista como DT de México",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOGd1c1pIT05kRk9zUFFHRnd2Y0xJVTZIVDI1YzhKTnpXUzkwamtDUDBxYURzRVJmYXkyNHBkMFNoeTNCY3BxMXVld3dKclp3Z1VaX3dibWRvX2ZxRzQ0OWxUdjBvVVg0aUhvSlRzLXZQRmluOXpaOXVUY1MtU1ZoQkpIcWJsSzdKUlF5TFp4UUpwRkM3TlVEOFpvemJNd00yMHI0ZmRQbEE5MmR3QWpJM3lmSnNsT0ZsbmIxV2VYTHlWbXdWY3ktWXF5b1dDMFlSWEVEV3ViRmtyOUR0MEs5VVBqN2ZxemF6aFE?oc=5",
         "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyYSVDMyVCQWwlMjBxdWklQzMlQjFvbmVzJTIwcHJvYmFibGVzJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTY3Mzc5Mnww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 17 Sep 2026 15:42:15 GMT"
-      },
-      {
-        "title": "Sin Edson y con base de Chivas, así será la primera convocatoria de Rafael Márquez con la Selección Mexicana",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVW1Xa3lGTkpVNktncHBIVzlJc3lQYm81Sl9UUF9yUTAzRkVuaG0yWkZZd01DZHNXaEQ1a2IySmoyWGZ0eUJyN0hkWEpjU3hxNEtBQjF3X3hJWksySm1WTjZKb0VUbDJmSmVMcHZmajVJOGF0dUNfMVpXZHlFQUw3ZjlpbjVma2Z0LXZycktNZFpIQnVQWGJVWF9WdEpCSXEzRVgxUzg2bEtwempibU5uYlJyVTVsUUtJUV9yZHBfVjlxdjBBTjkwUENBNXRZSmdzWHI1LXpn0gHWAUFVX3lxTE9ncUhKVVpfS2kyVkx5aU1FaHJLTjJhYU4yUjRiY2dfRkE5bW15YU9LVGFPcXZzcFUtYVBHRW42SkJGT1VhbEE0YU9iOFk5TVJ3UXVaV0RobnRtRkw5bUdrS3pNVjdUc0tmeFBCd1gwcjBvMFNvd3p0T19DVkpzZ2loS1BOT2ZfSXZwSWpIY1gyQTRkYk01VDJWbU80WjVrY1pETUhONGhIRWlwbHJmQWN4Q19HOEJQcTkxZGwwUmJoV1pTcGJnZU5WcHU1T0JJdnBlNXk1ZFE?oc=5",
-        "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Wed, 16 Sep 2026 18:36:00 GMT"
-      },
-      {
-        "title": "Convocados de la selección: estos serían los 60 jugadores llamados por Rafa Márquez",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUEJTNEI0OWFEckZuMHY0M2RFQkJiazNzSFVzX2QyV3lIQnNYNjkyVDY4bnl6OVJVYnNtbGM2Y1RKbWtVM2VvOVN5cUQ2SjR6VndjbkJyYlpZaHVaMjBiRjRXUXgtRWpSTHN1SGhKZG9sa08waURWdy13NDdwelM1OWl1VzU1d0lGTkhSZC1CU1FvNkc0V29YbmNTSzJqOXotNjdKRVM1UVJYZGZkVF9yTU9KaGo3R0I1YmJ6VmdINDdtXzA2LUdELWx3?oc=5",
-        "date": "17 sep 2026",
-        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxjb252b2NhZG9zJTIwc2VsZWNjaSVDMyVCM24lMjBlc3RvcyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3ODk2NzM3OTV8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 17 Sep 2026 04:51:00 GMT"
-      },
-      {
-        "title": "Rafa Márquez en la Selección mexicana de fútbol masculina: Cuándo debuta, contra quién y dónde",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTJtWkpBc0tlYUwycEhpbWp2TWZxci01TU8ydW9jYlNhclNsNnpIXzUwWkwwVVhod2FfRVgwcVdEcXZDQ1pDcWFCM0xoSEg5cGZEUU51MFIydzlhWHRaY1Nlc0VTdUNNTFFEVUVYSGV2ZHZfM0h6eFoyTHRsNlJPQ3FMeWFiLVpncWEzZFp3?oc=5",
-        "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
-        "_pub_raw": "Wed, 16 Sep 2026 00:03:00 GMT"
-      },
-      {
-        "title": "Rafa Márquez y los 60 elegidos para su proceso con Selección Mexicana",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYm9RWkw3TTVyNVBjZUx1eEk4dklSbU9yY2JoX3l3VzY5WDAzamRHR2NmcW82Zk1PSFVCNUdCaktzMW1lSXVWb18xOXBPYUFTY0JXWkdvWnA2LTV2cEhOeDhRcWhJbWxLc2dWMzQyQzZRRkZ1alBQTWtkb2tHRnRjT2x6MDU5YzU4SU9za0JDY0dVOUl0d1F6d0ltQ0wtanZsU3JubWM4SXVJVURoc1BITndB0gGyAUFVX3lxTE0waUI1Q2h2S2tMdUhaVFVpQmNzZGJBZFFYR2xpalprUTdoS3M0ME03TnUzemo0T2oxV3hjcTVSYjJKd2RkUTFac3k2WkV1S19jb1hLRm1CUWZjSExmRUhqOWJYQ1diVGlNZ1NCUWZiRHFHMTdsbjRaeDVWeXZJbjRvMXE2Qm10X0d4aFVYWUhRTEpJemxjOUljUEhmQkNQYThqb3A1TDBfcHRjU3lMMmViMUE?oc=5",
-        "date": "16 sep 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Wed, 16 Sep 2026 16:52:00 GMT"
+        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyYSVDMyVCQWwlMjBxdWklQzMlQjFvbmVzJTIwcHJvYmFibGVzJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc4OTcwMzAxOHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 17 Sep 2026 22:34:26 GMT"
       }
     ]
   }
