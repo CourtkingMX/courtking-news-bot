@@ -1,5 +1,5 @@
 {
-  "updated": "19/09/2026 03:39 UTC",
+  "updated": "19/09/2026 12:19 UTC",
   "sports": {
     "bk": [
       {
@@ -84,6 +84,13 @@
     ],
     "fx": [
       {
+        "vid": "QDSE0BkdzeE",
+        "title": "🔴 CA OSASUNA vs RAYO VALLECANO - PREVIA DEL PARTIDO",
+        "thumb": "https://i.ytimg.com/vi/QDSE0BkdzeE/mqdefault.jpg",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=QDSE0BkdzeE"
+      },
+      {
         "vid": "XXvdCFPPsK4",
         "title": "RCD ESPANYOL vs ELCHE CF | RUEDA DE PRENSA",
         "thumb": "https://i.ytimg.com/vi/XXvdCFPPsK4/mqdefault.jpg",
@@ -112,11 +119,11 @@
         "url": "https://www.youtube.com/watch?v=YHaMiJ2AzqE"
       },
       {
-        "vid": "5APoDt3LBI0",
-        "title": "¡DOBLETE EN TRES MINUTOS! 🤯",
-        "thumb": "https://i.ytimg.com/vi/5APoDt3LBI0/mqdefault.jpg",
-        "date": "2026-09-18",
-        "url": "https://www.youtube.com/watch?v=5APoDt3LBI0"
+        "vid": "Km98B9EAo9A",
+        "title": "Paris pressure",
+        "thumb": "https://i.ytimg.com/vi/Km98B9EAo9A/mqdefault.jpg",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=Km98B9EAo9A"
       },
       {
         "vid": "iLCaOFUjub8",
@@ -131,13 +138,6 @@
         "thumb": "https://i.ytimg.com/vi/YTe3EQscGLE/mqdefault.jpg",
         "date": "2026-09-18",
         "url": "https://www.youtube.com/watch?v=YTe3EQscGLE"
-      },
-      {
-        "vid": "ApKPcG79pv8",
-        "title": "Late Olympiacos winner!",
-        "thumb": "https://i.ytimg.com/vi/ApKPcG79pv8/mqdefault.jpg",
-        "date": "2026-09-18",
-        "url": "https://www.youtube.com/watch?v=ApKPcG79pv8"
       }
     ]
   }
