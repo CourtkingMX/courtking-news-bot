@@ -1,5 +1,5 @@
 {
-  "updated": "25/09/2026 03:56 UTC",
+  "updated": "25/09/2026 13:21 UTC",
   "sports": {
     "bk": [
       {
@@ -66,16 +66,23 @@
         "thumb": "https://i.ytimg.com/vi/2LcK_I_eAIQ/mqdefault.jpg",
         "date": "2026-09-22",
         "url": "https://www.youtube.com/watch?v=2LcK_I_eAIQ"
-      },
-      {
-        "vid": "t8ZP6vKH6CA",
-        "title": "Behind every player, there’s an inspiration ❤️ #PremierPadel",
-        "thumb": "https://i.ytimg.com/vi/t8ZP6vKH6CA/mqdefault.jpg",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=t8ZP6vKH6CA"
       }
     ],
     "fx": [
+      {
+        "vid": "qLrARmb5WqU",
+        "title": "¿La GRAN REVELACIÓN de la temporada? Así juega ZABIRI",
+        "thumb": "https://i.ytimg.com/vi/qLrARmb5WqU/mqdefault.jpg",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=qLrARmb5WqU"
+      },
+      {
+        "vid": "KfHh6NMIr-M",
+        "title": "JONATHAN DAVID suma 3 jornadas consecutivas marcando",
+        "thumb": "https://i.ytimg.com/vi/KfHh6NMIr-M/mqdefault.jpg",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=KfHh6NMIr-M"
+      },
       {
         "vid": "TYN0RV_UpRs",
         "title": "Raphinha ✨",
@@ -98,18 +105,11 @@
         "url": "https://www.youtube.com/watch?v=zCaca9OJKeY"
       },
       {
-        "vid": "llHYgVtoyMI",
-        "title": "LAMINE YAMAL y RAPHINHA: La DUPLA LETAL del FC BARCELONA",
-        "thumb": "https://i.ytimg.com/vi/llHYgVtoyMI/mqdefault.jpg",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=llHYgVtoyMI"
-      },
-      {
-        "vid": "rlZhhMeDL-w",
-        "title": "El Atleti se lleva el Derbi, Raphinha firma un hat-trick y Celta golea | JORNADA DE TRES",
-        "thumb": "https://i.ytimg.com/vi/rlZhhMeDL-w/mqdefault.jpg",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=rlZhhMeDL-w"
+        "vid": "UIvVcV0fTLk",
+        "title": "How Good Was Thierry Henry In His Prime?",
+        "thumb": "https://i.ytimg.com/vi/UIvVcV0fTLk/mqdefault_live.jpg",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=UIvVcV0fTLk"
       },
       {
         "vid": "CgbaJyZaKkI",
@@ -120,17 +120,10 @@
       },
       {
         "vid": "yIw_AYUq4Fs",
-        "title": "Netherlands v Germany | Classic Nations League Goals",
+        "title": "Netherlands v Germany | Classic Nations League Highlights",
         "thumb": "https://i.ytimg.com/vi/yIw_AYUq4Fs/mqdefault.jpg",
         "date": "2026-09-24",
         "url": "https://www.youtube.com/watch?v=yIw_AYUq4Fs"
-      },
-      {
-        "vid": "ljzaH3ho6Ss",
-        "title": "Brazil – Canada: UEFA Friendship Cup 2026 ¦ Group B ¦ Match 03",
-        "thumb": "https://i.ytimg.com/vi/ljzaH3ho6Ss/mqdefault.jpg",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=ljzaH3ho6Ss"
       }
     ]
   }
