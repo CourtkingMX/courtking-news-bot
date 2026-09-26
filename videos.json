@@ -1,7 +1,21 @@
 {
-  "updated": "25/09/2026 19:53 UTC",
+  "updated": "26/09/2026 04:00 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "ASt1vh8jno0",
+        "title": "The Smartest Plays of the Year",
+        "thumb": "https://i.ytimg.com/vi/ASt1vh8jno0/mqdefault.jpg",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=ASt1vh8jno0"
+      },
+      {
+        "vid": "51E4fTswOG4",
+        "title": "It&#39;s like picture day! 📸 Year 4 for Lively",
+        "thumb": "https://i.ytimg.com/vi/51E4fTswOG4/mqdefault.jpg",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=51E4fTswOG4"
+      },
       {
         "vid": "Fui5mYn3QtQ",
         "title": "The Dallas Mavericks 2026-27 Media Day Press Conference",
@@ -22,20 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/amggffaTvyw/mqdefault.jpg",
         "date": "2026-09-25",
         "url": "https://www.youtube.com/watch?v=amggffaTvyw"
-      },
-      {
-        "vid": "137TrOvxSj0",
-        "title": "&quot;Building a winning culture is going to be important&quot; Cooper Flagg&#39;s 2026 Media Day Press Conference",
-        "thumb": "https://i.ytimg.com/vi/137TrOvxSj0/mqdefault.jpg",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=137TrOvxSj0"
-      },
-      {
-        "vid": "r-YMVdPbD_s",
-        "title": "Daniel Gafford on the decision to cut his hair",
-        "thumb": "https://i.ytimg.com/vi/r-YMVdPbD_s/mqdefault.jpg",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=r-YMVdPbD_s"
       },
       {
         "vid": "E11LUBVPAjU",
@@ -59,16 +59,15 @@
         "url": "https://www.youtube.com/watch?v=YH6a3l_Z0bo"
       }
     ],
-    "pd": [
-      {
-        "vid": "2LcK_I_eAIQ",
-        "title": "Welcome to the Class of ’26. Varsity collection out now 🔥🎓#PremierPadel",
-        "thumb": "https://i.ytimg.com/vi/2LcK_I_eAIQ/mqdefault.jpg",
-        "date": "2026-09-22",
-        "url": "https://www.youtube.com/watch?v=2LcK_I_eAIQ"
-      }
-    ],
+    "pd": [],
     "fx": [
+      {
+        "vid": "W87QFhGt75w",
+        "title": "Kang-In Lee 🌟",
+        "thumb": "https://i.ytimg.com/vi/W87QFhGt75w/mqdefault.jpg",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=W87QFhGt75w"
+      },
       {
         "vid": "GI01wNBjDq8",
         "title": "MBAPPÉ y VINICIUS 🤍",
@@ -96,13 +95,6 @@
         "thumb": "https://i.ytimg.com/vi/KfHh6NMIr-M/mqdefault.jpg",
         "date": "2026-09-25",
         "url": "https://www.youtube.com/watch?v=KfHh6NMIr-M"
-      },
-      {
-        "vid": "TYN0RV_UpRs",
-        "title": "Raphinha ✨",
-        "thumb": "https://i.ytimg.com/vi/TYN0RV_UpRs/mqdefault.jpg",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=TYN0RV_UpRs"
       },
       {
         "vid": "UIvVcV0fTLk",
