@@ -1,5 +1,5 @@
 {
-  "updated": "26/09/2026 04:00 UTC",
+  "updated": "26/09/2026 12:43 UTC",
   "sports": {
     "bk": [
       {
@@ -59,8 +59,51 @@
         "url": "https://www.youtube.com/watch?v=YH6a3l_Z0bo"
       }
     ],
-    "pd": [],
+    "pd": [
+      {
+        "vid": "2LcK_I_eAIQ",
+        "title": "Welcome to the Class of ’26. Varsity collection out now 🔥🎓#PremierPadel",
+        "thumb": "https://i3.ytimg.com/vi/2LcK_I_eAIQ/hqdefault.jpg",
+        "date": "2026-09-22",
+        "url": "https://www.youtube.com/watch?v=2LcK_I_eAIQ"
+      },
+      {
+        "vid": "t8ZP6vKH6CA",
+        "title": "Behind every player, there’s an inspiration ❤️ #PremierPadel",
+        "thumb": "https://i1.ytimg.com/vi/t8ZP6vKH6CA/hqdefault.jpg",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=t8ZP6vKH6CA"
+      },
+      {
+        "vid": "s2XmPYpZmyQ",
+        "title": "Doors closing, 𝙘𝙝𝙖𝙢𝙥𝙞𝙤𝙣𝙨 still posing 👑🎻",
+        "thumb": "https://i4.ytimg.com/vi/s2XmPYpZmyQ/hqdefault.jpg",
+        "date": "2026-09-21",
+        "url": "https://www.youtube.com/watch?v=s2XmPYpZmyQ"
+      },
+      {
+        "vid": "DtmI7G7eAWc",
+        "title": "A competition day in the life of Franco Stupaczuk⚡️#PremierPadel #WHOOP #DayInTheLife",
+        "thumb": "https://i1.ytimg.com/vi/DtmI7G7eAWc/hqdefault.jpg",
+        "date": "2026-09-20",
+        "url": "https://www.youtube.com/watch?v=DtmI7G7eAWc"
+      },
+      {
+        "vid": "RHqqxF45mtE",
+        "title": "Guess this is what happens when your playlist is on shuffle mode 🔀😂#PremierPadel",
+        "thumb": "https://i3.ytimg.com/vi/RHqqxF45mtE/hqdefault.jpg",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=RHqqxF45mtE"
+      }
+    ],
     "fx": [
+      {
+        "vid": "yczVsYUmP2o",
+        "title": "Los MEJORES PARADAS en LALIGA 2026/27 hasta AHORA",
+        "thumb": "https://i.ytimg.com/vi/yczVsYUmP2o/mqdefault.jpg",
+        "date": "2026-09-26",
+        "url": "https://www.youtube.com/watch?v=yczVsYUmP2o"
+      },
       {
         "vid": "W87QFhGt75w",
         "title": "Kang-In Lee 🌟",
@@ -90,11 +133,11 @@
         "url": "https://www.youtube.com/watch?v=qLrARmb5WqU"
       },
       {
-        "vid": "KfHh6NMIr-M",
-        "title": "JONATHAN DAVID suma 3 jornadas consecutivas marcando",
-        "thumb": "https://i.ytimg.com/vi/KfHh6NMIr-M/mqdefault.jpg",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=KfHh6NMIr-M"
+        "vid": "WeDBs77JQbs",
+        "title": "Lamine Yamal’s quality on show",
+        "thumb": "https://i.ytimg.com/vi/WeDBs77JQbs/mqdefault.jpg",
+        "date": "2026-09-26",
+        "url": "https://www.youtube.com/watch?v=WeDBs77JQbs"
       },
       {
         "vid": "UIvVcV0fTLk",
@@ -109,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/CgbaJyZaKkI/mqdefault.jpg",
         "date": "2026-09-24",
         "url": "https://www.youtube.com/watch?v=CgbaJyZaKkI"
-      },
-      {
-        "vid": "yIw_AYUq4Fs",
-        "title": "Netherlands v Germany | Classic Nations League Highlights",
-        "thumb": "https://i.ytimg.com/vi/yIw_AYUq4Fs/mqdefault.jpg",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=yIw_AYUq4Fs"
       }
     ]
   }
