@@ -1,5 +1,5 @@
 {
-  "updated": "27/09/2026 13:36 UTC",
+  "updated": "27/09/2026 19:36 UTC",
   "sports": {
     "bk": [
       {
@@ -50,13 +50,6 @@
         "thumb": "https://i.ytimg.com/vi/E11LUBVPAjU/mqdefault.jpg",
         "date": "2026-09-24",
         "url": "https://www.youtube.com/watch?v=E11LUBVPAjU"
-      },
-      {
-        "vid": "aYGZnwF4cW4",
-        "title": "JJ Redick On Luka, Reaves, Kessler, New Team Chemistry | Sep 24, 2026",
-        "thumb": "https://i.ytimg.com/vi/aYGZnwF4cW4/mqdefault.jpg",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=aYGZnwF4cW4"
       }
     ],
     "pd": [
@@ -76,6 +69,13 @@
       }
     ],
     "fx": [
+      {
+        "vid": "X2B6nYYOb1g",
+        "title": "New chapter of Goalitos LALIGA",
+        "thumb": "https://i.ytimg.com/vi/X2B6nYYOb1g/mqdefault.jpg",
+        "date": "2026-09-27",
+        "url": "https://www.youtube.com/watch?v=X2B6nYYOb1g"
+      },
       {
         "vid": "sPWL3dh5Ilg",
         "title": "Un GOL de MBAPPÉ a CADA EQUIPO en LALIGA EA SPORTS",
@@ -105,32 +105,25 @@
         "url": "https://www.youtube.com/watch?v=W87QFhGt75w"
       },
       {
-        "vid": "GI01wNBjDq8",
-        "title": "MBAPPÉ y VINICIUS 🤍",
-        "thumb": "https://i.ytimg.com/vi/GI01wNBjDq8/mqdefault.jpg",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=GI01wNBjDq8"
+        "vid": "o247agfZ8lg",
+        "title": "Spain – Brazil: UEFA Friendship Cup 2026 ¦ Group B ¦ Match 08",
+        "thumb": "https://i.ytimg.com/vi/o247agfZ8lg/mqdefault.jpg",
+        "date": "2026-09-27",
+        "url": "https://www.youtube.com/watch?v=o247agfZ8lg"
       },
       {
-        "vid": "owzK_TrOpQo",
-        "title": "Canada – Côte d’Ivoire: UEFA Friendship Cup 2026 ¦ Group B ¦ Match 06",
-        "thumb": "https://i.ytimg.com/vi/owzK_TrOpQo/mqdefault.jpg",
+        "vid": "kY_8W16DTOk",
+        "title": "Egypt – England: UEFA Friendship Cup 2026 ¦ Group A ¦ Match 07",
+        "thumb": "https://i.ytimg.com/vi/kY_8W16DTOk/mqdefault.jpg",
         "date": "2026-09-27",
-        "url": "https://www.youtube.com/watch?v=owzK_TrOpQo"
+        "url": "https://www.youtube.com/watch?v=kY_8W16DTOk"
       },
       {
-        "vid": "_ET_wrG8-_I",
-        "title": "Colombia – Korea Republic: UEFA Friendship Cup 2026 ¦ Group A ¦ Match 05",
-        "thumb": "https://i.ytimg.com/vi/_ET_wrG8-_I/mqdefault.jpg",
+        "vid": "TNfLTiPhOXo",
+        "title": "Sensational football!",
+        "thumb": "https://i.ytimg.com/vi/TNfLTiPhOXo/mqdefault.jpg",
         "date": "2026-09-27",
-        "url": "https://www.youtube.com/watch?v=_ET_wrG8-_I"
-      },
-      {
-        "vid": "X_M5wwbh08Y",
-        "title": "Passing with purpose",
-        "thumb": "https://i.ytimg.com/vi/X_M5wwbh08Y/mqdefault.jpg",
-        "date": "2026-09-27",
-        "url": "https://www.youtube.com/watch?v=X_M5wwbh08Y"
+        "url": "https://www.youtube.com/watch?v=TNfLTiPhOXo"
       }
     ]
   }
