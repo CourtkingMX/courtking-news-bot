@@ -1,5 +1,5 @@
 {
-  "updated": "03/10/2026 04:17 UTC",
+  "updated": "03/10/2026 13:07 UTC",
   "sports": {
     "bk": [
       {
@@ -38,13 +38,6 @@
         "url": "https://www.youtube.com/watch?v=vO0qtRYFfG4"
       },
       {
-        "vid": "fx4cSLrV0_U",
-        "title": "Steph Goes 17/17 From Deep | Self Oop Dunk | Post Practice Interview 🐐",
-        "thumb": "https://i.ytimg.com/vi/fx4cSLrV0_U/mqdefault.jpg",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=fx4cSLrV0_U"
-      },
-      {
         "vid": "TCpAw0mVlJw",
         "title": "Bronny On Splitting From LeBron, His Mindset Heading Into This Season 👀",
         "thumb": "https://i.ytimg.com/vi/TCpAw0mVlJw/mqdefault.jpg",
@@ -57,6 +50,13 @@
         "thumb": "https://i.ytimg.com/vi/ipcPY1XRT2A/mqdefault.jpg",
         "date": "2026-09-28",
         "url": "https://www.youtube.com/watch?v=ipcPY1XRT2A"
+      },
+      {
+        "vid": "2owZS50qkhg",
+        "title": "Austin Reaves Full 2026 Media Day Interview | Sep 28, 2026",
+        "thumb": "https://i.ytimg.com/vi/2owZS50qkhg/mqdefault.jpg",
+        "date": "2026-09-28",
+        "url": "https://www.youtube.com/watch?v=2owZS50qkhg"
       }
     ],
     "pd": [
@@ -98,6 +98,20 @@
     ],
     "fx": [
       {
+        "vid": "4ixYV99gPbg",
+        "title": "Piedra, papel o tijera con La Masía en LALIGA FC FUTURES",
+        "thumb": "https://i.ytimg.com/vi/4ixYV99gPbg/mqdefault.jpg",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=4ixYV99gPbg"
+      },
+      {
+        "vid": "O62e5FIz14o",
+        "title": "Un caño con mucha clase 🪄",
+        "thumb": "https://i.ytimg.com/vi/O62e5FIz14o/mqdefault.jpg",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=O62e5FIz14o"
+      },
+      {
         "vid": "CxcCKz2bqBY",
         "title": "Salvada en línea de gol del Real Betis",
         "thumb": "https://i.ytimg.com/vi/CxcCKz2bqBY/mqdefault.jpg",
@@ -119,39 +133,25 @@
         "url": "https://www.youtube.com/watch?v=f9Mi-LHWRWY"
       },
       {
-        "vid": "19hIHYZJLQo",
-        "title": "LALIGA FC FUTURES | FASE DE GRUPOS - X TORNEO INTERNACIONAL",
-        "thumb": "https://i.ytimg.com/vi/19hIHYZJLQo/mqdefault.jpg",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=19hIHYZJLQo"
+        "vid": "JFnAAd68M6g",
+        "title": "Colombia - Brazil: UEFA Friendship Cup 2026 ¦ 3rd-4th Place ¦ Match 15",
+        "thumb": "https://i.ytimg.com/vi/JFnAAd68M6g/mqdefault.jpg",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=JFnAAd68M6g"
       },
       {
-        "vid": "zpm3E8gkpc8",
-        "title": "A Day with a Professional Footballer: Orel Mangala",
-        "thumb": "https://i.ytimg.com/vi/zpm3E8gkpc8/mqdefault.jpg",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=zpm3E8gkpc8"
+        "vid": "mmOcGHs8nKk",
+        "title": "Korea Republic - Côte d&#39;Ivoire: UEFA Friendship Cup 2026 ¦ 7th-8th Place ¦ Match 13",
+        "thumb": "https://i.ytimg.com/vi/mmOcGHs8nKk/mqdefault.jpg",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=mmOcGHs8nKk"
       },
       {
-        "vid": "pXHs-4ERnAY",
-        "title": "Kingsley Coman into an empty net",
-        "thumb": "https://i.ytimg.com/vi/pXHs-4ERnAY/mqdefault.jpg",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=pXHs-4ERnAY"
-      },
-      {
-        "vid": "WUGgn03bSTY",
-        "title": "EVERY Women&#39;s Champions League Goal From Matchday 2 | Highlights",
-        "thumb": "https://i.ytimg.com/vi/WUGgn03bSTY/mqdefault.jpg",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=WUGgn03bSTY"
-      },
-      {
-        "vid": "_RKpismpZtc",
-        "title": "The many faces of the UEFA Champions League 🤪",
-        "thumb": "https://i.ytimg.com/vi/_RKpismpZtc/mqdefault.jpg",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=_RKpismpZtc"
+        "vid": "3MQMT-QbTtE",
+        "title": "Incredible strike! 🤯",
+        "thumb": "https://i.ytimg.com/vi/3MQMT-QbTtE/mqdefault.jpg",
+        "date": "2026-10-03",
+        "url": "https://www.youtube.com/watch?v=3MQMT-QbTtE"
       }
     ]
   }
