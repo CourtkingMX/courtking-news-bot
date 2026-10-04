@@ -1,62 +1,83 @@
 {
-  "updated": "04/10/2026 13:47 UTC",
+  "updated": "04/10/2026 19:16 UTC",
   "sports": {
     "bk": [
       {
         "title": "NBA: Resultados en Vivo y Calendario de Básquetbol",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xV29XaDdLR2FXblN1SjJyakVadlhuY0FWeHFkMXNDNEwxQjRwUWV1TWxDY3BqZm9RRVdiZzV4eTVwNW9FMjZSVVhVU3ZlMDZJanR4NXQ0aHAwcGxpbUZXVUZlYkM3WjQ3?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1576683564128-e4f3a22f231a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxyZXN1bHRhZG9zJTIwdml2byUyMGNhbGVuZGFyaW8lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTExMjE2Mzd8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1576683564128-e4f3a22f231a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxyZXN1bHRhZG9zJTIwdml2byUyMGNhbGVuZGFyaW8lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTExNDE0MjB8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 03:01:23 GMT"
       },
       {
         "title": "Euroliga: Resultados en vivo, partidos y tablas",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBodnh3Z0pVV00xWE9DOHBSeDBfNGZMMlZrOHo2Z21Bd0V1SE5yel9WbVZsWDBvaW1saTdHVE1pRFlhU0xFWnJmcm5HWHpHT2RtQ1Z2X2pxS1h5RURUXzVqUEZNX3JuOWRITXVsX2xn?oc=5",
-        "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1581852549708-72910bd52cff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxldXJvbGlnYSUyMHJlc3VsdGFkb3MlMjB2aXZvJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzkxMTIxNjM4fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 03 Oct 2026 23:25:05 GMT"
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1581852549708-72910bd52cff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxldXJvbGlnYSUyMHJlc3VsdGFkb3MlMjB2aXZvJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzkxMTQxNDIxfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 04 Oct 2026 13:00:56 GMT"
       },
       {
-        "title": "¿Qué sabemos de la expansión de la NBA a Las Vegas y Seattle?",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHhBQUVIT3RPdlRQeFVtRjhLcjVkTWVRd09maEFYZ1l4VXRrNFVRNW5lMHoxV1JLbkJlY0tLX3NsOUhIRklOQ3BKMUpNV2Nhc2hVa1JrTEI1T01PS0tIdHMyZm0xVjQtTGluaXhDTzFyYlduNDZGazlKSk5NVmlPU2twVjNXZzlKd0szV2JROUxFUmxRWHdibXZqbXR5YmpUa1M1dmt3?oc=5",
-        "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1698812007148-57cf4c8dfc0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxzYWJlbW9zJTIwZXhwYW5zaSVDMyVCM24lMjB2ZWdhcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5MTEyMTYzOXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 03 Oct 2026 14:34:00 GMT"
+        "title": "El Carpena se llena para disfrutar de los Cavaliers de Harden",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVRZTmwwRG5jb1lHUlJaRmpLOTFjTVhndDZJaWFydkZMUE11Q2lvTUhGU01WM2ZCSFhqSmpDcUlEVDJXZ1lNWjFwT19xNkNTRldZVG52cEZYUnBOSmhfbzVDR0s3ZmM4aXJWd0JzLUNFYkxzV0JFVUM1Ul9fM3p4YzNlLUJXYnZ1RHV6QnNBWVFlZzJQdmQ4V9IBmAFBVV95cUxPbWF5aTJtLWJPYjI4ck9NVXpaUUF1ZXVEWDRlYkpic1B4WHIyTWRicjB6S3g4ekVvVDlLYS1HbVdkX19uWm8yVlpsRWRwaEw0MXpDTFpHQ3pGZFR0UXFNX005MjUzT0g4VERIYUEwVlFkV09ka1JJOFhFVHJWeTZodlQzaTRvb3R1NFdRQVB5aWdIcWtkU1oxcg?oc=5",
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1576683668932-8af4812cbb56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjYXJwZW5hJTIwbGxlbmElMjBkaXNmcnV0YXIlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTExNDE0MjJ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 04 Oct 2026 12:45:11 GMT"
       },
       {
         "title": "LeBron: partido de práctica fue un \"gran primer paso\" para 76ers",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUHdLeHRDNzVSZzJQR00zemlnYjd4SXRTZHpwaVdNZWpfWWgyQkU0YlhmdDRtZmcxekhGa2otb29rc2FhRGFsaEZYenotcTRPa29jT1YwMUE5RDl2aERaTmR6SWVCUDNoMFNTLUE2YUJHZW5HNFlJQ3REdWVGLWRmeDhJV1FXT0VhRzdyNTlsNGtZSFRibHpxWFlrNE03RjN5WElpNE9PNTVMdUdDWWthMjVSc3Q5bUExTnZoWFA1OGRzemRLQTEwSnMwWThfS2htdFFMSw?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsZWJyb24lMjBwYXJ0aWRvJTIwcHIlQzMlQTFjdGljYSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5MTEyMTY0MHww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsZWJyb24lMjBwYXJ0aWRvJTIwcHIlQzMlQTFjdGljYSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5MTE0MTQyM3ww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 20:20:00 GMT"
+      },
+      {
+        "title": "¿Qué sabemos de la expansión de la NBA a Las Vegas y Seattle?",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHhBQUVIT3RPdlRQeFVtRjhLcjVkTWVRd09maEFYZ1l4VXRrNFVRNW5lMHoxV1JLbkJlY0tLX3NsOUhIRklOQ3BKMUpNV2Nhc2hVa1JrTEI1T01PS0tIdHMyZm0xVjQtTGluaXhDTzFyYlduNDZGazlKSk5NVmlPU2twVjNXZzlKd0szV2JROUxFUmxRWHdibXZqbXR5YmpUa1M1dmt3?oc=5",
+        "date": "3 oct 2026",
+        "image": "https://images.unsplash.com/photo-1698812007148-57cf4c8dfc0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxzYWJlbW9zJTIwZXhwYW5zaSVDMyVCM24lMjB2ZWdhcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5MTE0MTQyNXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 03 Oct 2026 14:34:00 GMT"
       },
       {
         "title": "Qué retos enfrentan Giannis y el Heat en la temporada 2026-27",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hMb1lSaTBlWG9PMDFUTk1LWHJoTE5Pc0NURW1ZYTh0NzVIem9tSEtzek01dGJLNVNlc0tRSzF6MEpReUNfME1QUDRWSVVTSmt6WmhTeHlvMU5fRUhRSmU4RlFVc2FMU21iUXFaSFl2QzNBbkhvb1pyNG1QNldCMEx3ZWotbGJMX2gzb1dJOEstU0VCeGlaR2ZxazcwTVNVdFhIVU1WSXRmcVJyb2hEc2FyTVhYYURzUTVWNS01YTdKYTFo?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1719521178357-64ac2316f0ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXRvcyUyMGVuZnJlbnRhbiUyMGdpYW5uaXMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTExMjE2NDJ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1719521178357-64ac2316f0ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXRvcyUyMGVuZnJlbnRhbiUyMGdpYW5uaXMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTExNDE0MjZ8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 09:20:00 GMT"
       },
       {
-        "title": "Shiga vs Ryukyu Octubre 2026 — B.League Premier",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGNwbzZrd3VBcTNsVHFrN08wMk1PcUc5Y0VXb2EwZ3hYRTBvQjVWNDAzQmY1bGlvSTRJLUZMT01vYWxnRGpsMXVxM1JLN19UUzlHQkhOTU50enZJUDluWTJMT3o4ekozel9CUVFPSmxsd3F4dHkyZzk5Z3ZjRVNwU2ZtTFJYdjQ?oc=5",
+        "title": "¿Por qué LeBron James usa el número 9 con los 76ers? Esta es la razón detrás de su curioso debut",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY3hRclRmSk9UWDdWdkhsN2FGN3poaTMxUnRBeUxmb3dYSkVsTkdkS2tYVEZrWVJ3ZWdnQXF5X0xzX0J0T0hlRTAxWE5oOWhSZEF4bkdrTm9mQW9ONDU3bDRUYW9ETlNFTHNOeml4NHVjOXdTOEsxY243TzVNcllUVFFQY0dVRFB6dVlEcENlM0JsSmlpa0dnRTJYQzkyWmVJOHRFRFROb3lJaWg1WFFoeld1V2ptQjBWUUdlMk1qcDI3SzRHbE1nb1VhRGNNZmtvTnh4Wk9RdjhFdFpwQ0VXalZsVQ?oc=5",
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1584770557404-a5d2a798e81a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsZWJyb24lMjBqYW1lcyUyMG4lQzMlQkFtZXJvJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzkxMTQxNDI3fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 04 Oct 2026 15:55:00 GMT"
+      },
+      {
+        "title": "Giannis Antetokounmpo ya ilusiona al Heat; debuta con triunfo y con una actuación que anticipa alegrías",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNzBVa2ItMXlVak9wRnZzUEdoZnBaRTBSTVlOLVZXUWd4cGNCX3duRE1UYVRSX1ZSVUhyX0prTW1qZ3AtSzM2elBzdjlDbkl6YnVLaVFGcnF0YmlsQlhvUmk1eDh3TWRYS2NkWlNVTEZDOURDZ0g4dmVDYTF0ZHNnN184WnNKd2liR00yUlM0ZDhjWldUYml1R2ZLTE5UbUY0VF85R2FUb2FFTUZDWnFBY0t1WlI5OEtJaEJXNnoxOU5pSFNGRjFYX2dpcUx1VmZPZkN3MWRDNTNuNi16OExJeTdyamtZemtpREw3RTFn?oc=5",
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1752166672884-fa1e0c642f15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxnaWFubmlzJTIwYW50ZXRva291bm1wbyUyMGlsdXNpb25hJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzkxMTQxNDI4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 04 Oct 2026 15:02:00 GMT"
+      },
+      {
+        "title": "Shinshu vs NeoPhoenix Octubre 2026 — B.League Premier",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeENqbDV0OXkxZHFKaVR6Uy1EVXMyZmRDbTNRZ1lkQU5WbjFOcy01bmZxYnpzYWNoZ2N0emp2NG1ucWZFLW9sSnY2UTR4N1BES09GNnhEZ2wyRWx3SmtsSnhoTXNGc2JBaUdSMDdxVmFoR1lYQVUtRmpsbUFKd1RlUnFQbEVpTzVzbENoSzZadw?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
-        "_pub_raw": "Sat, 03 Oct 2026 11:11:31 GMT"
+        "image": "https://images.unsplash.com/photo-1577471488278-16eec37ffcc2?w=480&q=70",
+        "_pub_raw": "Sat, 03 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "WKK Wroclaw vs Resovia Rzeszow Octubre 2026 — 1. Liga",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU2lIcFBFZzk1Q29ZcXhGdUNRaWp5d3JTMDhoS0N2WE44STlXekt1RTNrZHBta09nSm1HZG01YVR0dFFkRnFJY2N4MTl5cWZOZk56aVFjMnBSdE5zX0FIUkdKakpEZWZSUUVYbHV5alZOV3J0LWFFdmZ3ODhfSVJ2OUgwWEtYRmx5ZkkzcnlpNjRHLUxRVWpTMUJnSQ?oc=5",
+        "date": "3 oct 2026",
+        "image": "https://images.unsplash.com/photo-1658265279845-1fe8d98c1bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx3cm9jbGF3JTIwcmVzb3ZpYSUyMHJ6ZXN6b3clMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTExNDE0MzB8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 03 Oct 2026 17:42:19 GMT"
       },
       {
         "title": "Matías 'Coco' Gallo destaca la pasión por el basquetbol que existe en México",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS1p6Y3hQbkxXNU5DZ0EtU3ZjOXVjZUVKeENzMWtHa2ViTEV5SnR4V1lDWV9NaWRwOGxFVm5wNWwtRUdJSTNMdTE0cjhWWWQ0dXhCczFOeTdzWEt1VHdvcTZOSkVYY0t3dlBDWVR5cFFpM3Z5TGdLMjJiV2wxeFNQT3lhRUJabFdnZ0NwTEZyR3N3bVRrOFQ2OGRaTkQwbGtRUHlVNlRPTEt1QW5vZUJOZ0p5R19EbE5wWkRON1o2MldkZnhvLUpsRw?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
         "_pub_raw": "Sat, 03 Oct 2026 18:07:00 GMT"
-      },
-      {
-        "title": "José Moreno",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PdXh1YWE0TEVnaGNENGJ5NDFRdmpyVzdWVFR4azlJc2lBNEx0Vlpvc3BreW1qY21ncmV0UU9zdVBpX2diQ2Y5SzRIRFRQVzllcUpodXdGcEt4Y1lxd3lPMFF0Mm82TTZpa3MzYnlKNXRWWDhkTjdnb1RRMA?oc=5",
-        "date": "2 oct 2026",
-        "image": "https://images.unsplash.com/photo-1752166671715-f444038364fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxqb3MlQzMlQTklMjBtb3Jlbm8lMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTExMjE2NDV8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 02 Oct 2026 18:28:13 GMT"
       }
     ],
     "pd": [
@@ -78,63 +99,70 @@
         "title": "Resultados de los cuartos de final del Rotterdam Premier Padel P2 2026",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3BNc1F5MjZpZUk0ZDM3YkU2NHhuNW9MWWh0VUZIeERIR05aR2lmLVZIQ1E4d2JoVmhNa3d0aTVxbHFiTVpRYVcwU3lGc0plWVl5Sm1aQVpLRUQxMzFRT1VpQUZtcHNyWU9BYjdYeFpYSjNob2NZT25vRUJ5a0lCSmJUSV9pSEFhQkdwckZhQWdCa2xibEUzZGNiMHNTd0E?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1613870930431-a09c7139eb33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxyZXN1bHRhZG9zJTIwY3VhcnRvcyUyMGZpbmFsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzkxMTIxNjU2fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1613870930431-a09c7139eb33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxyZXN1bHRhZG9zJTIwY3VhcnRvcyUyMGZpbmFsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzkxMTQxNDQzfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 01:02:50 GMT"
-      },
-      {
-        "title": "Rotterdam P2: Tapia y Coello se asustan, Campagnolo/González derriban a Paquito/Di Nenno - padel",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1Rnc09tYnNYWjVQaDA2emduYlNQcENKNEJILWI2b05sYlpIY1h5QkFENDRFT3UzUDRDWFNVb2ZMZ3l5MFNpYWtrT2VscWlyYjZJVkM0VEFyOUluRFQtcHpyMEZDc1pmdzJINktZRU1XTlBDRFQzbjc5OE9mbmtmN2thV1JBR0FhdkxCb3R1YTk4WG01WHJocjlOODAxV1F3elRGY2F0anRpMXBGc3ZzNE1MRUtpMXA1QUE?oc=5",
-        "date": "2 oct 2026",
-        "image": "https://images.unsplash.com/photo-1559571215-79a0ce3a7fa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxyb3R0ZXJkYW0lMjB0YXBpYSUyMGNvZWxsbyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5MTEyMTY1OHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 02 Oct 2026 18:27:31 GMT"
       },
       {
         "title": "Agustin Tapia & Arturo Coello vs Martin Di Nenno & Francisco Navarro",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUG9PSUFZVVZ4cFZfRkdzendJTW94STRQcVZtWFh3TzF1VExDWjhrLUg3YzMwd29KVXM4ajhaUldoT2VRdlJIa0VGNWkzRnU3RThVNXEyWTZuakpiaWg1c3pIcmEwSGViZ25NMXFtQVF3YUxQcUZEZmpmNm1YRU9ZV3ZaREFxdlpJV0xZMk43QWpCWlNLc0FLbTIwZmJ5WG9xdVNRa19taloyOTlpOG5GLU1YbXVkREp2RXRkazVfakduUXlzMHFyYm1zV0I?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxhZ3VzdGluJTIwdGFwaWElMjBhcnR1cm8lMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTExMjE2NTl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1715333155413-45f4aafe57b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxhZ3VzdGluJTIwdGFwaWElMjBhcnR1cm8lMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTExNDE0NDR8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 07:19:14 GMT"
+      },
+      {
+        "title": "Los Golden Boys no dan opción en Rotterdam y dan otro golpe al ranking",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb292NHJDSXpwQTAxXzhmbV9LMlFFNldaTFpYeVBNQzJ2elo4WVlBQnAzMEFXbDMyOGFLQ211WEF2d3BZVFBLa05hSEh4NFRySFRjcEplcHg1d3dMbW8zSUFiN3hJellmYm1NQjQ0ajEwWWRxTXV2SEVQUk8tT2dIX2ZpMU5JV1AzaUtVMGdfZFo3UTlJTl84X0p30gGaAUFVX3lxTFBWeDZHdTBLeHhCSmxTbjJ2QWNsNDU5aVpjSHFzd1J0U2VwQ0xyMTVmN0JhLUtiSFhrUWpjRWVrYlhfYWw4U1ZNYXNoamNJeGVZR09QbGtpamZYdWZ1MUJTeG9iZ2ZNQjVnSE03LWJyWDQ1VHZqaHpyN3pRTTd3WFdzczBCZGNKSkJJc09jUFB6bHhBSzhvU1JLc0E?oc=5",
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=480&q=70",
+        "_pub_raw": "Sun, 04 Oct 2026 17:59:49 GMT"
+      },
+      {
+        "title": "Segundo título consecutivo para Sánchez y Ustero",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlVRMDVZWVRYNTctMWdJcWc2c0VXUWNsQWdZR0VNMUtUUFpmT25hT05sX0dveU8tYVpicVR1eFR5Q3VycE9kWjNXTlp5NHd5dnBvN2RqOGtpc01hVG1ycUJWMDFXWXg4NFl5UzVRV3VrVzZSUElGMzZtMDBGVi0yeC1jVzkzaEZGOFVCQWVn0gGOAUFVX3lxTE1DUjVTemJGN0VyRlJVMDdHZWtIUllFenRVWFFvOWloMnlaS2RTWU1hY0hOeUswdDg3OEJFcHdDNXlMeWw2TVRJdko4djhjeDFRVnlLdW1SdWRvNk5vU01oTFNCNWMtX0ZrTUV2RFVKX3RKc2ZBRW5hTVRQUFpwUzZKbjJwbDZ0WHZ6Uy1fb2c?oc=5",
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1657704358775-ed705c7388d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxzZWd1bmRvJTIwdCVDMyVBRHR1bG8lMjBjb25zZWN1dGl2byUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5MTE0MTQ0N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 04 Oct 2026 16:54:41 GMT"
       },
       {
         "title": "Pasó inadvertido pero es un gesto deportivo top: Ari Sánchez volea a la red tras el passing de Triay cantado \"out\"",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1FUaWRyR0xLQk8wbkYwMnN3ODdVRmlWRWJRQVBhVFViMEhEbXNHMkkzWFFzWWJkUzNlVzZfX0ptVXk1RVlXR1dPYTROMy1RUnpCbGtScWg4a0dNQ2RGbjhvM1dJZGlpSXh3OGNpeWVCS3JqRHcxblZXeHBRUWYyU0JEN1k5T08wUElSaVlDbHdJRUdUMGF2NUtUS3JOY3lLYzI1REx0NkJ4Q1lfRnJTeHFpR2VKeVkwZHpZWFlHZnlSZWNLTkdV0gHHAUFVX3lxTE15eW52Tl9NdWZHM2E5X0JnYmFDMEstVXcyekZEX0d2RDY3a3owdmJGeG9Od3dMTDlNdGhEekRuZVVxUXI4ZU1uUmNVNkNoTHRZMWpyY1Y3Y1lub0RTenAtVEZHSWVWdlcwOE1WRV9VNmtBanRhUlptYWVwa3UyT3d4SHBHdzFoZzFkbFlUYzh1RHJBaTgxVnFtaXlyV3dfZmRkdzZ1TC1EZmEtQ09ha1d1NkxtMFVNdW5ySG9yZVVDRVZlUFNmbTg?oc=5",
         "date": "4 oct 2026",
-        "image": "https://images.unsplash.com/photo-1646649852033-7e0f3d679f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwYXMlQzMlQjMlMjBpbmFkdmVydGlkbyUyMGdlc3RvJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzkxMTIxNjYwfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1646649852033-7e0f3d679f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwYXMlQzMlQjMlMjBpbmFkdmVydGlkbyUyMGdlc3RvJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzkxMTQxNDQ4fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 04 Oct 2026 10:02:07 GMT"
       },
       {
         "title": "El partido casi perfecto de Stupa",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53WXdIa3MyV0dqbi1PYkNJTUIzVzFFdkpra0x3elNSb2Z1OGZXVklsMDdLMUtUUGhjaWYzTDNXX0dVMVpSUzZpMWczNUtNSEZyaHA1UnBFZjRpZnFRaTVqbzl6YUk0QVNxQXBEM004Z0N2SUJ60gF0QVVfeXFMTXJhMjg1d2Q0dEltQi1jZnhCRk5RZGV2WnZCQV9hMFZxQUtGbWs2SHNjalh5YUNLWWJrSmtNaXotMkRqczM5SzVfMlV2RU1CZUR3WkNlLVBvMkZIaGhHdF90MFB2bzFDdktZNV9RZGRiTWtNblM?oc=5",
         "date": "4 oct 2026",
-        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwYXJ0aWRvJTIwY2FzaSUyMHBlcmZlY3RvJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzkxMTIxNjYxfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwYXJ0aWRvJTIwY2FzaSUyMHBlcmZlY3RvJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzkxMTQxNDQ5fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 04 Oct 2026 08:35:46 GMT"
       },
       {
         "title": "Paula y Bea vuelven a una final y las número uno caen eliminadas",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ2dXSWFmMnlaX3dVTXpaR25aWFhkV19JUks4cFlPdXRab1ZBM2lkeVBkZHFxZ2pxYkFVZ1FhbEk3SG0xdVN4Wl9VRTFaOW1xTlFTODE4SC1paGxyYzZxQ3ZyS3NrX191dGUtbnAzVEUzNXFzR2lfY0ozeVhiX0YwQnJOZlctUkZWVFNPYzJRN2VYbVdo0gGUAUFVX3lxTFB6UXltbEczakZFQkxJc3c1aFRvelY2aEhGRjAwZTFxUGtDU0hYQ1hadHkxZWxQRnppNzdabDk2T25Ec3dtNjFDbkFiZW0tSkFjTGNreUZBbjJ2THlmLWlXLTVWeG8zenF0MjZTX3RKYzFHT0syOE9tdXhHUWRPdUhGdTluNkgxeDJ0Sm9tMEhLcl9ONko?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1767128890954-20ce481be8f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxwYXVsYSUyMHZ1ZWx2ZW4lMjBmaW5hbCUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5MTEyMTY2Mnww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1767128890954-20ce481be8f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxwYXVsYSUyMHZ1ZWx2ZW4lMjBmaW5hbCUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5MTE0MTQ1MHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 19:47:01 GMT"
       },
       {
         "title": "Jon Sanz y Franco Stupaczuk confirman su redención en Rotterdam",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjg2RER4VDAwS1RsVzZpOWRxUWJBQUZzS0dDRk1GWXpDbGpueTRKbHhUVTVsa1V0ZDM0bHU1b29CWTcxS0ZNNm0wbFk2cFdBY0ducGdUTmxXc2pvYUZpRHRBUGpEcDVGU09XcHc2SWdvQ3EyYWN2SUF5ZC0wX09BbVZEd0xVOVhqTEJheXJyWVlESjl3LUU5SFBXNGM2QnlI0gGgAUFVX3lxTE5TVjlUTGdKYkVXQ1p2WEMwUXQ1UGs3Nzd4Tkt2ZHVxeFZHUndVSXdlNnJSVEJpa182ZzBZNnotVVpUWC1pNE9LLW9LdV93V1BPaktnaWtFSjhPYnRQUnNOQW1XeGtxcmZpYWlDcW1tT2dyUVFjdEJCeXhfX25JdnJMSEg5dEpKdGFiaHl2X3lMN1RpN0QzM3NveHpWcDdETHM?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1560012057-4372e14c5085?w=480&q=70",
         "_pub_raw": "Sat, 03 Oct 2026 20:11:21 GMT"
       },
       {
         "title": "Sorpresón: Stupa y Jon tumban a Chingotto y Galán",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVV6X3NmUjN2M3o5UUtjVEhkTF9rSWxtdFIySVlvUUgxTnUwNDcxYTgzVzdnTGZ0am5COVAwVVZ6OXNWb1BabW9OU2JXRkVvY19oUTVUMTBUTU9PRlZRYUZULV9kdUY0ajJJaGZMSVVVLTc0SHpBMFI3bXNrSlBuZUN3MXNwbEtPaDZ5anRWMNIBjwFBVV95cUxOQnItR0RDSGJHVnFtMnR4R1c4Z2k0SXNEcUxhRTYxZThIX0swUGhDVTl6US1aWnQzRHVfQ09WdE9PRlpwSHJxSjI0aGhqRUdCdjBTMW1vRjJJRkVCajdHc3NjajFyVll5NGFSWF9NOGIxX1gwcHRFRVJnRWtMdXlmeHdvVGNnQ0JuTnVTLWw3NA?oc=5",
         "date": "2 oct 2026",
-        "image": "https://images.unsplash.com/photo-1612534847738-b3af9bc31f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxzb3JwcmVzJUMzJUIzbiUyMHN0dXBhJTIwdHVtYmFuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzkxMTIxNjY0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1612534847738-b3af9bc31f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxzb3JwcmVzJUMzJUIzbiUyMHN0dXBhJTIwdHVtYmFuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzkxMTQxNDUzfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 02 Oct 2026 22:43:00 GMT"
       },
       {
         "title": "Semifinales de ensueño en el cuadro femenino del Rotterdam P2",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRllHOVJXM1pfaFBINzNsb09aZEhnOG5PX2NHaHlqLTVlV3EyNlBNVFQ0QUE1RzN1S2J5S0lDTU5pcXR1ek1JSDJQX3Z4MERpMlRUbVYteUlUNGRmNjI5WFYwWWRJcDNzb0ZBMmdONFRXcENGMUd4SFdBN09BZGVURWowLXBhNUlaWmstTVJmeFBmN0dLc2dJ0gGXAUFVX3lxTE5HYzlzSVNkT0c3WmQwY0RxZUNZSkpsVVU4blRTa3N4dFVhLXlfTy02WmljY21xNXB4TVotQ0xaN0l5Z0xmemdiR0dQTFB5ZkFqR3Jzd09hcndzQkEteENkVEtQcElhOGFZQzdydVNPQVVHczYtaHlMZmpuNzlydGdqN1JKOGtITUI2U29OUUk3WFV4MURoOEE?oc=5",
         "date": "2 oct 2026",
-        "image": "https://images.unsplash.com/photo-1709587824674-78db9795ecf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxzZW1pZmluYWxlcyUyMGVuc3VlJUMzJUIxbyUyMGN1YWRybyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5MTEyMTY2NXww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1709587824674-78db9795ecf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxzZW1pZmluYWxlcyUyMGVuc3VlJUMzJUIxbyUyMGN1YWRybyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5MTE0MTQ1NHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 02 Oct 2026 20:54:26 GMT"
       }
     ],
@@ -143,134 +171,134 @@
         "title": "Liga MX: Horarios de la Jornada 11 del Apertura 2026",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEk0TkdjRUxTSzlZZlN6Vy1QZldudUNmZGc2b1VsdWpNVmljdDBoS201QmhkWVlYTUpPTG1DeEN4NTNqb1FMZUdlTHFkZkVwZnlGLThldHRfNnhucDRiSHlEdzlLRVpLTFdpeWl0Ym9ZX1ZBNFJENjdzNHpLY1hLbGRpaVFRLW1qLTNic0tkbzBfelhPekZBZzcxOGRlZWViWS1GQW5YNGR2VnMzSkUyTXlR0gG3AUFVX3lxTE00WVRwc1NXNEt0OWlhU2tWNUlFY1JvSFFuc2VtMzhTdzlTZ2k0Q0dITEZEMVhxSmwtRThvSHJzS2pES1Nob2JzWkdnLVlEQUZQdzlhR3BiSEtRaTRsaDE3dmZ6alZZUGY0cHNnSUNQWUZLZW1tMFZTdU4tblJYMXh2VXJ2OGFkMUxoMmswY0pUYzBpTXNNUm1hN0xibHlGZVJaLUdCMllncDRqbmdpNUpnTkRwenlHdw?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1725772387482-12261dbaa091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwaG9yYXJpb3MlMjBqb3JuYWRhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MTEyMTY3NHww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1725772387482-12261dbaa091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwaG9yYXJpb3MlMjBqb3JuYWRhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MTE0MTQ2NHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 02:16:34 GMT"
       },
       {
         "title": "Liga MX: Así marcha la tabla del Apertura 2026; Toluca ocupa el liderato",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjZhbThLYkIzZE5FcGhCQTNKN09mNkg4TXdWdmp1TDF0R1M1ckxfYTYxdExCOFJuSVdLX3ZLSkU2elRBbEpKckpJN2lyaWc1cGxMSndtTmZ1ZjhyNElYY21MZDBBYjQ3Z3hRcXBFdjZYUWFFSGpxbXY4REt0T3ZBY0RsQXQ2Tjdkd2FPbFRMbzNQdlRJQTJSQzd6ZndTS09raGlMMm11U19UQWZ0N2dJUdIBxAFBVV95cUxNR05uSm9WdjIzOVZNbFF0WDVVdHlYS0RjdmlkbUxfNjJ0U2Vyb1dSRnIzUkVuWko0R2ltSnUxV2VWOU80cHpPZHoxU05PZkE2MFBsMUF1Z3JDdXhLZ1BrTzJqeVhnU3VWbEdNV1FIaEI3SGlpb0tFWnF1QklPVHlxNi02TElhV3pkY2xOUHJLUTJhYVUyc3pjNnRtWmlhM1puaUlKUWUxaHljWkppTG9FQkJwWGxmaUR3WmpPb05qbE53Zndk?oc=5",
         "date": "2 oct 2026",
-        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsaWdhJTIwbWFyY2hhJTIwdGFibGElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkxMTIxNjc1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsaWdhJTIwbWFyY2hhJTIwdGFibGElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkxMTQxNDY1fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 02 Oct 2026 23:52:38 GMT"
+      },
+      {
+        "title": "¿Cómo y dónde ver? Chivas Femenil vs. Juárez Femenil EN VIVO | Jornada 10, Apertura 2026 | Liga MX Femenil",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlJKT2hTM2JYSlNKclloTjN2U2xPX3VGbXhST1R6YXhIT0FmOWgyU09IS1FvSDd3VFNsMEtIOGQ5TEx0cHVpOFNnamVqNS1IeHlaX2Y0WkdZSkZxaG5zTjh5Xy14MGt4bEZtMnlnN2xGSFdEODdWQmlLUWp3dkI3ZHdzUzl4cmhqcjZBcXlkNUpERWNGZkxtcHo5U0psSHR5TnBhRDN0SnNLcmVySzM0bThTMzVJY0RxMVJfOXNyYTZyVEJXbnVOWDNLRnQyM3l3ZHBwMmNB?oc=5",
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1707798178440-84403072d249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjJUMzJUIzbW8lMjBkJUMzJUIzbmRlJTIwY2hpdmFzJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MTE0MTQ2Nnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 04 Oct 2026 15:32:46 GMT"
       },
       {
         "title": "¡Aprovéchalo, Milito! La “ventaja” que tendrá Chivas en su calendario del Apertura 2026 en el mes de octubre",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFh2Y25hZ3V5LV9HSHNzbGZkbEVrZC1iRWQwWWcxZ1RSYlROWEJDOXpHSG9JQUVCRmFCbXdSd1hPZlE4WDZPOW85dW1ROGtKeDZyUTZRWF9BMTZsdGp4TjVrSnRBUE5WNWJDNTF2S0l5SEtZWVZOZXhvMjNPTlBqS0g4Ym5HTkRFUmV4dWh5Q3VoR1RHQ0dveElnNFpSMzFXT1hjSk5uX1Ixd3l0UVRYWHdIbG5vcDR0a3BHQlBLRXVfaXE3Z01UREZUb0hJTTdMSjRXeWoySHYtNkHSAdsBQVVfeXFMTThYdmNuYWd1eS1fR0hzc2xmZGxFa2QtYkVkMFlnMWdUUmJUTlhCQzl6R0hvSUFFQkZhQm13UndYT2ZROFg2TzlvOXVtUThrSng2clE2UVhfQTE2bHRqeE41a0p0QVBOVjViQzUxdktJeUhLWVlWTmV4bzIzT05QaktIOGJuR05ERVJleHVoeUN1aEdUR0NHb3hJZzRaUjMxV09YY0pObl9SMXd5dFFUWFh3SGxub3A0dGtwR0JQS0V1X2lxN2dNVERGVG9ISU03TEo0V3lqMkh2LTZB?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
         "_pub_raw": "Sat, 03 Oct 2026 00:00:00 GMT"
       },
       {
         "title": "Dónde ver Monterrey vs América: a qué hora juega Rayadas y pronóstico Liga MX Femenil 2026",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc2Z2RkhXTlpzbWJfaVduSkMtUlBYNmFGTkNqZ0MzXzJqQ0xPOEg5VDhOWmRwamFiekJWam9mcGNhNkFRc2dLeDRzdFFSQmQ4M0wxRl9ydlBkRjNUQ2s2NHY0WUdNU0E0V0lEYjd4cWhHUE5NeTA0X09zQ0QtbGxORjh2SmF4XzZmY21xTDRWakRRRkUxMmVoUkNLcGJCaGxHSUpycmJFZUtBY2xxVVdlanFmRWZMdWNfWHlGeHRPb0libWpueDAxa0RnOXVfUUVRWVVXM3Blck1SeW5oWUHSAfIBQVVfeXFMT3FnbFFqRkJzNU1ja0pkemZya3NiLXM0SEJhUUxBYlhJMnBtaklhZTZ4Tnd2eWRYaHd6bkhDSkpXWEtOWHlwZU16Q2t4d01YbU1rOGhnbTAzemRxTENzUUJGN1owZGhxWW9DTG5CbzByMlo5MElrN0FyY244WlZLcElnbkFvYWtuaW1aMDFSR05GUnVsX21ES25OUzJqVjBzMHZzQlRhZ3FUM0RrT216U0s1ZkcwMzdNd3MzTUFIRTFYcG5mUzRhck5kQ1MzM3VncmV4SjR5NElUVGhVMGpYQjNkWGdTTm4xYlBESnhXNGVfbEE?oc=5",
         "date": "2 oct 2026",
-        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxkJUMzJUIzbmRlJTIwbW9udGVycmV5JTIwYW0lQzMlQTlyaWNhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MTEyMTY3N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxkJUMzJUIzbmRlJTIwbW9udGVycmV5JTIwYW0lQzMlQTlyaWNhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MTE0MTQ2OXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 02 Oct 2026 20:32:03 GMT"
+      },
+      {
+        "title": "América vs Chivas: Dónde ver y a qué hora es el amistoso de Fecha FIFA en Estados Unidos",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEN1V2NtdFE5UkdjdVozRnM4cWhycHBfSVJSdnlub0FqVkZLVDlBM2VRb2ktdnkyUDd3UHdnRDBMWFB5dEMzc2M3b0hJSTZlVXVEdVpSRnBMLVk0cElBb0txdFprdXFxeU10Rmd5LWtIbndUcEY2VklLa0RfN2M4OHZMdDQzNU5KdHFvZnVJMlNHekNrTWNKcnBKUWFvY2VkQ3BLYW9tbldjVlZLZFBBZW5xcEZwZzRU0gG4AUFVX3lxTFBpX0M2Ri1HbXJ3UlhoMGJfNVZCaTRHMU04N19iMi1kMzJBejVqMktpbnNwYlZWXzlBYklyZS02cHhnYkF1QlhDNXdRYzk1MHVKa3YyRTRYcm5LOHBnN254NFI2akwwRmZlTWNTTU5aU2tucFJTOGNmSEY1R3lQaWtNLVFRLWRmUUhrTnA0YW5IMzM0UHB0NmJfT2Q3TXhDcWVVMm5ES2lGbWkwcDV4Ri14OU4zRjRrY2U?oc=5",
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Sun, 04 Oct 2026 14:37:59 GMT"
+      },
+      {
+        "title": "Cruz Azul vs LA Galaxy hoy: dónde ver, a qué hora juegan y transmisión del partido amistoso 2026",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUVpjZXR1akVfNjJXeXUzX2pYNEtJYWpDYTJXYS1UQS1RM3psZUNrVjhtUGlVakExdnJ3NkNxN0E1enoxZkdtWFctNHZlbHBHeGZvRWhUaXdUa1BSc0tJbDJNb0VQbVN6bDlDSnk3c3d5Wk9jU3hEdGp6akhfUVZ4MTI5VkUxTS1QdEZ3dWFlY0pCODBGdllrNUVyZGVxNkhXN0E2bVU0S0NzM3p4alQ0emhZZFpwcE94NlFMMktZVTM0VjIyemJuWXkyQktwVDUxdkgzVTk1d3phWGZtYWd1aE1IUkjSAfgBQVVfeXFMTkx0bWxSR25ZRE12SGdZSy1CTW1fMC04N0Y4TEtSbXQ2dy1fZW5tcm1HWC0xSkhBWnlScTJzbWxYS2RkdTNPdFF6bkRRT0p1N1VjODU3cngwWHppMjl6VkkwZFpzcnFEbURDQkVNYndEQWtILU5yLVFSN213a0RaS2tYNE4yalZKSHlueHdXdnhSMjJaTGZ1aVFEeGg0OWJYeXdSMzR5anZmNGFzQ2FSWDBCMGJEM2NkZmdoRHRDTjFTMGFCczFhTTNpVExITFZrOWktUjJyX3dQcWxJMGRiRndtVTZTNUZaOFBWbWVKalJ2TjdVak1TS1o?oc=5",
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "_pub_raw": "Sun, 04 Oct 2026 18:29:36 GMT"
       },
       {
         "title": "¿Por qué América vs. Chivas por el amistoso internacional no va por TV abierta?",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWYzNnhhRnBpalEyWXJQOWxpUWhGcW9QNlpWazVqRHRpYW1YVUc5eWpiYmtfczU1Sk8xQ2ZxMnhfTlZFQzhxZTctd0hMQ0k5dHhZVk5uOXNVSTN3MTJYbTRLS1FfblR1dUtyeWxCTGMxUkNPR3pubHpiME05ZjBhb2ZQbDNnMTRJc29WYnVhVWZjcTRYWEVQdVZuS3RtTjBiZW12OTRYXzZOZ9IBrwFBVV95cUxPVXhyazhJMzFrNHM0S0Q3dmR5QzJPdmRZNHczNkNVcXFsbDBqQUFINWRfTUpuemJtcG50UldNZFcyRGx0OVgtQWFIWHFiS2g5VWo0dUZhSDluZTUxOEk4M2R2a1l1VmYtQk9pRUE3b1BtOUczVVA5V1JyZll3VFVBUm1aSWswd3doQ1FabnVmckV6aXVxSjNBc1d1Y1BJZl94ckZSWE41THNFa3FhaTVv?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhbSVDMyVBOXJpY2ElMjBjaGl2YXMlMjBhbWlzdG9zbyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTExMjE2Nzh8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhbSVDMyVBOXJpY2ElMjBjaGl2YXMlMjBhbWlzdG9zbyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTExNDE0NzJ8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 19:00:00 GMT"
       },
       {
         "title": "América-Chivas y Cruz Azul-LA Galaxy protagonizan amistosos en EE. UU.",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTVWbzg4ZlVUajNRVC0tb29HMV9nNjVoUjhmSl94M1l4WlFkaml4blVwTTlVc18tQkhjNWVTWDhuVFIyQW8zd2dobFcyRTh0N1h0eU5zVlMwZ3JubTMwck1FbGdUUl9HRFZtZy16Rnd4Rlg5TkV5N1Itb1AzRW45alhtWUxKZENLMjEyNzVZTDkwVzFkX004OS1TRHBxRzdNMHNScER6THFiVkhIUjZUMTZR?oc=5",
         "date": "4 oct 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
-        "_pub_raw": "Sun, 04 Oct 2026 09:24:20 GMT"
-      },
-      {
-        "title": "¿Qué equipo ha llevado más gente a su estadio en el Apertura 2026? No es Chivas, América o Cruz Azul",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0pXNjZMaHVLTkZUV3o0cTBSY0xMcy1sYTBKZHZyYkhYRlU5c0xkTnVPTkJHa2lmVS1yOWpqUjBjR0lMa1BacHVtWWJtMllsMEoyOWVXcDhtcDNYUm5LbW56Q3FoVjJRZVZHSkx5SjFmLVp6X2RadENVd0FMSVo3V0NhM3pJVHNwRlJ2Vl9ySHY1SWFCX1NFZHNBUldJazRpbndXOHlLWlI3TG5HVHRBb1U4NVVKQ2NTR3JQWXpqUFR6R3FickZPeE5DY9IBywFBVV95cUxORGEzSkZkX2V1aS11allESWZIM0NHOFB1ejdveUJZZTNYZy1EeHFnaUdGNE5sWDIzMHpiTlZ2U3l1ZGd2Mjk2ckotZFlxSFF2dnlXdmJfQm1KMVdMeXZZUTduek9Wd3FZUUZvYWVWR2xNM09fS29EcTluRVBOcTZNUG1kNEtWanMtNU1hZGhUejJYR1Z5dzY5QXNCM2sza245ejJHaGhkT01pSGZZR21RSDZPSjE2Skp5NWh2WUNlM0NnOHNrZVc5TVVFNA?oc=5",
-        "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxlcXVpcG8lMjBsbGV2YWRvJTIwZ2VudGUlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkxMTIxNjgxfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 03 Oct 2026 23:30:46 GMT"
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
+        "_pub_raw": "Sun, 04 Oct 2026 04:05:01 GMT"
       },
       {
         "title": "¡Se acabó el dominio! América suma 10 Clásicos sin ganar ante Chivas, Cruz Azul y Pumas",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVhHNDgwQ3hSN1ZJS1RleGdEcFJpMVdxQ1Q3X2Rzdmc5RTNkWHFmSkJPb3IwU2lyQ2laLTdxRVVRdEJFaUFveDVqWHI3ek9JMkxNSXRibGRGZU5FN0p5bldWY3VtYXpJcmZfUy02U3cyRVRkWDhVaXB4OEczQm9iYV9hR0VWR25ET0Rrd2hURHJWTTNEOE8yTGdvQnFlWDhlVDg2WVZkeGlmNEstclpncWRoSWRVcnZ0MVpQSUdZeW1BX2lRaU5XWTRaRWY0QnZTcFJEWm5B?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxhY2FiJUMzJUIzJTIwZG9taW5pbyUyMGFtJUMzJUE5cmljYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTExMjE2ODJ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxhY2FiJUMzJUIzJTIwZG9taW5pbyUyMGFtJUMzJUE5cmljYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTExNDE0NzR8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 20:29:00 GMT"
-      },
-      {
-        "title": "¿Quién transmite América vs. Chivas? Horario y canal EN VIVO Clásico Nacional Amistoso 2026",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ21XZnJwaFJ5YUhobzQyVVFOQXBYYVpxUUFJSWRMUEJKaExqT09neWplbWNVTWFtWmFRU0NjY2l5RWwwR0VPbzFxM2pJREF6a1VKRG53c2p4SmEtTUpILXh2dGdKcW9uUEpSZE0zbEpBVkdVOUtkckVhQzlGdE9zMkpwdDZOVXluMm80bUFGbmp1SWFCSTJqRVJQMFNYTzdoZXMxSXZ6cnpkOUdlMEZRTkxDVWlQOXFCUkx5a3Zoelg2VWliOHViY1QyOHIyNkFLa1E00gHTAUFVX3lxTE9IaWxmbWYtdjRzR2E2Y1RUMGZZZE5hY3B5UmRETXRDYWptYTdkU3kwdk1Pa1hsYkpkQ2dzWUZGVUhqbVRsSm1pMngzTmVVQWRITmVKSE5VYUxGb04zci1VcFdSVXg5Q0JvNnF2aDdfTzh4WjlfWXhNRTNuUVlBT2kweUN5RUhvUGtyNFY0bVBud0F2d3hGQnVSUHAwaVJxVlNXaXJkc2t0UUhHUHlzRGFnN2RlNlhRWlFPWElITGNPU3hzN2diVGtYZ2ZnNWxZY0xIWFk?oc=5",
-        "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1725772387482-12261dbaa091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxxdWklQzMlQTluJTIwdHJhbnNtaXRlJTIwYW0lQzMlQTlyaWNhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MTEyMTY4M3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 03 Oct 2026 20:57:00 GMT"
       },
       {
         "title": "Liga MX: ¿Qué partidos se jugarán en la Jornada 11 del Apertura 2026?",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEY3UVZJcG9EcTFhR3ctR2ZnMHdhZ1RYYUx0X0tEMEF3cjd4dHNUbmpRcUVBd3Rpcmg1ZWhfR3BlTTdvSHJLd2h1c293Z3plOXlUV21rUUtycWZhYlI2MkF2b3ZETWFjOVJOdE5YSHVaNjM4Sl9xa3daZC1xT3hSSC1OZms0V0RLblNrVERfQmRPbWlISk83bmNabnhYajlOSUhmUmNkdS1EclXSAb8BQVVfeXFMT3BmSjZpd01wX2dYaWh3YVVSOE5IcGI2eVMxb1FfZUNSeU9BSXhsTVFLU1psTkpueXhLRl9fV1pEZkNCRE5EQ3p3T1ZLQjhYd3lrY19TZGE2RzFSVlA3bzlxNllpejg4dkFsRzZyVURDUFBhdzhISGhKSE5ZLUFWdGRZT2FYRUU3UVhFem9qWklvRzl4RDJpXzZUNjdPOHB2MHI3QXBEdF9sS25CLUtEd190d1BzOUUxOFVQT25maFU?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsaWdhJTIwcGFydGlkb3MlMjBqdWdhciVDMyVBMW4lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkxMTIxNjg0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsaWdhJTIwcGFydGlkb3MlMjBqdWdhciVDMyVBMW4lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkxMTQxNDc1fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 21:54:00 GMT"
       },
       {
         "title": "¡Rafa sigue sin ganar! Estados Unidos goleó a México, que fue víctima de sus propios errores",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVpHTzNpTTF5Z1hSSzZPbmIyQm9RaE5oNXdFdmFwMUVfRVZZdHB5UnB1WF9HZ01ObjFzRTNrMGNRNENiakE5M1E3cEFiRFhfWnd2c0FVOVoyMElwb2czZXlKZ0NoYjdnVVI3QVptVnN5elNkazkwS0FSd2NIN1RGeHZvSUwzU2Q3SEdKUG9xTWYwenlkTkpVQ2NZQkdqNm4xOE1GQThWLVZsZDNQN1HSAa4BQVVfeXFMUG5iSXMzMnRINWc1bU5CNjNfaEZfaGFBcmlIZExEYm5PS1NlSEMtUUh5a0dUN2QwUWRfeG1fZnpQSUpvb2RSZmkydlpYLWdjdEMybDJIR212b292QlBWYmZZdm9IZ3QwVkJwdFlqYVdLQXpMOTRTYkZYQUNQeGRiVGkyRno5dnJHMXdFeUpmby1lYi00a0dzdEp1dWxnYU03TTdfcWlVU1VTbWJINUVn?oc=5",
         "date": "4 oct 2026",
-        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxyYWZhJTIwc2lndWUlMjBnYW5hciUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTExMjE2ODV8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxyYWZhJTIwc2lndWUlMjBnYW5hciUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTExNDE0Nzd8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 04 Oct 2026 04:01:00 GMT"
+      },
+      {
+        "title": "‘Han sido errores groseros’: Rafa Márquez critica el desempeño de su Selección Mexicana tras goleada de EU",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaUdVMnZTTXJHdXBCS2Z3STFJREc1Y1huNDNHdWhXZnJVMUstUERqSnc3QVVqU3lNMzJET2pQUHNWX1dDWV9yY3ZBRXZ6MWotUkY0NlM5ek5wT3YzUjhLNzMzY2xWLUdXRGpYZTF5ZzRuejNOaEpDRjZkOUNtVGswRWx5Z0lPLTlwMWNnMVdvZWtKSlJmMmNiZWowdXloaDZLMWxQUm5CV2Z6X0xEMGFPM0lzNTNCMy1kbXZpWnY4TTJpQVVkQWQ2MXM1elNQYmJVVFc2X2ln?oc=5",
+        "date": "4 oct 2026",
+        "image": "https://images.unsplash.com/photo-1787077134006-9a512e9ba9ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxzaWRvJTIwZXJyb3JlcyUyMGdyb3Nlcm9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MTE0MTQ3OHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 04 Oct 2026 17:05:37 GMT"
+      },
+      {
+        "title": "FIFA revela quiénes fueron los mejores jugadores de México en el Mundial 2026",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3JLQXF5VnNWX2hDajB6c2wzUnBzbDNUYXZGRGRXUGFnMzJ5eGtPb0ZhNHZjU0NoX0Z5M3NnWXJMREVJZjV3dHVJV1plbFA3Q3VXanFVRm5rY0dpTTZJY21yeXJib1lMLVNyQW9VVjlNZWZIYXo3R2VsN3htT2FLVVd2ZGlpSmhkMTZVMFpSQTY3NEVON05RTHQ4Q0VtckIxVGhLRTBYMV85N1VLaGplbmNHT3hUY3c4alHSAboBQVVfeXFMTVBZOWFJUUIxZ2lYTDJ4ME9pd3dMR2cxSmZ5QXQ4ZWw3eHNqbFVSOTB3alBTNzBsR05TQ052TGc5ZTFWUHJ1d284LTloZ3JVejhZRVJ6VDBwRlVGamdNUndUYmJtYzlBS20zRV9iSXA5bFBodDc3ajBtbnJ0SkwxUHJNX1ViQ09DSC1maVF0YzNRaHprQzlQTWRIdmdVd0hqTTVZZ3lVWDNlNGx1dUc5bGpGMXEzb21aaUJ3?oc=5",
+        "date": "2 oct 2026",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "_pub_raw": "Fri, 02 Oct 2026 21:39:23 GMT"
       },
       {
         "title": "México vs Estados Unidos: Alineaciones, horario y dónde ver EN VIVO a la Selección",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0plaUx5UXN4Z09oaDVSaFFMYy1wLXVPWldQcUt5ZjZGa1QxRzYyT0xwbTN0RUlYOTZ0OUtNMHFkbGRJTWtjcE5ROVNaWGY5NGJLOWRZSU92RlkxMFRER0ptNXZKamZOQVVXTVNoWjkyeEpJb1NFNDhza1l5cXdSYnpXbjNsQW1ITmgwNF90MTl1THl0T3IyNlM5WERrMTlGRVRBRzloMEs?oc=5",
         "date": "4 oct 2026",
-        "image": "https://images.unsplash.com/photo-1542339754-fe63b8476ab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxtJUMzJUE5eGljbyUyMGVzdGFkb3MlMjB1bmlkb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkxMTIxNjg2fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1542339754-fe63b8476ab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxtJUMzJUE5eGljbyUyMGVzdGFkb3MlMjB1bmlkb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkxMTQxNDgwfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 04 Oct 2026 00:00:00 GMT"
-      },
-      {
-        "title": "Chucky Lozano es baja de la Selección Mexicana; Rafa Márquez busca a su sustituto para el juego vs Estados Unidos",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNC04THE0S2x3U0xFOHFvc1d4VWFpZG9Hai1OS0lhX1FRU2szYjJzdWYwdlVnOEN1MjFjV3g5VnluU3ExSnplNlY5SS1IOG9Tc2N5RS1NeWktWXRyV1RZWXRnMlRqbzBDam1QdmRJaXA1N2tNOU9OMUp3a2Q2SjFvOFIxbkJQQkZVQUdiQmNoWXZhOWkteXJIMUl2MFAxN2pVelJNdzRxcnVsVnBBOEp6RmM4NTVYalhGcVk3OGZKWnJWMWYyREt4T3FCbFJib0FpeGpQRFlyWjY3N3dqQ0JSVE92blZUZ9IB5gFBVV95cUxOYl9LM0JhOEFkTVF6TWw1bnNJQjB2d1l6ZXhiZGVCLWZFUUk0dDU4amFuNVJDWkw3R3RyOWFEcU1HUkFkZTA0c0gzUFMwd3ZVWjUwRXMwOG5UUHFKYVBIYndfWU5XQ0ItNmhIYXFJbjQ1QkNJT2hPUmZDMF9qSzFyMTIybUNTR0FETzJ4R2ZNTkJETWh1c1pFV2dEZGR3RUlrWnlHNzdiZnNEVzdZdjFzV1EwSTc2NjVkdXhnVTRGVGhkbUpjeVJ2TWNWWlc4Y3NRdkZYU3FEZjdHekZOODRZRDNodmpsZw?oc=5",
-        "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
-        "_pub_raw": "Sat, 03 Oct 2026 16:21:00 GMT"
       },
       {
         "title": "Partidos hoy sábado 3 de octubre: Selección de México se enfrenta a Estados Unidos",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1k1eTJFLWRRY3BwLXgxX2pvbVJ2YllwQWFaN3hDQ0FOVEFjMmtZMHJKU3lYdWNXSjNnQzM0U1RCNG9kTl94eFFXZXdaRFljSmc2U3BBTmY0ZWJzN3ZqWWhFXzJoc1RaVHUzbGJuS1I2LTY2RllKTzh0Q2ZKNFVYMGJ2cE96dUVtbnhScU1nQm5fekp6VmtuTUFmWjB6Y2R6TFYwLXRwbWpwQQ?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxwYXJ0aWRvcyUyMHMlQzMlQTFiYWRvJTIwb2N0dWJyZSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTExMjE2ODh8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxwYXJ0aWRvcyUyMHMlQzMlQTFiYWRvJTIwb2N0dWJyZSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTExNDE0ODF8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 03 Oct 2026 05:40:24 GMT"
       },
       {
         "title": "Tanna Sánchez, la poblana que vuelve a la Selección Mexicana Sub-23",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzllOUMyazQ5QnJHZmtfZEpzN1dMeG91bUU4UmUyaDRiWW9sME1yUFhOU1F3VC10S3FEMjVhTkpfOTlGUURuYWpWakRnZzYzS1M4eHFUajNfZWhISWd0MXBpdFE0dGxGOGxjRUdwa3dEeUFMa2pHY1daQVdIOHl5WXBoajBDaDJkOEVERDVJNHg1SVMwRzJJWDhWU3EyaTJlNm5TYmVrTTBWM283WXFRaG5UakFRblgx?oc=5",
         "date": "4 oct 2026",
-        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHx0YW5uYSUyMHMlQzMlQTFuY2hleiUyMHBvYmxhbmElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkxMTIxNjg5fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHx0YW5uYSUyMHMlQzMlQTFuY2hleiUyMHBvYmxhbmElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkxMTQxNDgyfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 04 Oct 2026 04:03:35 GMT"
       },
       {
-        "title": "Por qué no juega Gilberto Mora en México vs. Estados Unidos por un amistoso 2026",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd1dUT094S0lJVmVjc3duRTVDRVFPM1BOREJFOTQ0Y1lqSEV1RU1RcHFMaHlkVHNIaWhSemF1QjFvbzlyUHk4dTdncE5HVU5Odzdhc3R4SWdkMllZUEY4SXZXSy1WbHlLU3FRaUhlZUdSd1pYQlNBblRvMDFXdFU5emp2UmVKSWJDTDhOYzMwbWZ4b2FoZGQ3UWYzcENkUXRxb3cwWTNsMUlaRXBoTl9Da2gyajlKeV9tbjdOV9IBwgFBVV95cUxPc2VReXBFVnI2bUZ2RkphdzlBSzQ2UGRnalEzUXVkNFYwQ2NOMkhfdF9UUkFnUm5sS2dMRkZNa1NSNHM4YzRuT2JwSGc3RjRvbjNzdjZzMTJJRlpLelMzTkZFLTFEYjNUMkY1S01vbmtXQ2s2M2JFaUpyZHFjc0ZqTU1SV0JlMl9Xb05XTjdmWWRJOGVnWjdITmdUbW5fcEx6aVNhSUNxVFR5QTRLcTBHT2ZEMjBlbUJYX2ZWZkFMcHloQQ?oc=5",
-        "date": "4 oct 2026",
-        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
-        "_pub_raw": "Sun, 04 Oct 2026 00:50:12 GMT"
+        "title": "Fidalgo destaca evolución del fútbol mexicano tras el Mundial 2026 y apunta a crecimiento con Rafael Márquez",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbEd2d3F0QzctME9sOFJmcGZFVU1wZ1Z2VDYxS2NkemRFYXBNTmMzczJqVlhsY0lKMUdqSXlUVVdpOXRiVHlCVlpZUWtsNGhmRl83RUJrYVVtNkhNLWVwOElkQkUxaGFLSDl5cjNkS05nazBoVDc4dThKUTJYUURtUmpSVEhwckpLbjIyWTg2M09kV1dTbklXTlpQUmI2QVR2TVRxMWpCQmhwcHZiR0VQVVM1TGJmaEVjYXRLUHBQc2ZJQ1lZeXVMMjRuU05tNGNIV1hvbzl3Nmh6bDJoODdKVzNtSmNIR2wyYTJCTUU1aE1xdXFhY3c?oc=5",
+        "date": "3 oct 2026",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Sat, 03 Oct 2026 01:07:13 GMT"
       },
       {
         "title": "Hormiga González creyó que México podía DAR EL SALTO en el Mundial 2026: ‘Estamos para MUCHO MÁS’",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUHFlMGwtYnJiYXl6SHlOemNRdEM5N1dBcGRSbHdHdG1mdlFfR1BCZ3pHVF9QRzZxNG40cTJvTlF6TFNGUG1ZN2RPOWpDMkhzOG4xRWdFaTRtempEX0UwZWdWWDlrUmJHLUpRSHpVNnl5cWNYSHpWcVM2SjNPRGV4WVpRN1Z0ODZ1bFRaVGdQTWwzMElYVjdWb0h5VjEtUllRb1RPMGVyMUtobnpSdHE5ZGN0cGJiWDdaOXg1ck50YTJaM3M?oc=5",
         "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Sat, 03 Oct 2026 14:40:57 GMT"
-      },
-      {
-        "title": "Claudio Suárez pide a Rafa Márquez no cargarle toda la responsabilidad a Gilberto Mora: “El chico no es Messi”",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd2V2SmRuMENFTlQyZnBhR0R5Um0zc2lnZWl5WUY5Yl9Cdnc0U1ZkaHl5NERSTWpKaWFzcFpNSG9ndVF6MGttcUNuZWJqdnZkbE4weFBKNVVaSFgwTDdnOFg4VEM4VWRLQTNQVTkyb3J4WktUQmlta2Y5T1lSZHRTUHhsR3VocktyS0dqVjVldGhySm9tTEJUdktzR0E1cF9vLWcyQ2xkZ2gxdnFybWtueFk5bmRSa3k5dlpHNFo0bno2eEdtS0NrT3E5REVFd0tHSHFoUmhBR1JiYjgxVE9Kem9zcFN0bk5VMk5MbldIODbSAYsCQVVfeXFMTnJtb1hyeWJmLUxqN3NoUjRPa2ZSbWk4endaWkJfOGI2dlR5WENabXJmSVNQX1NiWjFaRHpNZFZwTWpwZjlWbDlXVWthUUJnNVVSS0tDVVRBbHNBajR2UnQxWElRYXZWdUt1bk04cjUyXzFTeklXRlVITGg5ZWpVZTZoeE9yUHJ1X3AtcklGNS1DbkJ4ZVQybDl5RTJYaFV5eGJHVU1wOVZ3ZUJrTm8wZW9IS3NyeDRfbW1hd0FTbjJBWTJDc0JESkxOWmVoTjhGcFE3U1hoak41Mk5YUEg3VXpSeXFEMG1xNkNRV2xBSHlmd0R2ME9TM3kwZnhYdXJuYmRZTzR6b3ZveWFr?oc=5",
-        "date": "3 oct 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
-        "_pub_raw": "Sat, 03 Oct 2026 18:28:00 GMT"
-      },
-      {
-        "title": "Nápoles - Arsenal de Champions League 2026/2027: resultado, resumen y goles",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHctdXBUUmswTF9wVzlSZ1B1WjFDVmFQUXhaa3h6Q0RBbW1fMm5MMFRtNHdaaXZEQV9ndkE5US1fOUM5NUVrSW1YUVM3Z05rQ2NuWnE0YkFaRER1SHpiT2g1UXl1b0VIM2I2Vy12ak83N3RkV1NFbFZueG5vYktBUFNtRDhBNV8xY2ZQdC01M2VLQktHbGNYeUotb08?oc=5",
-        "date": "2 oct 2026",
         "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
-        "_pub_raw": "Fri, 02 Oct 2026 16:01:01 GMT"
+        "_pub_raw": "Sat, 03 Oct 2026 14:40:57 GMT"
       },
       {
         "title": "Resumen Francia-Italia: Donnarumma y Bastoni amargan el regreso de Zidane a casa (1-1)",
