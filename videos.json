@@ -1,7 +1,14 @@
 {
-  "updated": "19/10/2026 03:42 UTC",
+  "updated": "19/10/2026 15:20 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "I0BGBPRJUtI",
+        "title": "Breaking Down EVERY NBA Division 👀 | The Association’s 2026-27 Season Preview Special",
+        "thumb": "https://i.ytimg.com/vi/I0BGBPRJUtI/mqdefault.jpg",
+        "date": "2026-10-19",
+        "url": "https://www.youtube.com/watch?v=I0BGBPRJUtI"
+      },
       {
         "vid": "FCjQb2Oo4K0",
         "title": "This Ja Morant save to Dame from the preseason was insane 🔥",
@@ -31,13 +38,6 @@
         "url": "https://www.youtube.com/watch?v=BlSxoP_smiY"
       },
       {
-        "vid": "GmFlYMeFpAc",
-        "title": "Anthony Edwards &amp; LaMelo Ball Looked DYNAMIC during Preseason! 🔥",
-        "thumb": "https://i.ytimg.com/vi/GmFlYMeFpAc/mqdefault.jpg",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=GmFlYMeFpAc"
-      },
-      {
         "vid": "pNiX_ybqDXE",
         "title": "Lakers/Nuggets Postgame x Analysis: J.Worthy, Reaves, Kessler, Redick Reactions | Oct 16",
         "thumb": "https://i.ytimg.com/vi/pNiX_ybqDXE/mqdefault.jpg",
@@ -60,6 +60,13 @@
       }
     ],
     "pd": [
+      {
+        "vid": "x4fw-zatbz0",
+        "title": "Ari Sanchez making sure there&#39;s no angle for the defense 🪄#PremierPadel #OyshoMilanoPremierPadelP1",
+        "thumb": "https://i.ytimg.com/vi/x4fw-zatbz0/mqdefault.jpg",
+        "date": "2026-10-19",
+        "url": "https://www.youtube.com/watch?v=x4fw-zatbz0"
+      },
       {
         "vid": "Ruh2J9n4Qzg",
         "title": "The Championship M0.0ment of Coello and Tapia, securing their 12th title of the season! 👑🎻🏆",
@@ -87,16 +94,37 @@
         "thumb": "https://i.ytimg.com/vi/OKIKY3D9q2s/mqdefault.jpg",
         "date": "2026-10-18",
         "url": "https://www.youtube.com/watch?v=OKIKY3D9q2s"
-      },
-      {
-        "vid": "L_BahBDOmqA",
-        "title": "GPS signal lost 🧭 Cheat code activated 🍔🤯",
-        "thumb": "https://i.ytimg.com/vi/L_BahBDOmqA/mqdefault.jpg",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=L_BahBDOmqA"
       }
     ],
     "fx": [
+      {
+        "vid": "vEKL0JMXMOE",
+        "title": "REFCAM Real Betis vs FC Barcelona",
+        "thumb": "https://i.ytimg.com/vi/vEKL0JMXMOE/mqdefault.jpg",
+        "date": "2026-10-19",
+        "url": "https://www.youtube.com/watch?v=vEKL0JMXMOE"
+      },
+      {
+        "vid": "EdgcOJ9af8g",
+        "title": "CANCELO no dudó en seguir calentando pese a la lluvia",
+        "thumb": "https://i.ytimg.com/vi/EdgcOJ9af8g/mqdefault.jpg",
+        "date": "2026-10-19",
+        "url": "https://www.youtube.com/watch?v=EdgcOJ9af8g"
+      },
+      {
+        "vid": "pZdaztQDvkE",
+        "title": "¡Solo 7 DÍAS para el BALÓN DE ORO! 🏆 | Los nominados de LALIGA",
+        "thumb": "https://i.ytimg.com/vi/pZdaztQDvkE/mqdefault.jpg",
+        "date": "2026-10-19",
+        "url": "https://www.youtube.com/watch?v=pZdaztQDvkE"
+      },
+      {
+        "vid": "TjFofFc24xU",
+        "title": "LAMINE YAMAL celebrando la victoria",
+        "thumb": "https://i.ytimg.com/vi/TjFofFc24xU/mqdefault.jpg",
+        "date": "2026-10-19",
+        "url": "https://www.youtube.com/watch?v=TjFofFc24xU"
+      },
       {
         "vid": "er8HBSyumS4",
         "title": "Arda Güler ☝️",
@@ -105,32 +133,18 @@
         "url": "https://www.youtube.com/watch?v=er8HBSyumS4"
       },
       {
-        "vid": "XptNclIclHs",
-        "title": "REAL MADRID vs SEVILLA FC | RUEDA DE PRENSA",
-        "thumb": "https://i.ytimg.com/vi/XptNclIclHs/mqdefault.jpg",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=XptNclIclHs"
+        "vid": "lm_C9qPyt4w",
+        "title": "A clinical finish from Hyeongyu Oh 🦅",
+        "thumb": "https://i.ytimg.com/vi/lm_C9qPyt4w/mqdefault.jpg",
+        "date": "2026-10-19",
+        "url": "https://www.youtube.com/watch?v=lm_C9qPyt4w"
       },
       {
-        "vid": "91nSp8w5O8I",
-        "title": "MÁLAGA CF 2 - 5 REAL SOCIEDAD | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/91nSp8w5O8I/mqdefault.jpg",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=91nSp8w5O8I"
-      },
-      {
-        "vid": "ah8UJGIXTEg",
-        "title": "REAL MADRID 4 - 1 SEVILLA FC | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/ah8UJGIXTEg/mqdefault.jpg",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=ah8UJGIXTEg"
-      },
-      {
-        "vid": "yu_va7r7kko",
-        "title": "REAL MADRID 4 - 1 SEVILLA FC | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/yu_va7r7kko/mqdefault.jpg",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=yu_va7r7kko"
+        "vid": "rsuH2kuaaqk",
+        "title": "Wow!!! 😱",
+        "thumb": "https://i.ytimg.com/vi/rsuH2kuaaqk/mqdefault.jpg",
+        "date": "2026-10-19",
+        "url": "https://www.youtube.com/watch?v=rsuH2kuaaqk"
       },
       {
         "vid": "LkxSfY7NAUk",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/LkxSfY7NAUk/mqdefault.jpg",
         "date": "2026-10-18",
         "url": "https://www.youtube.com/watch?v=LkxSfY7NAUk"
-      },
-      {
-        "vid": "HGlOc25MHh0",
-        "title": "BEST Saves In The Europa League &amp; Conference League Matchweek 2",
-        "thumb": "https://i.ytimg.com/vi/HGlOc25MHh0/mqdefault.jpg",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=HGlOc25MHh0"
-      },
-      {
-        "vid": "2msU6YGShFw",
-        "title": "Special goal 💫",
-        "thumb": "https://i.ytimg.com/vi/2msU6YGShFw/mqdefault.jpg",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=2msU6YGShFw"
       }
     ]
   }
