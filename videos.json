@@ -1,7 +1,21 @@
 {
-  "updated": "27/10/2026 14:05 UTC",
+  "updated": "27/10/2026 20:28 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "T42PeaYmDn8",
+        "title": "Ajay Mitchell Had A CAREER-HIGH NIGHT In OKC vs SUNS | October 26, 2026",
+        "thumb": "https://i.ytimg.com/vi/T42PeaYmDn8/mqdefault.jpg",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=T42PeaYmDn8"
+      },
+      {
+        "vid": "C3C6dPCeo9M",
+        "title": "EXTENDED: TIMBERWOLVES at CAVALIERS | FULL GAME HIGHLIGHTS | October 26, 2026",
+        "thumb": "https://i.ytimg.com/vi/C3C6dPCeo9M/mqdefault.jpg",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=C3C6dPCeo9M"
+      },
       {
         "vid": "BU3BDM6yPQ4",
         "title": "NBA&#39;s Nightly Recap | October 26, 2026",
@@ -22,20 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/8lmFr5sHxFc/mqdefault.jpg",
         "date": "2026-10-27",
         "url": "https://www.youtube.com/watch?v=8lmFr5sHxFc"
-      },
-      {
-        "vid": "b6D9LMRoRto",
-        "title": "Yaxel Lendeborg THROWS DOWN a MONSTER ALLEY-OOP and GOES CRAZY! 🔥",
-        "thumb": "https://i.ytimg.com/vi/b6D9LMRoRto/mqdefault.jpg",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=b6D9LMRoRto"
-      },
-      {
-        "vid": "gIEkghp_0Z8",
-        "title": "The Steph Curry Experience is Phenomenal",
-        "thumb": "https://i.ytimg.com/vi/gIEkghp_0Z8/mqdefault.jpg",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=gIEkghp_0Z8"
       },
       {
         "vid": "b5fMLihWd_0",
@@ -61,42 +61,56 @@
     ],
     "pd": [
       {
-        "vid": "i3At6ACyriA",
-        "title": "Kuwait Premier Padel Major 🇰🇼🎾: Day 2 - Men&#39;s Highlights",
-        "thumb": "https://i.ytimg.com/vi/i3At6ACyriA/mqdefault.jpg",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=i3At6ACyriA"
-      },
-      {
-        "vid": "nBjYrGxUkVE",
-        "title": "Kuwait Premier Padel Major 🇰🇼🎾: Day 2 - Women&#39;s Highlights",
-        "thumb": "https://i.ytimg.com/vi/nBjYrGxUkVE/mqdefault.jpg",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=nBjYrGxUkVE"
-      },
-      {
-        "vid": "Avri0c1bcIg",
-        "title": "Kuwait Premier Padel Major 🇰🇼: Court 3",
-        "thumb": "https://i.ytimg.com/vi/Avri0c1bcIg/mqdefault.jpg",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=Avri0c1bcIg"
-      },
-      {
-        "vid": "mkBnmkAw4b0",
-        "title": "Kuwait Premier Padel Major 🇰🇼: Court 1",
-        "thumb": "https://i.ytimg.com/vi/mkBnmkAw4b0/mqdefault.jpg",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=mkBnmkAw4b0"
-      },
-      {
         "vid": "qiwOmZnjyLw",
         "title": "Kuwait Premier Padel Major 🇰🇼: Court 2",
         "thumb": "https://i.ytimg.com/vi/qiwOmZnjyLw/mqdefault.jpg",
         "date": "2026-10-27",
         "url": "https://www.youtube.com/watch?v=qiwOmZnjyLw"
+      },
+      {
+        "vid": "4OYa8UacaKI",
+        "title": "Agustin Tapia doing things nobody else can 🎻🔥 #PremierPadel #KuwaitMajorPremierPadel",
+        "thumb": "https://i.ytimg.com/vi/4OYa8UacaKI/mqdefault.jpg",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=4OYa8UacaKI"
+      },
+      {
+        "vid": "NgYUiM3m7Io",
+        "title": "Kuwait Premier Padel Major 🇰🇼🎾:  Pista Central (🇪🇸)",
+        "thumb": "https://i.ytimg.com/vi/NgYUiM3m7Io/mqdefault.jpg",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=NgYUiM3m7Io"
+      },
+      {
+        "vid": "MXwTOKa1V-g",
+        "title": "Kuwait Premier Padel Major 🇰🇼🎾:  Centre Court (🇬🇧)",
+        "thumb": "https://i.ytimg.com/vi/MXwTOKa1V-g/mqdefault.jpg",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=MXwTOKa1V-g"
+      },
+      {
+        "vid": "i3At6ACyriA",
+        "title": "Kuwait Premier Padel Major 🇰🇼🎾: Day 2 - Men&#39;s Highlights",
+        "thumb": "https://i.ytimg.com/vi/i3At6ACyriA/mqdefault.jpg",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=i3At6ACyriA"
       }
     ],
     "fx": [
+      {
+        "vid": "CPMLcvAG3sM",
+        "title": "Así brillan los FICHAJES del REAL MADRID de MOURINHO ⚪",
+        "thumb": "https://i.ytimg.com/vi/CPMLcvAG3sM/mqdefault.jpg",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=CPMLcvAG3sM"
+      },
+      {
+        "vid": "QH60h5T4mB0",
+        "title": "Recursos infinitos de DON ISCO ALARCÓN 🎩",
+        "thumb": "https://i.ytimg.com/vi/QH60h5T4mB0/mqdefault.jpg",
+        "date": "2026-10-27",
+        "url": "https://www.youtube.com/watch?v=QH60h5T4mB0"
+      },
       {
         "vid": "EkXR7HCzITM",
         "title": "REFCAM FC Barcelona vs Real Madrid",
@@ -119,18 +133,18 @@
         "url": "https://www.youtube.com/watch?v=SEOuT9ea3HU"
       },
       {
-        "vid": "MEeSDKeM12A",
-        "title": "La acción de BELLINGHAM que desencadenó el gol de MBAPPÉ",
-        "thumb": "https://i.ytimg.com/vi/MEeSDKeM12A/mqdefault.jpg",
+        "vid": "UQLA1cKaa4E",
+        "title": "How Harry Kane won the Ballon d’Or!",
+        "thumb": "https://i.ytimg.com/vi/UQLA1cKaa4E/mqdefault.jpg",
         "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=MEeSDKeM12A"
+        "url": "https://www.youtube.com/watch?v=UQLA1cKaa4E"
       },
       {
-        "vid": "B-qo9tNVxUg",
-        "title": "Yan Diomande 💎",
-        "thumb": "https://i.ytimg.com/vi/B-qo9tNVxUg/mqdefault.jpg",
+        "vid": "WYgrySf9C8c",
+        "title": "This Is Why Harry Kane Won The Ballon D&#39;Or 2026",
+        "thumb": "https://i.ytimg.com/vi/WYgrySf9C8c/mqdefault.jpg",
         "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=B-qo9tNVxUg"
+        "url": "https://www.youtube.com/watch?v=WYgrySf9C8c"
       },
       {
         "vid": "DVsOSfGKUuw",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/DVsOSfGKUuw/mqdefault.jpg",
         "date": "2026-10-27",
         "url": "https://www.youtube.com/watch?v=DVsOSfGKUuw"
-      },
-      {
-        "vid": "Z6R9lUv3pIw",
-        "title": "Harry Kane’s Ballon d’Or moment ❤️",
-        "thumb": "https://i.ytimg.com/vi/Z6R9lUv3pIw/mqdefault.jpg",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=Z6R9lUv3pIw"
-      },
-      {
-        "vid": "-VUPLz-ZNs8",
-        "title": "Wait for a wholesome Olise reaction",
-        "thumb": "https://i.ytimg.com/vi/-VUPLz-ZNs8/mqdefault.jpg",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=-VUPLz-ZNs8"
       }
     ]
   }
