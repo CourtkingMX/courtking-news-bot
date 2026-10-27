@@ -1,8 +1,319 @@
 {
-  "updated": "26/10/2026 20:54 UTC",
+  "updated": "27/10/2026 04:07 UTC",
   "sports": {
-    "bk": [],
-    "pd": [],
-    "fx": []
+    "bk": [
+      {
+        "title": "NBA Resultados: Los Knicks se olvidan de ganar y LeBron sufre primera derrota con Sixers",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNlhJUmpOWU1uQzUydm12dlh1NlFNNzc2TmxXUTYzQXNSaWVNdUxoOGpaU2pEbE1zdlBWSzA3RmVsMkZuRXgwdzE5S1B1NkpUZjh2ektwYnFKWFBzTGRZUVpmNlhsaURoQ1QyTDRxT0V6NmhCX0wzZ0JZa2lkZGlrVGR1cWIwaVJFRmtzbU5JN2NkWFJTd2RnT1d0bXFiZFNMNXJTTHRmSjFHd2l0cnRGVkM0RTI3dWdBcDNRaGF6Tm53LXd6eFFHSnpTTdIBywFBVV95cUxPNlhJUmpOWU1uQzUydm12dlh1NlFNNzc2TmxXUTYzQXNSaWVNdUxoOGpaU2pEbE1zdlBWSzA3RmVsMkZuRXgwdzE5S1B1NkpUZjh2ektwYnFKWFBzTGRZUVpmNlhsaURoQ1QyTDRxT0V6NmhCX0wzZ0JZa2lkZGlrVGR1cWIwaVJFRmtzbU5JN2NkWFJTd2RnT1d0bXFiZFNMNXJTTHRmSjFHd2l0cnRGVkM0RTI3dWdBcDNRaGF6Tm53LXd6eFFHSnpTTQ?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1785103182040-db9dab2e9964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXN1bHRhZG9zJTIwa25pY2tzJTIwb2x2aWRhbiUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5MzA3NDAyN3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 02:09:26 GMT"
+      },
+      {
+        "title": "Lesión de infarto en la NBA; Jalen Williams deja en shock a Shai Gilgeous-Alexander y todo el Thunder",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbzR2SFFBYTFpS201NlRCa3BOYUMtT21ROVNxUTcwVkVfN1FmdlBHT3NGelplRThVdVBnZ1FGQnBPVGE1UnpzOTNSVFktMUJBX0k0Z2ZwM3R0cFJyOW9tcmdlaFdlTHhvN3lfRzBvNjNidEtoeF9STmJwVDNlQ0xuVE5hTVJUdWdlU2xxa3dEV3VGd0dhaTBHNG8zTjQ0RTNLRUFYQ21uTEFzWVpGVGZGcXJBNWV2ZmZCSDVxdjZkVFhaRGVTTW1ZUFBIYnPSAcwBQVVfeXFMUEprdWhyYzc0V3Mwek1IaVhwbHVRYTd4Tk1ZbVJpdy1EMGdYa0gxTTdybTlVZDZIQkszbVNLYkVJMlp1Nm9odmdFRjNYTGd6d3ozWFoyZXFFM0tyYlRKTno3NWNTLTBneU5IenBtUW41RVRobzFzMTB1blBmZWV2a3doX0dIODE5Qkd3MS1TRDBQTmFRU2JiTzRjSVptYVo4R3FIX2hvOEUzc1U3SUZsZTEyc24wZ2d5V2o4VkFJN0RNSHRKcThMR1luemNo?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
+        "_pub_raw": "Sun, 25 Oct 2026 21:54:00 GMT"
+      },
+      {
+        "title": "Jalen Williams se lesiona de gravedad en los Thunder: Gilgeous-Alexander se echa a llorar",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGZDMm84VDNURzFwZnVQcTFlNjhMZTlFYjI4enBOQUFnQkpOWHlGQi1NaXRTUk5hTU5WTENlMUxHUG5nb1ZzXzFaenBjaGVzQlVjWVF1Z0d4YTQydXVlTUMxbmlsY2RROTZQZmtYblNyVFZVNzE4T0VrMENqbURQSWRCZDhpai1sUlRyc1hBN0UxcVM5R05YZUVaeEhvSnR4SDFDcjZfdWw3aFBBeVhqckcwTmI3MmV0cFFHeERCVGhIT2ZUSWNhaFdLa04xR2JBUTBkSGJEU0LSAeYBQVVfeXFMTjlzaWF3M0VHU0hlaVlFdTg5ZjhKV3Jtb09sdkpqekpHNElZdzFpQWZEdE45YnVTazJIQ0xDVjVkSnNLSjJISTFlaWlMRXRzcHdFZU82ZmlkNXlmN0l3YjdTbTFIcDhVV3dVMTBIZVFiN2xVVzBVd3ZuSVp5TWM5TVg3RjAta2hGd00yLVpCSWg1eTY1UFJrZ0RjWGdCYmJxUlRjcHY4ODBUYjR2Y2wxdWpoVkZKbl9wanRrOUd5S0FqY2NCQjVud0kxbEwzdVd5ZjNTdkRvTVltTVRzMl9va0xGUURYTnc?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1478317370563-0a8fc17e6837?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxqYWxlbiUyMHdpbGxpYW1zJTIwbGVzaW9uYSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5MzA3NDAyOXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 07:02:40 GMT"
+      },
+      {
+        "title": "Philadelphia 76ers vs Detroit Pistons: horario y dónde ver hoy por TV y online la NBA 2026/27 a través de DAZN",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSG9FVmozTWIwNndyUHN2d1hHQlRPdWtHUWpUbTM3RDR6MnNkX0FNZ2JiTV9JZzN2bDRUdEJsM0x3YU84NVI3MmFnZTBzcldXVkZfQjZnRWVzWnllQjJ2OVBKc2t4RzB6dDk4QkhqYWVyUzFPeFJKaWw4QTBRa3pGR21oN3UyRUlGNTN5YTNmTU1ZdFlGR2JrRUVYSExnOW12TDRLUW5uYUd1V0hSVVhZRHU4cEFpeGdvTWthOW9KVUctSGRPcGlvSlZuVzNkNUp4dldDQWR6a1FlbXRRamliZE16SnFWTnRNR3Fhd0RzeUNPOXA1Y0E?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?w=480&q=70",
+        "_pub_raw": "Sun, 25 Oct 2026 15:30:00 GMT"
+      },
+      {
+        "title": "Doncic enloquece con la victoria del Real Madrid: ¡récord absoluto de puntos en la NBA!",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMHRvNFF0aXVWaUJ1bm9HdmlITlJYWDJKM0MzODlfaXNUYmNjWlpYSlppMTE2SWdQWWY3YmJwMjZ4eVdPYll5OVRkMUhhSHg2aThxa195emNvMk5GZVpBa3lXMG5OcmpCQkVSRW1xRGpsdXN2NHV0RS1EcGpuUzlteEZLZHFTR0d4NHpld09pc3cyLXhRUXMwOXVBZ0lmR2gzYTJ0WlRDSm45c3BJVC1MdDIwUXhXUklmZGxEZmwzNzlUSjNvamtnTm1iQlJOSkY20gHeAUFVX3lxTE9zXzZ5LUdaUXpGXzNiR29hQkR6ZXIwTGI2ZHpLcm81V01UcWVkN3Axc2xOay01aHQ1U3RWa0F4U1BsOU8wZWtTTHRFc2VPaG56RmczdGN2amx0dFU2Zk4zQWtxOUYwM1BQN2pPTUJlRlV4S1VFcWJMVEFsUHgxZlBxNFdyLWtKTDFZbzRHR3VQOUFuVVU4TEtQZkI4Y2IxUFl6Y1BTYVZzZnhlQzlZaTYtclo2Mll4V2N5WExqaVRTU1hUZER1azJGNndpYkxyZDNJcVhKaUY4QkVTVXBRQQ?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 06:59:56 GMT"
+      },
+      {
+        "title": "NBA Today (26/10/26) - Stream en vivo",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzgtQnJiZlpoQUhCYU41OVJVMXpHcUQ2S1d1dmpVV2NJMUNIZ0FXam5fcTBRM1dKSFBkUmdIXzEwRkc1SkxURHU4aFZtMERUdUVvbHlqWVJ2Nmx5UVBiNXhkZFJ4RERHaFBaZm9wQVdJc1ZYVnpmVmhtTkZnNGwzZGVKNE5VUTVtYUFWSQ?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 20:59:57 GMT"
+      },
+      {
+        "title": "Jalen Williams (tobillo) y Cason Wallace (hombro), de OKC, irán a cirugía",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnVYbW1WWm05VTd1X3FnY2NKZ0lJWFNGeVRXdEVaQjBUeVFhSnFydks4OXYtRXRlSV9xSjdrWDROanhsZzJMdUdveHVNRU81a0lVNVV6TVJhZHNwSWUzanhRMFZPQWgtZVEtdDloSzRrWFJyeXZoOV9QOVVwYUhxcy1nWHhGQ3JrYjVZMFBuM2tPanNPV0l3OEd6cGI2T2NCbjFMS2l2ZngyZjl5VWkwdUFGNDhGUQ?oc=5",
+        "date": "27 oct 2026",
+        "image": "https://images.unsplash.com/photo-1654000680055-a6c0dbe25c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxqYWxlbiUyMHdpbGxpYW1zJTIwdG9iaWxsbyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5MzA3NDAzM3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Tue, 27 Oct 2026 01:00:00 GMT"
+      },
+      {
+        "title": "Pritchard, Caruso y los suplentes de lujo en la NBA",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFQzLWtzVnNDWU9zZ2ZpWW9PQVBxcDU4Qk1tbXFWNHdXNnF1ZGdUaFF3UEoydlhEWXNBc2Vjeml4WHRmVFA3czVpNW1aeTdPOTFPQ0VHMjVlbF9ESFk5V1VybE5qRHBuek1uaEs4QU51UmVPODJWUXBHSEE3UEVQMHJiOWVDUzA4VlBJV2toZzZQRkN3Y0FHWmVEcG90Z1IyTUdKWmR3?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 14:10:00 GMT"
+      },
+      {
+        "title": "Doncic brilló con 52 puntos, LeBron perdió por primera vez con Sixers y Knicks aún no ganaron",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUR3ekY5c1BiMVJnN0d3ZjdlRmJnRm1XSGZrWGRPdWVoX2hFa2ZLWlJOenMxdDBFT24wai1HX08tX1hFNDl3U29vTUdULWlOMHdoYWRrcmNJcm9nMFBMR1VwS3J6d0NqWHBJVURlZTZ4Z3lSOHJoMmhKT3NGM0xSN1hjbHF6YXdXYllNeFh1blQxNjhOYUtydXZ0aFp1ZkJCbkRRbUdLSldLTG1NQ2lHeUN5RzZ1enp2RzBhTUFmYVJlT0s4Z3pxdUpydjVLODhycW5zUXJDTldrV3hJb3ZaVUxucjdCSHFj?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1752166670860-4cd0952b7306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxkb25jaWMlMjBicmlsbCVDMyVCMyUyMHB1bnRvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5MzA3NDAzNXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 12:58:00 GMT"
+      },
+      {
+        "title": "Luka Doncic anota 52 puntos en la victoria de los Lakers ante los Jazz",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUNKQkZaT2p4cWFUam53dEFYejhxaFpaSkFuMGVGelZraTJQSzNKVE04TE9KMnNJaVIwSzBLNkh1akpZX0hucWF3STZuR2sxWVZxTHcyQ05iUUF0UmlXWGxHUWc3V19KR0VRYl9jWENpZUE4cU0wR3lBZ3ZwMWduSGR2UUM1eHFhSW9DQ2hGMTNlVjVKZ3pZVDkxUmMtWWFqQTVhU0kwZDQtRDZiZ0NTYmkyVl8?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1586276568683-643138eac270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsdWthJTIwZG9uY2ljJTIwYW5vdGElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTMwNzQwMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 02:15:00 GMT"
+      },
+      {
+        "title": "Jalen Duren, de Pistons, estará fuera 15 días por distensión en isquiotibiales",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTm44RG9fWlY1T2VqRjNhbWJUdm9mMHQ3THNuUzJBWVJJalN0TVNCNnAzdGpZUUtBVUYwWWpWVkd5MDY3UkVIZEFZb1lScmk0UG8xZEpGdk5wMWdiVlhnUWhPal9sNXpRS2tmSk1XZW5tbzdKYklmcDNoLThRQWhobC1zWG1NRG5QdlRhbW9Dc2tkOHQxTXphSDlhUEFTNlFhYVd1LUJRRVA0QW42UlE?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
+        "_pub_raw": "Sun, 25 Oct 2026 17:36:00 GMT"
+      },
+      {
+        "title": "Sixers ganaron sin LeBron, Giannis volvió a sufrir y Jokic brilló con su triple-doble 199",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUhaMXVrX0VCaE9RME9BMDFiTUItaDZvY2dEbWJQQ29mVzJQNWt4QXQ2VDRYaXVzc0xZaWJLWURpYW51YTRBVi1mVVJWcVFUUmlXbFVyd3RpN05XUklLSWU0M0JHNWJnaEFSai1xYzFfNnBTTThIbE9tWndDMDVnRjRKc0UyYXl6ektNLTc0WkRkQU54aEl6RkZ5dWs3cE5qV19tVDA3RHdUWjJINVByMnY1YkF1bFJya3ZPUmN0bkswemZ0Q1piLVdlajJXYWVr?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
+        "_pub_raw": "Sun, 25 Oct 2026 13:45:00 GMT"
+      },
+      {
+        "title": "¡Día de locura deportiva! MLB, NFL, NHL, NBA, WNBA y WWE coinciden este lunes",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzVBLUNwdXRZNUN5dzFpa3pqSmtHcGNEdVJrY0J5OExCZjRFT2Z4cXNXcUpIM1F4WVJQWjYxNi1RbnFwODZaTmxrRXl6bWxNOTVsTVVkOEg1SU9BeXMzQmpFX3NaSVphLThNbjhXeFh2R2hQLWJ3MkZ5TlQ2T0Vab200RWs5Z1pzM1hvRUF0cTFxc2xUYlNaRjM3Zw?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 18:47:00 GMT"
+      },
+      {
+        "title": "NBA Finals",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WTFFLRFhVb2NzVnJHaWJhMjZFc0NoQmJGTjgyRUlOU1A2WnRfUHAxRkdnb0hSWnV1aW0wT0NmWTZxN3BNU0VjdzVEWXRQbl8wYS0w?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxmaW5hbHMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTMwNzQwMzl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 06:57:48 GMT"
+      },
+      {
+        "title": "Caleb Wilson sorprende en la NBA: iguala el inicio de Michael Jordan con los Bulls",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUk9GQnVic2dSeVdFS3h4cFBCZ0ZyRUY0R2g0U3plQUxQaXJsY2lpaTNITVotVEZiQllmaE1WU3pvSzhyM3lGRjdZa3pndkxjN3JwaDZ1Z0hQTGw2Nk1VUnBucjZubUh0MGtuN2laMkVPUzkxY3hPdEpwRVV5cnRUMElnVWplbkFzWE9ZQTBVdnd5VnEzN0lSQXBTdVN3YVBl?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1577471488278-16eec37ffcc2?w=480&q=70",
+        "_pub_raw": "Sun, 25 Oct 2026 19:08:00 GMT"
+      },
+      {
+        "title": "Houston Rockets vs Minnesota Enero 2027 — NBA",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0laaVpaTXpiQlkyeC1DSWJpbVhWMl9ZQ3FPcmhva0FQd1dXWDB6UGdfQktDY01VbnFyWElsRDZPUnJ5Y1ZadEE3VDZtZjl6LTU3NFdzVUZiRmY1NDhxb2hkY0xnaXZJak43Q1MzLVRQLXQtLUczRzc0c2JOUlhuRFhQZkpRQkdDTnlqN3Y2Q0hxQTMyVW5KTQ?oc=5",
+        "date": "27 oct 2026",
+        "image": "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?w=480&q=70",
+        "_pub_raw": "Tue, 27 Oct 2026 01:10:00 GMT"
+      },
+      {
+        "title": "Nueva Orleans Pelicans vs Minnesota Marzo 2027 — NBA",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGdEZHpvV1JTZnhkVTBVVXZaNWViNnJFTHBfd0cxNEFsZnNtWWJfYlB3cVczcEZjNlNYdkhCS0c1dEVrQjVsa0docE4xa3ZFMFdTVlFQcF9qckEtUWZLQk5yR0dWY2Nka0xSV05UaDVHOTYwTUtWRWdxdS0wZGpSWkpORVBWY2o2aXF4ekhYNFJxbzA0OUF2WjQ0d1ltQQ?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 06:06:31 GMT"
+      },
+      {
+        "title": "Jalen Williams del Thunder sufre escalofriante lesión y abandona la duela en camilla",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR09xdTMzXy1mSF9kOTJVaDlqcHdaaURjc09sVnRUaUdnYlJzZWtyaVAtbFhYWnQyWndTUWVwR2VHeFNIV2h3ZmxqX1FHRTlPZXpWellZRVd6emVVWHp1Zm5fRVVOR3l5Z1N4dHVLY2R4aFYxcFlHdTB2MjZyYkVVYVBybXI0MUNTaDBhVldoNzd6QlFEWlY0cThBQ01BQ0tWVzh4NTRuM01pY2phclRjUEhDV3k3bXhTYWtaUUcxMF9zNy1DbVZjeWcxZ3R5NkF6ZDhvc3pn?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 03:06:00 GMT"
+      }
+    ],
+    "pd": [
+      {
+        "title": "Resultados de la segunda jornada del cuadro final del Kuwait Major Premier Padel 2026",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRy1ZRXYxcUNPRUhsVmdNYjZRelExVFEwcjlWOU9teWJQQkZHNFNvbWQxNG43YzBXUEFmVFkwUU94MUhkcXhYU2hSQ0pvUENHWlNYNXhfWl9QdlRUUFBjYlhrYTBBVXRWVTJ1OG5qbjR6WTRCM1FnVHlEWk9tdzJ0bUZCbW8wT3BDeWJHbDV6OThxLWpVUkU2SDdvUklmTGxqbDgyYXgyTUpWMWpfSWJiY1BDSQ?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXN1bHRhZG9zJTIwc2VndW5kYSUyMGpvcm5hZGElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTMwNzQwNTF8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 23:00:16 GMT"
+      },
+      {
+        "title": "Premier Padel Kuwait Major 2026: horarios, resultados en directo de hoy domingo 25 de octubre y dónde ver por TV y online",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZE1qX0RCNnVILTA4QTYxTi03S3VzSm9sOUljV0lpSGg5S1pmZUlmZkkwSHRPdGtsS0NISEhKcFJMT1d0V0RFVEU3LVFGdGp5U3FxNWFtdkVwQWQ1LWhSUTd3R19qV1NsTWhhTTZaVzNtSHk2RXh6RVhIV055UHlpdHZfMU1NU1HSAYcBQVVfeXFMT1hRZHl3VU1YWjlKcTJlVndwdmJFSGRkWlAxM1FZQmN0dV9sRUptdEtnTFZ2bGV1OGRYa3J3Z3ZQSW00Nm1OdW12VFVDSG9hSUVjMDFCRU9oX0RqOTlJbHoyd3hkYWZvR0dmcmYtMURXUnQ1QU9lWEEtTXFBZndkR0J4S2FsYTBz?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=480&q=70",
+        "_pub_raw": "Sun, 25 Oct 2026 11:08:34 GMT"
+      },
+      {
+        "title": "Resultados de los treintaidosavos de final masculinos del Kuwait Major Premier Padel 2026",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkdnb3EzeldocHJnUE5rM1RsNy1VcEh3U1FtZVh5eFRTZXEzd1FoUXc1azVwN0cxUXpTdE1aempndEY3ZThpRkNWLTI1LWN6elpsQlBrYnNyWERha0JlOG1EX3ZlUU1BZmU4TkNJS0diaGxDbVFjY1NhRUJLYlZvQ290Yk41VWQtS0ZVZzkxQms0REhYbXB2UnltRjJtMWE4MFJDRERhSzJjc0hTWDg3Tms3dDJsaDFp?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXN1bHRhZG9zJTIwdHJlaW50YWlkb3Nhdm9zJTIwZmluYWwlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTMwNzQwNTN8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 25 Oct 2026 23:11:39 GMT"
+      },
+      {
+        "title": "Juan Lebrón tiende la mano a Ale Galán para jugar juntos en el Mundial: \"Lo haría todos los días\"",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHJoM1ZQZ2V0QWhScjFaclNXRzVOd1pEOVRBLTdtQzlkOE9wMzZlNlFMd1hSOWVvMHVGZ0NzUFJlNk9VTzZvekRaNGl0VEVOUDhtc2xiZnc0dU9mZEItSWtqUmJJS3JxaHoxdjBmalRvUHB3Tl9GblRGNDNOX3lLSjdiSXRFNG5vX0hCTHR0X0pWdzFTRWdMTDg5OXNEMHZxTnRzbVpPcEgxeUNO0gGsAUFVX3lxTE9PbTQyZXlJZjJzMkZ4T1AwZUZyeWxHb2RGbVZBaXdnRk9sR2h0WlhpZy1YM25iYWNXbC1JVjIxSldnU0dyeC1zS2xVaGxWUF84M05MallTMTVtc1FEVlJTbmZtWG92YkcxaWJxZDdnTkQ5MlFYdEo2ZnlMbm93TmdRV1d0N1lmLXJtZXJSdVN5aHhTLTBNWEhzR1VQT2FlaDVtRkh5MjZJNTRTNGM?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1715333154980-f90747682166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxqdWFuJTIwbGViciVDMyVCM24lMjB0aWVuZGUlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTMwNzQwNTR8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 13:27:56 GMT"
+      },
+      {
+        "title": "Coello y una duda razonable: poder, querer o ser el mejor jugador de la historia",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN1pGWEhud0ROWElPOG5HUm14aEFVbW9MYzQzbklXUWkybHBWaWRsemd0Nkp2SV9RRHJlZ3pTWE9XSTd1SExaa0t3WHhXT3VwbTBOd2VzUTlaMkVBbm9qeE9XZDJCbGNCck1SdmZkTWpLV2N0Rnd2VTE1UnRFSVE0Tkp3b25TaW5WZTBuYVdIREc3ZlVwdVBhaXotNEY2WlY5Rk5YZVNR0gGmAUFVX3lxTE80M211NXl1ZHhRMzVxSU1ReDBGa2V4X3p1Q1JLam1lalU5OFVrdFpweTRLMUZRX3hIMTB6RHRlU3ZKT1ZCalRQODBuUUktMDJvdndNdGMwSkQ1UXo2Vno4R1lKLUdlb2MtSEZESHZQQzNYQ2JhM0RRd05GR1cycTRCeXRVd01PbUN3emVka25nSWN1VFpkMjIxaDF5NE1UUWo1d0xpVEE?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjb2VsbG8lMjBkdWRhJTIwcmF6b25hYmxlJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzkzMDc0MDU1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 10:48:42 GMT"
+      },
+      {
+        "title": "Tres parejas, un trono: la batalla por el número uno femenino entra en su fase decisiva",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEFNVE1uMFRnLU40WEtMb0xIMlYxdjhzSGU2QllpNUpiOW5DeGRfdmltNXR6Skx0SDZtRTEzeVl5bFNKZnpYTHRKVlZRNHAwZ05WMkZlaEVYZzkzWXZ6NzFqalpubE9VSjdiMTd1cG5CT0wtQnRfbVFNZms1LWV6cFdRd1VvZkVFUzhSeXFFazY2c0FweF9VWGJJalBZRTZTOXhrMzk5OFBBUdIBqgFBVV95cUxQbmhsMjBfeGpUbkVTNjNXdS1mYnFwWW41RU9JazdqSVFuN3d1cVBXQ2paZjVCMldYZ2t0OTJzU2tEWEN5aWhGdDAtM0IxS1ZBYWtFUVRMTXU5bE1nYjdDaWFBRlZLOEFRbWNKSk1hbUlOM3BEN0pKdWtfSUlWRVIxNVFQaGxrWE5WTVpIeEQ4M1RGS2ZObnhfWnZkTXlqenRhS2VicGUyeGZkQQ?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=480&q=70",
+        "_pub_raw": "Sun, 25 Oct 2026 11:02:35 GMT"
+      }
+    ],
+    "fx": [
+      {
+        "title": "Tabla general Liga MX: Posiciones, partidos y resultados de la Jornada 14 del Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaW1QYXdvR0p3bTJnai04WG5ORXJPVFNZbjdrQnM2T29ZX0xSUWctdU5rYXVOektpWE5kTHR5Wk5FbGIzOWtvbGdxRk93V1lEeWlHWDVPSlJ1Wld2djUyMENDYzFXV19QNTlWRWdXOWRscDFlbzZCLVhRMk9Ya2ZQYzlDckJsREc1R3Z3YUpmaDl2UDhJZEFYTWdLYXlURDRkaVNQSnN2RE5rYk1OYkxyMVN5SjFTbUNnZEJlQ0U3T3lKeXFCUVQ5SC1fTG10Z9IBzgFBVV95cUxPa0dQd1hTbGNHaXdfTXU1dzFha3U1TW5EMTVYMUFJQlQ0QVpmeWk0SnZsTjFUaFVTLVJ1c0d1ZnMwMHNydmFVYmE5MmZydzRjVWZOYW5pd0lzNVpwcGFtbGczQk5IRDlSRkRmaXFYUXRBMl8zWGppbEJMb3E2Zlh3NTRYdmVKeWlleHJnTUplT3NOVDBfWktZMjNVNnJmbnFHRVo5cXBSQ0NIU1pwbFJDbGFWRnpVb21ZZmtIejVIMjNhQzlQRlJCS0tIMHh2dw?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx0YWJsYSUyMGdlbmVyYWwlMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MjkzMzI0OXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 25 Oct 2026 21:19:00 GMT"
+      },
+      {
+        "title": "Liga MX: Así marchan las posiciones tras la Jornada 14 del Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcUNRMXVEN29mcFhDRGRzTVRZVkFWNXZHV2Y1UXdHTnpGSmkzU3diX0hqNWt4ZTFqMjNUcFdQUFJDZDhhaTlWU3NMTmJqdG1wcHFrLVlDMFpnM2tRS1BGT1E0YXpEUmVyMjRScHFMZDJzekpXdHVwMUFZem5RVmlHZ2JKU0JJX0FUajRIMnh0RW9UZnVrMXRqMlBGOW95Rzk0dlQzeGdIOGpZSUE?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsaWdhJTIwbWFyY2hhbiUyMHBvc2ljaW9uZXMlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkzMDc0MDY1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 15:38:33 GMT"
+      },
+      {
+        "title": "Juegazo en Jalisco y Atlas es tercer lugar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWFdJdFBCWmVEWE9nWFQzNkYtNHdTV29ES3hOcG9DdlUzMWEweDFNLVdKT2ZUeENYSnFVbllJNnRadkZVRENFWG9VeW4xVDZodzRIOWthYWQ0TzVvUDh4bDBIS3lGclBMczFFLWNfUTJGSjllZVpWbE91LXo1UUp2SFFaRGwtX014Q3E5eGIxNXU2SHRvczBsMjlYcG1GdmZSUWZ0QW1ydDJ2MHN3Rm1zMjc5MWM5bVdPbmFTSQ?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 01:18:53 GMT"
+      },
+      {
+        "title": "Resultados de la Jornada 14 del Apertura 2026 de la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM2o4QzFzMVB4SU5rVzR1SUpHU21pWGdEa3I1VlhBTWEwVWpMVnY0dTdEUkZvYmQtdE1vT0NYN1dwTlEwM0pfUGxnNmE5d3lmbmpKVjB4RGl1UUUzR3gyRDZjdTV5aGE4aExRNjVQSlZISnhDOEhWajVPdGU2OE80ZUZvVXM1X1ZsVEFFa01hYlBieEU0Mzc0cDNPamtud29RZkcw?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXN1bHRhZG9zJTIwam9ybmFkYSUyMGFwZXJ0dXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MzA3NDA2N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 05:25:47 GMT"
+      },
+      {
+        "title": "Resultados Atlas vs Puebla HOY: VIDEOS, resumen y goles del partido de la Jornada 14 del Apertura 2026 de la",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNnlybXFxTVZKYi1WY29yRUxfNm1WdVVLOUlybEw5ZThOdnE2TWxwWHFhazBFTE1hM2xtTUZPNjVLYzZFRllyYlUyVENBMzZ2TzJQczBpZkJKYkVhVVpCbkR2S2dVdDBXdXNHWHczXzJtZ3VrUkpyMFB0WWFpZ1Z5SDJ5b21qaGZtT05RS21VV3ppN1NnS29JNGtOLWthSTBDT0RBd3BPN25YN25yZUpKa3NhbWJjVWd6OTQtUGFuekFnS3NEcnJlMG5mdmFlcnhXZUk5LXFURkJTX0x1YTIyUEwwTkp3NG9OaXJtSXFVdEtlbWPSAYACQVVfeXFMUEFyYnB4N0FST3p4QVVSUkNsaklLRzE1ZTdpUldXVFhCdTA4VTc5Ui1SU1hTZDUyYlVrdnpCSkNJSDd4alRvME82RjROaGdkRFY1dEg4RGh0MkRiNGhGbFVOQ3hSbWRZc2JKMWxQN3FnblJnYXpPVW1GRVN3SWlUV250aEJ1bjVDYXpDRTVlWGZUX3NQdDB6bUdPTDRnMmpWWHBEa0xRQ3hWTE9yYUtHTWE4d1dXdWlHQXFDOVlFZndkSXBRSElJWUxfZEVublNla0FINUV4bXpRRWdDSENZanJUamFKMi1USTZIelRUdm1uOUZfRWZyZzlyRDFrOUd4LQ?oc=5",
+        "date": "25 oct 2026",
+        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
+        "_pub_raw": "Sun, 25 Oct 2026 21:09:21 GMT"
+      },
+      {
+        "title": "Tabla general del Apertura 2026: Partidos, resultados y posiciones de la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29Ud2NseTFNWEVrd1BuMGxlYmpMdm1MbV9EcU83T1lRYzZhZEVsQ3NDejlYZkszaHoxWXo3MUgzU0s4WU9IY1hwb2RHQ0dyRWR1QUw3YmRnQ2VuSEpvenFJcDhFbXVmNnJBWHdXbnhzOWx6Y09DOFlfN1NkeW1wRlpERUp1Y1Nha3g5Nzl5RlQ0ZFRLZDBvbw?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx0YWJsYSUyMGdlbmVyYWwlMjBhcGVydHVyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTMwNzQwNjl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 05:30:00 GMT"
+      },
+      {
+        "title": "Así se jugaría la Liguilla del Apertura 2026 si iniciara HOY",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTVyN2RBSjNBUWk2V1UxRTYzT1Z0RUtYSm9CVTBFUUNLTjNyMlVKeFQxSGY3cUp4QnVScy1jaHJQallsZGxkcF8wN1FzZG1UNWJqMFVHYnhTV2tXMmtTYUxNU2Q4NmN3TUdhcm16eEgyMHN3cWJUbjRmOUlaR2VFRWo4clFjLXk3S2VyZ2tXdHlmWGlnZ1oycjZHVzl1QW9reHF4cU1XZE5jRVV2T1JHcHJ5OUHSAboBQVVfeXFMTVM2blVJUW1GZ1g1WlZDS0twcVl3emlMMm93cnUxZkY3RzNpVVZGYkNNUUF0Nk9rbEtlbVdGdWxlM1FyeXR6NTkyUXh0VVdwR0VId0FCU2h0WGFPdW1wcG1NZmVkR2sxYWxpRnlfU1V3cmhPbi12OE0xRVNCYU01WkNkbUE5bVI4SmFnbnVFTHI2dUFMR1lPNzQwVUJiTDZxMzNnX18yeVhTWnNDdUdFZjF0WFRnWnhQNmFB?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxqdWdhciVDMyVBRGElMjBsaWd1aWxsYSUyMGFwZXJ0dXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MzA3NDA3MHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 19:53:22 GMT"
+      },
+      {
+        "title": "Liga Mx: así marcha la tabla de posiciones del Apertura 2026 tras 14 jornadas",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmNWQ2lWOTJZanpWRTZsVVB1cXh5SGVaalk0N0JaRjNYeUZhQVVtZWN1NzFwQ2NSdjVGNUlsUjZjQkJlVjZlczhXNkZ5OUtZMXhXNjdKaEkyeWRoWG95M0dLVm9vaml0UTl6dGFqYzU0SVBKdnR5UExkZTEtZmJVWFF1OVVoSS1TUTBIMi03cTVzZHFNM3NpUV9qWXAtR0g3REFYNE9ocmsyWUxxbDg4SFR4Q1NDUGlONGxaS0NMYTFoaWpQNEJj0gHiAUFVX3lxTE1PNjlNdFdEY1pJNkJIcmhTSXFlblFtVTlCTUVXNkRXcTRfbVlvVmFUbXlDcDRnZFZ6N3Z3Yk96RUZTWmM4d3hzV1ZONnhDWXdLZnF2X2F6dDl6RzNZYTNMSzhaTkZMWWVzZkpEQldSbExsa3ZjYkZ0b3I3MXpITXRJYlJWTGU3VUhYM1J5OXo2NW5UUWt3WGFPT2ctTVZic1JpQjFkQWQza211TnVGNHhYRjJZRjlNeW1Oa3l6UFR0SlVUS2s3VUMtSWxhM0htRnpSTm9DcFVyYzMxZDNHNmFYaUE?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsaWdhJTIwbWFyY2hhJTIwdGFibGElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkzMDc0MDcxfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 16:07:00 GMT"
+      },
+      {
+        "title": "Cuándo juega Chivas vs Atlante en la Jornada 15 Liga MX Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWhKcGlkUjBnSnc3ekVzZl8xSTMtbUppbWQyVndrNzVqdUJ6UFJ3VFlZS2tnVmJhOFJhUW03X255RXQwWHQ1X0lVMjd1eGxDYjlCRjNlUERZRWM0V2tjdXF4SzlKUHpwbWMzUnVpNFNDR3FLWDJmYzBUNkt2VkxsVkZhYjFtblFZdGphaUxaLWRPOXFzWU5VSWMxeTRHUdIBngFBVV95cUxPWGwwaGF6RVhzdHd3TlRKMnBGdkJYTDFXd21tbWctYXlDYWRNSzZUdmVKaFZsb1FGLWdSMHVjaGVCTXVBRWZuYzFNdXpRa2MyeE9CUHI0T01zUHdGclkyb1IzcmtoUDd6Q0o3TXV0elc1QWItdW1xS21YUlF5NlZHUk1ld2p0N2lrT0tPaTU5S2FhYk5iWUhXRU03S1NOQQ?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 23:24:00 GMT"
+      },
+      {
+        "title": "Liga MX Femenil: estos son los 6 equipos clasificados a la Liguilla del Apertura 2026 y quedan solo 2 lugares",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWHp1SkVDUTNTTkFJbUZmcGRUUlJjQndHa3d5R2tzMFZjVkk3WTl1dVI1X2Nnel9wSWlrbUV0YzZnR0tnVUJnMnpFOHR1cDNzekF1aEJxTlpoY0ViRWVzbzltX0U2c2syTjJZMGl5b29veEdJY2FZNFJaWFJjRlNQaFVkLXpsZFB2cy1Qb1JDa0tyT2VWQlFROXhKRDk3SXZjckdNd0NlOVk1YUpCVmx2TzFRYklJemRZU011d0dzQ3FwWUhiRlc1V0FUUUFzdllHSi1ZZDVxNkFKcThwRWQzMXpKRVhPSWJLLTI0dU5zSU5hbjd6ejE3VTRYUVR2Zw?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsaWdhJTIwZmVtZW5pbCUyMGVzdG9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MzA3NDA3M3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 19:40:36 GMT"
+      },
+      {
+        "title": "Liga MX: Así marcha el Apertura 2026 hasta la Jornada 14 - López",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXh6a1dEWXlqUWctLWxLSUpHS1VTSmMwZGNLTEl2Ul9ndlFSTk81LWdZNnhxODFmQTlMZ0VrSHBEeDBEd3RuRnFlSWJSWEhJNjg2YXg5YVhjUnZ0MGx0aWZYZ2hRR3EyZk9JdGZsMVFzbXNYYnNXNm5IYzAtTWhYQU01ZkR3QlhpN3FhZGptNy1ISzA?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsaWdhJTIwbWFyY2hhJTIwYXBlcnR1cmElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkzMDc0MDc0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 12:58:54 GMT"
+      },
+      {
+        "title": "Tabla de goleo ACTUALIZADA: Así van Alicia Cervantes y Mayra Pelayo en el Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR0pIa1hTY05LbkxkazhSTnFHSG1vWHlPQVRZR2RaamhIMzRiNDlZcUJpaUdWYVd6RDZEYy10NVhDVzFYRGtTTlMwX2NZTFFFbDc4X2dzT2VnMDZBZ0VUUllVVHBBYk1YbnRycmlFbkZkNmhIUG5iREUyYWpXc0VHXzFOZXNicGpnT29RS2VVaHVMdkJVVlcxSThQQy1pWWNEdWVUZmFaYWhzZi1LWjhjRkloc3M3U2s5S0NWYkFfUDJkSGh1MXfSAcYBQVVfeXFMT0dKSGtYU2NOS25MZGs4Uk5xR0htb1h5T0FUWUdkWmpoSDM0YjQ5WXFCaWlHVmFXekQ2RGMtdDVYQ1cxWERrU05TMF9jWUxRRWw3OF9nc09lZzA2QWdFVFJZVVRwQWJNWG50cnJpRW5GZDZoSFBuYkRFMmFqV3NFR18xTmVzYnBqZ09vUUtlVWh1THZCVVZXMUk4UEMtaVljRHVlVGZhWmFoc2YtS1o4Y0ZJaHNzN1NrOUtDVmJBX1AyZEhodTF3?oc=5",
+        "date": "27 oct 2026",
+        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx0YWJsYSUyMGdvbGVvJTIwYWN0dWFsaXphZGElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkzMDc0MDc1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Tue, 27 Oct 2026 00:42:50 GMT"
+      },
+      {
+        "title": "Liga MX: América tropieza, Cruz Azul y Chivas acechan el liderato del Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVWl1X0EyTlh0aUJ4bE12ZWgyRU9jNzhHaWx5MGZaQ05qSFlFRElYdklSTHd1Mkw3d0l4RTBZN3F0bHY5dXdXSHZRVFEwVXhNWkl6VlFBUzZoNGV6b0NNSklxb2Z6TmdyWERPVHE3Yy14YmxJcmEyNm55OVhKcGNkU2g2amJWWER6NERLUWJUazk0RkZWek9TczdORXFqY0t1c2U3M3U3TWNaXzh1bUswVnhzZTNab0otVTQycXlvZWd6azQ?oc=5",
+        "date": "27 oct 2026",
+        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsaWdhJTIwYW0lQzMlQTlyaWNhJTIwdHJvcGllemElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzkzMDc0MDc2fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Tue, 27 Oct 2026 00:43:30 GMT"
+      },
+      {
+        "title": "América, Cruz Azul y Chivas mandan en la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDdhRjFMcWNuUXpzS1NDUWZ6MkZ4M0txbzNnMUduYjFxUzBkUXNCS2NiNEd4a1puck80YkZSTUhXVC1pQ1VTSF9FMTAzVTdIRGwtRE85b012Z01QOGJxSjh1d2hqZkstRExrMUpEemdLSmQza29kR1RoZWhJV2VqLTFfS0FuMjktMTZGaHBJMzhMeG8?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 21:58:31 GMT"
+      },
+      {
+        "title": "Jornada 14 de la Liga MX: América pierde, Chivas y Cruz Azul acechan el liderato y León deja escapar puntos",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRWJRb2oxTF9hZTVLVUlJbHBzdXFLY1NaSDFlRUEwOUVuNHdxajZKY0s0ZHI0T3ZQOHZvUkpQYzJmbUF2LUJMS1JQMDZkOFctcUZ2NlJOY20zQW1Eb2Y0U1VramRVTThCWVJlMXVzekNsd1h3aVJ6WkEwSGdIcVNOaUhNd0plU1k1U1lkNElrdmp0SUtjemVmZEVNbGRkVWtmREFVUm8xb3IwcWlzV3lmV3poQktXYzhSWkY4d1VMY21maWY4NldTdm9BSjVORmZSTTZHbzBB0gHWAUFVX3lxTFBFYlFvajFMX2FlNUtVSUlscHN1cUtjU1pIMWVFQTA5RW40d3FqNkpjSzRkcjRPdlA4dm9SSlBjMmZtQXYtQkxLUlAwNmQ4Vy1xRnY2Uk5jbTNBbURvZjRTVWtqZFVNOEJZUmUxdXN6Q2x3WHdpUnpaQTBIZ0hxU05pSE13SmVTWTVTWWQ0SWt2anRJS2N6ZWZkRU1sZGRVa2ZEQVVSbzFvcjBxaXNXeWZXemhCS1djOFJaRjh3VUxjbWZpZjg2V1N2b0FKNU5GZlJNNkdvMEE?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1725772387482-12261dbaa091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxqb3JuYWRhJTIwbGlnYSUyMGFtJUMzJUE5cmljYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTMwNzQwNzh8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 20:08:17 GMT"
+      },
+      {
+        "title": "Tabla de posiciones Actualizada: así quedó Chivas tras la victoria de Cruz Azul y la derrota de América",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcDVnNEduX3Y1Sk5CNEktNE56ZjFvcVB5eWZtekVqSTF0SkZyS3NmLTA1aTZWVlAxbHlmVWhDYVg3SHJtbWIzRDRfNVRXeVRjVk1DU2Y2R3NNNUxQelZXc25qWkhGWXJ0NjVHZkNHUWU0dEJSYUhGSllsMlBRMFduaW55ekRHNGhjNEdZMzJhbE9iV3k0WkY3ZDVKam1YNFJ1NDJkRHFYQ29CcnBMUk1obVMzbG9mMkVTUmRNTGtPVHFYcUlSYUhqZU1weGpJTW9VeWdrTlJTdlVXd9IB2gFBVV95cUxNcDVnNEduX3Y1Sk5CNEktNE56ZjFvcVB5eWZtekVqSTF0SkZyS3NmLTA1aTZWVlAxbHlmVWhDYVg3SHJtbWIzRDRfNVRXeVRjVk1DU2Y2R3NNNUxQelZXc25qWkhGWXJ0NjVHZkNHUWU0dEJSYUhGSllsMlBRMFduaW55ekRHNGhjNEdZMzJhbE9iV3k0WkY3ZDVKam1YNFJ1NDJkRHFYQ29CcnBMUk1obVMzbG9mMkVTUmRNTGtPVHFYcUlSYUhqZU1weGpJTW9VeWdrTlJTdlVXdw?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1732037618180-b858701bc106?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHx0YWJsYSUyMHBvc2ljaW9uZXMlMjBhY3R1YWxpemFkYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTMwNzQwNzl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 22:31:16 GMT"
+      },
+      {
+        "title": "América, Cruz Azul y Chivas pelearán por el liderato de la Liga MX en el cierre del Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1phR1lTY1RwcGQxdkJEcHpWb2JydlFGQ0hRSU1Cc3lrLTFmYVF2Y2hrQWRIRjhzdEwzZS1JY0RqZ05lQmk0aTlPeV85dFZ2VUxMY0xkdjh5cFU4dmItMkVOSHVaU0JhbUZPSi1DUnJjcHdpSTFxNDNNa2NVYTctZUQ3V3BVRnF6bVV6TzI1aFhxaHpINVBYNDJtQ2w5ZUVuZWFOZkdodHpzQmlVQ3VXaG9EVEVOY1ZXLUI5UVYtdFlvRDc0dHfSAcYBQVVfeXFMT1dTVkFDcXJFbFNOY05JaVJXOXBtR0NjZGNTSTZ5M3hGUmk1bUhzWE03UkwxSXlGWG5aeGhnMDdLVkpHbHRyZG4tSTh3V0oyZ1dValZGenEwOHFpbTFwQUtuRVFBVUt6TDBjQ2JYUlZoQUt0Q2VyYnRzbWF3T3NjREpteFE4M3ZVTXpraV9KalYwNTF0WU1FZC12WUxRbDdRdGR4akFsYjdxV2N2bHVqejJCcVllNDc3Q1ZaVTZ1SUV0TnpuY1N3?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 06:24:12 GMT"
+      },
+      {
+        "title": "Lo bueno, lo malo y lo feo de la jornada 14: América cae; Chivas y Cruz Azul, al acecho del liderato",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1U0ZFJZSHBBLU43UHJncWQxTlZsNXRrSG9mc2pMbmVHQkZZUFhzQXpCdlY5d1I1Qnl5R0hFVFNldk9ENTVKY1BHZGFjbDl2ZWRXMkcxSUNKM2R2WkJZYkwyRUVGM1MxdEx3eHJtWXZBUjVjM3poWjJuRHBvZlNZMkxOcUJCblFhelNMcHNrLUozQjFDRmtfUlV6TWR1TTRxeGFqUHAyUQ?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxidWVubyUyMG1hbG8lMjBqb3JuYWRhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5MzA3NDA4MHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Mon, 26 Oct 2026 18:57:26 GMT"
+      },
+      {
+        "title": "Cruz Azul queda a un punto del América en el Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWhUOFZoWGxUd0RUVzd1SjNRQmVocGdwM3k1TkxUR044eW5zc1pOR09IaXRZTm9wVVJwUVJLNDQ5TlNuaFctT2l3NzZGc1BMUDNfTUJLR3ljalR4LW1VVVJkakhuVUpLYzBna2lhS0MwcHhwYkxDclR2RnVnRHVzVnMwa0lnYTJXN0xPdDBhQVEyVDQ?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 21:32:35 GMT"
+      },
+      {
+        "title": "¿América vs. Chivas en la final?: “Sería espectacular\"",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2lKVlhScDZ3Sm9XMlFaempGRDVVTkh5Y2xhb0RjRV9KbTRLMWpVRjNGa2lKRXNTaWI1dTR5SFNfQk4xWmpGbXc3YjlZQll3bk9SSV9CRWJfZllELWp0YWV4SkgxaWlTTUpTZzVNTGUxQ3pDWnhQMHBLQWxjZm5iU05FQWdHWHI4di1YSmZ2em9nT1RS?oc=5",
+        "date": "26 oct 2026",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "_pub_raw": "Mon, 26 Oct 2026 00:57:00 GMT"
+      }
+    ]
   }
 }
