@@ -1,7 +1,28 @@
 {
-  "updated": "01/11/2026 04:54 UTC",
+  "updated": "01/11/2026 14:47 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "X1MR4YsveyQ",
+        "title": "When Allen Iverson Dropped 30 In His NBA Debut! (30 Years Later) | November 1, 1996",
+        "thumb": "https://i.ytimg.com/vi/X1MR4YsveyQ/mqdefault.jpg",
+        "date": "2026-11-01",
+        "url": "https://www.youtube.com/watch?v=X1MR4YsveyQ"
+      },
+      {
+        "vid": "TTUozO5Lh5A",
+        "title": "NBA&#39;s Nightly Recap | October 31, 2026",
+        "thumb": "https://i.ytimg.com/vi/TTUozO5Lh5A/mqdefault.jpg",
+        "date": "2026-11-01",
+        "url": "https://www.youtube.com/watch?v=TTUozO5Lh5A"
+      },
+      {
+        "vid": "u7oaBlNbO5s",
+        "title": "NBA&#39;s Top 10 Plays of the Night | October 31, 2026",
+        "thumb": "https://i.ytimg.com/vi/u7oaBlNbO5s/mqdefault.jpg",
+        "date": "2026-11-01",
+        "url": "https://www.youtube.com/watch?v=u7oaBlNbO5s"
+      },
       {
         "vid": "8Axu1JAXlEg",
         "title": "Victor Wembanyama point tracker",
@@ -15,27 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/fd8xmnq-2EA/mqdefault.jpg",
         "date": "2026-11-01",
         "url": "https://www.youtube.com/watch?v=fd8xmnq-2EA"
-      },
-      {
-        "vid": "jlTOXp4MEiM",
-        "title": "Wemby gets the block and immediately gets the dunk! 😤",
-        "thumb": "https://i.ytimg.com/vi/jlTOXp4MEiM/mqdefault.jpg",
-        "date": "2026-11-01",
-        "url": "https://www.youtube.com/watch?v=jlTOXp4MEiM"
-      },
-      {
-        "vid": "ikHTGZP1t3w",
-        "title": "Cam Boozer and Darius Acuff Jr. were BATTLING! | October 31, 2026",
-        "thumb": "https://i.ytimg.com/vi/ikHTGZP1t3w/mqdefault.jpg",
-        "date": "2026-11-01",
-        "url": "https://www.youtube.com/watch?v=ikHTGZP1t3w"
-      },
-      {
-        "vid": "E6RrU7EvfGI",
-        "title": "Wemby COULD NOT BE STOPPED vs Timberwolves | October 31, 2026",
-        "thumb": "https://i.ytimg.com/vi/E6RrU7EvfGI/mqdefault.jpg",
-        "date": "2026-11-01",
-        "url": "https://www.youtube.com/watch?v=E6RrU7EvfGI"
       },
       {
         "vid": "cFry2c9axP0",
@@ -98,39 +98,46 @@
     ],
     "fx": [
       {
-        "vid": "Bnvhwzxa_I8",
-        "title": "FC BARCELONA 6 - 1 DEPORTIVO ALAVÉS | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/Bnvhwzxa_I8/mqdefault.jpg",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=Bnvhwzxa_I8"
+        "vid": "dRzfojH7MsM",
+        "title": "Vlachodimos x Sevilla FC ⛔️🧤",
+        "thumb": "https://i.ytimg.com/vi/dRzfojH7MsM/mqdefault.jpg",
+        "date": "2026-11-01",
+        "url": "https://www.youtube.com/watch?v=dRzfojH7MsM"
       },
       {
-        "vid": "06HYRpXjYFY",
-        "title": "LEVANTE UD 0 - 2 ATLÉTICO DE MADRID | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/06HYRpXjYFY/mqdefault.jpg",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=06HYRpXjYFY"
+        "vid": "B9xXDHKF7-w",
+        "title": "Kike Salas celebrando su primer gol de la temporada. ❤️",
+        "thumb": "https://i.ytimg.com/vi/B9xXDHKF7-w/mqdefault.jpg",
+        "date": "2026-11-01",
+        "url": "https://www.youtube.com/watch?v=B9xXDHKF7-w"
       },
       {
-        "vid": "OSRZFr12FqE",
-        "title": "FC BARCELONA vs DEPORTIVO ALAVÉS | RUEDA DE PRENSA",
-        "thumb": "https://i.ytimg.com/vi/OSRZFr12FqE/mqdefault.jpg",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=OSRZFr12FqE"
+        "vid": "kxvfL1mlQ5A",
+        "title": "¡Por muy poco! 🫣",
+        "thumb": "https://i.ytimg.com/vi/kxvfL1mlQ5A/mqdefault.jpg",
+        "date": "2026-11-01",
+        "url": "https://www.youtube.com/watch?v=kxvfL1mlQ5A"
       },
       {
-        "vid": "H3KClYYb2AM",
-        "title": "FC BARCELONA 6 - 1 DEPORTIVO ALAVÉS | RESUMEN LALIGA EA SPORTS",
-        "thumb": "https://i.ytimg.com/vi/H3KClYYb2AM/mqdefault.jpg",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=H3KClYYb2AM"
+        "vid": "8HOcyyFSbcw",
+        "title": "🔴 GETAFE CF vs SEVILLA FC - PREVIA DEL PARTIDO",
+        "thumb": "https://i.ytimg.com/vi/8HOcyyFSbcw/mqdefault.jpg",
+        "date": "2026-11-01",
+        "url": "https://www.youtube.com/watch?v=8HOcyyFSbcw"
       },
       {
-        "vid": "bSqo26wQAWI",
-        "title": "📞⚽",
-        "thumb": "https://i.ytimg.com/vi/bSqo26wQAWI/mqdefault.jpg",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=bSqo26wQAWI"
+        "vid": "ifuITDVad_Y",
+        "title": "In the Spotlight: Andrei Ratiu ✨⚽",
+        "thumb": "https://i.ytimg.com/vi/ifuITDVad_Y/mqdefault.jpg",
+        "date": "2026-11-01",
+        "url": "https://www.youtube.com/watch?v=ifuITDVad_Y"
+      },
+      {
+        "vid": "DJ2O5zybN4M",
+        "title": "EVERY Women&#39;s Champions League Goal From Matchday 3",
+        "thumb": "https://i.ytimg.com/vi/DJ2O5zybN4M/mqdefault.jpg",
+        "date": "2026-11-01",
+        "url": "https://www.youtube.com/watch?v=DJ2O5zybN4M"
       },
       {
         "vid": "OTjj92OIURE",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/EotoP7Zks5k/mqdefault.jpg",
         "date": "2026-10-30",
         "url": "https://www.youtube.com/watch?v=EotoP7Zks5k"
-      },
-      {
-        "vid": "QvpB4cvkUuc",
-        "title": "👀",
-        "thumb": "https://i.ytimg.com/vi/QvpB4cvkUuc/mqdefault.jpg",
-        "date": "2026-10-30",
-        "url": "https://www.youtube.com/watch?v=QvpB4cvkUuc"
       }
     ]
   }
