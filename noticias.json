@@ -1,48 +1,48 @@
 {
-  "updated": "08/11/2026 04:57 UTC",
+  "updated": "08/11/2026 14:50 UTC",
   "sports": {
     "bk": [
-      {
-        "title": "Santi Aldama debuta con los Dallas Mavericks por la puerta grande",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGZ3Nlcyc2V4dWtPaTZqX3JETV96UHd0Tk5yZmxZd1ltOVQ3NmZkWnQxOFB6MDBZQ2tLcjloQVR5eW1GYk5UZTRPZG54MnJfWkdTRDFzNUlpZkVNTmh2TkFrRzhPU1Y1c2NJOWNoSVZ5T2kwRFV5OGlCUFVFQmlpOEFaOFhpNE1vRlpXZWFMaGFBdmlLRDBETTZNREl1ZjlULWpONE1PQk82cWk0OUlIMG83ZjhrbjZhSENuV01n0gHLAUFVX3lxTE5kR2VSNGJYVE52bHBIR0lnV1gzb1dMUmltdDNneXA3VlpQcGQ1WlVPMjlIY3QxZ285djB4MVZhUHNyV25ZeFh6MWFxSU1ObkZRMlRDYlp3a0pHbk56RVIzUmpzTU41Y0VSYlVqa3Q1ZGtoc2plc1hHWTNwYUtXLTZDTkFHVnR2NDcxYTJ2dTQ4MVFTbWE3aHhHWEdxa3VQS2JWYVZvNWxUYlBkeVJmTVp6Nmczd2thczdRdXlZdERuZkhIZlFKdjV3RjNz?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1576683668932-8af4812cbb56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxzYW50aSUyMGFsZGFtYSUyMGRlYnV0YSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDA4MTQ2N3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 11:18:23 GMT"
-      },
       {
         "title": "Kristaps Porzingis se aleja del baloncesto",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXBhbHFOMlFyam9xbkYxTy1aUWw4NV9UalZIZTI3Q0EwS2UxWmx6YWF4SlN0VFdsdUMweUhyX1Z5TjQta0Z3OTdieFhKV0QydE1QSk40M0FqUERPQVQ2NHh3Nzc1WDBIZ3NWaUFiRDVxbWxtMEZRcGJ5Tms5MVpNOWNaYXpPeWtadXQ00gGfAUFVX3lxTE84cTZwSUtZOERGZGw0NjlteGd6TnM4MkpNeTVkSFNMYWluNEVKUWUtUUtxQ2ZWYW9VanNmVnNhVXlHdmxRSVd2U3V3MlRaZzg5S1ZzYkxrUHJYa2E3QmhpM3dZelpXM2Q2VXlyRjIwLUJrYmJiMTZlTlNhak44cE41Y01jR1NhbGw0RFJicFEzdGxickRjUFNaRW1KV2hCTQ?oc=5",
         "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1591738036140-ec5d008497d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxrcmlzdGFwcyUyMHBvcnppbmdpcyUyMGFsZWphJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0MDgxNDY4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1591738036140-ec5d008497d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxrcmlzdGFwcyUyMHBvcnppbmdpcyUyMGFsZWphJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0MTQ5NDIwfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 06 Nov 2026 21:49:05 GMT"
+      },
+      {
+        "title": "Santi Aldama debuta con los Dallas Mavericks por la puerta grande",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGZ3Nlcyc2V4dWtPaTZqX3JETV96UHd0Tk5yZmxZd1ltOVQ3NmZkWnQxOFB6MDBZQ2tLcjloQVR5eW1GYk5UZTRPZG54MnJfWkdTRDFzNUlpZkVNTmh2TkFrRzhPU1Y1c2NJOWNoSVZ5T2kwRFV5OGlCUFVFQmlpOEFaOFhpNE1vRlpXZWFMaGFBdmlLRDBETTZNREl1ZjlULWpONE1PQk82cWk0OUlIMG83ZjhrbjZhSENuV01n0gHLAUFVX3lxTE5kR2VSNGJYVE52bHBIR0lnV1gzb1dMUmltdDNneXA3VlpQcGQ1WlVPMjlIY3QxZ285djB4MVZhUHNyV25ZeFh6MWFxSU1ObkZRMlRDYlp3a0pHbk56RVIzUmpzTU41Y0VSYlVqa3Q1ZGtoc2plc1hHWTNwYUtXLTZDTkFHVnR2NDcxYTJ2dTQ4MVFTbWE3aHhHWEdxa3VQS2JWYVZvNWxUYlBkeVJmTVp6Nmczd2thczdRdXlZdERuZkhIZlFKdjV3RjNz?oc=5",
+        "date": "7 nov 2026",
+        "image": "https://images.unsplash.com/photo-1576683668932-8af4812cbb56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxzYW50aSUyMGFsZGFtYSUyMGRlYnV0YSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDE0OTQyMXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 07 Nov 2026 11:18:23 GMT"
+      },
+      {
+        "title": "¿Qué falta a México para competir por una franquicia de NBA?",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkVrRV9XNTRWa3NBNkJyVzVvQmdYY1lLclp0MHJ1aE8wWHVES2FJcTQwM0hTcldXVnp6NFN1cEtsUlBFczFtSHkwakRZZFBqMlZ2Q1NQRVZaTzVhZjVrVkl3Y2JFSkJkNzVpNXRJNFVjdjVMdVdZUzR4eXB4eUYxQjZad2FwVXlUUngtVy1Vd2FSMXJCQ19Tc1RETC1PamlPQjMxNE51VXFVdG5RUFE?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1767016697775-001518392206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxmYWx0YSUyMG0lQzMlQTl4aWNvJTIwY29tcGV0aXIlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTQxNDk0MjJ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 06:20:00 GMT"
       },
       {
         "title": "Juego de equipo fue decisivo, afirma Jamal Murray",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX2gyTkx4NUVpczNZbFlpek5HNnB6OVdMeXhIRE1zVzNqR0x2cU1IYlVaaHBqeXZuYVd0ZHlqaGxaRnM0ZF9wcVNTQ3VtWjI5b3JUd3ZTWDF5dmYxU24za2o1SXdZUkN2OWlzUHh3bTAwY2psOGpvMUVYT1QxY21ZV0ZDY2xxcGswVnE1RjBwMWlCMlNXNFRDejg4RXZrRFZfSWliZmVEd3RPR3RXaURNMDVB?oc=5",
         "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1786025163926-132ae5075fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxqdWVnbyUyMGVxdWlwbyUyMGRlY2lzaXZvJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0MTEzODgxfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1786025163926-132ae5075fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxqdWVnbyUyMGVxdWlwbyUyMGRlY2lzaXZvJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0MTQ5NDIzfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 08 Nov 2026 02:05:00 GMT"
-      },
-      {
-        "title": "Las claves del triunfo de Nuggets sobre Pacers en Ciudad de México",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkFXcmt0Qml6QVp3ZTVXQ016NkRFel9XM1ZnMGRIMU5HUEx0ZjFEQVNfLVNCUGJxVGxLcm1EVkU0VmctX29DRlJUUmNybkcxdXlOQWdXaEg1bTAwLVpjWkNNUUhTS2IyR2lxbF9vYlA5UWN3OF9rWUJvTFM5UlVYc2E5VFlIZGhpRlhYQ2ZqMUF6SjhWQUZtTnRoYjV6emtMQl9qTlBkY0hVZ3Izc0lQRzBJOA?oc=5",
-        "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1574623452334-1e0ac2b3ccb4?w=480&q=70",
-        "_pub_raw": "Sun, 08 Nov 2026 01:00:00 GMT"
       },
       {
         "title": "NBA: Lista la Arena CDMX para Nuggets vs Pacers",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQmladzhDc3hsaVN1LUo5WGczQ0I5SjNFUFRScjFUWjhJRmo4TzNBREZESUdzcWtxYUd2V1JIV1hucDVLUmRldU9vVjRGWHJKX0p6S1ZDZk9YemlnV1BPd242SmctbjNEZV9HTlBDMlAxY3ZaaUlVcTlYcWFrY05iN1Y4czJPeHdTVzVNeW1jS0dIS3BTQjd3OVBpc2M3V2s?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsaXN0YSUyMGFyZW5hJTIwY2RteCUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDA4MTQ3MHww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsaXN0YSUyMGFyZW5hJTIwY2RteCUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDE0OTQyNHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 18:44:00 GMT"
       },
       {
-        "title": "Los números de Luka en su increíble inicio de temporada",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmg1anZnUXJLZWFjb1RtSGsyN0ZOXzNHc0NPNlhYT01RYVlTNXg1bGVpaktaVGZnMGxmalZEc3ctdkdTcnhER0dkS2h2eTgycHYtTFJsT0pJdXRKVWNnMHhlNWJqMGRKNFJ5dzY4QzRFMEJBQk1DSkk0YmdRMTBrSzVkTG5pcmxJOXRwdlBmUjl2Sl9hd3NVMllVNEh5VFZtcUpmckViX2VJTlU?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1752166671118-d46ce0419df0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxuJUMzJUJBbWVyb3MlMjBsdWthJTIwaW5jcmUlQzMlQURibGUlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTQwODE0NzF8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 16:37:00 GMT"
+        "title": "Curry, Wembanyama y Shai, las estrellas que más brillaron en la NBA",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWFaWUFOckNMV1FfMC01YTdNdkdGRXdwb051MmJrZUVCWmRHZC1KdFlWQnNYRHlXSHRBNHVMcFBEbzN6MzFNUEFOS1IwS1FIWG9wRTdzR0ZrdGFmNU9BZ2h1dDR0M1hINWRTVUtTaXh4SXlwTGt4VlNMSTVZaVRseC1Jclh3TVF3My1WQ1lwY0xmQjZyUHc0a2w4MXdCQ0gwX09SU3dSQUV4cU1GYkhz?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1618212765496-d572be8cbfc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxjdXJyeSUyMHdlbWJhbnlhbWElMjBzaGFpJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0MTQ5NDI1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 11:50:00 GMT"
       },
       {
         "title": "Pacers: Haliburton sin fecha de regreso, coach Carlisle",
@@ -52,25 +52,25 @@
         "_pub_raw": "Sat, 07 Nov 2026 21:28:00 GMT"
       },
       {
+        "title": "Las claves del triunfo de Nuggets sobre Pacers en Ciudad de México",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkFXcmt0Qml6QVp3ZTVXQ016NkRFel9XM1ZnMGRIMU5HUEx0ZjFEQVNfLVNCUGJxVGxLcm1EVkU0VmctX29DRlJUUmNybkcxdXlOQWdXaEg1bTAwLVpjWkNNUUhTS2IyR2lxbF9vYlA5UWN3OF9rWUJvTFM5UlVYc2E5VFlIZGhpRlhYQ2ZqMUF6SjhWQUZtTnRoYjV6emtMQl9qTlBkY0hVZ3Izc0lQRzBJOA?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
+        "_pub_raw": "Sun, 08 Nov 2026 01:00:00 GMT"
+      },
+      {
+        "title": "Los números de Luka en su increíble inicio de temporada",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmg1anZnUXJLZWFjb1RtSGsyN0ZOXzNHc0NPNlhYT01RYVlTNXg1bGVpaktaVGZnMGxmalZEc3ctdkdTcnhER0dkS2h2eTgycHYtTFJsT0pJdXRKVWNnMHhlNWJqMGRKNFJ5dzY4QzRFMEJBQk1DSkk0YmdRMTBrSzVkTG5pcmxJOXRwdlBmUjl2Sl9hd3NVMllVNEh5VFZtcUpmckViX2VJTlU?oc=5",
+        "date": "7 nov 2026",
+        "image": "https://images.unsplash.com/photo-1752166671118-d46ce0419df0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxuJUMzJUJBbWVyb3MlMjBsdWthJTIwaW5jcmUlQzMlQURibGUlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTQxNDk0Mjl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 07 Nov 2026 16:37:00 GMT"
+      },
+      {
         "title": "Doncic brilló con 53 puntos y los Spurs extendieron su racha ganadora en NBA",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzBteDJnamxXN20tamhBckpPV0FIaFBQRVhIeWQteVYzektPMHctUWNQeE1HdHNybUtRTnFBbzhDdnV1azNMQkVJOUlLYUY2M2hodkp6YWZzeDZ1am5TdVpsdWk2NVFJU3VoX2NTbjRhUGdSTjlPb2pzSE5sdUNCd0hGWVo3UXlCVExMN2VOZEZtMFR3RE8zUXowdTZ2aGtvU2VRODhzU1A5MHhWV0ZEVDc1bWNROGZX?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1752166671734-f4a079fd7815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxkb25jaWMlMjBicmlsbCVDMyVCMyUyMHB1bnRvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDA4MTQ3M3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1752166671734-f4a079fd7815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxkb25jaWMlMjBicmlsbCVDMyVCMyUyMHB1bnRvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDE0OTQzMHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 12:48:00 GMT"
-      },
-      {
-        "title": "Pacers afinan detalles en CDMX para el juego vs. Nuggets",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcHE0dEQ4cS1pa1IyZUoxYUxSNzlWZ0pUaDNWM0l5RENSa2dnUUdtZFRYcjVpbXRYUms5VHNnX1I5Vm5wS3RYLTdqeVhJT21aUllhUTFlX2Q5MEZ4WFFyS0hjOC1INFZrVklnWXZzT2hHR0ZVUWxYYzJhWmJXUGR0WkJSNFB6SF9SNVRfOWJBQlgxc1gxZG83aHFJX1VNZi12eUZZVW1GWjh6bXlLemtoN0R3?oc=5",
-        "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwYWNlcnMlMjBhZmluYW4lMjBkZXRhbGxlcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDAyNzc5N3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 06 Nov 2026 19:58:00 GMT"
-      },
-      {
-        "title": "¡Luka Doncic anota 53 y Lakers remonta ante Trail Blazers!",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWF3VmFncDZUOGYtWU54akw5VWJFTFg3MENSRHBjcWRCc3cycTdiRjZ4SXlOaDdGbVdtbXY4Rk5xQW5PUG90X28wcUk3NmREVzVtb1I0SDlQZkN6M3dpcnY1ckcwVnZpYzBJN1dTWHJBM096ekRJSTNFdVVxVUlvcmQxdHZLU2lZSnBzRkx2TVRfY1NDb3BnNmJxVjhraVIxbFo3akdDMHR2MmtkTXc?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1760784774723-f2089d7bbb06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsdWthJTIwZG9uY2ljJTIwYW5vdGElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTQwODE0NzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 06:49:00 GMT"
       },
       {
         "title": "¿América tendrá equipo en la NBA? Emilio Azcárraga le da un obsequio a Adam Silver",
@@ -80,53 +80,53 @@
         "_pub_raw": "Sun, 08 Nov 2026 02:31:00 GMT"
       },
       {
-        "title": "Nikola Jokic y Jamal Murray disfrutan de México: “Sentimos la energía de los aficionados”",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORUlvOXZfeHZkdzIwVnJhajhIOHRHUk9RSUdYeFNSWXNKMFVRY0tzdnVMT1g2ZjR0Zy1nZTJxcFozMmRLTGFaZGxpcG1wUnZPbFE2b3RKM1lkWnNmbVRPVFJWUEVpeEY2S2pfRVZjcmRNZzliSmpLNnZUa1ZYVXZZdThMOUNyRE5kU0g3TWpyRk9jWFJMQkZzekhqV3IzQQ?oc=5",
-        "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1599563901770-7f62ae2e29cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxuaWtvbGElMjBqb2tpYyUyMGphbWFsJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0MTEzODkwfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 08 Nov 2026 02:55:00 GMT"
-      },
-      {
         "title": "Nikola Jokic conquista la Arena CDMX y guía a Denver Nuggets al triunfo",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnlNMWcwQ2xTbkctTUN0UnlhaUZwV0t2T2dxc2ZCWFFhLWp3TU5OVXJvNDZRSXByekNHaXFBcUJGbVpUS0pUY3ZOOHpOQ0VLUUdXZW1PMUE0RHU3cnY5ckJQVHlSVk54ZlRTSjBaYkJ5ajQySzR1cTVjMHEyNUgtMjBiQlRqb0pfZXlvVGlsY3hmM0ZYUDhObFVFTjFjeTFSbFdLQU5ScWh4NWk0N3QtTjhaRkxKbkU?oc=5",
         "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1688184006660-5fe05329bf07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxuaWtvbGElMjBqb2tpYyUyMGNvbnF1aXN0YSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDExMzg5MXww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1688184006660-5fe05329bf07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxuaWtvbGElMjBqb2tpYyUyMGNvbnF1aXN0YSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDE0OTQzMnww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 08 Nov 2026 00:47:00 GMT"
+      },
+      {
+        "title": "Nikola Jokic y Jamal Murray disfrutan de México: “Sentimos la energía de los aficionados”",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORUlvOXZfeHZkdzIwVnJhajhIOHRHUk9RSUdYeFNSWXNKMFVRY0tzdnVMT1g2ZjR0Zy1nZTJxcFozMmRLTGFaZGxpcG1wUnZPbFE2b3RKM1lkWnNmbVRPVFJWUEVpeEY2S2pfRVZjcmRNZzliSmpLNnZUa1ZYVXZZdThMOUNyRE5kU0g3TWpyRk9jWFJMQkZzekhqV3IzQQ?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1599563901770-7f62ae2e29cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxuaWtvbGElMjBqb2tpYyUyMGphbWFsJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0MTQ5NDMzfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 02:55:00 GMT"
       },
       {
         "title": "Nikola Jokic no se considera el mejor jugador de la NBA; “Hay muchos otros que también destacan”",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbldPd0tsYVVLWV9URlFLZTVLRmxtRzBEM19zV05RVVFLdDlGeW9UTkRmQVpKRTZZQjM1SC1sSUJBMGlXcVAwcllBTkVaYWExVU9vaXNFSGJVRGVsQXRINXUwc2RzNERTZjdDXy04LUkyME5fMVdJS1Fwb3JRTGJxN3ljUFk0Y3E2YUZrWndtMFVyUkZVZ2VmQXRMb0VBN01ySnBXQV9MUTYyaFhXbzRj?oc=5",
         "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1752166672250-3f5091b8fc19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxuaWtvbGElMjBqb2tpYyUyMGNvbnNpZGVyYSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDAyNzgwN3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1752166672250-3f5091b8fc19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxuaWtvbGElMjBqb2tpYyUyMGNvbnNpZGVyYSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDE0OTQzNHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 06 Nov 2026 23:00:00 GMT"
-      },
-      {
-        "title": "NBA Mexico City Game 2026: fecha, horario, dónde ver y todo lo que debes saber del Nuggets vs. Pacers",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3B5ZVgzRU5sY2VjdWJhOWhmR2hla3VaZVZGQXdNSi1wa01rVFl1NWg1cXlLclRsaURnbkhTUVRSVlg4M1Z3OGQyYmNJOUxBdF9jY2t1YzZfdlJNcFlTb2NUeXI5Nl9UVzByWE5IOGEzbmg3OGhIVkNzM1ZiSWYyMnI5ZzU3cWYyWDh5U0ZVRWd5eGdtVWw0OUk0aThHM1o2cktKNmV4b0duQ1VuV2RxNHdCVnA0MTBPMnprN25zMl9OeklXNTZQWVVobHNualMwbGFDZnZrUHczeGc?oc=5",
-        "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1759255260844-0466c096de0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxtZXhpY28lMjBjaXR5JTIwZ2FtZSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDAyNzc5OHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 06 Nov 2026 21:31:00 GMT"
-      },
-      {
-        "title": "Luke Martínez apunta alto con Capitanes y afirma que el objetivo es conquistar el campeonato de la NBA G League",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSU9BbHo0VGJWUTRGNmVtb2pydmZHMEgxU2VPUjlJamJSNDd6eGFNbnpZeFpmaVduU3JEbWxkQ0s5bVJGV0FlRmhoUGYySzNtYWdPUUtzb3FKYWRyLUs1ZVF3SURNa2J4OURicWs5bGpCS0U5RHVjLXdtZFNhelFFMFpwbjNUUlNKQTNVQm5XTEN4Uk85T2VFTk1RS3ZoRjFGalZwaVJiM0MxS2ZlTGxYTVR4aTdEcmQtQkdDbXQxZUJlRjJIM3FEZ3lLcXhPQ0IzdS1JRHhZLXJSR2pTVF92enhndUZWcjc3VEdxTVJBdEpHUkNPMG4xb0d3?oc=5",
-        "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1752166671715-f444038364fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsdWtlJTIwbWFydCVDMyVBRG5leiUyMGFwdW50YSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDA4MTQ3OXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 06 Nov 2026 19:06:00 GMT"
       },
       {
         "title": "Pascal Siakam destaca la experiencia internacional previo a su juego en México",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQakZfWU9aMFlXRHZZTkVEdFFRYWhOczRqd3o2ejNOREV1THQ5MWlKYXo3MUMzdHN2YWhLdUtwdG9EQ0xqM3NyQzdSS2U1Y1FYTm1jcnpWdVFsdTMxcXFDa2x3Mkd6emQzNG5SWDRlczFnRHhGX0REcFVzSk1iSWhZSUx5WFp3UFl4WjF4Z051SzEwQ1dUSkFYR0ZuZ2RaNmE1TzNuU0piTTZZb1BXbnVjbFVrcG9QazYwWEVjOHhObHdOZFh6NXZuZ05DbGJUUQ?oc=5",
         "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1752166672426-3bf676f61248?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxwYXNjYWwlMjBzaWFrYW0lMjBkZXN0YWNhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0MDI3ODA5fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1752166672426-3bf676f61248?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxwYXNjYWwlMjBzaWFrYW0lMjBkZXN0YWNhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0MTQ5NDM2fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 06 Nov 2026 22:21:00 GMT"
       },
       {
-        "title": "Tyrese Haliburton no viaja a México y se pierde el Pacers vs. Nuggets",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEw2N2hqN083RjV3Z19OckFYdGVwdkMzV2s1andYUklKNGdLZHJtSUpQcDJlYVBXWkdiVGVYcGw3RExQYlVYYW15a3BWc1dvMDlaMEFDQkNHVlRqZ09VZkZIMUlPQ05mRzBnSVBnajdtel9temdNVjVwc2o1SlVNSWlmaktWaHRjcHo5dW9sSms3NGhPdzR0ZkZzTmpiX0ROWEpaYVk0Rkk1UGhq?oc=5",
+        "title": "Luke Martínez apunta alto con Capitanes y afirma que el objetivo es conquistar el campeonato de la NBA G League",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSU9BbHo0VGJWUTRGNmVtb2pydmZHMEgxU2VPUjlJamJSNDd6eGFNbnpZeFpmaVduU3JEbWxkQ0s5bVJGV0FlRmhoUGYySzNtYWdPUUtzb3FKYWRyLUs1ZVF3SURNa2J4OURicWs5bGpCS0U5RHVjLXdtZFNhelFFMFpwbjNUUlNKQTNVQm5XTEN4Uk85T2VFTk1RS3ZoRjFGalZwaVJiM0MxS2ZlTGxYTVR4aTdEcmQtQkdDbXQxZUJlRjJIM3FEZ3lLcXhPQ0IzdS1JRHhZLXJSR2pTVF92enhndUZWcjc3VEdxTVJBdEpHUkNPMG4xb0d3?oc=5",
         "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1654000680055-a6c0dbe25c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx0eXJlc2UlMjBoYWxpYnVydG9uJTIwdmlhamElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTQwMjc4MDh8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 06 Nov 2026 18:10:00 GMT"
+        "image": "https://images.unsplash.com/photo-1752166671715-f444038364fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsdWtlJTIwbWFydCVDMyVBRG5leiUyMGFwdW50YSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDE0OTQzN3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 06 Nov 2026 19:06:00 GMT"
+      },
+      {
+        "title": "NBA Mexico City Game 2026: fecha, horario, dónde ver y todo lo que debes saber del Nuggets vs. Pacers",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3B5ZVgzRU5sY2VjdWJhOWhmR2hla3VaZVZGQXdNSi1wa01rVFl1NWg1cXlLclRsaURnbkhTUVRSVlg4M1Z3OGQyYmNJOUxBdF9jY2t1YzZfdlJNcFlTb2NUeXI5Nl9UVzByWE5IOGEzbmg3OGhIVkNzM1ZiSWYyMnI5ZzU3cWYyWDh5U0ZVRWd5eGdtVWw0OUk0aThHM1o2cktKNmV4b0duQ1VuV2RxNHdCVnA0MTBPMnprN25zMl9OeklXNTZQWVVobHNualMwbGFDZnZrUHczeGc?oc=5",
+        "date": "6 nov 2026",
+        "image": "https://images.unsplash.com/photo-1759255260844-0466c096de0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxtZXhpY28lMjBjaXR5JTIwZ2FtZSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDE0OTQzOHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 06 Nov 2026 21:31:00 GMT"
+      },
+      {
+        "title": "Los Angeles Clippers vs Nueva Orleans Pelicans Noviembre 2026 — NBA",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEhpSGRsc3lQZjdtX0dFNWlfZ2FJQl9qNGxRenBBbWhDblNqVmJQNFRXMGZPZ2RmMnkwdWxWSktmbU1DZE5fNl9qS2RMdXZPM1pWQVg5cjlGc0dSSERIeFlHSEFoUTVNbnNnREhzMFU4dVlmM3I4d2hZemY1VnlncDlOMThPbnRZTUNXb2pfRWcwU3lvMU1aUUNUWkVjcGtxU19kZkgzbjI0NmVwQWc?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1626003573503-2e088d82c647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhbmdlbGVzJTIwY2xpcHBlcnMlMjBudWV2YSUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDE0OTQzOXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 06:02:10 GMT"
       }
     ],
     "pd": [
@@ -134,213 +134,213 @@
         "title": "Mundial 2026 – España retiene su título mundial ante Argentina tras una gran lucha entre Josemaría/Triay y Brea/Jensen",
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUmNrVzBQRzhhVXRaM3pFNDFUWExKenpuYWNGMHU1NFdad1BJQlRlNURPYVJfR3FBZ1laSEFnZm41d1ktZ0hRUEFocGNxQWd6OTcyMjV1TUVzX2htOHB4aUlzQnh4SXRzZXlCdTVZenFFWTExZlBMQm1GZDdxd252RHFqR21pWGhienFjcTh3QUhidGlPenF4NnAzY3dydzdTeU9KWnBWT2VHRHQ0cVhwNVdudURqN1hJd2UyNi12d29BQ1Nfa2FWR3VQVmdBWlJ6bGwzMUNnUGZMSWR2RW8xVFdRS3dTOThXaUx5QzlvSl96NTJxMV91OXYzWVdZTFAtZTMxWE16bnc3MmM?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1613870930431-a09c7139eb33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxtdW5kaWFsJTIwZXNwYSVDMyVCMWElMjByZXRpZW5lJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0MDgxNDkyfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1613870930431-a09c7139eb33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxtdW5kaWFsJTIwZXNwYSVDMyVCMWElMjByZXRpZW5lJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0MTQ5NDQ4fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 16:09:46 GMT"
       },
       {
         "title": "Gemma Triay y Paula Josemaría dan a España el décimo Mundial femenino de su historia",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2V6aDQ0N0ZmdjczcWk2M1JTem9IZDZQSnlhelh4NVAxejVpS2Q2TmY1cWxBbXdNZnhqYnZHNmxwUFNkVWdnS3ZkdjAzMEw1d3BoMzNUNDNBZXg5a28yZXducjdMZElJdVFWMllQcktVYnRWRVBqeXpCeldQQzVmbGdSWTdoaDJMbUh0STlXYk93VmF5U0xSYjBYbFUwbmc2VGtBN3VCS3Ytd2V3bFBaOG9LM0JLQdIBtgFBVV95cUxPR2tqQ25CREFJZTJ4ajBTaGZRMmNJeVE3Vm5Ydm4waHVmb3p3cENMS3pNUEotbkhkVEN1WmJhQ0F1VmVIYklRVVdFblRTZ0UwblVDWkZ3RzhqVldYdFdSNHFUUnNfbDRtNVE4ZEVwVnVDc0tmNmxpcWFVQmhlRjBJd25EbUU1a1l0SmNXS3lmeFl3SDZLZnBDQTR4SUFVazZ0bDk5el9nVzU5aFR3WEJJR3dVUEFJUQ?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxnZW1tYSUyMHRyaWF5JTIwcGF1bGElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTQwODE0OTN8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxnZW1tYSUyMHRyaWF5JTIwcGF1bGElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTQxNDk0NDl8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 15:48:20 GMT"
       },
       {
         "title": "España-Argentina, final femenina del Mundial de Pádel: las parejas probables y lo que dicen los números",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVBKa3JvVHhSNExFMm9xWXEtYVd6d0NYUzg3VWJmRkZBZURvWm9NVEtMLW9oV3pmZ1liVFNMVlY1M2M5enhXVGxQRTdZcFVqNXNjUlA2RUJwc2o5THYtdlNadFVoakJYVEhVd0t2MjJkYWdEU0hVYzgxQktkVHk0dERaTG5KOHVfY0E?oc=5",
         "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1671459622301-78cf3f419b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxlc3BhJUMzJUIxYSUyMGFyZ2VudGluYSUyMGZpbmFsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0MDgxNDk0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1671459622301-78cf3f419b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxlc3BhJUMzJUIxYSUyMGFyZ2VudGluYSUyMGZpbmFsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0MTQ5NDUwfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 06 Nov 2026 18:56:34 GMT"
+      },
+      {
+        "title": "España, campeona del Mundial de Pádel 2026: gana 2-0 a Argentina",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW01Y1pCeVFYMzFndmlhUzEwWXVNQTAyS2RUS0ltRlFoRGJDSUNqdXh6V0dWXzVhVzZYblBEWjNldFRoWWg3QWc3ZHZmejRoWGlERjRjTlV4bUVsX09pRmFTLWZXeE1UeXJhWEFQbnY4UG5LSS1tTGJvNW03c05HR3Fvc1kxNjl0dGd6czVEeFg?oc=5",
+        "date": "6 nov 2026",
+        "image": "https://images.unsplash.com/photo-1614632044762-0a6694a82eb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxlc3BhJUMzJUIxYSUyMGNhbXBlb25hJTIwbXVuZGlhbCUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5NDE0OTQ1MXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 06 Nov 2026 21:52:02 GMT"
       },
       {
         "title": "Arturo Coello y Coki Nieto dan a España su quinto Mundial de pádel",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0RRa0lGVDREQmtBdV9GLS15cU5NT2ZFamE4LTNvM3ZJQmFUTGVtTjk2ZVdqdllUNzN5dE1hMzZ2eEVQYnVfSm11Rzc5UVhUV0RWYmhYUDBkYkhXZ1hKWjI1RzdmOE0tVjF2QUlTSWJvRURSNjA2TXZDUU0tdGw1ZmtOU3RVdnJIQWprb09DMVdBbmpzcmJYLXdSNm5YSXpyLWfSAaIBQVVfeXFMUDVRYjZWc3pPdmZjYkpTek5naEVaSkdEZ3ZtSFlQNmM5YUhyekplZUstVGFBM2FydHNkSEJWbXk1ZENyNzctdGg4a2FjTzFSa0VYcjdISXhaNnJLdHJsQl91dlhQcmZPMG9Xb0FPZEE2YU9tek15bEs3SWlBRzRUTjBuZS1yWFNjOEtPUk9tVW42UTc2WDRVbnVwVkxCc0J1ejl3?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1560012057-4372e14c5085?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=480&q=70",
         "_pub_raw": "Sat, 07 Nov 2026 21:18:47 GMT"
+      },
+      {
+        "title": "Ale Galán: \"En 2027 Chingalán sigue y con equipo nuevo\"",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3RMQUZPbm16bzgyY0FsbVlLdEZHODBtZHFKaEFDNlBzN25TQnpvQldxWGJHU0Ixa1BRVjdrNjZTTkozTzRIUTZyT2VGNTZQQ3dwaW5xYW5qbjZodW5tcVhPMkI5ZEZSc05iVXJMS3FGQ1pBUWdxMU1DV3h5TUJ4dld3QlFTRnFRTUgxYjZoNUPSAZABQVVfeXFMTTU1c3NFdUsta01nUG9zTWFaZEJEX2dHa2p0R3p0RW0tdU1MWW9RTWVDYi1GSVdLZWhMN2lDdko1bENBU2o3N2FIR09IWWUxVUw5M05PQXVXMExVbThQN1Vud28xc1J4SElTR0ZOcmsyYVlMZElPQTZtYkpDNC1ZVTRuS0huYWZvaW5HNV9aLU9L?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxnYWwlQzMlQTFuJTIwY2hpbmdhbCVDMyVBMW4lMjBzaWd1ZSUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5NDE0OTQ1NHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 14:33:50 GMT"
+      },
+      {
+        "title": "Lo que no viste del Mundial de pádel de España: Lebrón desatado, la derrota más dulce... y el que más se la jugó",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXRiZ2pvUGN2UlBfWEUxZE9TMmU1cDR1alZGZTlCZ1JIUkRVcWROa0NlVEUxVXdydDBQUklFUkN0T1RLX0FoRTAydzJXaEg2TGFSSmpHWXpLeFZQdTM1dEFZWU5Xc19HLWZEQlNpUkI2VFJ4OE5qV0VqQkVzeHI5dWVtbHNEQWxDVlQxNzFPS0s0X2JUUnFsT2VJZUNVQmp4WExmWGRlQkpLR0xqNkdta3RB0gGyAUFVX3lxTFA0NEVxT0d2SXlnNXoxOUU4bmdmcVVWaFgzMVVLbExCLV9WNEtvclVIN0YtZU50WkpLR3lvUjJNUDZEdzh5WFhibEt1WVdJakxvM056MkczaUNIMVJZek1SNHpscTNKdVBTMG8xQWlHblZxM2c4VkNpSEI1cUhyX1R2OGgwdXhiWm13R2xROVJjNWc0WW8zbDlYdURBb1NzQ2pwOTZDOWl5cmJOaFNINFlDMEE?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1612534847738-b3af9bc31f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx2aXN0ZSUyMG11bmRpYWwlMjBwJUMzJUExZGVsJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0MTQ5NDU1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 09:59:29 GMT"
+      },
+      {
+        "title": "Juanjo Gutiérrez lo tenía en su cabeza y se merece un monumento",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODk4NjMxdHZaeFVybGpoWm1WLVZwM05qUXZmU2hTcjZSZFJkTFlaeDBZdUVWMnVyaENnX3g3ell1QzlkNVFZcGY2Rl9aUVFzRWFrQmFuQ1pKLVJqcVZncE1Hc00td1lUYk95NlVqcy1GdEd4d0RQSXp3WWZqa0syN19IcVh6NmktY1ZGTEZwSE10SWYzZFlxRG1ZcUVPNkHSAZ8BQVVfeXFMTzRQRFg0Wm9hRTJQazNBRWJjaDhneHh6aHJZTVA4eV9FYmFZQW1DUXhjdl83NHota0lpRGtlU0tlQWU2U2RaWU4taDNZdWRhald6WklPd0hHOGZjLUlXOEFWdlZhblhiUUFKbDZGcVRsNEV6dXVsM3RkMW4wM0ZpbDRIZUQ2MEhQbGMyd3hfNzVsNmpkMFgtMVROeTMxU1Vn?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1672223304549-9e52be1232b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxqdWFuam8lMjBndXRpJUMzJUE5cnJleiUyMHRlbiVDMyVBRGElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTQxNDk0NTZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 06:42:07 GMT"
       },
       {
         "title": "Tapia y Chingotto pasan por encima de Paquito y Jon para forzar el tercer partido de la final del Mundial",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbm5WQ181VFpGOUJqNjlndHZ2bjVjVk5ZTVliQkZFSFZPUGJZbHdmVXo4bUdFdmJ0N2pOZnJKdS1PTUI2enkzbXphbGpmRkFxTzAtTmVhRG9ZMFhSWTFDanhBOXVwXzIzc2V2MlRaanJnVnFpSjVNcnVtWHpmN2VWQnZmVGRvLXRtaUJzb1N4RWlHdTItR1ZsTXJmNFNXa0JjNzJwTzhUOUJWX2dZVW9zRnc2VDFfZ1R3UkpKM9IBvAFBVV95cUxQRVVmQzBvUlFvVk1SbWstMWE2NkI3TGEzYjVJampYOVJTdzlINlVUcGY2eTJWY3A3SjNGUWJadkxuZ19BZXNMMVVxOFUybUoyV3B5QW9sWkFYd3hqSmlTZDQ4YldOUDVtdjllRDRVLUxVVUVBb19sZ1BKY3JRcHVCM0tNQm5NY3BheFh1blZDbmttc192ckxUcmZleHU2VFdEcjV5bkpKOHBBbXVnTlo5cEpvT2NYUHI4R2d2Ng?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1646649852033-7e0f3d679f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHx0YXBpYSUyMGNoaW5nb3R0byUyMHBhc2FuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0MDgxNDk4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1646649852033-7e0f3d679f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHx0YXBpYSUyMGNoaW5nb3R0byUyMHBhc2FuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0MTQ5NDU3fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 19:35:07 GMT"
       },
       {
         "title": "Lebrón y Goñi remontan a Di Nenno y Augsburger para dar el primer punto a España",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFNaU18wQnljcUs1eUZxVTlDbmx5WXBNOFRERk9OVE9tek96OEJ3Rk56NzN6b0xaS2U2eUlwUHJsa2RHVEc5by1ISU5jX3VFdUdNczJwaEw0TXRTUzZGTEcwaG1mTGUxTXY3TnBSeTI1ZGROVnFZRlM1MVcxci1JZUw3aXZSYXJDajVIamhxM2UtVmtfYnRVd2dNMmJGYlk0d0NfX19CM19ZZ0FN0gGsAUFVX3lxTFBZVV9LUGwtbUpONzZvVVgwRkJGM29IZVR3c1E0QTFJNWtMeHdsNDVPVGRoeTFtcGgta0F4eVFhVjFDS3lBWWNtczZwZVR1U0p1bFQ2ZEtDUGxabFV6V293RnRLc1RTcFlPdE9GYTcySEU3QXo0UjhhU2VLcElMeGNXMUxralBPSjFFdXExSUlUSzRzeDRVUm5UQ3dhU1lxMkNHb2loZnA1N2ZvcnA?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1560012057-4372e14c5085?w=480&q=70",
         "_pub_raw": "Sat, 07 Nov 2026 18:24:08 GMT"
-      },
-      {
-        "title": "Juanjo Gutiérrez apuesta por Juan Lebrón y Aimar Goñi para el primer punto de la final del Mundial",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGhjQjBNb2E5SGY3VzVDcjVMOHpjX3I1LWo4aVhJdGJLNmh6WnVoeFI1NXluRVhVLWFXRjdZcW5FNEdQQjZzVy1kdlV0cmJ5aXFLVUF4NzMyUlViRmk5RU42NHFhR1RMVXgzTmZhZHhYMmZZUFNYcU8ydTVkaHdia0lETmJ2enRuOFE1eFBRb0dxUkxPTlNrZGdtZTJTbC1LRDgybmthOTQtdVgyR1FXY2NsQV8wTjB1TGfSAboBQVVfeXFMTTF4emVjMVNvclJmOUVGTlR1UHJ6dnpaUEZfX2YyTTF0Yms4TThZdFNkV1RfcDk4M01oQ1BYUXdiUVR5S3FzcEc0bXJaRkRTZUlLTmVRRzVkaVlDenhnUGlCM2hPZmVlVVZFM1NnbFZBN3AyaUdBNmJzN25xV29hQy1CV0E1U0d6azUtVVF1Q28wWFFHTFh6QWgtYnNjMk1nejBhRkI1M2JldXZYdTFraXdMMmc5YTlqSUxR?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1657704358775-ed705c7388d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxqdWFuam8lMjBndXRpJUMzJUE5cnJleiUyMGFwdWVzdGElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTQwODE1MDF8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 14:09:34 GMT"
-      },
-      {
-        "title": "Las lágrimas de Juan Lebrón que emocionan a toda España",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTdnYVFhYU9Dc25Gei1ZSjhDeTlKbFV5N0owaDlVRkp0bDQ0a1FKaWpBVXB5ZE15TjBFVFEzRDMwRnV5aFdyWTQ4MXYxbGoyMnhuUm1yV19LMHdDOFRZN04xbW80QmNfblduT25rbWRzbFZ6R01TaTZNVjUxY2VSUzlPR0dNc3o3eUN2TlJXNVh6T0tDWV9Z0gGXAUFVX3lxTE8teXdwdURtUkxMRXZHMy1JUW9SLUZoWVBMbEFUYTJsTzNHWVVpNFVidG1IM3hFSFZ6eG9qZ2ZMZG5FLU01WjE2S0txZGFoOVV2MTJqOWRqWWh6aUxOcG5SalEtVDF6SzFoVXBra1JpR3ZUaDAtSmRMNVlxckJyN3ZXTVNSdHFBS1doV0w4MGF5bzkyZGVrUXM?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1715333148784-295eb7e7d748?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsJUMzJUExZ3JpbWFzJTIwanVhbiUyMGxlYnIlQzMlQjNuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0MDgxNTAwfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 18:39:43 GMT"
-      },
-      {
-        "title": "Ale Galán: \"No soy imprescindible, tenemos un equipazo y vamos a ganar\"",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2JwbW9OTHltcUczZUItODR5X2NheGFwaEhDNkVEYVR5SzN3SzBLV28xS0E2Y1VQSXhXSk5KUklFcVQ1NzVFOVhYOTRsdU11Uk02NGcxa1RPUjFFTEMtYXN0V2VMS0wyNVV2M25GdjJ5NUtzaklaSVVqeEx4U0w1T3ZMdWR6ZjlWaVVR0gGLAUFVX3lxTE90VGJaSXg4ektFZGVNN0NVM1ZOQ0dNZ2Rma0lQT09zN1RHVmdySGJ1dmJkWm1XODlaZmlSZE5wajBaSnBMMHNlWUkxRk1JQ1hrdjFuWHhNSkNNTmJ3bHRkQThwRGQ5Z2JxVHhaeGFVMllEZW5EbWlic0dSSkVKeVczRURucmxzNFdwTUE?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1709587824751-dd30420f5cf3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxnYWwlQzMlQTFuJTIwaW1wcmVzY2luZGlibGUlMjB0ZW5lbW9zJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0MDgxNTAyfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 13:17:41 GMT"
-      },
-      {
-        "title": "Ari Sánchez y Andrea Ustero dan el primer punto de la final a España",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLW82dmxabDNMUTBVc29Mb25yRWlkLU5ZcS1NNWtiN0RQY19CLURrdEFNUlBLenRMSkxaaERXOG1fSS1mYmdvazFvSzZESHNUam1ZODhRMWJJLUlxRUpHZWFmak1YVEs1cmdkYkxwOHo1UzUxcFBEbW9yejFHRDA1dl91bF9TdUUyMi1ONHdqcnN0cWFGRTFKVlgzR2J3M2F00gGgAUFVX3lxTE9wcnkwVnhoZ0RpTjM3c0xRQlhJcVpmcFpVRTlHdERZR1ZZTExsVW91RmVoZkRBNWtyYmFteUR0dTBQSWhJTzBEYUgwUm45TncxX3F2VThjODZFdzdsVF9oTXctYTh1amhJdGoyeWxjcGl1M3MwMXVUOWdyRS02Rk1WbHZRM3BjWWw3WHFUYjBjTG5LcnhtWmxXZUs4dVhibm8?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1657704358775-ed705c7388d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxzJUMzJUExbmNoZXolMjBhbmRyZWElMjB1c3Rlcm8lMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTQwODE1MDR8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 12:57:02 GMT"
       }
     ],
     "fx": [
       {
-        "title": "La Máquina del Cruz Azul se impone a unos desahuciados Tigres y ligan su quinto triunfo al hilo",
+        "title": "Liga Femenil: Resultados de la jornada 14",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZG90b0JuejVkNWY1Xzg0b2hZdkZNNGxBejd2bkYxS01ObVc4MEVxbVl5alFzSW54dmVOdUlIeHJ1SWJrYS1rLUdfMXd3TWR2aEpGY0ludUQ4d2dROGVZOHA5eTNvODQzTmdjVHp4YlNjTjlIZ21FSHhVRmIxczZvNkZLd0hqX2FWa0NQZ1RRZEpyTGgzUlVZVWhiWDN0OUVCN0tfa29haHlwM0FBeDJVcHNSTE0yc3pmaFE?oc=5",
+        "date": "7 nov 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsaWdhJTIwZmVtZW5pbCUyMHJlc3VsdGFkb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTQ5NDY2fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 07 Nov 2026 23:37:00 GMT"
+      },
+      {
+        "title": "La Máquina del Cruz Azul se impone a unos desahuciados Tigres y liga su quinto triunfo",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTjFpVm1NcmNyZG02V1kzMlNWakI3dVJVTVl5TWlXOFhYUk9mRENXUkh3ZEdhWTJhS1BGemhVaFRPbEpydDViR2tOZ3VwMjRXSlp4NFNDNGwzakhLSi1VQTVXQkhLX2t6YXFKc21CQUI1MlI3VkxOc1dYUlIzWnFWSUV1dFdGVnIycV9YRFRuMU9VdjNGc00zeEVSTVFIMXNnYUJvUE1vZUhsNEdNT1RvYkZiUjZWdE5jTld5RVV2dVlHS2FNbVBFVmFxRGNDcW44RS1nYVZhb1pjYXBKX2hMWDhxaw?oc=5",
         "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
         "_pub_raw": "Sun, 08 Nov 2026 03:01:19 GMT"
       },
       {
         "title": "Resultados Pumas vs América HOY: VIDEOS, resumen y goles del partido de la Jornada 16 del Apertura 2026 de la",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWUF3TnNLbW9DSzB2Q1Y5MnI4Vk5fdzJfcVN5a2g2Uk5MLS1EMGl2eDhzLXA0ZmwxcEwzakdBRkx3N2R1bGQ1SEN0V2VBRk1iY1RiYmxjX0NxVlF1SEJhTV85WW81QnpVdnl5TjFKcjRvdDFfWUoxaW1fcGRFVE1XcG5IYnZIdTlTUmotekUxY1dweHltZ2xJamwxd3hSbjIxY0FMd3l4dXFWMEFMZ25zaERJLTU5WTJXZUY5YXUxUlRnZHNPX2t2NnJhRTFva1J2ZWJUb2tDc0ZwTnVWSVHSAesBQVVfeXFMTlhWUlNVQ29neUJMQ2MtLWw0WjBGcHlFcWNLU083ZGZ2bVlsX2dwMDNnYmhYaDN5QnAzMkJBc19NN1B4b3A2aGZjQTE2SmZPSlY0X0h6ajdlM1J2aC15Y0YwdUt6TnYzeGZNaVkzNVRIZUNSNEZXV0lhd1NPTGZBUDlxYXpSTm9tbmx3a253RUY5ZEI5NHE5N0dfZEVGNGRINzJkNmVqVU1ETUNydzB0T0FoNjBRNWVLSFJUMFZYaUxiVW1kZVh4N0NJUThpVzFFMTBNZzAyQVVsWUFzdklzUG85SnF3X3htZThiRQ?oc=5",
         "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
         "_pub_raw": "Sun, 08 Nov 2026 00:00:00 GMT"
       },
       {
-        "title": "Liga Femenil: Horarios y cómo ver la Jornada 14",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZG90b0JuejVkNWY1Xzg0b2hZdkZNNGxBejd2bkYxS01ObVc4MEVxbVl5alFzSW54dmVOdUlIeHJ1SWJrYS1rLUdfMXd3TWR2aEpGY0ludUQ4d2dROGVZOHA5eTNvODQzTmdjVHp4YlNjTjlIZ21FSHhVRmIxczZvNkZLd0hqX2FWa0NQZ1RRZEpyTGgzUlVZVWhiWDN0OUVCN0tfa29haHlwM0FBeDJVcHNSTE0yc3pmaFE?oc=5",
-        "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwZmVtZW5pbCUyMGhvcmFyaW9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDAyNzgzOXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 06 Nov 2026 17:39:00 GMT"
+        "title": "¿Qué resultados necesita Pumas para clasificar a la Liguilla del Apertura 2026? Todas las probabilidades",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanR5T2pnWURDTUt1S2hSUnNDekhZeWRkNEFCMDF6Z2ZtZUV1cl9USmpyR3BKOG9NVGY4bUdEaGRJdjlFOEpvbkJvbDZkTGZpbjVsNmwyeVh5RXRQRWYtVWRKSkEzTVdKaXZyZVd1emEyMHAwNklyNkNJVGVOTnZnRXotM3NyZnhnMXNockVJMUV0Z1dTQnZWNXNMVFl6ck4tQ0N1eUg3bThwS0dSTUowTnJVODgxc3RaU3dCbGZsSDRDT3l5WnpsQmp4Wkl2RWtfbGpHU2k2b0I5cXl3SGNv?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "_pub_raw": "Sun, 08 Nov 2026 05:39:51 GMT"
       },
       {
         "title": "¡Goleada tuza! Pachuca se impone a Atlas y se mete a puestos de Liguilla tras el gol 16 de Salomón Rondón",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQenlXOEtqcDFMdlY1ZFI0QWRwWGRuSFVfNU5IUDk2aUYtMUFVVzJra2g4OEZHVHFLUWhJWjRhWnZCaTVPeWhqODJlQ1NWSVZkRUlzbTBlY2hGeDFTd2VfSmduQ213NlVseHg4cFRiTjJ4cTFFTWpmWjVWWE8yQU5oV1I4akk4RkN0SjhWRi1IbldFOHF5RzFYU1BjTHNCSzBmMzJDUDRfd1NvRWFHc0dCWDd2ZUpHYnhVbXQweUhFVEN2azdCUnd0ZWgtY3RxVGdBbjhZOXY2ZVR2VFdoN2tr?oc=5",
         "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1582238625680-0ea79a8ac668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxnb2xlYWRhJTIwdHV6YSUyMHBhY2h1Y2ElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTEzOTI0fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1582238625680-0ea79a8ac668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxnb2xlYWRhJTIwdHV6YSUyMHBhY2h1Y2ElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTQ5NDcwfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sun, 08 Nov 2026 01:00:59 GMT"
       },
       {
         "title": "Liga MX: Cruz Azul gana y es líder provisional del Apertura 2026 - López",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTFsNkV6NkxFS04tRXZqenJXcHZsYnVBTGdjWWJEaFVkZjd3U05TUURMckVSaWJJdWlPZDRmNFVPZHZGWk9SZVI1azQwMlptTVZzMzdueWE0U2VrNFFoY2lKR0ZPQ3VjYlp4V3dNRHRDZ1lUajBsTEFhenZwWXYtQ0RYZk5CMHQxS0gxZkN3aGFQb2pZX0RNMWYwai1ndw?oc=5",
         "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Sun, 08 Nov 2026 03:02:32 GMT"
-      },
-      {
-        "title": "CA La Paz vs. Tlaxcala (7 de Nov., 2026) Resultados en Vivo",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LcWtXTlFzTzNWVC1KZ3Rjc3RyaVpUQ0tnNUQyb18zRkVjWnFjTVpTRkNLb3ZUaW4wMVotNG13ZUtGakcxOEtHdGozNDFVWERjRW8tQ0FlSlpVaWVCMWJySllvRld0Vlk2RHc?oc=5",
-        "date": "8 nov 2026",
         "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
-        "_pub_raw": "Sun, 08 Nov 2026 03:13:27 GMT"
+        "_pub_raw": "Sun, 08 Nov 2026 06:54:57 GMT"
       },
       {
-        "title": "Revelan días y horarios de los Cuartos de Final de la Liga Femenil",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYl96QmFBa045SFhhNWgzTnI0RTdlNUxvbXM4aFc0UFBSUDc1dnA0am0wQWp2NlFXaFpaemJlZlh5aFgwTEZfX0dORmxrd1FKSDMxb1FIRzhXRHpubkZSUGoxcUNOMXhVTjhpU0hRcUh1TUx3UUYxTlpldWZIUGFVQ21CY2Z6OEJES1BhRHA0Mk1GWFFLcThRV1ZxSkZSdFV0cWxHQmRpY2FycGZDRGdGQjVRQUV6ZE9ZTjZtc1NVZ2RVZw?oc=5",
+        "title": "Liguilla al momento: cruces y fechas de cuartos de final del Apertura 2026 tras la Jornada 16 de Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObG5vZEdmSWwyV25RVDQ4OHl5NGFrZnRNVmhBRmM2VGczWEFaSHRLQUZuemMwV05uSld1cEUzVWtUTTNmT2x4RUVfMThuYjRMWlM4UklNSjVMaFRYVHJoTlpaWHR0ZkUtOWtVajVmZl9lWERYZm1vZVNiRGYta1hBcmgxUUx4TlYwdldzWWp3SDRuS21ZOU9NT1VGdFVHakxZajlMRFROcTg3SUs4SE9oZGdpUHZ2X21qZWlMakN4RUxoVExibkI4cFl3bGNQczFT?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWd1aWxsYSUyMG1vbWVudG8lMjBjcnVjZXMlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTQ5NDczfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 05:36:00 GMT"
+      },
+      {
+        "title": "Resultados al momento ¡EN VIVO! de la Jornada 16",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNell2Nk1BMDRqQVdtcjM5ZllNd3BXeVozVHV4MFJ4TnRjSVRRNmhUR2pYZHUxNjlKUTBHS2c4RWs0MUdSQ3VUdlZDX3BzYXREeXoyQWpIcm42TEFNM1NfRW5VUDhwcE1tcW45eUkwVENLMzlJZ2lHZGtoSW5jT3JEUDFvM0VYMzA3eHFVSGVyT2dpaW5nZ0xxQUg4RnhFdC1LcEVfbnR3NzRmUQ?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1732037618180-b858701bc106?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXZlbGFuJTIwZCVDMyVBRGFzJTIwaG9yYXJpb3MlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTEzOTI3fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 20:50:02 GMT"
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "_pub_raw": "Sat, 07 Nov 2026 02:09:38 GMT"
       },
       {
         "title": "Así se jugará la Liguilla del Apertura 2026 en la Liga Femenil, con el nuevo formato",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWh5UjRNQW83OWVtVm5TWEdfSEdlTVhZekI1NnZaRzRyRVByWWFnZ01KUHlpUERIZ2NCanR1LXk2V0hiUWZkbHBHS3pQWUhIOUo4WDdKamRGVk90b2tTQ1FqYUxXMkpNZ0prNmhMcXBwM1dGWWl0UGxnekFkT3dFSjM5Q1NhaF9XYjN0dk1Wb3lYRkg1VEFYUFl1ODJTUGZuZmh6bWFETWZyUk45QmZWR0JPeUFFQkYzSEFMMGc0NEhsUjJvUVk5cTA4QQ?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxqdWdhciVDMyVBMSUyMGxpZ3VpbGxhJTIwYXBlcnR1cmElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTEzOTI4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxqdWdhciVDMyVBMSUyMGxpZ3VpbGxhJTIwYXBlcnR1cmElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTQ5NDc1fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 23:47:29 GMT"
+      },
+      {
+        "title": "¿Qué necesita Chivas para ser líder en la tabla de posiciones del Apertura 2026 tras resultados de Cruz Azu...",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWRGZjFzS18zTEZiVXJkeTVMdjBJNERCZWZhbU1rNmdOT2dtMVJYaVVVWlBFODJIWnprUHQweDF2VGR5MzJIUFVqZHAyMzhhT1hUOXd4M21XRlRkdjVxa3JFM2hQNkNhNzlHWGRKbDYzaWNrOHFlR3B1d3pZY2prSHc5R2NkMTVUUFFvVkFpYWdpQ3VSOFdtN1p5UDZvc041M19iajRyZ0d5ZWFrUUpHRzZNdWxscGRtWFVZdk1jMmkyT2NtWUk1ZzhEYWdzOVdnS0VjbWpiN2RuOUZpVm5mT0R4X1gxeUdKRThhMWln0gHuAUFVX3lxTE5lZEZmMXNLXzNMRmJVcmR5NUx2MEk0REJlZmFtTWs2Z05PZ20xUlhpVVVaUEU4MkhaemtQdDB4MXZUZHkzMkhQVWpkcDIzOGFPWFQ5d3gzbVdGVGR2NXFrckUzaFA2Q2E3OUdYZEpsNjNpY2s4cWVHcHV3elljamtIdzlHY2QxNVRQUW9WQWlhZ2lDdVI4V203WnlQNm9zTjUzX2JqNHJnR3llYWtRSkdHNk11bGxwZG1YVVl2TWMyaTJPY21ZSTVnOERhZ3M5V2dLRWNtamI3ZG45RmlWbmZPRHhfWDF5R0pFOGExaWc?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "_pub_raw": "Sun, 08 Nov 2026 05:14:42 GMT"
+      },
+      {
+        "title": "Tabla general del Apertura 2026: Partidos, resultados y posiciones de la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOamZBWlhfVjluNERFZkNjSE1sSU1TS2xabzBpM21TalFnRlRleUFrWUlWM2xnWHhBLTg2eU9EZy1JSV9mMXJqcnJUd1Mzd3J5MnpoakZITzg3aFZtR002VUlmMjN2VzhlVjRVMVZqUFFLam0tWUNIc3RYUGJ4N1hiTGNMR1NTSTlqNDVEdlJKbVp6Z0dSTFJrdlBlU3ZUb1dwVjNaWDJJb1RsMTZfXzRSYXM1WXhmeHFMQjRGTUM0OTlvLTZv?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx0YWJsYSUyMGdlbmVyYWwlMjBhcGVydHVyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTQxNDk0Nzd8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 05:10:00 GMT"
       },
       {
         "title": "¿Cómo se juega la Liguilla de la Liga MX Femenil? Cruces y fechas de cuartos de final del Apertura 2026",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb3ZBYVpmRldYOEF5ZUdzYk5MZUk5NE1yaG1rZjhSNEdsdjVBWEVkZEJFYXpucmNRVGJCU3hNaG9wSmRJTXpBeGNTcFExNXpucDlqSDFqUnRtN3Q4b2t3b2RQcTFIcGc0WmNyYkZDa1N6elNjRU0ySDlGcHdkemtmOGF3NmlHVkJySTZCT1VjckRpUVl3T3VqZklUcXBYcVpIekpicGVfcDd6MmN0TWFBU1BMUVpHVnNWQkhWcEJDdU9ScE4yNWQ5Tg?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjJUMzJUIzbW8lMjBqdWVnYSUyMGxpZ3VpbGxhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDA4MTUxOHww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxjJUMzJUIzbW8lMjBqdWVnYSUyMGxpZ3VpbGxhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDE0OTQ3OHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 16:17:41 GMT"
       },
       {
-        "title": "Tabla general del Apertura 2026: Partidos, resultados y posiciones de la Liga MX",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29Ud2NseTFNWEVrd1BuMGxlYmpMdm1MbV9EcU83T1lRYzZhZEVsQ3NDejlYZkszaHoxWXo3MUgzU0s4WU9IY1hwb2RHQ0dyRWR1QUw3YmRnQ2VuSEpvenFJcDhFbXVmNnJBWHdXbnhzOWx6Y09DOFlfN1NkeW1wRlpERUp1Y1Nha3g5Nzl5RlQ0ZFRLZDBvbw?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx0YWJsYSUyMGdlbmVyYWwlMjBhcGVydHVyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTQwMjc4NDl8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 05:04:00 GMT"
-      },
-      {
-        "title": "CONFIRMADO: Pumas FICHA a delantero estrella en pleno Apertura 2026; se queda con Club Universidad hasta 2029",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcVI0NmRONmZrNTNCdmU3WGtqdTVOSkJVc1paeHBVaXIwNWRjTlllcmdhMDJ3cWVDZlF1bVA1VkFNdC1OWWNUX015amRnUGlyeGQzbkVDeTdIX1dvVGt6SGRCXzZuVjNVMWlqbUZaeWU0OFRBV2tsc2JEdnJMRy1fejJkc0pmLVVOV2FmUjRkdmtPZGVYallWbFZzSkQ3ejd2WEZvX1lnUENHUkR2eEZMLWNGUXNjT3JfbVlyYV9EUHNCeDBpei1BZU1TU1lIdVNlUndPSzRwSWVxWUlxYUNld1Vn?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Sat, 07 Nov 2026 23:38:45 GMT"
-      },
-      {
-        "title": "Nicolás Ibáñez aplica la ley del ex en el volcán y adelanta a Cruz Azul",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFhNN2FmWk1RTGJFQ2NHYnVnMmRfTFc5TGVYRzFhUFZSOEVBR1BUeEpkY1pJdml5TnhoRXNGQVM5bXd2RXJPNm5hME5qR0ZpLVFRcklldXRFejVtNmRXcDk0TzZlMUd0dldVY0owQXBnZElSbTdNcnlrVGhMUW1kUnM2a1NqcTdOX1RwWWttSE9NTElmQkRsR0lyMUI1VGNBRi05enBMQ095bjkxNVdqV2x6LVpMQXNiVHhnTzFVTlZWOUVQ?oc=5",
-        "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxuaWNvbCVDMyVBMXMlMjBpYiVDMyVBMSVDMyVCMWV6JTIwYXBsaWNhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDExMzkzM3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 08 Nov 2026 01:52:00 GMT"
+        "title": "Chivas, América y Cruz Azul, cerca de firmar un cierre histórico en la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2xuRlhaTXpYa3UtaUlaTE9qN1BpLWlMeHR1OTJlZVc5YzhDV2hVN1VZRFhhQkVHQW9vWkVfM3VEMjE4dVlFZ0VZeTI3MkUyTGVJXzJ1TUc2dFRUVDVDQnRkU1NjV0dGTndqdjVBRk9Ed29MUnV6RDhLN20wWU1XM3VidnB3YUdHRk9faHljZ2NDRzg5WFowQlliOXFaaUtmeGF5eGV6d3EtYlpRLWNOcWM3M1NhU0o4QUowRU1ra25KeXc4X2E2dWlvYw?oc=5",
+        "date": "6 nov 2026",
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "_pub_raw": "Fri, 06 Nov 2026 23:52:00 GMT"
       },
       {
         "title": "¿Qué deben hacer América, Chivas, Cruz Azul y Atlas para ser líderes?",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pWDRpQUIwOFlhZVozWElxcW5tSzVyUmlRTHQ3RzU4amgyUXE4ZkZCdHl3SEZuZUdsRVdHWWlDV2U2RFJ3V2dTUUc0UmlMRFp2N0lZQzBvSFI?oc=5",
         "date": "6 nov 2026",
-        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxkZWJlbiUyMGhhY2VyJTIwYW0lQzMlQTlyaWNhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDAyNzg1M3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxkZWJlbiUyMGhhY2VyJTIwYW0lQzMlQTlyaWNhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDE0OTQ4MHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 06 Nov 2026 17:45:22 GMT"
       },
       {
-        "title": "Los títulos del América y cómo cambió la Liga MX desde el último trofeo de Pumas",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHg1SnFOM1FrcVk3RnppaDhvMkhHNnduWkZ3WTBPQUZpMllhM1FTaUliNlhWRU5oVGVob20wakZqeVdmTFNpVU9KQ3U1U0MtRHNES3I4YlNkdlRScWJ6TnNmLVBkYkRLcWRWT1pITFN5bkxpWlhHd3ptYWVtbDZIYUdqWExiOHpHcy13ZEVuZzdQVUFEQmJ0QlhzWkR3QTJTM0VYVmF3amhCVWJQZTFzMQ?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHx0JUMzJUFEdHVsb3MlMjBhbSVDMyVBOXJpY2ElMjBjJUMzJUIzbW8lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTEzOTM0fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 12:00:00 GMT"
-      },
-      {
-        "title": "El dato que pone a CRUZ AZUL como el candidato al título del Apertura 2026; ni Chivas ni América lo superan",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVTF1bWxfZ3YxMTN3bGdQSFpiUDB6VHljV0hpU2Qxd19oR3l0S3ZUZFpwM3BxMkFwSDNrNGxpcERNMlBHYW04NDVIOWUxaU5LTE1MTXRKSG5DcHI4LW13eFgwaVBCS1VQVXhja01DTDI4TEs4N2dfck0zQ2xiNjhGcFVqY25OVnZ5UU9xeEdDd052V01SWG1SZmltd2ZicUp1eldpaGNRRjA3Zlg5Q0JQUUN4WE1xdnp2SUpySGlPbll2STR0Y0FIbkRMVUpuMWJfWk9QWTYwWGl1cW1lSnhXbQ?oc=5",
-        "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxkYXRvJTIwcG9uZSUyMGNydXolMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MDgxNTI5fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 07 Nov 2026 16:32:00 GMT"
+        "title": "¡Arde la lucha por la cima! El campeón Cruz Azul vence de visita a Tigres y es líder solitario",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVWtqeHdIbmdiUG85MzU1MWlCc2x2Nnk3RGpSQ1JGNHllcnVZanJ3aGtVUkM4bXlzam45SFphWWdSTVNkQ05QVml5SlRhWTRuYWZoZ2c1Q3NIbnIzSDFDbG5mLW9IVm9Ic0R6ajN5X3QyT1JDekhNMHdVV3ZtYlR3SFpZbnpFcFpsUDNLci1VRVdKVVNLZVNIbElNaWlNRVp5SVdKLWN0NzNERUw4a3dacGNsaXlsa3JibmMweUVQMm5FUzFMN0tXelU3ZjlfV24tRmxyeUxlckh3a0dqN1pfU1ZWWndackpUNkNId2NiZw?oc=5",
+        "date": "8 nov 2026",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxhcmRlJTIwbHVjaGElMjBjaW1hJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDE0OTQ4MXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 03:00:51 GMT"
       },
       {
         "title": "Julián Quiñones aterriza en México: Rafa Márquez recupera a una de sus figuras para enfrentar a Jamaica",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZENvTFJITlh2ZmhtY0JRRzNEQ0lXZ1RTdGJqWXN2LThLOHdHZEhjOXBrSktTUlU2d2JaRVN3a1dIRVFpLVlJcThYendiTkVvNUxNc0sxWnJEY0V5cEhIcVR5Qi1CYTdVdlRzTWNsMzJsQ0tLeHM2Zl9QZHcyQ041NDlaclhIazdZXzhFQmlxWDU5ZzgwR0tINEdMVW54MHRYei04Qm5SVWFwY1ZQYnQ1RFFncXRwa1VJYVM1VDBiR1llY3lZZnZRS2Z0blJFdDNhRlhZb0FNUdIB1wFBVV95cUxQc2tjQXJjWU4wZWplSTdubE1IVmo3ek9ZSDlyNGotUzV0WDJRZkh6SEI5bzlWU3J4eGZpUVl1bjFyamUzVnIweTgtUVlUdm1Rblp2cFI2aHdqeS1DWjNjNENpdWgwQV9hOV9nN21ScS0wMm8tRFVuTGtHWWFTMmxQOXNSSVlVLWx2RGxJdmRnTUZZbE1uYnQ5S2lQZFpJNW9HVVZFbjFTXzA4RjdvZ28xRnMxQ01XV3k4YmpyNG82YzJxNFBmSzd4QjJmZVc1TUxCeWVUaUxWTQ?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxqdWxpJUMzJUExbiUyMHF1aSVDMyVCMW9uZXMlMjBhdGVycml6YSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTQxMTM5Mzd8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxqdWxpJUMzJUExbiUyMHF1aSVDMyVCMW9uZXMlMjBhdGVycml6YSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTQxNDk0ODN8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 19:01:00 GMT"
-      },
-      {
-        "title": "Resultados al momento ¡EN VIVO! de la Jornada 16",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNell2Nk1BMDRqQVdtcjM5ZllNd3BXeVozVHV4MFJ4TnRjSVRRNmhUR2pYZHUxNjlKUTBHS2c4RWs0MUdSQ3VUdlZDX3BzYXREeXoyQWpIcm42TEFNM1NfRW5VUDhwcE1tcW45eUkwVENLMzlJZ2lHZGtoSW5jT3JEUDFvM0VYMzA3eHFVSGVyT2dpaW5nZ0xxQUg4RnhFdC1LcEVfbnR3NzRmUQ?oc=5",
-        "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Sun, 08 Nov 2026 02:17:35 GMT"
       },
       {
         "title": "Jornada 12 de la Liga: horarios, resultados de los partidos y resumen",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTV1N3lCc2Fwc2Ywd25QZU16ZXBVUTNTbi1Pa3ZPQzlRdW14SGsxSFpTVEJmOFpHakthSmNqdG9pODBxNzRQWG5qN1VQOHVhLVJreTI3a2ZGbGNzYXlBLU5FOU90S3lFam5KZUx4R2s5NUllN3JqU0szampCeVZaRDJFZjZzUDhLVFpOUVBzMG5iZWRKOVQ2RUh6N3BPN050U0hpNWs0S2lVVnF4WVBjWXgxVWMyeVM1RlHSAc4BQVVfeXFMT3BSbHBLNzNUMWk1YjBwWEZlUEFWVEJuZ3M4TDNUb3NGMTNiTDJTTkFzN20yVnc2RUlGbzl0T0ZDZW5fUnFNcU5DMVVIU0phSWJlMF90M3o1SW9iMjJiRkd5R3k1b0xNWV9Sb2QyaWd1RnYtUl9lM0I1NUtxQUQ2R3MyY0RMbWpsMzhxTHYyNVFvOFFBODgxQ01RNkl3OFFqNlkwUmxtVVE1em9ralozcFVVbnZZZUtlV0o1T01DeHFDb1ZQWkJBWVNXLUFGM1E?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxqb3JuYWRhJTIwbGlnYSUyMGhvcmFyaW9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDExMzkzOXww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxqb3JuYWRhJTIwbGlnYSUyMGhvcmFyaW9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDE0OTQ4NHww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 19:36:08 GMT"
       },
       {
         "title": "Tabla general Liga MX: Posiciones, partidos y resultados de la Jornada 16 del Apertura 2026",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0VlTFVNV053dWRqcmFPdjlvTWhpd1Y1dlZKN1kyNHh1b1Z6MDRJZF94d1ZJM2VZd1JUOHpEMk9VWHZ5aVVWOU9JN3I5X2ZITlRLRW1TcWN2NVpTLVFZellLb3Z5b05qZ3VvaVJjdjFnVDh3SEUyNldkSy00SHc2d1k5Z0xlUC02SmJIZW9aVm9fN0JoRE9oaUg0b1pyQ2UzRXFVZFN3SEhDQkkxOXRDaXUwdWZlVnJ1Ny1EcDNQLVlaU0o0NnFMcmhlMFl4Z9IBzgFBVV95cUxPb0tvcE44Z3ptMFhJLUFoYzhvRGtpdklxUkhLUDd5Tmd4RGRNTVhhc3JZdE1tZGZaSUV2bExMck1RcnlqQ3V5Y3ZXV2gta2JQci0ySVF5Q0JPNEFiUUY3TF9LczVaQWJiZVZfX3Z1U0lxSTZWMVNLbnBsWXowZkVHdkVtaW9rYnZFVXpKeGZ4bldRT1lHdlItdy1CdE0xSl93X1E0ejFTUEJTLVVqaDhhLTNfVWVRdDc2WVpiVjBRTmRnNWtUeGNNRHh4aHRNZw?oc=5",
         "date": "7 nov 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHx0YWJsYSUyMGdlbmVyYWwlMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDExMzk0MHww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHx0YWJsYSUyMGdlbmVyYWwlMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDE0OTQ4NXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 07 Nov 2026 18:03:00 GMT"
       },
       {
-        "title": "Resultados de la fecha 16 del Torneo Clausura de la Liga 1 2026 HOY: así van los partidos",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeTUyS3F2ZHdQSUp6Wms4Rm1NdHh2Tl90SGZiQXo0Z0JBckFBWThwblBUTU1aTzJYSlpiT0xKM3lwQ1p5MXVwN1RtLTk3RHpBRDdGYzVUN2E0UkZJR0p3bV9jNHpIVmV2SVBEb1ZoRDgtMDI4aEJyb2Q4V3pyZklsa1RDU0lBanJodjBIbThHNTNNdGN6RU55QXR3LTR0aTZCSk5xT0wyemQ2eTY2ajN6bmVUWXZUNW43X2JNcmJUaEpNSlNEd3lzYTBXdUxnNDg0Mlcxc9IB7wFBVV95cUxQbXB3emgtdWVPa2FmdU5BcEtsOWhYeGwzeVJDaUl5ekxHOVRqTkduUGMzOFQ5NEkyV0JSWURoMTk1VGtTQ1kyWHJTMUhtV2RPaHdxcVZQSnk4aGVwZjNaQVlYM1kxSTFXeDQwc3pWNm9USlVIZXkwa1BlSDBZMkZINkExaUNuTHY0WHIxVFF6TWtFd0J2eHlzY09OOTN3Mng3MVBCek1kOVZKSWE0YUJXQUFzTHFkYUtrTVYxRzVOU0c5aHdNcFhfWjNsNEFUbEwxeW93RkNyWVNVeTRDYllxR3hIWFJoRll2dWJZcWR2UQ?oc=5",
+        "title": "Partidos de hoy, domingo 8 de noviembre de 2026: programación, canales TV y resultados en vivo",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVjg2a0NzZU9Ib2lKbTFQRlpIdnZWTlpYd05FcEhWVjlwWG1NUEtXcjJkbzlfMXBJUDVUbHJzMkZ0bHJ0WHIwVGl1LVNDU3FFcFRveG1EaUt6ZUZNYldVYXo4WFBYU2FoVjI1Zmw3anVaWlR4dWF2OGI2bHJkTC1qRGtxeTNYX1BOZ1MzaEJBZmJscjVMQnhRRkZya1FzQTZmQnZZTG5oTHFiSzhSSm51el9qZGhxcTZ1MWdmRlIwV1F2dEFaOUl0R1o3aG5TdkJBUkxiWVJXekbSAfMBQVVfeXFMT0dtdXNNbEN2LWVpVm1rZXlhNXBVQWNZYkZFOWh5a3VURG9WaWZ3cFQtaU5HTWp2UTczV3RueW1NbUZKTVdDY2huSmY2Tnp4eXJtNWpldVhFNzY2MHlLMWhCVjFFRmJkbUZfRWY1dFhZOTZuSmhFRW0zaTA1T24zZ3lZcXFDTDZMcDlYUWZ0eUE1QXBzeFpoTVRxWE0zYlAzUElBRm5OVHhLNVRYelZGUzdEeDIteG05RFAtR2UxamN1eHpuVFg3RUZUTFk4SDRKZmMta1N4T3dhdVpnYlQ3eGtTV1FOdzFfV3dnWVpSb2ZYVUJ3?oc=5",
         "date": "8 nov 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXN1bHRhZG9zJTIwZmVjaGElMjB0b3JuZW8lMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTEzOTQxfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sun, 08 Nov 2026 03:34:00 GMT"
+        "image": "https://images.unsplash.com/photo-1609779858641-af32f73effa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxwYXJ0aWRvcyUyMGRvbWluZ28lMjBub3ZpZW1icmUlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0MTQ5NDg2fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sun, 08 Nov 2026 13:21:00 GMT"
+      },
+      {
+        "title": "Liguilla de la Liga Femenil queda definida de cara a los Cuartos de Final",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPekhWSHNBb2Q0X3NmcnRkX21EN3NKSEtBVXRBYUQ1YjhHaTM4blp6M3A3SzZUc2FCVElBd1hUNTJ1T1FQM2hKRjJZVUYxMHk1WnBnV0U0Vl9CWDhyRHduNjFlOVF5NTh6cWZRVVVJS3Qxcjd0NjFyRnJDd29KRWtlZDlEWjZCdW9fdWZrOFBhMGJpM3NXSEJJMlVkVnB1eG9mVzVxaDh2NW9MV01Od01vWkN0VzMyNnZ3bXhIeTdPZmtNRjA3QUJLRlVQY9IB0AFBVV95cUxNbmRJNUFUcWpXazV6ZV9qYWlWZndWa09sR0NPVHVuMHRCNlUwODQwdnFLR1dGZWZoMzF4VEpkVGJjTGdNZzY0X0x3Z05sQ2IyaGlnRzU0cEowT2twTWJLQnFKMnN3TXpBZDZ3d2ZVejY5NUw4dnEzbTNTM1NhNDIxY3ZEZGhXSkttWHpiRXQxbHRucWZtREZuZEZ0ZkZ3ZjQwVmNoUF90WjhMTXFSTFBjSzdsaldxMHgzb0dGRVI0VXNXb1JpOF9WbVBEdFBQVGpT?oc=5",
+        "date": "7 nov 2026",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWd1aWxsYSUyMGxpZ2ElMjBmZW1lbmlsJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDE0OTQ4N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 07 Nov 2026 04:06:59 GMT"
       }
     ]
   }
