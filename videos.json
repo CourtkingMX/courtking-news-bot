@@ -1,7 +1,21 @@
 {
-  "updated": "10/11/2026 06:23 UTC",
+  "updated": "10/11/2026 16:10 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "ETVUBCD7-Bk",
+        "title": "NBA&#39;s Nightly Recap | November 9, 2026",
+        "thumb": "https://i.ytimg.com/vi/ETVUBCD7-Bk/mqdefault.jpg",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=ETVUBCD7-Bk"
+      },
+      {
+        "vid": "y-jR93AytPc",
+        "title": "EXTENDED: PACERS at MAVERICKS | FULL GAME HIGHLIGHTS | November 9, 2026",
+        "thumb": "https://i.ytimg.com/vi/y-jR93AytPc/mqdefault.jpg",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=y-jR93AytPc"
+      },
       {
         "vid": "borAo1AYKpQ",
         "title": "Yaxel learning the Warriors way quickly 😂",
@@ -22,20 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/B5VNBCvu4E0/mqdefault.jpg",
         "date": "2026-11-10",
         "url": "https://www.youtube.com/watch?v=B5VNBCvu4E0"
-      },
-      {
-        "vid": "HUaf_y2R-Jw",
-        "title": "PELICANS at WARRIORS | FULL GAME HIGHLIGHTS | November 9, 2026",
-        "thumb": "https://i.ytimg.com/vi/HUaf_y2R-Jw/mqdefault.jpg",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=HUaf_y2R-Jw"
-      },
-      {
-        "vid": "epmxYCv2rcY",
-        "title": "Jimmy was locked in all game 😂",
-        "thumb": "https://i.ytimg.com/vi/epmxYCv2rcY/mqdefault.jpg",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=epmxYCv2rcY"
       },
       {
         "vid": "o9_nz7T5M6U",
@@ -83,7 +83,7 @@
       },
       {
         "vid": "GHL1TGkeAK0",
-        "title": "Dubai Premier Padel P1 🇦🇪🎾:  Centre Court (🇬🇧)",
+        "title": "Dubai Premier Padel P1 🇦🇪🎾:  Centre Court (🇪🇸)",
         "thumb": "https://i.ytimg.com/vi/GHL1TGkeAK0/mqdefault.jpg",
         "date": "2026-11-09",
         "url": "https://www.youtube.com/watch?v=GHL1TGkeAK0"
@@ -98,6 +98,34 @@
     ],
     "fx": [
       {
+        "vid": "gCtp3pEhWj4",
+        "title": "REFCAM Atlético de Madrid vs FC Barcelona",
+        "thumb": "https://i.ytimg.com/vi/gCtp3pEhWj4/mqdefault.jpg",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=gCtp3pEhWj4"
+      },
+      {
+        "vid": "2xvgFgb7Pnk",
+        "title": "Fermín en modo imparable",
+        "thumb": "https://i.ytimg.com/vi/2xvgFgb7Pnk/mqdefault.jpg",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=2xvgFgb7Pnk"
+      },
+      {
+        "vid": "J-DnBMJ02p8",
+        "title": "TODOS LOS GOLES de la JORNADA 12 | LALIGA EA SPORTS 2026/27",
+        "thumb": "https://i.ytimg.com/vi/J-DnBMJ02p8/mqdefault.jpg",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=J-DnBMJ02p8"
+      },
+      {
+        "vid": "yiyqN5DGzes",
+        "title": "Otro más de FEDE VALVERDE desde fuera del área",
+        "thumb": "https://i.ytimg.com/vi/yiyqN5DGzes/mqdefault.jpg",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=yiyqN5DGzes"
+      },
+      {
         "vid": "aqMFGtBGHRc",
         "title": "El gol del mes, al estilo Lamine ✨",
         "thumb": "https://i.ytimg.com/vi/aqMFGtBGHRc/mqdefault.jpg",
@@ -105,32 +133,18 @@
         "url": "https://www.youtube.com/watch?v=aqMFGtBGHRc"
       },
       {
-        "vid": "_omVGRNuPz8",
-        "title": "Hace dos años Lunin se inventó esta asistencia a Vini",
-        "thumb": "https://i.ytimg.com/vi/_omVGRNuPz8/mqdefault.jpg",
-        "date": "2026-11-09",
-        "url": "https://www.youtube.com/watch?v=_omVGRNuPz8"
+        "vid": "u8p2V5URL6w",
+        "title": "Kaká was special",
+        "thumb": "https://i.ytimg.com/vi/u8p2V5URL6w/mqdefault.jpg",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=u8p2V5URL6w"
       },
       {
-        "vid": "QgA0vVRUNMs",
-        "title": "La DEFINICIÓN clásica de LAMINE YAMAL 🎯 |  ¡Los 10 MEJORES GOLES de OCTUBRE!",
-        "thumb": "https://i.ytimg.com/vi/QgA0vVRUNMs/mqdefault.jpg",
-        "date": "2026-11-09",
-        "url": "https://www.youtube.com/watch?v=QgA0vVRUNMs"
-      },
-      {
-        "vid": "PibZ4Sg2fb4",
-        "title": "La presión del Real Madrid de Mourinho",
-        "thumb": "https://i.ytimg.com/vi/PibZ4Sg2fb4/mqdefault.jpg",
-        "date": "2026-11-09",
-        "url": "https://www.youtube.com/watch?v=PibZ4Sg2fb4"
-      },
-      {
-        "vid": "WGbN7Ss07s0",
-        "title": "Fermín 🎸",
-        "thumb": "https://i.ytimg.com/vi/WGbN7Ss07s0/mqdefault.jpg",
-        "date": "2026-11-09",
-        "url": "https://www.youtube.com/watch?v=WGbN7Ss07s0"
+        "vid": "yQP02mxKTNg",
+        "title": "Hatch Your Heroes | UEFA Playmakers Academy on Roblox",
+        "thumb": "https://i.ytimg.com/vi/yQP02mxKTNg/mqdefault.jpg",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=yQP02mxKTNg"
       },
       {
         "vid": "pfhxwHJKMX4",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/pfhxwHJKMX4/mqdefault.jpg",
         "date": "2026-11-09",
         "url": "https://www.youtube.com/watch?v=pfhxwHJKMX4"
-      },
-      {
-        "vid": "zQ4WfnRznq0",
-        "title": "What a save by Oblak 😮‍💨",
-        "thumb": "https://i.ytimg.com/vi/zQ4WfnRznq0/mqdefault.jpg",
-        "date": "2026-11-09",
-        "url": "https://www.youtube.com/watch?v=zQ4WfnRznq0"
-      },
-      {
-        "vid": "SkeFMwnSwQM",
-        "title": "The BEST Champions League Goals So Far In 2026/27",
-        "thumb": "https://i.ytimg.com/vi/SkeFMwnSwQM/mqdefault.jpg",
-        "date": "2026-11-09",
-        "url": "https://www.youtube.com/watch?v=SkeFMwnSwQM"
       }
     ]
   }
