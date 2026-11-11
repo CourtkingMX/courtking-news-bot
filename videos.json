@@ -1,7 +1,21 @@
 {
-  "updated": "11/11/2026 15:54 UTC",
+  "updated": "11/11/2026 22:30 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "3_ddEG2FUKc",
+        "title": "What&#39;s the story behind JT’s new 3-point celly?✌️ | 📸 via @celtics/IG",
+        "thumb": "https://i.ytimg.com/vi/3_ddEG2FUKc/mqdefault.jpg",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=3_ddEG2FUKc"
+      },
+      {
+        "vid": "_7TMNmEtbBk",
+        "title": "These Rookies Are Putting On A SHOW To Start The Season 👀🔥 | Top Plays",
+        "thumb": "https://i.ytimg.com/vi/_7TMNmEtbBk/mqdefault.jpg",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=_7TMNmEtbBk"
+      },
       {
         "vid": "gCN7Eho3qc4",
         "title": "NBA&#39;s Nightly Recap | November 10, 2026",
@@ -22,20 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/WtmaQ-mk6Ls/mqdefault.jpg",
         "date": "2026-11-11",
         "url": "https://www.youtube.com/watch?v=WtmaQ-mk6Ls"
-      },
-      {
-        "vid": "LGC_6vtBLd4",
-        "title": "Dame pulls from the logo and Donovan Clingan hits the celly 😂",
-        "thumb": "https://i.ytimg.com/vi/LGC_6vtBLd4/mqdefault.jpg",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=LGC_6vtBLd4"
-      },
-      {
-        "vid": "-ICiVDDorm8",
-        "title": "Dame pulls from the logo, buries the ridiculous 3 to end the 3rd, then hits the Ja celly 🥶",
-        "thumb": "https://i.ytimg.com/vi/-ICiVDDorm8/mqdefault.jpg",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=-ICiVDDorm8"
       },
       {
         "vid": "o9_nz7T5M6U",
@@ -61,42 +61,63 @@
     ],
     "pd": [
       {
-        "vid": "UPC0YKN_2jc",
-        "title": "Dubai Premier Padel P1 🇦🇪🎾: Court 2",
-        "thumb": "https://i.ytimg.com/vi/UPC0YKN_2jc/mqdefault.jpg",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=UPC0YKN_2jc"
-      },
-      {
-        "vid": "mtUAhE00yts",
-        "title": "Lorena Rufo snatched the point from the exit 🚪⚡️#PremierPadel #DubaiPremierPadelP1",
-        "thumb": "https://i.ytimg.com/vi/mtUAhE00yts/mqdefault.jpg",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=mtUAhE00yts"
-      },
-      {
-        "vid": "3ipMFOfXgAY",
-        "title": "Fede Mouriño stretched out, point secured 🔥 #PremierPadel #DubaiPremierPadelP1",
-        "thumb": "https://i.ytimg.com/vi/3ipMFOfXgAY/mqdefault.jpg",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=3ipMFOfXgAY"
-      },
-      {
-        "vid": "Ptl7Q4EEBB0",
-        "title": "Dubai Premier Padel P1 🇦🇪🎾:  Court 3",
-        "thumb": "https://i.ytimg.com/vi/Ptl7Q4EEBB0/mqdefault.jpg",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=Ptl7Q4EEBB0"
-      },
-      {
         "vid": "AQOy3KM2opc",
         "title": "Dubai Premier Padel P1 🇦🇪🎾:  Centre Court (🇬🇧)",
         "thumb": "https://i.ytimg.com/vi/AQOy3KM2opc/mqdefault.jpg",
-        "date": "2026-11-10",
+        "date": "2026-11-11",
         "url": "https://www.youtube.com/watch?v=AQOy3KM2opc"
+      },
+      {
+        "vid": "UCSOi9-aLgE",
+        "title": "Dubai Premier Padel P1 🇦🇪🎾:  Centre Court (🇪🇸)",
+        "thumb": "https://i.ytimg.com/vi/UCSOi9-aLgE/mqdefault.jpg",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=UCSOi9-aLgE"
+      },
+      {
+        "vid": "ky1ETgoq0Dk",
+        "title": "Dubai Premier Padel P1 🇦🇪🎾: Court 1",
+        "thumb": "https://i.ytimg.com/vi/ky1ETgoq0Dk/mqdefault.jpg",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=ky1ETgoq0Dk"
+      },
+      {
+        "vid": "se_87CEFQqM",
+        "title": "Dubai Premier Padel P1 🇦🇪🎾: Court 1",
+        "thumb": "https://i.ytimg.com/vi/se_87CEFQqM/mqdefault.jpg",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=se_87CEFQqM"
+      },
+      {
+        "vid": "xyF5SZOW9WY",
+        "title": "Dubai Premier Padel P1 🇦🇪🎾:  Court 3",
+        "thumb": "https://i.ytimg.com/vi/xyF5SZOW9WY/mqdefault.jpg",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=xyF5SZOW9WY"
       }
     ],
     "fx": [
+      {
+        "vid": "SP98keppTOE",
+        "title": "Desde la REFCAM el Valencia vs Real Madrid es AÚN MEJOR",
+        "thumb": "https://i.ytimg.com/vi/SP98keppTOE/mqdefault.jpg",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=SP98keppTOE"
+      },
+      {
+        "vid": "PM8U2sCGDGc",
+        "title": "Solo RAPHINHA y MBAPPÉ mejoran a ZABIRI en esto",
+        "thumb": "https://i.ytimg.com/vi/PM8U2sCGDGc/mqdefault.jpg",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=PM8U2sCGDGc"
+      },
+      {
+        "vid": "LcWWVJeRO60",
+        "title": "Los 3 jugadores con mejor media goleadora son...",
+        "thumb": "https://i.ytimg.com/vi/LcWWVJeRO60/mqdefault.jpg",
+        "date": "2026-11-11",
+        "url": "https://www.youtube.com/watch?v=LcWWVJeRO60"
+      },
       {
         "vid": "rY3l9REntDk",
         "title": "REFCAM Valencia CF vs Real Madrid",
@@ -112,25 +133,18 @@
         "url": "https://www.youtube.com/watch?v=0lgzN2UIcl4"
       },
       {
-        "vid": "Dver9ChEE5o",
-        "title": "ARDA GÜLER está BRILLANDO en el REAL MADRID ✨",
-        "thumb": "https://i.ytimg.com/vi/Dver9ChEE5o/mqdefault.jpg",
+        "vid": "qDQGYS_AiGI",
+        "title": "Cutting through the press 🔗",
+        "thumb": "https://i.ytimg.com/vi/qDQGYS_AiGI/mqdefault.jpg",
         "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=Dver9ChEE5o"
+        "url": "https://www.youtube.com/watch?v=qDQGYS_AiGI"
       },
       {
-        "vid": "DJ1__FbbxsY",
-        "title": "¿Cuántas jornadas seguidas va a estar marcando gol MBAPPÉ?",
-        "thumb": "https://i.ytimg.com/vi/DJ1__FbbxsY/mqdefault.jpg",
+        "vid": "tMMreFu2K08",
+        "title": "What a finish!",
+        "thumb": "https://i.ytimg.com/vi/tMMreFu2K08/mqdefault.jpg",
         "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=DJ1__FbbxsY"
-      },
-      {
-        "vid": "5NbPS52DETE",
-        "title": "The Highlight Hattrick of MD12 by Goalitos LALIGA!",
-        "thumb": "https://i.ytimg.com/vi/5NbPS52DETE/mqdefault.jpg",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=5NbPS52DETE"
+        "url": "https://www.youtube.com/watch?v=tMMreFu2K08"
       },
       {
         "vid": "Pj3UoORXTpQ",
@@ -138,20 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/Pj3UoORXTpQ/mqdefault.jpg",
         "date": "2026-11-11",
         "url": "https://www.youtube.com/watch?v=Pj3UoORXTpQ"
-      },
-      {
-        "vid": "q43GZ9fc0Uc",
-        "title": "Skills on show in the Champions League 💫",
-        "thumb": "https://i.ytimg.com/vi/q43GZ9fc0Uc/mqdefault.jpg",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=q43GZ9fc0Uc"
-      },
-      {
-        "vid": "izNyEr9Yedo",
-        "title": "CRAZIEST Champions League Matches In Football History",
-        "thumb": "https://i.ytimg.com/vi/izNyEr9Yedo/mqdefault.jpg",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=izNyEr9Yedo"
       }
     ]
   }
