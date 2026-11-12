@@ -1,27 +1,20 @@
 {
-  "updated": "12/11/2026 06:12 UTC",
+  "updated": "12/11/2026 16:38 UTC",
   "sports": {
     "bk": [
       {
-        "title": "NBA Resultados de ayer y juegos de hoy: Knicks aplastan a Milwaukee y Celtics a Filadelfia; diez partidos este miércoles",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeF90ZUJYbUUyY21jRzNWVllUTFduUlBTU2E1V3VVdFowd0JHRVlPNzNReDBscGpRRXRnX1dQNXF2Zy1OMGgzdTRxSmZ2d2dTbFI5WHFYWEE5cEt3V0VMeFUzUEZOYlV0eENhSHJWNHVIMXNWTEpFdVRBLTM2RUc5Q052QkVRY2RSUFNnbHVETHEtaTYzLTFkN0RrSnRSMjlvckhoVzZqUW0zUUxnUjNVNVhweEdIcmkyTGVTekx2aFZDZnZ2UnhoRTdZd0twbmNqOGxfRTJjNzNpbnh4R214aGJGZjE0RDR5TS1peXF6eEpmc2hI0gH0AUFVX3lxTE54X3RlQlhtRTJjbWNHM1ZWWVRMV25SUFNTYTVXdVV0WjB3QkdFWU83M1F4MGxwalFFdGdfV1A1cXZnLU4waDN1NHFKZnZ3Z1NsUjlYcVhYQTlwS3dXRUx4VTNQRk5iVXR4Q2FIclY0dUgxc1ZMSkV1VEEtMzZFRzlDTnZCRVFjZFJQU2dsdURMcS1pNjMtMWQ3RGtKdFIyOW9ySGhXNmpRbTNRTGdSM1U1WHB4R0hyaTJMZVN6THZoVkNmdnZSeGhFN1l3S3BuY2o4bF9FMmM3M2lueHhHbXhoYkZmMTRENHlNLWl5cXp4SmZzaEg?oc=5",
-        "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1728637690621-ad046564a657?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxyZXN1bHRhZG9zJTIwYXllciUyMGp1ZWdvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDQ2Mzk1Mnww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 11 Nov 2026 15:52:41 GMT"
+        "title": "NBA HOY y resultados del miércoles: Lakers derrotan a Milwaukee y Portland vuelve a vencer al campeón",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMXVBRlo4UVcxazg0cGVVajlYZGsyZ3FadVNCbmJPellsS0Q2OHpFSkpPeU9oRlNXUDVNRWhwRzB3U2RCNFNEdFJ3WC11eHRvQzdZdFVoT2hNUjdqYVh5N3plU1lETUZ5V3dFcURITjd1LUdOblU2ZGpEUUFidWdNY0hXYlBPTnBTOXNrTnhUOUtpdzNKbHhUSXhZczB6SlgwNjJIZ0tWeHFzYnR4bHJsejRSN3NNMTBCWExuVzM2TFZ4WVFaV1gtbDRSUDNFU0xTamlxMng1TFphQnRLOFdxSDhR0gHiAUFVX3lxTE0xdUFGWjhRVzFrODRwZVVqOVhkazJncVp1U0JuYk96WWxLRDY4ekVKSk95T2hGU1dQNU1FaHBHMHdTZEI0U0R0UndYLXV4dG9DN1l0VWhPaE1SN2phWHk3emVTWURNRnlXd0VxREhON3UtR05uVTZkakRRQWJ1Z01jSFdiUE9OcFM5c2tOeFQ5S2l3M0pseFRJeFlzMHpKWDA2MkhnS1Z4cXNidHhscmx6NFI3c00xMEJYTG5XMzZMVnhZUVpXWC1sNFJQM0VTTFNqaXEyeDVMWmFCdEs4V3FIOFE?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1580171401406-dee43fa52ec8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXN1bHRhZG9zJTIwbWklQzMlQTlyY29sZXMlMjBsYWtlcnMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTQ1MDE0ODl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 12 Nov 2026 10:52:38 GMT"
       },
       {
-        "title": "NBA hoy: resultados y juegos del 11 de noviembre de 2026",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWtrZFU3YlM5WldZeDdPb3hUWDJjZVBjR1ZMa255MWZKSzBIbDhucnIyU0NzZFZuMnlvcXVqT0R5emRqeURWUlZlVEpuUzIxRmhWVzhJZ0RoNUNIOHdPcVJDSUY1MG9vSHo3SjNBUFZFZmhWeEJmcjRmZGRNTHp3MEk0Zm5xNUV3?oc=5",
-        "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1576683564128-e4f3a22f231a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxyZXN1bHRhZG9zJTIwanVlZ29zJTIwbm92aWVtYnJlJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0NDYzOTUzfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 11 Nov 2026 16:25:55 GMT"
-      },
-      {
-        "title": "NBA Resultados de ayer y juegos de hoy: Spurs, Lakers y Warriors en racha ganadora; Wembanyama anota 40 puntos",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGtMN05ETGxNQmc2aWhQNERsNkxGcUc3Mng4dXAyd3dJYlgxTVZZMjJRaEpDWVU3LVN5WTBrTnBrQzJZbjRKMEdEZ3N4SjF6dENtQm5Bc2tDYzJjYWJ2RGlyVUhKc3pxekozVmFaeS12QjBxT0h6SzdRcEgxSmN4MFpxdHc1MjRLcENDTUg3TkFGQ2dLQTZMUXlvQzFWOHh3YXZWYnBaYy0yZDkyeXB4RjQ4QU9MTkMtSW05ZUp2ZTVBSTU4a2NweW9ncXJ0NXZmSzM0ZTNyczVWTzZ2MUx0Q3JjbUtxQdIB5gFBVV95cUxOcGtMN05ETGxNQmc2aWhQNERsNkxGcUc3Mng4dXAyd3dJYlgxTVZZMjJRaEpDWVU3LVN5WTBrTnBrQzJZbjRKMEdEZ3N4SjF6dENtQm5Bc2tDYzJjYWJ2RGlyVUhKc3pxekozVmFaeS12QjBxT0h6SzdRcEgxSmN4MFpxdHc1MjRLcENDTUg3TkFGQ2dLQTZMUXlvQzFWOHh3YXZWYnBaYy0yZDkyeXB4RjQ4QU9MTkMtSW05ZUp2ZTVBSTU4a2NweW9ncXJ0NXZmSzM0ZTNyczVWTzZ2MUx0Q3JjbUtxQQ?oc=5",
-        "date": "10 nov 2026",
-        "image": "https://images.unsplash.com/photo-1728637690621-ad046564a657?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxyZXN1bHRhZG9zJTIwYXllciUyMGp1ZWdvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDQ2Mzk1Mnww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 10 Nov 2026 07:36:04 GMT"
+        "title": "NBA hoy: resultados y juegos del 12 de noviembre de 2026",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUZIck1YeGl5Z0FESm13dFlUWTNMb29oWlVkSWkwRUdNRzdLVE44a2I5RWk4TzlILXZZOGgtdXJCSEc4c3c3Ni1GT25Wa184UmtyeGlHNTYxSE1sdFd5REN4al83cWtaeEstUG5BeXRiNWVMOWsxZ3N2eDU3aG5URmRoOEhJcmJT?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1576683668932-8af4812cbb56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxyZXN1bHRhZG9zJTIwanVlZ29zJTIwbm92aWVtYnJlJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0NDYzOTUzfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 12 Nov 2026 14:33:57 GMT"
       },
       {
         "title": "NBA-Euroliga: \"El sistema del baloncesto europeo es muy confuso\"",
@@ -38,17 +31,17 @@
         "_pub_raw": "Wed, 11 Nov 2026 14:30:00 GMT"
       },
       {
-        "title": "Stephen Curry (abdomen) abandona partido contra Rockets",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeUZvRS1BaHF5eW5VREYtblV6bENmaW9XcVg4Y2F3dmlvWGN5bjVxQ1h6RXNGcEdleTVJbDMxRV9IbzBYMzNsTm04RlhaQ1JzYnRIN3Jlcm1CNUZYd1Y0VV84OUs1eERQMUtWNGNJY1dkMWFKV2d0b1BYZERTdVZla3BQalV5UTdEcmRNTDBmRFFsNEJxeXpBX3R3?oc=5",
+        "title": "¿Cuáles son los próximos pasos de Knicks, Lakers y otros contendientes al título?",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVNHU0xKcmJHODdsSWxWVXZMUks5QUlvNWI5Ymd2eHNEMzJVbWZmbUgwU1JidGsxS2RHUTFZNWhDVmF3SFFPNHdMOUpEb2RSRGxxdEFXSzJTLXpuTTlJVVVMUnBSMk1fR1dxR2llVHBucDM1QkljQXdrdXZVRkx0ZzJ5RXBXRm52ZmZFbHp2dk9wUWhsYWZEUmRmWlpTWVFJdy1hNFN3M05PeEk4bEc0?oc=5",
         "date": "12 nov 2026",
-        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
-        "_pub_raw": "Thu, 12 Nov 2026 03:43:00 GMT"
+        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxjdSVDMyVBMWxlcyUyMHByJUMzJUIzeGltb3MlMjBwYXNvcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDUwMTQ5Mnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 12 Nov 2026 15:29:00 GMT"
       },
       {
         "title": "Inside the NBA Presented by Lilly (12/11/26) - Stream en vivo",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjAySnZ6X0VLLXF0ZzhUd2hFODFNTFJfNGgyc0VfQWlJaks0YlNkWXBFbDRaazVqcWZUZ0U1emNCYVMyQ0ROSDZPTjlLX1FPRjZEV3l3bFBNaXFmUUdkSmtEcGpwYlRGQ0JKN2FDeGpKNDREQnJXaUFXRS05SW5tUkp2OEVmVVVLOFB6SQ?oc=5",
         "date": "12 nov 2026",
-        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
         "_pub_raw": "Thu, 12 Nov 2026 03:29:35 GMT"
       },
       {
@@ -59,11 +52,25 @@
         "_pub_raw": "Wed, 11 Nov 2026 20:20:00 GMT"
       },
       {
+        "title": "Austin Reaves (talón) abandona victoria de Lakers por lesión",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXhCZDJVRnJaYlpHU0FwbzlKa18tN2tESklmYWlYa0ppZGJMYUU1YW03SDVMMGVsSWFCNXp5dzZMN3FaLUktUlA4TTQ1c0hfemgyeFZpeEpEc1FYTXFzTU5fUkNkNDB5LWJjTG92U2dMNWNKazVKT2drSnFnSTVqSjBpaUJnTUFPR1Z4Qm10dnl5dmpybWctUGNKQVZyOHVkQ2xlWGFoQnI0TTVKUjIxbE1XVQ?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
+        "_pub_raw": "Thu, 12 Nov 2026 13:07:00 GMT"
+      },
+      {
         "title": "Lauri Markkanen del Jazz será baja al menos un mes por una fractura en la mano",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMzhOU0ZQUi1rQTNhWWNMOWFMbl8zczdxMnFxMTBjRlFBNGF1VHcxNTZ3Um1lZ3dCZkxRdUNXdWpROHROYXFib0JmTC1ZUlh2MUxlS0ZEUDNRYTJzeHdzdktvajRwX29FYlBHd3B5bm93VUVtdUJjUEZCSVVRQ0RKSFNkOXh6UklRTEtjVTZsc1FzNVV0Z1ljOTRTY204czdjTXcxdUlublIwTVE2cmtZ?oc=5",
         "date": "11 nov 2026",
         "image": "https://images.unsplash.com/photo-1576369897774-e13d62a8047d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsYXVyaSUyMG1hcmtrYW5lbiUyMGphenolMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTQ0NjM5NjB8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 11 Nov 2026 18:56:00 GMT"
+      },
+      {
+        "title": "Spurs llegaron a diez triunfos seguidos y Curry salió lesionado en la caída de Warriors",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWN3SEhhWVhtYnNyYlBNY1BwQjdiQTkxSGFUaWdFVC1RcS1QM0t6ZFh1REFBMHRqbVN1OUh6M1NscDIyS0thcFdWU0tPNF94Q1pycTFkZHg2R2FTWlRuSU9rTlBxNTVXQ1hNWXhRLXhZV0x6TXZyRVZSZENGSWx2aEJwOGlCdm5pVXJHeFE3bkN4NExFTDlPWWlqY1p3Q2g5X2x5aFN3bzUyMlZ1?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1765924705648-9a0731ac5202?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxzcHVycyUyMGxsZWdhcm9uJTIwZGlleiUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NDUwMTQ5N3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 12 Nov 2026 10:47:00 GMT"
       },
       {
         "title": "Curry responde a críticas acerca de su esposa, Ayesha",
@@ -80,25 +87,11 @@
         "_pub_raw": "Wed, 11 Nov 2026 17:38:00 GMT"
       },
       {
-        "title": "La longevidad histórica (y absurda) de Curry y Durant",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZy1HX1VKUEpDTnJOMV9SUko3SWJCSEI3MnV1NlVqa2tqQktMV0UxQ2xvZHNFaEdHRFFJNlBvOGFBMU41ZC10SV9qVm9qMVRYa1J0dXFYZXN5bmEwaERRSDc5ZEt4YllObW9Yd1pUX0NEYUNxcGM1UzRLZHg5U0d6MTdTbE5lbXYxVW1Id0RrT2lZN3F4akNxcjc2SmE5d0hYal84eVFpVWlETF9v?oc=5",
-        "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsb25nZXZpZGFkJTIwaGlzdCVDMyVCM3JpY2ElMjBhYnN1cmRhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0NDYzOTYzfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 11 Nov 2026 19:44:00 GMT"
-      },
-      {
-        "title": "NBA All-Star Game 2028: Miami será la sede del Juego de Estrellas después de 38 años",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVZvM1k3SlVNRk9HMmpNU0dRNzdPa0dBUmNvY0tUdEMya1JSRGlfWTVkWG9aWW5lUG81cmVzNWxHMXZVdi1lNklxODVkS1hhaEVfVDJKNUFkVHRtWnZsYUFEaElRaUVKNV8yRXd5Y0czekpHRWFyTktOdWJleWIyQ0QwSU50Tml5M3RHVlZhVVJNWTlGRVZlcWJ5b0pvckU5NVJyS2ZITnlSenhZVzhqa1hfVFNSQXQ2?oc=5",
-        "date": "10 nov 2026",
-        "image": "https://images.unsplash.com/photo-1558951387-bbdd7816caf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxzdGFyJTIwZ2FtZSUyMG1pYW1pJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0NDYzOTY0fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 10 Nov 2026 15:21:00 GMT"
-      },
-      {
-        "title": "VIDEO: Jimmy Butler se 'convierte' en entrenador y manda contundente mensaje a Stephen Curry",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWRTZnd5RXJvNWYzVUk5UnlDdmtvWmUtTnZLY0ZqeEVpell4b3lSUGlhaG9DRjlPLXFxV0lLaURpSXd2dHVZMUJzbzZIN19sRmlOakxTRUtOUmdLVmVVNHBIcEgzVlRoWVNCR0xtMnNvNTZhbXQ2X0dONmlzWU1Wblp5WjlDdlA4TndoQ3ZOWEdYS2t5YkRHbW14SFAtTGhzbTdMb2s2MDZJNjFTQjVJOHNVTlhTUmc?oc=5",
-        "date": "10 nov 2026",
-        "image": "https://images.unsplash.com/photo-1752166672930-3b01b8973a98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGppbW15JTIwYnV0bGVyJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0NDYzOTY1fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 10 Nov 2026 15:59:00 GMT"
+        "title": "Karim López regresa a los Memphis Grizzlies, luego de solo un partido en la NBA G League",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN09CTEIwOC1aMEVGR1Q2MU85ZnFDd1RUbXpoYWh0SjhaZDduTGxzWG5YcEtTMGNjQW8yRHZRVm5zLWRfZWR6TS02cGRJY1BRVGtFVlBFMXNIaWd2eHNBT1JmWjVHdnlaSFJsdTRmMVNQdGpvZ1FYMTFZWVd2U241bFpwTUpCQW9XWmVTVnVCaVBPRlVCbE5udENnR2RobE1RY0tvX2VrT1ZpemZtOGlxT2xWaU5QNTNGcVpuS3drYk90NU8zRUN1X0NpYlNhUUlFNXRrVFVOTGdfdw?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1719552483173-a99523e6f482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxrYXJpbSUyMGwlQzMlQjNwZXolMjByZWdyZXNhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0NDYzOTY4fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 12 Nov 2026 04:10:00 GMT"
       },
       {
         "title": "Karim López brilla con 16 puntos en su estreno con Memphis Hustle de la NBA G League",
@@ -115,18 +108,18 @@
         "_pub_raw": "Thu, 12 Nov 2026 04:42:00 GMT"
       },
       {
-        "title": "Karim López regresa a los Memphis Grizzlies, luego de solo un partido en la NBA G League",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN09CTEIwOC1aMEVGR1Q2MU85ZnFDd1RUbXpoYWh0SjhaZDduTGxzWG5YcEtTMGNjQW8yRHZRVm5zLWRfZWR6TS02cGRJY1BRVGtFVlBFMXNIaWd2eHNBT1JmWjVHdnlaSFJsdTRmMVNQdGpvZ1FYMTFZWVd2U241bFpwTUpCQW9XWmVTVnVCaVBPRlVCbE5udENnR2RobE1RY0tvX2VrT1ZpemZtOGlxT2xWaU5QNTNGcVpuS3drYk90NU8zRUN1X0NpYlNhUUlFNXRrVFVOTGdfdw?oc=5",
-        "date": "12 nov 2026",
-        "image": "https://images.unsplash.com/photo-1719552483173-a99523e6f482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxrYXJpbSUyMGwlQzMlQjNwZXolMjByZWdyZXNhJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0NDYzOTY4fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 12 Nov 2026 04:10:00 GMT"
-      },
-      {
         "title": "Partidos de hoy miércoles 11 de noviembre de 2026",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlpaNGFDU0JnRV9FTjNjZ1hpU1MxdUkzUFp3aHpKM3hmc1ZtTmlENGdjVnBwbG1vYVJhUl9RUE9fby1DcU41aVVLc3FZRjBRc3ZpWEZPblZlTU10ZFMtOUpfbTV4bHpKVnZFUk1JQmhINm8tdXI3dGhPZGtSMk9OQnJGUzlfTzhydUViQ3F2TlJDaEpsOTBKbFVMMFpNT1FENlN3Z0pCTQ?oc=5",
         "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxwYXJ0aWRvcyUyMG1pJUMzJUE5cmNvbGVzJTIwbm92aWVtYnJlJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk0NTAxNTAxfDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 11 Nov 2026 06:26:42 GMT"
+      },
+      {
+        "title": "Golden State Valkyries festeja su título de la WNBA al ritmo del \"SIUUU\" de CR7",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUUzVEZaQTNZandOZkZaRE5TR2FFU2xLTGRkZE1kaFZUSFo3eXNJWjBTUXVfYTA2dFUtYVVQcFpxOThnQ3k5UUphdzY4UnJnMGlxbjE0b2RJa05EMzh3aHNXd0lfNmFBMnoxeWttNzdGaHd3NkktcXNhWjdmczd0bE1QRnJ2MHM5cHoweXJYSVpIMlhLQXowUWgzNVVicUl1UUFIalhLNU44S0dLejRlWEpjRzg1N1I2NlJuZTF3eXlOWmtzWUU3WVpEQWo?oc=5",
+        "date": "11 nov 2026",
+        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
+        "_pub_raw": "Wed, 11 Nov 2026 14:28:00 GMT"
       }
     ],
     "pd": [
@@ -145,25 +138,11 @@
         "_pub_raw": "Wed, 11 Nov 2026 15:30:13 GMT"
       },
       {
-        "title": "Premier Padel Dubai P1 2026: horarios, resultados en directo de hoy martes, 10 de noviembre y dónde ver por TV y online",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRHZaSFlQUGJ0MERaSFk4aG9xSlVlYllNSzdtSk0xM245NFZHNGN2WjVBN1hOT2hPc0NNbXpjcmRrellZZVBwaXZscHBiem9QMGptdlhtRnZyUGNSbU1ZTmg5X1IyZWEtMHdyY3BfY1Z0eDFPeHJKYXl1T1VnU0R5S2p30gGCAUFVX3lxTFA3UVRydEJlTENLaXhGZ1NIVmFjbnF6U1g3RWNXbUxnMWEzZFZVd2lWLVZDUEZRMFJ3QlJuaTBoTGNjNVEtREVUMk5mcWlXOHZCVmVYR0pQSFdFWS15WHJXdy1aSFhWQlNtUHF2UkxMNHNxQTdZUlRFMEhIdG9VTTk0NHc?oc=5",
-        "date": "10 nov 2026",
-        "image": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=480&q=70",
-        "_pub_raw": "Tue, 10 Nov 2026 06:56:31 GMT"
-      },
-      {
         "title": "Resultados de la primera jornada del cuadro final del Dubai Premier Padel P1 2026",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXQtNklhR19vVWY3bWNkQXliUkc5MVh0ZmczYVN2Y2Q4d055ZFZlVDVkanFENEpmWGFmWUJqZ1NGeUZ0bjFrS1dGRTFKN012dUdXMGlEWHJxamwzLUt2NHB0QzdweGh2UlgxeXhrdnFPLWlHM0FsWFUyTUdNempoX0thLTVXTWpldDhSMkN5ZTdYTkVOQWRCVnZsTGhERUhRb1JJYTFpdDhJNkdJVnc?oc=5",
         "date": "10 nov 2026",
         "image": "https://images.unsplash.com/photo-1596559058872-595ea5281b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxyZXN1bHRhZG9zJTIwcHJpbWVyYSUyMGpvcm5hZGElMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTQ0NjM5ODB8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Tue, 10 Nov 2026 23:49:39 GMT"
-      },
-      {
-        "title": "Cuadro Premier Padel Dubai P1 2026",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yNXRjcjZHckY1UnNQTnFPeFdTQVlIYTZlek9RSUpBQkdJd0JURHE5T0xLZVhaemRRNHJIOVJNT2FDaEZQY1VjTUZERlNFSHNFUGRFd3VaRzNmNnZxQlFEZmRTNDZ2TjBVRUE?oc=5",
-        "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=480&q=70",
-        "_pub_raw": "Wed, 11 Nov 2026 15:30:15 GMT"
       },
       {
         "title": "Rufo e Iglesias dan el primer gran golpe del Dubai P1 y eliminan a Salazar-Osoro",
@@ -173,11 +152,25 @@
         "_pub_raw": "Tue, 10 Nov 2026 23:13:15 GMT"
       },
       {
-        "title": "Arranca la FIP Junior America Padel Cup: la élite juvenil del continente se cita en México",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3owZ1B1VVNBZGJyYjJaamt1VXpYdW1TODVvNGZKc2JXTnFCZXctNGRDcmtOY3FjMGR3dUs2NGJ2SG9BdndSOTBtTHhXekk3SDI3c0ltVXVnOVpQenZVQmlSRzEySlhJaVNDUzNmYUhXOTFWWkJJeFMwNFM3aWo5ejA3Z2gwWnYzX25tMVF2eV9tWjBGTG9XVVJCbndseEowNkNEYXlabS03WEFpd2d5ZlJ0X2U2MmlqSmlJN2RkVm9XXzFz?oc=5",
-        "date": "10 nov 2026",
-        "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=480&q=70",
-        "_pub_raw": "Tue, 10 Nov 2026 10:12:22 GMT"
+        "title": "Cuadro Premier Padel Dubai P1 2026",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yNXRjcjZHckY1UnNQTnFPeFdTQVlIYTZlek9RSUpBQkdJd0JURHE5T0xLZVhaemRRNHJIOVJNT2FDaEZQY1VjTUZERlNFSHNFUGRFd3VaRzNmNnZxQlFEZmRTNDZ2TjBVRUE?oc=5",
+        "date": "11 nov 2026",
+        "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=480&q=70",
+        "_pub_raw": "Wed, 11 Nov 2026 15:30:15 GMT"
+      },
+      {
+        "title": "Paquito Navarro y Di Nenno, eliminados del Dubai P1 2026: remontada de Aragón y Roglán",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTEVCOThIMEgwajROZzVRZl9BUzAtZHlVbVU0NFgtY2NINU5BZlVMMWgxNlQ4NnJDNkRvU25BSGxpeEREX25KVF83YVFMR2JpT3pMYU9WaUNkZFZ0c01NOS1ZV1I2UzVOejdLMzhObW1mYVZadDJYMmIyUWQxV3Z5V2ZoODlkdlVkME5aYnFxZw?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1646343252502-b91481139927?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxwYXF1aXRvJTIwbmF2YXJybyUyMG5lbm5vJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk0NTAxNTE1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 12 Nov 2026 10:11:55 GMT"
+      },
+      {
+        "title": "El Registro Profesional del Pádel entrega los premios RPP - USA en Miami",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXdiWW5iem1fSmJEVHpSbVRYZXNkMFo2eTluLWc4X2cwTWUzY2tNVlNENVZPTVR6eHl1dmIwNERtWWg1UFZXSzlNYlJnR1gxakV0VHhpZmhpS0E1VmJ2RDVULXhXSWlRbFlfMWNTdkJXLTlCeVJVNTBqMjhVdDk1XzBQWktVdlJVRlU1bzRob1g5MVV4Z3ZCS3IzR2bSAZwBQVVfeXFMTS1sVDY4UjdoaDZhQ3E3bXpVUlBONnFBc3QzS0p6MGk1ZFItSlRwWjNJU0FXSnpBRjY1dGluUWFBa3BOdzU0ZEx3dGJYNm80d2g2cGxQT1h6VjJtMjRCU1RJeUtIY2Z4STRkNno2ODJlaEdBRzJESFBXN292NTl6RTJMNWZvTk0xZVFRQUlEU25nS2Y5aGpZSE9qclBx?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1613870930431-a09c7139eb33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZWdpc3RybyUyMHByb2Zlc2lvbmFsJTIwcCVDMyVBMWRlbCUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5NDUwMTUxNnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Thu, 12 Nov 2026 15:26:43 GMT"
       },
       {
         "title": "Las cuentas del número 1 femenino de 2026: Gemma Triay y Delfi Brea pueden cerrarlo en Dubai",
@@ -187,13 +180,6 @@
         "_pub_raw": "Wed, 11 Nov 2026 12:51:58 GMT"
       },
       {
-        "title": "Iván Modia: \"Dubái no va a dejar de invertir para convertirse en una capital mundial del pádel\"",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRFdqaWJPYWw4TG1yUmQ5RnlTQTR3b3ZpX0l3czlsMF9ueTRGMTlTX0dVUUVYUnlZYjlvWWxUdlBEOGJodTZIU1BMUUZkbjZCVGlCRU5PM1dSV21RYXJFb0VxellyQnJPOGFtVmhNcHRDSV9kbldlSDlSLTJRUGxUNmNHMkQ3WGdHdmJnWm1Fc01YY0c5SUh6OVdoMnZfZVlhMFFKTThZcWJpQ2VpSkHSAa4BQVVfeXFMT1FhMnRuYkQzU1V0dGYwOUpTa3I3d20xQTZHTjVXNEs0Q0ZPcDRUakd3TTQ4T250QUtuS2xRVm02XzBxODZ4UTA3NlZZVUpDcHVFZjFXUzhMV0Y5QUlOUGh5OVZRS3ZobGRZSjZCUVZCd0U1NTRIMlZEOFBkNWY5c0NUTmdneG5leTRxVEFOamJPSmdYdXFCSHJjalBMMV9xVXhVN2tkN21JWU54b2Jn?oc=5",
-        "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1672223304816-d96242210bcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxpdiVDMyVBMW4lMjBtb2RpYSUyMGR1YiVDMyVBMWklMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTQ0NjM5ODV8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 11 Nov 2026 10:40:35 GMT"
-      },
-      {
         "title": "Surrealista: pierde un partido por golpearse la zapatilla con la pala",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmZpaWNCc1VQTFZUSnRLZW9SRUNVdHJjZGM4T0g4TGVlMi02dGdWVUxKQWtGdUxSSHowU0ZHbUFVNjdPWmRaNmV6dHVNLVE4dDZMZ0ZTUG5XUm52RE11QlJPRy16QTl2R1NzVnhVQ2lMX0RwcTRWTnZ0ZzMzQnNqNTVTUkViZDdrajZNU2J4VnlabHlHU0FVN25qMNIBmwFBVV95cUxObW9nQ1REeVFPTklyWUx5dkxJbUlvTGZCSUhySEZLTENhU0RsVExCSmh1eFBobEk4MWpuVl9xQVhTcWxpTGxVTk5BWmlIZkNsWmZ2UElES1liVG9NblZacnQ4MGFRSXg2cFhMSWprTVBKTXAtQ3NKQUpLbVY2UFEwdXBvaVdiU0UyUUdUeUtBaE1YMmE0T2NyQlFlUQ?oc=5",
         "date": "11 nov 2026",
@@ -201,21 +187,28 @@
         "_pub_raw": "Wed, 11 Nov 2026 14:58:28 GMT"
       },
       {
+        "title": "Iván Modia: \"Dubái no va a dejar de invertir para convertirse en una capital mundial del pádel\"",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRFdqaWJPYWw4TG1yUmQ5RnlTQTR3b3ZpX0l3czlsMF9ueTRGMTlTX0dVUUVYUnlZYjlvWWxUdlBEOGJodTZIU1BMUUZkbjZCVGlCRU5PM1dSV21RYXJFb0VxellyQnJPOGFtVmhNcHRDSV9kbldlSDlSLTJRUGxUNmNHMkQ3WGdHdmJnWm1Fc01YY0c5SUh6OVdoMnZfZVlhMFFKTThZcWJpQ2VpSkHSAa4BQVVfeXFMT1FhMnRuYkQzU1V0dGYwOUpTa3I3d20xQTZHTjVXNEs0Q0ZPcDRUakd3TTQ4T250QUtuS2xRVm02XzBxODZ4UTA3NlZZVUpDcHVFZjFXUzhMV0Y5QUlOUGh5OVZRS3ZobGRZSjZCUVZCd0U1NTRIMlZEOFBkNWY5c0NUTmdneG5leTRxVEFOamJPSmdYdXFCSHJjalBMMV9xVXhVN2tkN21JWU54b2Jn?oc=5",
+        "date": "11 nov 2026",
+        "image": "https://images.unsplash.com/photo-1672223304816-d96242210bcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxpdiVDMyVBMW4lMjBtb2RpYSUyMGR1YiVDMyVBMWklMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTQ0NjM5ODV8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 11 Nov 2026 10:40:35 GMT"
+      },
+      {
         "title": "Agustín Tapia y Arturo Coello son baja en el P1 de Dubai",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTFEZml0dEY5aFJRQ2ZiNU1feTVQZVozeXFCbXFLWnZUQUVpVzRlWnU3Nzh0UVlmQlFTQ1BWY0tCSFJUa241SUJCLVZzUVZDbmN1SWNZYU4xbnlvRVcyeDQyVHJPSWZTOW9hazlGbkhwZFFSRkFqekFrSnNWQmNVVTQwdVkxUTRUWWpKT0xyWU8xcDDSAZMBQVVfeXFMTmtoNEJySU1vTG95YWxoZzkycWRic3VaSWhHUFdnMWU0NnA1NUxQNkoxbHpibDROMHFfUUxnY18zUkxlcUUzdGpfdG1OTEswd0tpdm9qYzIyallsUGoySDA0Q05OR1ZMWldEZlhtal9OZzY0QTVleTFrVzZSRGdnY2dRdGlGZlRLNnAxT2VySUtMMmZr?oc=5",
         "date": "10 nov 2026",
         "image": "https://images.unsplash.com/photo-1709587825099-f6f07e5337af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxhZ3VzdCVDMyVBRG4lMjB0YXBpYSUyMGFydHVybyUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5NDQ2Mzk4N3ww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Tue, 10 Nov 2026 19:46:43 GMT"
-      },
-      {
-        "title": "Dubái Premier Padel P1: horarios, calendario y dónde ver hoy en TV y online",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVZjbWIxUXZrTDJEQTQ5S0tZNlktalJBODhzaVhHY054aEVFOG9lN1BuZ2s4eXJKZ2V4aG9fNG1WZ2h2S2xacWYtRkRUejU3cjFRZjBNLTlNZGc5VHZqZ0xFcW56WEVLNXFpUjBoQ19yeVp2T3ZQTDJlNFRnSldaTm5ZbWV6Y3hkTzhDOG5BT3dFNzdXZk5oaHVvM29MSVlTR05CaUtpd9IBpwFBVV95cUxNemhxaTYyTXp5UDQ2MlhQT1o3OFNnUFJGTzJnOXNQZFVXVV93d3VXSUxSZGZDMjVQYi1qN2dURzRsem8xX0NSbm93WWs3ZmlyV01wUzNLT2Rfc1R3cDAySmhoR1hTZ054VHpLUnBzbU1yNE0zTk9wTFQ3cy1nQmpaS3lFbDFnQWhEOFNjV29yYUEtSU12aEhqSkhvRk85a2VaQmpGQ29Ydw?oc=5",
-        "date": "10 nov 2026",
-        "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=480&q=70",
-        "_pub_raw": "Tue, 10 Nov 2026 12:01:23 GMT"
       }
     ],
     "fx": [
+      {
+        "title": "Liga MX: ¿Qué necesita Pumas para clasificar a la Liguilla del Apertura 2026?",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFJNOURqcEhKTXFKWU1KemJhTGJacTJtazZmWmRER3Z3N3ZlODU2M3cxRV9OeHU0N0NNVWlKOTl4LUl6Y3d1amJFaTlKSE1vUEJoQ29CemlfQkdia25paFlCUE9hbGJsSDJqMFVnYXJtSXg1amFfcUpBUEcyaFdvVXMzOXEwdW1RSFhvRE9DbDNVNXY3SmlUdWhhVTZxcFMyX19qd3RFcHgzT0NuLTRfc1doVGJNZw?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "_pub_raw": "Thu, 12 Nov 2026 02:45:00 GMT"
+      },
       {
         "title": "América con un ala en semifinales: Le gana a Toluca en la ida de los cuartos del Apertura 2026",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1AzQTdyZTRtWkJyamtMRmRYS2lKVy03UVc3dExCSm0wMGtYamxTODFQTFdCR09tMHlLbjlWQjd6cXJzTDZNMUxFa292UGNNNW9aa2ZLTnpYRktNcFNkZ0hKVG1pbXQzdG1RQ2ZxRmFvVWczejVyV1NqNGExU3FFRVFRcWpOSnF2dERveGlZdWZaZkl5ZjNBYWZ1SjRNTjZpMTRVVUVsQlNYN2JRV1daUkdVMTA5Q1ZNM2JwUWZn?oc=5",
@@ -245,18 +238,11 @@
         "_pub_raw": "Wed, 11 Nov 2026 13:30:00 GMT"
       },
       {
-        "title": "Liga Mx Femenil Apertura 2026: ¿Qué partidos se jugarán HOY en los Cuartos de Final?",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa21fYjFEd29zaDY2MU40RFI0ZGQ0OHB0NFl2eEh0UkNjbmpJQ2hDekdZdGZzeWdsR1lTbVhHMldlYzFVSDBkTHFlc2tIRG5GbUoxYmJ0LThDSWdfWm10c3pRekZLSlBIUzB5Q2hRc2kwZWxzSjRHd2NjQTNzcnR0RjdPTGxTekxzTi0tVm54bHRuWTZPVHQ5dGVXc1dnVWswMFZySjZlTGlCMFZfeVhjaHlYV05wQQ?oc=5",
+        "title": "Apertura 2026 se convierte en la fase regular más vista de la Liga Femenil",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTUF0ZHN5ZW85aTJXeG5XMHR5ZkZJd09vTU1rVTlOQ21FRUdhSjRfMWZnZzFXRzl6Y1oyM2NoYXdJRG16V2wzeEgtN1lYajgxTXFDend2aVVNZF9nb2xLc2xtWWVzUXBjajZEU1BycVFlNi14bFMxVV9NcU9OZ09xdlFfYnRLQ29WNHBXNVlvb2VOeFVRZEVYblppUldJYTlnOUZqSHhUcFlGdmcyS0Iya0pWd3MxM3g2a2FlT2Q4azNydWpjdmRIejFSWEpNNWUySjlDNGpacHd6YUtSU25NdmVrRERRNm5PaGR2b1ZiOExPdGFQaHpxdG1oVkVyOWtmTXfSAYcCQVVfeXFMT0hYT2VqTkk0VGNVTXo3ejhSOWpmOTZCNk9peE5TdThScVU5cnZ3S0U4WFZJMS1jQ3hSSXphc245djJqbXBablFNdk9TS0tTWkZhRkotMTl3bWxrWW5od2pYWmpaVEJieUJ5WlZxejVvLWhtcGZwMVNCS2ZteHhTV2s1T0pacUl4UmhnQXYzanNCbGYxT1E3TEdhXzlMRzVObWRjYjdHaUJnRUpEUTRwT0toRVljV2oxUU85Ml9qby02MkhlaHdFbVJxY1k2X0hTRzVUb25lRko0M29jcHFTVHJuWGtUZkJqRU1PUlpoU1MyWjVuNW53b3Y5emE3ZXR4ckh0bU1xZEk?oc=5",
         "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxsaWdhJTIwZmVtZW5pbCUyMGFwZXJ0dXJhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDQ2Mzk5OXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 11 Nov 2026 17:16:20 GMT"
-      },
-      {
-        "title": "Así quedarían definidos los cruces de la Liguilla del Apertura 2026 a falta de una jornada",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeEpHdlBoMGlkTGIxVWxwYmduV2Fvamc3b2hXa25ZR253d2Qwa0hKSXdQQ0lZX25IS0dseEw4LXhvYTkxVFpnNmZhUjFvX3kyZEdIQ01xUVVXYnA5dng1VTI0Mkh3UUloTC1FdmVDdHdUTVVORll0LU5pMDJSUkd3ckJDZWx4LTBvTzN0Tll5dGJnc0pPVmd2LXE3NkMwLVpNLVFDRXowaHFSU19TREFqeEllUFBlWEhoYzBXVdIBwgFBVV95cUxPYmh6c1p2TktUT3laZGpvNFZOTFUwMk1ma242a0FET3FuZE9nVnpMYmNaV0dpVTNKa3hRS0V3eHluRy1mdDhha2lwUjBmRjg3b2hlYnBPYTZWNUFWV0R1Q1VTWVM4SE9QUFlPeG5MODZrUGU3LWFnQUhENGlwVFE3U0dlLTAtT3dLU3h1cnNNclVjNEt4NVNFdTVHZkpCUlhNSFFUTEpBYjdkTnZTVnViVk5aNVFxa0dSUk00LUJ1UnFxUQ?oc=5",
-        "date": "10 nov 2026",
-        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxxdWVkYXIlQzMlQURhbiUyMGRlZmluaWRvcyUyMGNydWNlcyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTQ0NjQwMDB8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Tue, 10 Nov 2026 12:59:48 GMT"
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhcGVydHVyYSUyMGNvbnZpZXJ0ZSUyMGZhc2UlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0NTAxNTMxfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 11 Nov 2026 04:07:21 GMT"
       },
       {
         "title": "Chivas sueña con ser líder… pero también puede caer en la tabla",
@@ -266,32 +252,11 @@
         "_pub_raw": "Wed, 11 Nov 2026 20:55:07 GMT"
       },
       {
-        "title": "¡Cruz Azul les saca ventaja! Así quedan América y Chivas en la batalla por la regularidad de la Liga MX",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObE1BMVNvTzhRb0ctSGNwcms4UVlyT3dGb3ZvSS1sYUdhMVR6MWR2cDJPZldicGZjdHMwbjJzaVlFRnVzVHJTN2lpaFY2WHBhTlctUmpWam9WOFBNbk1KR19TcWc5SnZUcXhRNmVKNm9XNUlMcTUyb1FsaFFjTzkyTVA1TVN0dE9IaXp5WUh5U3laOTFmd21kRGxhQzZ4SVJaQlJTbWNSMEEtRk04bEJTdmZrSktKYVRkc2REUjZ6WFAtdUZiQk8zZ1pKekVuY3g3alEwdEw1UWRxajJqbTVxb0hEQm5OWWxLT1ZFT19MQVg?oc=5",
-        "date": "11 nov 2026",
+        "title": "Salón de la Fama Béisbol y Fútbol, medallas para México, Selección Mexicana, Espacio Deportivo (de la Noche) 11 de noviembre 2026",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZnpnZEZWZGpzQUQzUDZBM2p5TUVYNGllUEU4azVBX0prc2djcTBUM1d0djBWNmlLSE5CWTBRNzlWT0VobkFXX3JrWWdRMGt3d1pHbmYwVU1RS3BhS0l0RGltSlQ1WllmMFFpcVJ0YVRDSExTTERwbTJ4ZVhwTjExN0hqdVQtWkI0S0F4akpGT3lhQ2N0bDhzOWdHMFlBc2RLUUloY3JtOENyTmxleWdhVExlSlF6Z2xLLVhUZmpSdXl1UnY0V2N3em1GM3RSR3VnQy1Vc0pXdDFHZUw0NjZXX0VGM05YRUx3Ymkw?oc=5",
+        "date": "12 nov 2026",
         "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Wed, 11 Nov 2026 16:30:00 GMT"
-      },
-      {
-        "title": "Cruz Azul, América o Chivas: Los escenarios exactos de la Jornada 17 para conquistar el liderato de la Liga MX",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWnlOd3BSVUIyTFVrNU85U3pacWdmNzJ6Tm1xYXVpck5ZN0dXLW1uMS1KeEdjVDA5U0JRMnJtUkM4RFhTWnQxMDZubWg1dnBwQU1ZUmN4V29Hams1MVlFYXNLLTF4VkJRcjJ5WXNvU1BGZHh4UFFzcUVUWDZWZ3dPdVB6Z3J2OEd3dnVKbWh6LW00OW1oc3pZU0djNVB3TUVrVlJFWUNTcVdFUmkyZDZwRzEwOHFjZ1RkN05wRFlJRUxkZGkyRG0zR2xaT3lQZFpTNFZadmRodzl1WGJ0ZmY4bHRhOXFRSDl5Vk5xUVNGRXhMc09r0gH6AUFVX3lxTE0wSlVPR1Vna3NmWVNTM1FhbXB5SjVXRmpZbFFnOF9zblBlTnl2RGtKbk5RV3ZHRjBaSTJMamJWWl9nSEZVQ29GUzBRR3NzSV9jX3BxMnJOeDNMbFlWUHdhZ2F3ekZqdkNOZnVGaXoxcFF3cmNVRTR1MnhZM0kyT1dkcmlQdGUzbGwzbWpCLTFlWnBBdi1Nei10dXZjMnZ6cXprVTNZNk15azhJMVFCNEZFV0tia2hQSDBOcDVSeXhjcFdMdTZrWFo3Y1RiNEV6OU9sRUtzUEY0WkFRS0h0T19NaUxha0FZaDVMdElaLWdud3pSbUFKc0k4UVE?oc=5",
-        "date": "10 nov 2026",
-        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
-        "_pub_raw": "Tue, 10 Nov 2026 14:29:05 GMT"
-      },
-      {
-        "title": "Chivas: Gabriel Milito y la anemia de su Bolshoi Azteca",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTlENHBYM3g0N3lsSl9tdS1TdTlqQTIyMWdlSVYxMEU4bDBSTThlaU9HNGRqV3pKZ2ZEbHNGMmlvTUN6dl8tVnlqUnR3SEtpUjhyUjduWjY2VDZYQ0pfeTduVHEzQ2FfVHRZbTJwVlpRT1NzUGpkZUVGM05xRm5YREZ3UEN2T1J4ZWQ0M2VRekdwamYxUFprOXhxYlIxTlJMWnlWZmR5MzBhdw?oc=5",
-        "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
-        "_pub_raw": "Wed, 11 Nov 2026 16:29:00 GMT"
-      },
-      {
-        "title": "Pumas, el único grande sin jugadores en la lista de Rafa Márquez ante Jamaica",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQ3JsUDhIbHRtTFBtbDM1aWc5NWItdS1NcUdRNTNaNUQxSC15b0NsRGpJcHZTZnNSZVNwUUVNbFpwUXZwV1RHV0liZUlfRERhckRWTHZRT2JCTmJzSXNHTFBUUFowcXhRbW9RUEt2dzZremNfQ1RNNDlreVhlRDZaUmNxNlhtVDJFYzZmVmlBVlRpOFp1UDJsZmxUTGRsc1h2VFduYkhrM2tfZl8xamQxYmpSWTliTk5hcGNRT3lqd1pFNnhtS1pJRm1PMm11ZGY1Z2k2QzdzTFpmZERBUmIyVVNZN0gxMUo5MlE4S1M4d2ptTXBfS3F3RnlWYnkzYjVwN2Nz?oc=5",
-        "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
-        "_pub_raw": "Wed, 11 Nov 2026 21:48:49 GMT"
+        "_pub_raw": "Thu, 12 Nov 2026 02:41:42 GMT"
       },
       {
         "title": "Efecto Milito: Chivas retoma protagonismo en la Selección Mexicana; 13 jugadores han sido convocados",
@@ -304,8 +269,15 @@
         "title": "México vs Jamaica en vivo: fecha, horario y dónde ver la ida de los cuartos de final de la Nations League",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOXy15WmRTbkZWaEZ2MmtrV3E1ZkhCQ3pid3I3azdOc1lLQjRiaWtmWGxGMkRIVy1YaDBVN0tTazJmMTZaVWpGV2JxQ0t6VENmQkNoZlZXMDZ3aHRLMkFHTjlOclNPVmNRd1pFUFZicEdLamlwZ3ptRElhWXQ5VHRHZzZ0TVVyVXV0U0hwSlR3amt5UUhQNEVxdmV0amNkbXoyd2FwRTZXTzZ6V0s1U2RCYkJjeXRFODduX2Z2ZjQxU1RGTkdkcVV2RUdJMktrTzhMU1R0aFFPbjBTT2xkb0tMV1ZjV1hEY0U4OWFWZkRWMA?oc=5",
         "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
         "_pub_raw": "Wed, 11 Nov 2026 22:52:51 GMT"
+      },
+      {
+        "title": "Rafael Márquez, bajo presión: advierten lo que pasaría si México cae ante Jamaica",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObjlldnZxNVlWaHJ5VWNFdWlvMjYwTHplanVfSUVGMVNpNnJpSFVqZUVlWVd5Ui03Y0dvQ1JlbTBuOVZPUERPNnZTTk9WTHJ1c2ZxcC1UcXpVV1p3REtnT3lQOTJuTzU1aGZ4R0c2ckxwMEg3RjZ2RHI0NEJMQmw0MW13MDZKZ2V5UlRKeVphWEEwcHpWNzZkVlBkM0FMamZ3SkxSaHhITVdKNVBFeTRnbl9aSEVSNjd0aEx0MdIBvAFBVV95cUxPY3V4ZVNKU294SERneFZXUW1Oel9hTmZxODBhaFplcm9tb2tYOUxkdUItcjRaRWJ3YkRhbUhTYkN6Xzlvc0FoR3Exd1ZxalNoSC1PcnVLUFlOMFFIbk85anNhdEtnMDJiLUdzV1NlVEp2cXZZbXlBVDRlQ2ZUejJOLVh1U3dTdGU0Y3dObUtPbkt3dGcxbTQ4cXNXQzNBdGtKNkF2LTNUN2pxSWY2Yk1YRERuMklfOWNURG5ZXw?oc=5",
+        "date": "11 nov 2026",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyYWZhZWwlMjBtJUMzJUExcnF1ZXolMjBiYWpvJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDUwMTUzNXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 11 Nov 2026 22:44:00 GMT"
       },
       {
         "title": "Rafa Márquez rompe con la base de Javier Aguirre: los mundialistas que ya no tienen lugar en la Selección Mexicana",
@@ -315,46 +287,60 @@
         "_pub_raw": "Wed, 11 Nov 2026 18:17:00 GMT"
       },
       {
-        "title": "Pumas, el equipo que desapareció de la convocatoria de Rafa Márquez",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVJzVkpDcGdDUXlFamVINWFiQkJHMEpWQVN0b1Ntb2x2Z2s0R0F5S2ZyS3lxVkp3TXkwZWVHWk1TZ0xyNkxZRkx1cURJNzdkZFhNUHBCM1R2aTZHdDNhZHY4ZEV3UGlVTWxQWWNQeFR0N21nWjlYVlJlMmJXcnhyVFhSd3BnNHd1bW1VWDJYNFlHclpyUWxfZm9JZ3pxbWVuZjgxTW5KWDE5R2c4emZkRNIBsAFBVV95cUxNUTFXZlJzM2d1WXB5dGNfMl9HUV9PT01fOHdidHpVTGpZQ1l6OUNBMGxQNXJkWGhyajBzUXBSdlpiZ2lrbVJvVDdwcmxsSkdFaVExeTlBLW9iQ3lrVnBvRVNoRHJ5TDQtX1daNG5SSTl6LU9raGFmdndNLVNpYlhNYnRJamFiRENRal9DR1E0Z0hYS25mX3I1UTF0eFR4MUlmcGNGd3k2NEc4WEd6d2dfaA?oc=5",
-        "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
-        "_pub_raw": "Wed, 11 Nov 2026 18:51:00 GMT"
-      },
-      {
         "title": "Henry Martín, con mejor promedio de goleo, pero sin convocatoria a Selección Mexicana",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRU1DdFJXUFM0NWtLTklmWERoZDJRamxNSTZHX0x1LXhzVmEweDNRNEQ1MGUweVNLMjROc2dGbGY4WFZfNC1aRUFQZEhtdXBHWDl4b3FpdEpPcmZ0TXgwR3ZEZTdpdF9PTnBHZ3FKdm10WHVtNjF2UUtIUDB0b09qMzB4SEViQWF0UF9WODBpdXdSOWZhOGN0VzdWeUVXVG1jYnMzbmZTMW9UTnlsbnFmNmpnckdjSEVQenBzNWZGUkVGN2ZTVURFQWJYTXo5Yk3SAc8BQVVfeXFMTlVvSmVFTFl3b3Y2Q3Fpd195UHlmMHBwT1Y5UnQ3SFFscF84NG1KdFpZVGZuVVFXQmJfOVhfQjhLbUd2ZElQWlhyMl9qWEFwZUpua1RlSEQxd0hCYU9iRFJFRnJBeVhjVkR6TnlPY3NEbWN4NDdETWFHdEl2WlFIRTBqaFdlZXZIYTY4MHI2TmNJQjBaREs2T2FZQi1RbDBKd3BURTZPV0hSMWtha09IVWtOM0dPS2FQelhsZXpSX0I4VWJRWDh0M0hSUXJfLXVv?oc=5",
         "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxoZW5yeSUyMG1hcnQlQzMlQURuJTIwbWVqb3IlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0NDY0MDA5fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxoZW5yeSUyMG1hcnQlQzMlQURuJTIwbWVqb3IlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0NTAxNTM3fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Wed, 11 Nov 2026 13:35:00 GMT"
       },
       {
-        "title": "Salón de la Fama del Fútbol, Selección Mexicana, NFL, MLB y mucho más en Espacio Deportivo (de la Noche) 10 de noviembre 2026",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNXJGV3dXV2ROdFJfZW40NHYtOUtsUTRLWTNIRTluT1ZTbUwzYjNZZmN6VkhXWEtRdUpiaV9Hcmk3NVlseDcyT0NJejNHeEsyalJkekVsR19iZGZkc3RRR1ZreDlBSlRFcVZyd2ppS0xMQ0hQQWZGZkUwa2RnY2dPbEp0SVl4UFhaeVF0SjlDSTh4OUNJOWFKSGtkcG11TW11WEJ2bTBNM3h1YjdiX0NjTjB1OXh0RTVNbWs5eW9SWWFnMEFYT3VFQlVsWWhBQ1d5RDlybmV1Nm9jX3J1eDdWSlNnRXNoQQ?oc=5",
-        "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxzYWwlQzMlQjNuJTIwZmFtYSUyMGYlQzMlQkF0Ym9sJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NDQ2NDAxMHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 11 Nov 2026 02:57:04 GMT"
+        "title": "Manchester United despidió a Michael Carrick tras la racha de malos resultados en Premier League",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR0R1bF8yUUhSS0tMd2t0QlVqRGR2YTlmX0RGM1hMX2FaOWRvSzZsdG5ZZDRaVm85dDlPSVJpbmhLQk15Ukg0c0lkaTAtQUFaWDgtWHBoc29PRTJURG9CakZwUWNYdEdnVm52VmYyRTE3ejZRYlAxdHRnWWhrMlZ1djRfZFVIT1NjRlFuWEtFalB0NlNTVTdIbXFwcnJtckhnNTJMNjEzS2VDQ1BHa2NxUUpmaE9pYVNZR0kxMUpKYXBLdXJCU1hJMFk0VkFHUU00NVRDZURYSXR1WGFOQmZybndLUjlLZnNMaGpz0gHwAUFVX3lxTFB4MXdLdHhueWJiXzNkblJ2di1BZDl0R2hKenNtclEzRXQxdjBiSm9tWUNGamNMc3ZrV2NpZmkwNU45YTNkTVh5ckxDZjRIYU1xaDAzRkQweGNDZldBbFVNdFViaGJGN0t5bmNsWkNxN0ltcTh2VWZDVE9SeFA2UEozeDhTd2tucWNKYmZrQndicUlYcE4tU0t0TjBEYjB6eWR1RWtUODFwTUlQcHR6ZzdrM2k2V2tJRzd1M0xRbjdfd0ZObkZwMmJZRkhvSVJOQUwySjVqb1FXOW0wSUZNbjBhU0x6ZGtLZHVUSlVYM1Z6aQ?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "_pub_raw": "Thu, 12 Nov 2026 12:33:08 GMT"
       },
       {
-        "title": "Liga Flag Morelos: resultados de la Jornada 7 en Jiutepec con Rockets y Pinks",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbkJGaEoyMV9yd1RZRC1ldzJjcVZZTVlrTGkyQ1lKUEthNGc2TDNqQVFyTHl1ai1fSkdVZy04WkhJSHZlYnRtNzBKcmJEa0stbzM2b2FFd0k2LXdJLWhHV05uU1BXMTVqZXBwMGhjcG5vYUdMQkZrRUxmaDdaSXU0a3pqdkprbjlaRk96d1c1bUJ1dW0zdWFhSUpvcGtxdTY2Tm0xdE9GYk5WRUVUbXfSAbMBQVVfeXFMT0hYYkpyTE1kbThPOTJLVGdCY0NIeXNLSmFUVk12MTF0eUlVdl9Ec3l0Q0JvQjJuelFfb01ENzdiQTMtc2hkNVhtNkJ1UU1leldBemxBZlJqMkZXWU01WDdyMkwwYU5sbkdYVDMwVjRENUhnSU9PdzFqc29iV0JkelZxTmFUQjdGWDc0b2RVblFZanVmNUUzUVVDMkU5YjZWNVVrYVNDY3J0WmdrVXhrZGlmSDQ?oc=5",
+        "title": "El Manchester United ha destituido oficialmente a su entrenador, Michael Carrick.",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzFySkNrb0J1c1BYNDRjdHJGdk94S3Bnck9FMEdLYTh6VUlkZFZneGJpOEFXVmlxS3RSb2lsZTZsZ2VwVkVqcy1McFh0MzhkM1pIWkNuSEQ1N2tELWxsa205SVRBaDRxNjFiSmRQbHZCTUxYVkJkOE9CeEdKRTZHQw?oc=5",
+        "date": "12 nov 2026",
+        "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
+        "_pub_raw": "Thu, 12 Nov 2026 12:25:02 GMT"
+      },
+      {
+        "title": "Selección de Estados Unidos se retira del Mundial Sub-17 de Qatar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1F5N2t1WU94VU05bFVkQzRTOVV1SUNrc1JqSGViOFlrLUM1SGdTLXpfakRMdWRkOFRsOWEtS2cyN1l4YTJIODltTHRueklZczZKYWhTNGRxbnBhV3FCWTVCM0EtZkV0Z0swaEdnUXZnY3MzeHg0SXIxY244UFlBTHN4R3FDOEFOeFdFWlVRUHhZTlhh?oc=5",
         "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
-        "_pub_raw": "Wed, 11 Nov 2026 15:04:28 GMT"
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "_pub_raw": "Wed, 11 Nov 2026 22:37:54 GMT"
+      },
+      {
+        "title": "\"Si me ve mi hijo va a decir que soy un m...\": Chaco en su inducción al Salón de la Fama",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcnpoazlIX2g3aWxQajJ6b0hHczctZFNVYndTc0RXaG5iQ0dHdk9tcHdJamZRRHRiaUVVRHU4QmxUQ0drdEI1ZWc5dEl0VFVjU1JDVUZyYUlNSXhia2h2QWFrSzFxa2ZXbTIxbklIdXdJeW1HMTBwMi1pT2Y2OHB3ZWxvRS12Sjc0VjlkYnEyMVczbF9RUVBVTnh2aUNveDdveVFrTUsxQkdVS2NWTFZQaV9GS3FmMmNLRWJQTmExeVpPRkE?oc=5",
+        "date": "11 nov 2026",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxoaWpvJTIwZGVjaXIlMjBjaGFjbyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTQ1MDE1NDF8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 11 Nov 2026 01:32:51 GMT"
       },
       {
         "title": "Esto se sabe sobre la posibilidad de que Pep dirija a Estados Unidos",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVl94NFV6RDVnMTJ2X25XS0Q5TzEtRnpHWHRuaG9vMGFRd3Zhbjdtb3lBRWo3MzVEc0pnTHl0UHFrRlRmblBpd3pvTExpQ1BpUXBkc1hiY29ZX1JoRTl0OGFiekltZm56aGZjd1hTOF9CVWdmLXhMaVlJSU44d183RFhPQ0lwcWlOcTFxQmpDb3FOTlVkR2pZVHFsZFVoZGhuZWhFck9rTmgzYVZsWG1ZX2UwcjQ?oc=5",
         "date": "11 nov 2026",
         "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxzYWJlJTIwc29icmUlMjBwb3NpYmlsaWRhZCUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTQ0NjQwMTJ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Wed, 11 Nov 2026 20:45:51 GMT"
+        "_pub_raw": "Wed, 11 Nov 2026 21:00:36 GMT"
       },
       {
         "title": "En España ven 'segura' salida de Obed Vargas del Atlético de Madrid",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHRtaEI0eTV3QjVuem9fUXFjdFhtcGtPMm5Fd3g5dWU1ZGN1bTVUOXpwRVFuVl84M2JWcnlvNFNCLTdTcHIyMk9RUFl2ckZhV1JRRFhSM0NrUTY4cVZjWTVaVzh1QXdRajdBSUpDRzZfeG54WWxtSXlGNnlLTElpb2JvZTR1T0NQLXFjYzBGLVdPTFl3dmV3?oc=5",
         "date": "11 nov 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
-        "_pub_raw": "Wed, 11 Nov 2026 19:30:37 GMT"
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
+        "_pub_raw": "Wed, 11 Nov 2026 20:21:24 GMT"
+      },
+      {
+        "title": "Hugo Sánchez lanza propuesta para mejorar al Tri",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDlVX3NRUXBsYVJCS2haYUhNc1ZacUtPYjNnLVJvVHkzbkF0Y0RsVXY3OER4OUpBdlJJSEJuMHVnclhQU0dNQUl2enRNQ3RmVnNGa3RoUEVwTEZYcUdjVFgwSUtIMEpIRm1kd3RHQTh5cmg5aURISU1ZZXhQU2Z0dnJzaUFidUJ4RFU5RkJvUmhmTUxkcUpOWENacDRkRTg?oc=5",
+        "date": "11 nov 2026",
+        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxodWdvJTIwcyVDMyVBMW5jaGV6JTIwbGFuemElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk0NTAxNTQzfDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Wed, 11 Nov 2026 01:20:18 GMT"
       }
     ]
   }
