@@ -1,7 +1,21 @@
 {
-  "updated": "15/11/2026 05:22 UTC",
+  "updated": "15/11/2026 15:26 UTC",
   "sports": {
     "bk": [
+      {
+        "vid": "wBWGQAdIMmw",
+        "title": "NBA&#39;s Nightly Recap | November 14, 2026",
+        "thumb": "https://i.ytimg.com/vi/wBWGQAdIMmw/mqdefault.jpg",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=wBWGQAdIMmw"
+      },
+      {
+        "vid": "sfnZqGhlJKI",
+        "title": "NBA&#39;s Top 10 Plays of the Night | November 14, 2026",
+        "thumb": "https://i.ytimg.com/vi/sfnZqGhlJKI/mqdefault.jpg",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=sfnZqGhlJKI"
+      },
       {
         "vid": "qySftRVPOPE",
         "title": "The Game Ends. The Brotherhood Doesn’t",
@@ -22,20 +36,6 @@
         "thumb": "https://i.ytimg.com/vi/YyTRQH2w-Ak/mqdefault.jpg",
         "date": "2026-11-15",
         "url": "https://www.youtube.com/watch?v=YyTRQH2w-Ak"
-      },
-      {
-        "vid": "am4TINgcdGo",
-        "title": "Klay Thompson says Giannis has MAGIC JOHNSON-LIKE VISION after INSANE dime 🤯",
-        "thumb": "https://i.ytimg.com/vi/am4TINgcdGo/mqdefault.jpg",
-        "date": "2026-11-15",
-        "url": "https://www.youtube.com/watch?v=am4TINgcdGo"
-      },
-      {
-        "vid": "X4Vj94oz9K4",
-        "title": "PISTONS at HEAT | FULL GAME HIGHLIGHTS | November 14, 2026",
-        "thumb": "https://i.ytimg.com/vi/X4Vj94oz9K4/mqdefault.jpg",
-        "date": "2026-11-15",
-        "url": "https://www.youtube.com/watch?v=X4Vj94oz9K4"
       },
       {
         "vid": "bCb8AVVdemQ",
@@ -98,6 +98,27 @@
     ],
     "fx": [
       {
+        "vid": "g70-PIwdtUs",
+        "title": "Arda Güler ve los movimientos antes que nadie",
+        "thumb": "https://i.ytimg.com/vi/g70-PIwdtUs/mqdefault.jpg",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=g70-PIwdtUs"
+      },
+      {
+        "vid": "0oVYQ5Ukan0",
+        "title": "GOLES inolvidables de LARGA DISTANCIA 🚀 | LALIGA EA SPORTS",
+        "thumb": "https://i.ytimg.com/vi/0oVYQ5Ukan0/mqdefault.jpg",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=0oVYQ5Ukan0"
+      },
+      {
+        "vid": "5oDgV3IimOg",
+        "title": "Hands Off, Tito!",
+        "thumb": "https://i.ytimg.com/vi/5oDgV3IimOg/mqdefault.jpg",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=5oDgV3IimOg"
+      },
+      {
         "vid": "Sl5khzVzGzo",
         "title": "Nadie vive el fútbol y los goles de sus compañeros como Rüdiger",
         "thumb": "https://i.ytimg.com/vi/Sl5khzVzGzo/mqdefault.jpg",
@@ -112,25 +133,11 @@
         "url": "https://www.youtube.com/watch?v=8zNaR2UcWsU"
       },
       {
-        "vid": "5Phb_KOZZRw",
-        "title": "Lamine Yamal y los recursos infinitos",
-        "thumb": "https://i.ytimg.com/vi/5Phb_KOZZRw/mqdefault.jpg",
-        "date": "2026-11-14",
-        "url": "https://www.youtube.com/watch?v=5Phb_KOZZRw"
-      },
-      {
-        "vid": "Iamg24mX5gI",
-        "title": "ESPAÑA vs INGLATERRA: las ESTRELLAS de LALIGA cara a cara",
-        "thumb": "https://i.ytimg.com/vi/Iamg24mX5gI/mqdefault.jpg",
-        "date": "2026-11-14",
-        "url": "https://www.youtube.com/watch?v=Iamg24mX5gI"
-      },
-      {
-        "vid": "nDs7RHZvzA4",
-        "title": "Raphinha ✨",
-        "thumb": "https://i.ytimg.com/vi/nDs7RHZvzA4/mqdefault.jpg",
-        "date": "2026-11-14",
-        "url": "https://www.youtube.com/watch?v=nDs7RHZvzA4"
+        "vid": "Teqio7Xm0qc",
+        "title": "Europa League Goals of the Season So Far! 😱",
+        "thumb": "https://i.ytimg.com/vi/Teqio7Xm0qc/mqdefault.jpg",
+        "date": "2026-11-15",
+        "url": "https://www.youtube.com/watch?v=Teqio7Xm0qc"
       },
       {
         "vid": "RbN3PJLdYQg",
@@ -145,13 +152,6 @@
         "thumb": "https://i.ytimg.com/vi/DrFYWwOcCWY/mqdefault.jpg",
         "date": "2026-11-14",
         "url": "https://www.youtube.com/watch?v=DrFYWwOcCWY"
-      },
-      {
-        "vid": "4etlaKw4Ido",
-        "title": "Imagine if they scored!",
-        "thumb": "https://i.ytimg.com/vi/4etlaKw4Ido/mqdefault.jpg",
-        "date": "2026-11-13",
-        "url": "https://www.youtube.com/watch?v=4etlaKw4Ido"
       }
     ]
   }
