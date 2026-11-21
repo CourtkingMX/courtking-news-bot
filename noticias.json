@@ -1,127 +1,106 @@
 {
-  "updated": "21/11/2026 06:00 UTC",
+  "updated": "21/11/2026 15:56 UTC",
   "sports": {
     "bk": [
       {
         "title": "NBA HOY y resultados del jueves: Memphis aplasta a Golden State, Portland sorprende a Milwaukee y San Antonio vence a los Clippers",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOelg1NXpneDR0Q0JDVnBkQmwxdHFXU3paWVRQc3FJZzNnQThqNzFmVjVlaUNHRUdxQXBMUzR2YVNsUmJxbjRiN1lKeXVlUHg4MC1aWnc4OEhLQmhoVTBCVFFOdVE5R29hcG12TmdvUThVX1dJdUhkc1pvQmpTcXFmTmJwbDJRQWE0U0lIbE1oVmwwRzFKWTlRWVlQdkZoc0VRT3RCYXRuNjhYeXd3ZlZ5SGd4ZS1qUEloaGdRR25KekpNd3o2VEpsYmVjNXJ3dXBXOVgxWUxub2VvRmI1OFVkNTg0WXZHS2l2aXJ0THhtM29tNWFFOHJmendORlRZMEMwWEHSAYICQVVfeXFMTnpYNTV6Z3g0dENCQ1ZwZEJsMXRxV1N6WllUUHNxSWczZ0E4ajcxZlY1ZWlDR0VHcUFwTFM0dmFTbFJicW40YjdZSnl1ZVB4ODAtWlp3ODhIS0JoaFUwQlRRTnVROUdvYXBtdk5nb1E4VV9XSXVIZHNab0JqU3FxZk5icGwyUUFhNFNJSGxNaFZsMEcxSlk5UVlZUHZGaHNFUU90QmF0bjY4WHl3d2ZWeUhneGUtalBJaGhnUUduSnpKTXd6NlRKbGJlYzVyd3VwVzlYMVlMbm9lb0ZiNThVZDU4NFl2R0tpdmlydEx4bTNvbTVhRThyZnp3TkZUWTBDMFhB?oc=5",
         "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1543521372-695143441c1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXN1bHRhZG9zJTIwanVldmVzJTIwbWVtcGhpcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NTI0MDg2MHww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1543521372-695143441c1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxyZXN1bHRhZG9zJTIwanVldmVzJTIwbWVtcGhpcyUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NTI3NjU5NXww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 20 Nov 2026 11:03:40 GMT"
       },
       {
-        "title": "NBA hoy: resultados y juegos del 19 de noviembre de 2026",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnZZX2piNmkyMTh1YVViRE9fNVdxd1JydlBCTHBzZTh3LW9xQUl6QVBjVlhjLTJseU9HUTVRaGdqdVZ4NUNFbGdWYnJiRGQwcjVkb0xVZ3V4cWhOT1JtN0Ntc2Y3TWlZWlhzTWVxRHNWdEJUZlZ5U1BxbWxKbTFPUWFteTM1Slox?oc=5",
-        "date": "19 nov 2026",
-        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyZXN1bHRhZG9zJTIwanVlZ29zJTIwbm92aWVtYnJlJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk1MTU1MDAzfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 19 Nov 2026 15:47:43 GMT"
-      },
-      {
-        "title": "NBA HOY y resultados del miércoles: Utah acaba con racha de Lakers y Atlanta agrava crisis de Oklahoma City",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVFQtMzBpZ2hRRzV4b1BEMXYzbW85V0I2V1BPNnFZVHdqVkhoT3JCakEyT09PeFdZV0daVXB5Rlo1a28xbkRIS3ZNUWVIR0Nwd1NpczNuTjJwdW5YTjJtUkdtMGtDNkdzODEyMXR1NXN1SHk5enhXUENuX3NKYmhHNzc1TXhlaHlMUUVhS1lReThRVGZkUEdMLVpKd1Vpb0x6ak84Rl9hTjl1NWpNTHZobFRRVWhaODkxTkFYS0FUYnk1emtuWXhqQzIzRm5SYXRvdnpocWlhRHo2UGtsNzBubEtWREXSAeQBQVVfeXFMTlRULTMwaWdoUUc1eG9QRDF2M21vOVdCNldQTzZxWVR3alZIaE9yQmpBMk9PT3hXWVdHWlVweUZaNWtvMW5ESEt2TVFlSEdDcHdTaXMzbk4ycHVuWE4ybVJHbTBrQzZHczgxMjF0dTVzdUh5OXp4V1BDbl9zSmJoRzc3NU14ZWh5TFFFYUtZUXk4UVRmZFBHTC1aSndVaW9MempPOEZfYU45dTVqTUx2aGxUUVVoWjg5MU5BWEtBVGJ5NXprbll4akMyM0ZuUmF0b3Z6aHFpYUR6NlBrbDcwbmxLVkRF?oc=5",
-        "date": "19 nov 2026",
-        "image": "https://images.unsplash.com/flagged/photo-1576369897629-b82f2f72081d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxyZXN1bHRhZG9zJTIwbWklQzMlQTlyY29sZXMlMjB1dGFoJTIwYmFza2V0YmFsbCUyME5CQXxlbnwxfDB8fHwxNzk1MTU1MDAyfDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 19 Nov 2026 10:10:23 GMT"
-      },
-      {
-        "title": "Rockets vs. Nuggets (20 de Nov., 2026) Resultados en Vivo",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHdWg1aGJNenlKZDltZU9nbXk5WmRIYkM0T0YyczMwVVRZZi1QS2p3T0k0UUQ3MHhsd3FhbElHSU9GS3E0NkxRZVJTRFU3Vm9VT3VLZlh5SG9IZ0hoRHpQM1BQSjIyV2ZaY1pkNVVBYWZvNnhlS1FJWFhn?oc=5",
+        "title": "Cherot y Roldán, de la LFB al Básquetbol Sin Fronteras de la NBA",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0Q0dFRzWTNxTE1oUFdNenVjdV9TT1poLTZkTnVHWXJYVFVIQ3lhU01LU0toNktySGdxTklhUGpncEhDVDIyU1hqS05QaTRiX2RGVDdDZW5uM2NqVndnWXJZaWI1VzFwTnExSFd2LTZEamZVS2N6UDRCWS1Ba0xVS1F3Q09Gc3BOV0RhYTNTWVZiN0lHVlowMThwMGtFNHVUbkQ0S0R1VWdmS3Z3X0xpczkxLVJjZw?oc=5",
         "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1577415732009-3823f5d15810?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxyb2NrZXRzJTIwbnVnZ2V0cyUyMHJlc3VsdGFkb3MlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTUyNDA4NjN8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 21 Nov 2026 03:13:53 GMT"
+        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxjaGVyb3QlMjByb2xkJUMzJUExbiUyMGIlQzMlQTFzcXVldGJvbCUyMGJhc2tldGJhbGwlMjBOQkF8ZW58MXwwfHx8MTc5NTI3NjU5Nnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 14:26:08 GMT"
+      },
+      {
+        "title": "Ime Udoka afirma que los Rockets son \"mentalmente frágiles\"",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOam1zMDk5dnFjQkIySVd6M0h4NDlyT1lwOVdxRno5MmtMMlJrWGd2QWlYMzRXcUZpNXZyb0VkTHp1SEdoVE1nRXdlWVRjdUVyR0lvLTFpSS1qRG4zd1Y0RF85clhiSkIwdVdNTlYwS29INDFsOGJvNlcyTHQ0RjhQZmkxdjhlVzBGbUtEVlQ5djlqRW4tRXhBODVXRW9icXFRMUJ2Yg?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1752166671343-db0db197a64b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHx1ZG9rYSUyMGFmaXJtYSUyMHJvY2tldHMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTUyNzY1OTd8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 15:17:00 GMT"
+      },
+      {
+        "title": "Lakers remontan ante Kings luego de la crítica de JJ Redick",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZUV0dHVyTmZlei1fZmhCeVZxbkszRlNMdDloTWhBRWl0dEpXNGhzNnk5cXZzWGliMkVoa0JPSmpzdDlTVGo1WGJScENWcHdpQ0Z4Z0drNEZucmdNVFdTVEtTbERkeTBoWG1OUUk2RXRneFJqLTh4MjBoZ1NVdDBQZzFjS3R4LVF2UFgyejRtNWJNZUdqV1prcnFNbkFxUTBqb0F4NkJXbw?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1530279281203-4c60af01ee58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsYWtlcnMlMjByZW1vbnRhbiUyMGFudGUlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTUyNzY1OTh8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 14:26:00 GMT"
+      },
+      {
+        "title": "Los Lakers siguen arriba en la NBA: Harden brilló con 51 puntos en los Cavaliers",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTU9XUWxoVW1xY2plSHpWRUZYNUVQWE44dzNfaTJtcW40bGpPaVBCWDdyby02Z195dWtGMVMxajMwcWtQSFJwMzhwSUlwUVc5TWNxLVNEcEp2STkxcDVwcGlrTUNralJpLTUzLXl2d3l6aVNzSWpZaUFtZktuVHdxd2FJVl9Sblg1SE43RkFjRHpIMmIyVUJzdi1JN0p4Wl9jeWJkeA?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1530279281203-4c60af01ee58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsYWtlcnMlMjBzaWd1ZW4lMjBhcnJpYmElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTUyNzY1OTl8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 12:24:00 GMT"
       },
       {
         "title": "Bulls: Caleb Wilson 'culpa' a la mala surte de sus lesiones en las manos",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUxtTEYwdlZFcGRFQU1GekxtX2NZMXhNZVUtaVhHSzVfeWJWam11MkNpWmRLXzlWNVZicFFWSktRRmdNaXVkcThCYVU4N2tDM0NiaWljTHNwclEtTTl0LV9aMlNvQkp4cUFKZ2s2UkxhYUN1QVAzUEV5eWE3WHRJNEZ4ZDJyR1dnU183bGpwVy1VOVF0eVF6T2RJT0x6dw?oc=5",
         "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
         "_pub_raw": "Sat, 21 Nov 2026 01:53:00 GMT"
       },
       {
         "title": "James Harden explota con 51 puntos y supera marca de Kobe",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1ZQSXEyeURvMGZXV2wtRW5ScmxuMmtESFZ1S2tMc3lFT3IyQ3NWYmZzMWkwYUVKUkRxci03RkE1ZjBUWDFfdUFnLVM5VWhiRW5RTTlienBlMFJVb0ttckR5bl9qM0xCT0RTNEVQSXZYQjBTNlZac3FZNWpyYlV3enp4UG05X0txb3NVMHBpV2FVT09IVENnYXVPcTF0S0E0YlJDdHRfUk5GX0E?oc=5",
         "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1608245449230-4ac19066d2d0?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
         "_pub_raw": "Sat, 21 Nov 2026 03:38:00 GMT"
       },
       {
         "title": "Wemby estrena tiro especial 'shunk' por ampolla en la mano",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWktxSnJ0Nm9RTmRkMGxfTHAzdEpibFBsM0kzdzIyRnBlX0lnb0JUdVNPSl9CMUlTQWZ4ZjNFd3pqcFVrZHVLSGplN3pzdXZwdGstSXFINnVCTTNQQUYxYjdmcmxGTEljUXlsQVdudGtxVmN5c1lvUVFoWnNjZ1hQb2Rxb1M3RjFtOGN3b2JjVkM3TkJIdFQ5dEhTdWRDYnRLWENXN1pnRDlNQWxmbUVIUmt3?oc=5",
         "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?w=480&q=70",
         "_pub_raw": "Fri, 20 Nov 2026 13:31:00 GMT"
-      },
-      {
-        "title": "¿Qué dicen los expertos sobre Boozer, Yaxel y otros novatos?",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFFra2liVmQ3TVUxWDZFNnREQUJ2YTdXMW05cENnQXdZeFE1d19nUnJFUmkwNkNaMWJ6dlRrblFkcnljaTRYQnpnNThmM3k3Ynhpel9xcmJpUDNGN2FzYUZnckJjc01XaGlhUFJTSXdZdDc2dmtDeEtweHI5R0phOFoyeUFLN1FIc2ppZFQ3UUVuYnVkRWZEV3R0N1RMQ2lxMGU0a1dwcncwQzI3?oc=5",
-        "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxkaWNlbiUyMGV4cGVydG9zJTIwc29icmUlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTUyNDA4Njl8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 14:44:00 GMT"
-      },
-      {
-        "title": "Ingram (tendón de Aquiles) debutaría con Clippers vs Rockets",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalRQRE40cXpSTE15ZWNHQ1U0dmNDZU14dEE5Umlrblk2VHR1bkNpYWpUb3NLSFY3NTMxUWZ2VXYxck5hdS1HbTFQVmxRMi1fNWFmUmFQNTloNnB4RTREWWNsTGU2LVJsaFVSdF9kUnp3VkZUMEJoUjRNUUhXR2FHZ0RnT0t2RXlWbldMVHptVmkwTWhQTkZJUXo1MmNaZzFsZVhpeHQ1RncwZGVKc05mTnN3?oc=5",
-        "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1518407613690-d9fc990e795f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxpbmdyYW0lMjB0ZW5kJUMzJUIzbiUyMGFxdWlsZXMlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTUyNDA4NzF8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 20:49:00 GMT"
-      },
-      {
-        "title": "Lillard castigó a los Bucks y Wembanyama llevó a los Spurs a la cima del Oeste",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjV3YWwyaVk5NWttM2d5OVhaekstdldwZ3Y4YU16emNWand1R2gtUVdYMGtkcGhfWjFQYlRRRG9BaklmNVVUektUcVZXb2pFbHlrU0F0RVUyQ2dyR09tVV9QajlTbV9od01LMS1pYzRPcDlfc0lmTW9qOXVNQ05oS0Q2cWN6NTJFMjI3dW1PUDNlbld5MVN0TE00MUg0bHFGcHhaU04zZVVONlhNTnpELU9Tdw?oc=5",
-        "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1609638228044-b3d4735d414a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxsaWxsYXJkJTIwY2FzdGlnJUMzJUIzJTIwYnVja3MlMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTUyNDA4NzJ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 11:01:00 GMT"
       },
       {
         "title": "Atlético Mineiro vs Boca Juniors: ¿Cuál es el historial en Finales continentales entre argentinos y brasileños?",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN1F2WWRncWJuOFFPajJiei1lajY4Y3d6cE1HcGVtby1uZnlOcTFvQnRzX2g3ZFhvMW5HNTdaQmVlZi1rLWpHRDhNdE5wSWJFZ19mWWRndUlsWFp0Nmd1ZENkczU5bldCbTk5ZDBsUUl4Ri1sMDVUdXFFSXJuM3ZMOU1WZ2FVRDJOc29uMF9wbzlvS3YzNl93dUtMOXlYSVV1LV85bWh5OVRjWlBGU0RIa2lYZFo2ZHZZTFBOdmpTWTJ2cFNjbXFoY0c5YmJRZ2did1FfUUwyOWk2RGZzUXJ1VEtWZHpNcm9LQVk3TG5qN3l6azduQXc?oc=5",
         "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1722185939161-faf9443c550e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhdGwlQzMlQTl0aWNvJTIwbWluZWlybyUyMGJvY2ElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTUyNDA4NzN8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1793929590028-011eb9a2aede?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxhdGwlQzMlQTl0aWNvJTIwbWluZWlybyUyMGJvY2ElMjBiYXNrZXRiYWxsJTIwTkJBfGVufDF8MHx8fDE3OTUyNzY2MDR8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 20 Nov 2026 03:38:00 GMT"
       }
     ],
     "pd": [
       {
-        "title": "Dubai Premier Padel P1: crónica y resultados",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SeDVJZ2QyemdwaENZY0RKeXlUQUFSVDN3RFdzMTQ4R0hfSzlfSmhhQVB0Tk1FU2plQUJnSjhJbW5IQXZBSmt1eU1NLTM4eWs1TWxSa29rM0hWRTBFelRDUmF2YXRDZ2d2SzBLeUpxQi1udkxVRG1ybVl0UDZZQQ?oc=5",
-        "date": "18 nov 2026",
-        "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=480&q=70",
-        "_pub_raw": "Wed, 18 Nov 2026 15:35:42 GMT"
-      },
-      {
-        "title": "Premier Padel Dubái 2026: resultados de semifinales y parejas finalistas",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsOUVVcUQwT1pVZDBEZ1EzTFVkV0k3bXV6WDFSTmlJWVNjVk9DZHZWWWtLYk42aHF5ZnlWT1FJRjJMSVg2aTgtNkVUdExRY1RmNHJGenk1Q2o1VWNDYkxhQzljTXZmY1FPdWY4bnlMVkthWEdyendpSDVR?oc=5",
-        "date": "14 nov 2026",
-        "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=480&q=70",
-        "_pub_raw": "Sat, 14 Nov 2026 14:22:37 GMT"
-      },
-      {
-        "title": "Resultados de las semifinales del Dubai Premier Padel P1 2026",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX19vX1pHU2xPakVaMHE1ZTNOR3p6UUs5LTlNYU5HeGlZZVh2TTIzVG1FYllheXNJLUdjdWZ0aThBcTdQRzJWUmk4MEEwdHVwZEVCcWlQN25vN2dqVVlGWV82QVJIcmVrU2tkRDFZdl9xTFRLM3FmOXozYTAxUE10VlNlOEVqNFNlbkVuakJNZ2l1Smc?oc=5",
-        "date": "14 nov 2026",
-        "image": "https://images.unsplash.com/photo-1735320861046-1e6b48ec4bd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxyZXN1bHRhZG9zJTIwc2VtaWZpbmFsZXMlMjBkdWJhaSUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5NTA2OTUwOXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 14 Nov 2026 22:52:15 GMT"
-      },
-      {
         "title": "5 jugadores que representan a México en el pádel internacional",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2x1dGllejZQWmpRM1dvd1Q1YWo1YzhaNWRqNFFlTVhhdFVyanpCOFRtQTI3cFkxSWx4YmZWWnB3a0NIaWpnMVNSTzlydk9tRUtRMlF4SERuUC1FVFRSV3FWMlpjWF93S3M4ZnVwd1lKcC1DYlJ0Y2UxWXJtem50WXNFQlFIOEJJUmFCcWo1cFZuYi1CdTNNZmtSWQ?oc=5",
         "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1582412786662-84de0f923f5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxqdWdhZG9yZXMlMjByZXByZXNlbnRhbiUyMG0lQzMlQTl4aWNvJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk1MTU1MDI1fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1582412786662-84de0f923f5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxqdWdhZG9yZXMlMjByZXByZXNlbnRhbiUyMG0lQzMlQTl4aWNvJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk1Mjc2NjE0fDA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Fri, 20 Nov 2026 03:30:24 GMT"
       },
       {
-        "title": "Así está el ranking FIP y la RACE tras el Dubai P1 2026",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSFdseEc1VmU0T1JqZG9WYmRiMWtQRUNfaDdFYmwxLWp6RTRzMXAydVQtaWRaVlBUZXlxVmJyZlZudnYzSWx3RWxsNi1Oc0hMSWc?oc=5",
-        "date": "16 nov 2026",
-        "image": "https://images.unsplash.com/photo-1657704358775-ed705c7388d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxlc3QlQzMlQTElMjByYW5raW5nJTIwcmFjZSUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5NTI0MDg4NXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Mon, 16 Nov 2026 09:00:36 GMT"
+        "title": "Galán también se pierde el Major de México",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWY4MU1xOFJ6VU1XZGk1NE0xRE9DMVVIRFZ1S2lHZHFFMXNMam1kd25PN3lZUjV1Y3hqcmszYl9HaHZKb2hpT3NIYW1BQ3JDVzJKRWRBdXhnM1BsNTNLRmNiWWhiQW9nMmtIbHBtVkk5VHdmS3BlUmJuWUI5SVZTanpDZ9IBgwFBVV95cUxNRHF0SE9IeUtzZWpTeTJvbUlrOUFVNDNPV2V4ZW1US3hEZDRpdkJOSHFNbTVDVzFqZlVtRlVpeG52TWNHSGxJaHJaamdQX3dTR3U1bnhZSF9aa19QYklrWFQyaUNJbFN0dHVYZkdwdTB4R3pfZ0lOSEtUVFdlWUVWUXFVMA?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1709587825175-65de1201ab29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxnYWwlQzMlQTFuJTIwdGFtYmklQzMlQTluJTIwbWFqb3IlMjBwYWRlbCUyMHRlbm5pcyUyMHNwb3J0fGVufDF8MHx8fDE3OTUyNzY2MTV8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 13:46:51 GMT"
       },
       {
-        "title": "Head to Head: Martin Di Nenno - Franco Stupaczuk vs Arturo Coello - Agustin Tapia",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGExRDQ1RmdyZkdHTW1zQ1BNWjRnM1JlZy10d0p1c0ZaQnBPaG03MENvUjZwZC1peUFCV2VGS2UtWTQ4LWFhemM0RWlTamR6ZzhKSHAzTmtNeGE1UVRKLWMxaEZ4cURfTXlIQk5LQ2lIRFZ4TS1MWUJiMUg1RHhSU3VOdEp5YjFMMlRiV0hrS202dGFIQ2RWS0JCQ3Z2ZWVWLU5xZzQ0YUl0VklybkNkcjdqYVpEay1kN2JR?oc=5",
-        "date": "14 nov 2026",
-        "image": "https://images.unsplash.com/photo-1580153111806-5007b971dfe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxoZWFkJTIwaGVhZCUyMG1hcnRpbiUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5NTA2OTUxM3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 14 Nov 2026 22:22:46 GMT"
+        "title": "Dos chavales de 16 años derrotan a Pogacar y Covi… ¡al pádel!",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHZTV0s5QzZZelJvTlRSZnZic3JrREoxWHJWTTRwVVRWTDhHQl9FOUU2ZERtRHZuN1ljMXoxMkdRaVR0UE5BbWR3by1sQVpXM09CaXVvbHZmbU5uRzR6alRZcXNNaF9mSVR3cm11aklGV0l1R0pMUVBKc3VXUHB4YTRJeHEtdjlORXpTaEtlY0ZHaERTR2EtYm1YSDZaOUNqU0Vz0gGjAUFVX3lxTFBtenExRDc4dkNxT25RX3RFRkpzQWREQjBnWndnS0pxeDhtT2czdFNHMFVGUHR1OXJTM2RTeDNuWFlaSGhQdHY2VmtfMktXM0lKODZLTkFHVXdJNGpyTXJfUzVSLTRVMUp4REw4cE5JU0lZVG51VmJkbFZlZDlfXzVNaTNSc1hlbGVCZ2l3N1haNDZqY3FQdEJsUmxOOGhYbGJGcWc?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1613870930431-a09c7139eb33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxjaGF2YWxlcyUyMGElQzMlQjFvcyUyMGRlcnJvdGFuJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk1Mjc2NjE2fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 14:46:29 GMT"
+      },
+      {
+        "title": "Galán, Lebrón, Paquito, Yanguas, Stupa y Augsburger se verán las caras en el primer torneo individual",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWk9ob2hhdkhpQ2dfV0MzOE9GNW5qSUs5QTdaOXVZdmh6VXNBdXd1dHpYUE13ajlrNlIycFZMOU1fN3ozUGJMYi10LTNzSzEyRTRSalhza2R6d3IzcGR5SnRNLTVsVmhjMnVvNWhPd0prU3lERGdDOElCcU55UGJnMFNfTXNzVW50WFdvWTBnZkNkSVpoVzZHcWxfZVM1TEFOQlkwMmVRbnpkODd6UmRwcE9iWWFyUUh1dDVPTGl6bEthcm9i0gHEAUFVX3lxTE9nN2NXclFrbDZlMVJ0dkJTcnRybk1SaEVQN1pWOENERUhndi1Ha3RtbWkzS1NsbEo1VTNtS3RiVW5MQlVHelloZUJCemNqNzNBaUlWdkxpWDgxdENsWGNZLUktMUM3bTFlYnRKNFlwTXBIQnZqblVsWThkYnZSS2FDeXhMVmM3ajJjamoxRnZpdDVfTFpnM1VNQmo3TzlhTk93S3lpaU9GQ3JBalhhMGtyV0ZQR1dlZWRlN1lQZGxGb2NUM2I?oc=5",
+        "date": "20 nov 2026",
+        "image": "https://images.unsplash.com/photo-1613870930431-a09c7139eb33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxnYWwlQzMlQTFuJTIwbGViciVDMyVCM24lMjBwYXF1aXRvJTIwcGFkZWwlMjB0ZW5uaXMlMjBzcG9ydHxlbnwxfDB8fHwxNzk1Mjc2NjE3fDA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 20 Nov 2026 18:14:54 GMT"
+      },
+      {
+        "title": "Maria Laura Ferreya, la jugadora de pádel con hipoacusia que aprendió a escuchar con los ojos",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXBvZF9iU3h5Wi1kVDBQdTRkQWRjd2tTZGlqYUVZV05YMVh3ZDRURXJ1bFptd193REVpQzlwbVRYcy1SMDliLW5POGRrcF9iN0NRZld6bVRWQzVTYVZ4RngyQ0ZhdEZZRGZzeVlTM09CQ19Ga0NyZXhxTkxkZEdLY29GeTZPaWpWZUhpR0V0aWlKWkhzYkg4QlJHSmtGNG5VSHpQTGtrOG1nVVFxV1ZtNVRn0gGyAUFVX3lxTE5odVI2Y3c0M1dPOGgzM1d5VFRpLWFxMFVVZjhOekN4VDZ0aHhCZWo2SjRLWjI5bnZQd3pxYWN5SWtObGZWVDJXYzY1NWpfMkFlN0YwdFZIZWM5ekY3RldBd3Q1TTlPNmxnUDV1ekp2OHVUSDBEZDY1REtsblRKZzJiX1FSUkVmQzdsSE51ZlZUWFBHV3VUV2ZpbFBIS3ZDSWliZXJBRnk1VWc0RlhLNEtEcFE?oc=5",
+        "date": "20 nov 2026",
+        "image": "https://images.unsplash.com/photo-1767128890954-20ce481be8f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxtYXJpYSUyMGxhdXJhJTIwZmVycmV5YSUyMHBhZGVsJTIwdGVubmlzJTIwc3BvcnR8ZW58MXwwfHx8MTc5NTI3NjYxOHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 20 Nov 2026 11:15:12 GMT"
       }
     ],
     "fx": [
@@ -129,7 +108,7 @@
         "title": "Gil Mora hace gol y Xolos sueña con jugar la Liguilla",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR0JqNjF6RUFTcWpBOEs5U3pKOUxZc3FoeHA0N0lVckEzTmFlQ21FNW50MVo2a0lucEQwd1YzdFhuN1cwYWVwWjRPdVdGTDdNUEJsY1FaYmJMVHcyeFM5NWw1bmNMMkpOclBBWFB5MS1lY3lycWJ2eHgxS1dqc0VDSFN2dmxGU3VLUjhsRW1zT0RhQ295OEsyenZSc2ZFLW04aFhnenRlWEtQbFo2LWwzVXRra212SUpkb1dYeGNVZFQzbzMtb1RueDJ2bmIxR2M?oc=5",
         "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxtb3JhJTIwaGFjZSUyMHhvbG9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI0MDg5M3ww&ixlib=rb-4.1.0&q=80&w=600",
+        "image": "https://images.unsplash.com/photo-1698786039213-1d3aec21c6ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxtb3JhJTIwaGFjZSUyMHhvbG9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI3NjYyNnww&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 21 Nov 2026 05:11:28 GMT"
       },
       {
@@ -140,123 +119,130 @@
         "_pub_raw": "Sat, 21 Nov 2026 05:11:03 GMT"
       },
       {
-        "title": "Puebla y San Luis empatan gracias a las atajadas milagrosas de Ricardo Daniel Gutiérrez",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSnlMTDB5MFpzeGZwU0pZVVBya3BBdDBITXYteU05VzVTQkpkX0hhMlY0VGdtNUNaSzhiM2x2LXN4NUNKZWFMTkI1aWNRUmo3QnVGeGlfZjVQSjg2bjEyX0owdWtxbVkxLTV4VEgyWnNhRmsxenZNWEE3V3dQekZoUFc0bnpTaDhwelpDR0k2NW9qRk1wbUxubVBUeE43dWd6QWRBVXZBY1BndFJ1UElMZE1xZHlWbjlfWnJIV09TYTJnUklDMzlGLVZCTTBHRzhQVDZCYXd1WUh5Q00tM0xRdzR5T0F1eEFfWGdXRC1pV1F1QQ?oc=5",
-        "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwdWVibGElMjBsdWlzJTIwZW1wYXRhbiUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTUyNDA4OTZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 21 Nov 2026 02:58:33 GMT"
-      },
-      {
         "title": "Tabla de goleo individual del Apertura 2026 en la Jornada 17",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDF3bEd0UEh4VEdzcEN1SnVQbktxWkVVRGphX1ZlcDdad0RYaGUwcTB1QktmcWN6bUJxM0VId3VsYU1CMFNxeFhQeHAtR0FWbU5mZndaQzJldXAxRmRtY2QxSGQ1eFdIYTROUThhMDBPcmZLUnFBZy1yTmV6Z05WSlMtWXBMNjhyMGNHRnVfY2hpRzBLYWs0Ng?oc=5",
         "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1781298672611-21b4b777c94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHx0YWJsYSUyMGdvbGVvJTIwaW5kaXZpZHVhbCUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTUyNzY2Mjl8MA&ixlib=rb-4.1.0&q=80&w=600",
         "_pub_raw": "Sat, 21 Nov 2026 02:32:57 GMT"
       },
       {
-        "title": "Liga MX: Toluca visita a Pachuca en cierre del Apertura 2026",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeC1tOXVOV1VuM01oQTVMTi1RR0JmVnhHdkhkUnJ1MnpQSlk2d2tYc1RCaF9YQUwxZHh2NW03b0QxWVlSbVVWTllzejhVZEFVZjRZWmplNlVoZXpqNW5BaUJTVXluSE15U0xMWVVXcDRhVF85QXZ0VHpEamdDcHJ6cXFTR2VIYmZxanAtb21yeTR5RUp2Zl9QbFQtMXJZU2RscDdsZWNFTXdlUUk1SFhCNEVrSmQxV3Bucl82cXdoUQ?oc=5",
-        "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsaWdhJTIwdG9sdWNhJTIwdmlzaXRhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI0MDg5OHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 21:19:51 GMT"
+        "title": "Puebla y San Luis empatan gracias a las atajadas milagrosas de Ricardo Daniel Gutiérrez",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSnlMTDB5MFpzeGZwU0pZVVBya3BBdDBITXYteU05VzVTQkpkX0hhMlY0VGdtNUNaSzhiM2x2LXN4NUNKZWFMTkI1aWNRUmo3QnVGeGlfZjVQSjg2bjEyX0owdWtxbVkxLTV4VEgyWnNhRmsxenZNWEE3V3dQekZoUFc0bnpTaDhwelpDR0k2NW9qRk1wbUxubVBUeE43dWd6QWRBVXZBY1BndFJ1UElMZE1xZHlWbjlfWnJIV09TYTJnUklDMzlGLVZCTTBHRzhQVDZCYXd1WUh5Q00tM0xRdzR5T0F1eEFfWGdXRC1pV1F1QQ?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxwdWVibGElMjBsdWlzJTIwZW1wYXRhbiUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTUyNzY2MzB8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 02:58:33 GMT"
+      },
+      {
+        "title": "A qué hora y dónde ver el Pumas vs. Monterrey de la Jornada 17",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOHlNMUVBREs3X0VrY0U1OEdKTTVuaHZRS2pOSXl4Ul9ZcDdNWmNWcGpfTUFWNEdaWUl3M3d2UUhaNEdsQnNaNm5UUC1BZkNFRHV4WXdCTU1RZFg5TjFJMTBkRURHT1hXZ2JfbVlpajB3SU1ROWkxd2dka1ZNTjZqZEdKZWlfUHhGMXd4bnBNY0N4VUQ4U1Yxb1RJOXgyRjBoUi1obm44WjNuTnF1OTRuSGVFTnJXWGZ0cWlEazdvZXJ5UzZMMWxVOGN6cjBKdw?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxob3JhJTIwZCVDMyVCM25kZSUyMHB1bWFzJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI3NjYzMXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 13:34:53 GMT"
+      },
+      {
+        "title": "Tabla general del Apertura 2026: Partidos, resultados y posiciones de la Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ29Ud2NseTFNWEVrd1BuMGxlYmpMdm1MbV9EcU83T1lRYzZhZEVsQ3NDejlYZkszaHoxWXo3MUgzU0s4WU9IY1hwb2RHQ0dyRWR1QUw3YmRnQ2VuSEpvenFJcDhFbXVmNnJBWHdXbnhzOWx6Y09DOFlfN1NkeW1wRlpERUp1Y1Nha3g5Nzl5RlQ0ZFRLZDBvbw?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1674584233496-e77a8aed9ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHx0YWJsYSUyMGdlbmVyYWwlMjBhcGVydHVyYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTUyNzY2MzJ8MA&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 05:47:00 GMT"
       },
       {
         "title": "Pumas. Qué combinación de resultados necesita para clasificar a la Liguilla de la Liga MX Apertura 2026",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkpOeW1jaXh1QnFXTk1RTUg0OWhVclBpX0NTZDdoTHZPN1ZnZkJOemZvYUwzLVNUOGtGSTlVRXlJQ0h2VjY3T2J4QXU0c0EyNXpFTG80SExHdFJYV0RVV2xUNEtFUGpQOEx5R3ZnUWkxVHhmcnZfbWVFel9nYi1IbTZxWQ?oc=5",
         "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=480&q=70",
         "_pub_raw": "Sat, 21 Nov 2026 05:17:00 GMT"
       },
       {
-        "title": "Partidos de la Liga MX HOY viernes 20 de noviembre: horarios y dónde ver Jornada 17 del Apertura 2026",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejF6YUo3NXRwdGlZMjVZVFgwdWxIUUpENi1ZUTdaVzJaR3d4cGtaZkh2WFhaV21Dc2g3alZua2g0aFpHdDdIRG9MTWVPUnltc3Z1NVdNMnJPY05Wc2RaNHhZUDNwOHJtcTQ4Qzd0SjJ4RkdSby10SmtfeU5xMTh2QWs4UnhWdHAwWGNaVXd5VjQ3SUhScEY1cDVSRlo2RDhYZzZ1WlBaejbSAagBQVVfeXFMTjBVV3Vjdm9taVdVd08zZE8zODJsQXUtT1F1UkFKYjJFRHlJMFVQMGgyYzJLN19KQk1WVnU0SS1DNGd1NUJlRHRRWDFRNHpPZTJGbmRYaEdWUDFmTWdlVE44WWZkWVB3bU5LVHNUVmk4OGxSRzlGX0JaMVRwbjFaX3FxaE14SWg5RjlqSEtCNE50eUVpVEF0bndXMWdRUndMLUl1ZmN3N1VG?oc=5",
+        "title": "América vs. Tigres EN VIVO: ¿Dónde y a qué hora ver el partido de la J17 del Apertura 2026 de Liga MX?",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXdFeEFJLWhEOVNYZE5CbkZYaWdCN29YOTBnS1ZCMTlCNEp1MmZncFBKYjBqZnJEY2ptQjVCRGFkSzY1djBWRGNkTWhaZGRBRVM5NWhPXzRCbXlOdnVIM0hrdmZOc1pYTHZ2OEFjajE2ZGFxZEs4WVg2NzlRYkNzNjhGa0xXQWZ4MnlqTndkVWM2NGpYeEpBdFRiNEk5LXVIQmVKSUJfVTFmQzlnbVJmMGpBZVFmb09LVHc?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1676729880087-a79a346e1a25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhbSVDMyVBOXJpY2ElMjB0aWdyZXMlMjB2aXZvJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI3NjYzNHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Liga MX: Toluca visita a Pachuca en cierre del Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeC1tOXVOV1VuM01oQTVMTi1RR0JmVnhHdkhkUnJ1MnpQSlk2d2tYc1RCaF9YQUwxZHh2NW03b0QxWVlSbVVWTllzejhVZEFVZjRZWmplNlVoZXpqNW5BaUJTVXluSE15U0xMWVVXcDRhVF85QXZ0VHpEamdDcHJ6cXFTR2VIYmZxanAtb21yeTR5RUp2Zl9QbFQtMXJZU2RscDdsZWNFTXdlUUk1SFhCNEVrSmQxV3Bucl82cXdoUQ?oc=5",
         "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1725772387870-94c3590bca48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxwYXJ0aWRvcyUyMGxpZ2ElMjB2aWVybmVzJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI0MDkwMXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 14:08:00 GMT"
+        "image": "https://images.unsplash.com/photo-1560825231-0251b61c8de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxsaWdhJTIwdG9sdWNhJTIwdmlzaXRhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI3NjYzNXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 20 Nov 2026 21:19:51 GMT"
+      },
+      {
+        "title": "Chivas vs. Cruz Azul, ¿Cómo y dónde ver el partido que podría definir al líder de la Liga MX? | Apertura 2026",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2ExeUJfWFJNOHU1M1Vma0NLTkhPcVZ2RGdEclJhbjg1LTdVTDg3VjNkeGl5ZF8xd1ZJUHZhNlNsamNYdE12OTV0NUh5WFp1RXlJSUVmX1ROLU5HUE54LW5YTC1wTDRDV2tsQ0tMRlhxM0pCNklQMmhDQmc3N1MtSnEwcmtMSkdjZEtQUTJfX1J5QW5RclE1Tzl5cU5lUTZuVWVpN0ZzR1FodFJ4ZFF4dXlpNGxRYnRtY0RnakEzQWc?oc=5",
+        "date": "20 nov 2026",
+        "image": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=480&q=70",
+        "_pub_raw": "Fri, 20 Nov 2026 00:13:00 GMT"
+      },
+      {
+        "title": "Chivas vs Cruz Azul EN VIVO: alineaciones, dónde, cuándo y a qué hora ver el juego de la Jornada 17 Apertura 2026 Liga MX",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTUtGUXE0cUd6WEFRNHd3M250cWN4aGhUUWUxUXUtVW5IOElTSUREMm9qTmFnYlYzdXcxUzU4aGY3NW51TEZkdjV3QTlERHFfMlpjX2R6SDI0Nm5hMDJaN3hoOHN6QlBsdG5sTUQ4aTVJYkxHb3ViWTNnZzV3WUNpd2pWQkpaV3pjenBZZHBKMWVLc0RQU2s1U3FPaFVCc0hsTU0zWE4tWk5IMHZXaWV1QzJGN1BONmQ1YVlaQ3hUVjdId1hvdmFLTWd1a0NZQ25KUHJtSkpvM1VHak9Ib0FlQXp4Skc1VmvSAfsBQVVfeXFMT1FVdER5Um1sWmZmM21CenhvVzVkbnNwQ01lU0tsQjNOa3l5YnVmQnRDZ0I2QjRJdjM3QnJNeU5Pd1dZWUp2NGFRdi0zWHlMeGVFUWdZR19kZlhnaHdiTHN0UlREVnBmbnpLRXRaRG5zN0sxTFM0YnI2VG5rQlYzamYxVFFyc3RQRk8tMkRqei1OdmV3c05LZWNteXBwVms1b0pQdUc2ci1lallJVk1RZkUxcDFHS21oU2JZQzN5UDNzckVReFVFZF9ZaEdoRDJPY0dkZVJQd0hMTy1udXRSdUc1aXlaLS1malYtNXItMUN2S0NwUTFkTGxRVms?oc=5",
+        "date": "20 nov 2026",
+        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
+        "_pub_raw": "Fri, 20 Nov 2026 19:13:36 GMT"
       },
       {
         "title": "¡NOCHE BRAVA EN JUÁREZ! 🔥 | Juárez vs Atlas | J17 | Apertura 2026 | Liga MX",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEl0WlN5cUw4V0JDQTZwdFVKZjV4bHFXVkpQd0VGVEkwTDRyVFVZWWw5NTIzRHgwYXZuUjdyY182bWI4TFRQeUh3ZEl2UDNoQzZ6dmxPYVhQdmNWXzJfT1pyUTRMeHEzeWxzTF9GZnN6ck5sM0ZTSEtkZXlxelhZaXFVNXptaHhhMHFMRHFOdXpJUnpEb1owTERTWm85QlpSR1RTSDEwUQ?oc=5",
         "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
         "_pub_raw": "Sat, 21 Nov 2026 03:11:03 GMT"
       },
       {
-        "title": "Liga MX – Apertura 2026: Horarios y dónde ver EN VIVO los partidos de la Jornada 17",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHpKSUJqRi0wY3lFUXN0dXV2UDdXeHF5bl9zSFNHLUNMUS1TQ2JNeDZubGk5NGRyS3NRbF9LdklNbUFwZklIWnRxR0p6YXVjWnNHVFVpaDBvUTVpUkZ4QndsYzdRVmJldEh2TTByVlR3eHNfS2JsYnpwM2QwU3VyU3lCczY?oc=5",
-        "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxsaWdhJTIwYXBlcnR1cmElMjBob3JhcmlvcyUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTUyNDA5MDR8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 16:34:26 GMT"
-      },
-      {
-        "title": "Liga MX: así llega la Tabla General a la Jornada 17 del Apertura 2026; Cruz Azul defiende el liderato",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnJOT1ZfMS04Z21oZWxjanM1ZF9oNXYxZ1Q0Q1NTeWRzUXgyTkJQT0VMWXVqM19QdDdlcHd4RHZBczRWTFlaM3k3Tm96ZTRVcV9JUi1PMVIyQk1KZjZHZW9xMDhVNkpMR1EtdjFDYWRDd2hORnF1d2tuRmhtQm9wdlc2Vlk?oc=5",
+        "title": "El panorama de Cruz Azul, América y Chivas para terminar en primer lugar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0JOQmN4dzhhLW42Y05xbzFIdWJuRF9rdFhWbFhvdUFBRTVZYTJkTjM5VWJVQ1ZSUHVMTnh4bGNMcVpOd191Y0ZkOVNYQ0tlQ2RoOUEzSlEtanA1OGhTRTRLdHlhQjBnYnpJalE4XzlvN3V5a2JNQkJ2MmFybDAwcEZzZ1BhLWp3eHpKMHVvaVRpcFJGRDF4azM3VE9jSXlTdlk3cThhMDBoZFdXSWJFQnBB?oc=5",
         "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1784522415673-e03114ad1abc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwbGxlZ2ElMjB0YWJsYSUyMHNvY2NlciUyMGZvb3RiYWxsJTIwTWV4aWNvfGVufDF8MHx8fDE3OTUyNDA5MDV8MA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Sat, 21 Nov 2026 01:48:17 GMT"
+        "image": "https://images.unsplash.com/photo-1582238625680-0ea79a8ac668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxwYW5vcmFtYSUyMGNydXolMjBhenVsJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI3NjYzOXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 03:34:44 GMT"
       },
       {
-        "title": "¿Dónde ver a México Sub-17 en el Mundial de Catar 2026? Canales de TV y streaming",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVJjUENIZ0M2U1ptT0xSTXp0bUljc3ZJcThGRTFid0JoYkR1MWEwRlhzcGVQYlZFMTVybWUtdE9yREE1MERpaFJDa1U2Z2s0ZHExR2UybW5XQndaa2pNSjJOZHRfMkpzTVlkeC1QcEl4WjhSLUtETFR5UU1oYlM4TEswQWdaVTZhdG03ejVCYVYxR3U3b25fcGJ0ZmFwcTBpODUxOUpIV0dhdW9KNHl1NW1jbWh0VXpvNnfSAboBQVVfeXFMTUJMNW52a1ppTUxoOFNueFRGazZUdUxTbXF0eWhselFzLTBLMGJtZGtSaWg3cGpWcWNhV2N2UzlEM2dJOFpRMGlsNVNqSkdqN3l3Vk5ocDhIdjQzSFp5dnkxLTdTTXlldmYwYjdncnY2eHhrWktOUWg5UkVEbTQ3Q0U1Zy1BUDJPRjdTa2tIZHo5UWNRSmNhSjFrbXQtcG54ZWdfLWpDX2FpaEpGeldXWDI4bDVOX0tiaGdB?oc=5",
+        "title": "Benjamín Galindo y su marca especial con Chivas y Cruz Azul",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNDdSUEMyeGpxTlJKcDRieENqVXlJMkJrOTMtUDRSejhVcHRjWGRQYWVFZENabVkxRkI5bndjMnlpTzZxYkpSYlVWdEdCd2pPNW81eGdncVB6UEFJN3N3Q21vdnd0bVBBYkloZ1p0RHNXS2tnVjBQdTV3eGxLRlJEYm5qbWdvdWZibjF4MC1MU3F0dGxtZTVYaTJfZlFPdy1FelBlUTFCZE1LTGh5M0NUTHNjWjd6Z9IBygFBVV95cUxPTnBvbVZFTC1tcF9ScElqaXNEeGtYY0VDcG41N3BhZno5RUM5WG1XYjNuMkl0XzNQWVJYWWlLUHRiUWxONFNYcjJQbzl5eWRlOFdVM2xLUkF0WFpUTzh5SExBNC1oaGpwbFgyVHFWY052ZHpZSy0xWXBnLVJUUlFFRjlOcWtoT1puaDQ0VFZaY2F1RGpLRWk1ODA0UExqOWl2Q1VpNGhRd3dWQXJsbmpIZWJnX2F4TnYyZ0xvdWdJcGkxU21SNXZsSGpB?oc=5",
         "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1622321227689-d5f73613a167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxkJUMzJUIzbmRlJTIwbSVDMyVBOXhpY28lMjBtdW5kaWFsJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI0MDkwNnww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 17:16:24 GMT"
+        "image": "https://images.unsplash.com/photo-1698786038024-760d2ecfff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxiZW5qYW0lQzMlQURuJTIwZ2FsaW5kbyUyMG1hcmNhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI3NjY0MHww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Fri, 20 Nov 2026 22:48:12 GMT"
       },
       {
-        "title": "Selección Mexicana e Irán podrían tener partido amistoso como agradecimiento por hospitalidad en Tijuana",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc1NoM1FRZGNQYjdxdEVCRnhXSkNEcWtpczhMOEtIbHNycFdLRUZjbF9qN29mbThkenBlaEtWeVdhVVA2aU9CbWJSXzVpdUlfeGQ5NUlZSHE5VW0wcWIyTFFmUV93RGNXUXY5ZXNveFhQRVlmbTdmWjI3VnBvYXh3TG1PWS1wdDhDVjdGWFFCdGhkMi1QMEFCamtXOXdnOVZaZmlfeXNSemFpR2ZMTlI4TFU0SU9KNzhTa2JRYU11WmJfMlZKbUZ5NTJlVEJUaXpiRGlXNkVlckxGN28?oc=5",
-        "date": "21 nov 2026",
-        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
-        "_pub_raw": "Sat, 21 Nov 2026 04:01:00 GMT"
-      },
-      {
-        "title": "¡Arranca la ilusión! Conoce las fechas y horarios de los juegos de la Selección Mexicana en el Mundial Sub-17 2026",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSGJfSkM5cDIwQXFqa0JwNGNoZ3V3bVo5WTFJNkNvWnI4T3RiT18xNllvSDNxOFN5X19LQ3Jfa2VySmdXdS1FVzB1YzY0QmM3YjZYb2E5WkhxUUlGMjZEZy1NSGZYQy1lYlhYSGZzYjEyZUlxYi03Wnl3QTMzb3N6aGhCOUNoRm1qRk5vWkZkYjFFVnUtLWJlM2QzY1F6UHVBVGhFUnpsaFlxTW54eHpMY1pvTHRwM0ZMUy1KNEc5bE11MVFYRlZJ0gHHAUFVX3lxTE1tZVFJMUdpWS1zRkNqT2x3YXpaQWRnS1h6RHRYSndkb2NUajlWX1F2Z3kwQVg2SEpJMXl3cUlHaWVDVjg0RlpLbGVOV0E2WFBxRTRFNXpyb1RGMDJMc0VXSXhyNzFjUVJpaC16ZTBnZEV6cXRrMV9ISlZ3cjRjcVBGczllZEpERzlaMzlEV0twYktuWkNSTk4zWk53Mjg2MTJEZGJHT1o0QTRlYXNrQW5feGNjWm1yU29xbTdsMC1NUm1JLTZiZk0?oc=5",
-        "date": "19 nov 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwxfHxhcnJhbmNhJTIwaWx1c2klQzMlQjNuJTIwY29ub2NlJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTE1NTA1NHww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Thu, 19 Nov 2026 16:54:00 GMT"
-      },
-      {
-        "title": "¿Quién juega hoy en la Liga MX 2026? horarios y canales en vivo de los partidos, viernes 20 de noviembre",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWUlxZEpDYmJiVFpzNG5fOUVidnp6cVZhSTVvenhDYlhUVFlvNFdhNmFnN3lERFZwVEkxWEdzUUduTmJvcTdpcW9iVzFpeHBFZWRySUJIOGFkSVN0QjVPLU00NURkZWtZMUhqSVBiMVZRZFVhTWNtYXlVNm83SGxMaUdyd3M1a3BXcUt4NXk4X01qRE5GOGd6T19ScHpGM2FaQ3V6OXBvc3hXcS1uMnVsTW1hYzhjbU15ZlhzREpkdFJ4b3hR?oc=5",
-        "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxxdWklQzMlQTluJTIwanVlZ2ElMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI0MDkwOXww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 20:20:06 GMT"
-      },
-      {
-        "title": "Barcelona vs. Villarreal: ¿Dónde y cuándo ver la jornada 13 de La Liga 2026?",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUV9URWRYZjJYcWN2dUVoNlVlbmtNQ0JXZUJaYVlpUTQyQnRtMFJCSnM0TlhIT2FzVzFoOEVyX05HZm9fSGp1MWdObzRGUkxEM0tNZ21IX2VQdG90SWNobHBVV2plZll5YmZRRDEtUmhLcUkyODNreEtUY1lXVFVrbXR4X3gtUkZqcGFUeFAteTE2Z3F1MTNnN0U5VnV3aDBZN0NyRWJhUllHMFo3bzE3aFlucEIxUQ?oc=5",
+        "title": "Cruz Azul va por el cierre ideal: conservar el liderato y el invicto en el estadio de Chivas",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0FtU0VIcG82eURvZzBJbmhDRjBMbTJtTDhNSlVfU2lETzlYalpmWElWRVBOTVdTbVFReGJ0M2FNWl9CN2xrWngxcUR0U1ZycWtlQ0NXRFFiMG9waEdBS2tmejhYb2RQSGozM2NSaU5YbXRXNFdlY2R5dkpzU056M3dzemFXWUs2YlNvVjYybGlvTzM3c3BsdlRFZkZ0WmQ3eWfSAaIBQVVfeXFMUEVsUXNTN2lheVd3RDdadWtNZUxGSHFkZ1hUd3FtM3dPQ3R2ZmkxWk1iZUtyOUpIMU5EbGJwMlZOd3RrSEc2eE9maHJhMTVrSHJ6VV9SSG1XZmExUXF2QUVka2lHQmxjUWtodFA4bVhIVlNESUxod2NmRXYxaFVJMGJKYTZqMWxadFYxYjQ2QUNoVkhIWnJiWXBmUlV5eWV2Z0tn?oc=5",
         "date": "21 nov 2026",
         "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=480&q=70",
-        "_pub_raw": "Sat, 21 Nov 2026 03:08:00 GMT"
+        "_pub_raw": "Sat, 21 Nov 2026 10:22:00 GMT"
       },
       {
-        "title": "Liga MX: Horarios y canales para ver EN VIVO los partidos de la Jornada 17 de este viernes 20 de noviembre",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRjM3akJVRHpzSE1DUFBFVDg0WFhZZjEyb3hIVVNuNTlwZ3l2TjFrbngtRUZrNWpNckxlSUVySEVwRW5PcUNxSjh4TFZUamw0LWZzY2JUWEdFNnFRYUkyZy1xYXFwWFlIYVBsVjI1anJVdkJEZ21DeW1oMEJNTER2QTdLSzhMUW5GTFFUeUs2SEN6N3kyX1MxZXh6eEVXWXdDRF9OZ1pXUWtOSUl6QzMzeWdfcmhWMHVZU3hPTEdGMHJfb0x0OTFteWVoeG5ZOHczbWxGb2FaS1lGMTBTY1duaXZIUdIB9wFBVV95cUxPbEFMcTl4eHA4Q1N5TnptazlENktIZENKdmZHRC1ZNEJ4TXhyUmtMZWN5eWF2b2lNbTZ0U2JDXy1QbU1SR2JaQXJ6QlhQODRmUHBRTGFjREk1WThqS1A4WEdPUTlFV1h5bnRRcVN2UHdwWkZmbXJxVTFXTDYwdWpGdm5vQ2ZEcnV5WEczMHlaSUNvUktfZkdfa0Q3ajRiNUFhNHAtZ2VlQTdVMzJoZjZWRFdsdUlFOEEzZXpMZmFwcFZrbDQ4V0ppX1N4Vy14aGdxZnJVVm44SXphSkJXdlFyXzNjQlh2VTJIeFhqenBjNkFnUEtvYzJz?oc=5",
-        "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwzfHxsaWdhJTIwaG9yYXJpb3MlMjBjYW5hbGVzJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI0MDkxM3ww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 15:00:00 GMT"
+        "title": "Jornada decisiva en la Liga MX: ¿estarán los cuatro grandes en la fiesta del fútbol mexicano?",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUVVMY0RiVk94VjVGMXdnNmE4ZnoyZVJGdVVSTlZtOUlPV2lOeTZhTVgyY2x2bnJwaHZTZ2puaFVBd0xsUGlxcVYtYWg1dHNKQmtPX2FCQjUzWkVyYnNoRWU1eHhGZ1diZjlEV2Y1LXNqTkNjcHk3US1haUV5V1J6clVhRl81QjBMLWttNEI1Mm9RZWN0cHdxdG9wSDJHVUJCSUMyTEZIOFU?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxqb3JuYWRhJTIwZGVjaXNpdmElMjBsaWdhJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI3NjY0Mnww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 02:03:00 GMT"
       },
       {
-        "title": "Jornada 13 de la Liga: horarios, resultados y resúmenes",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGFVa2FodXU5bFpENFp5ajRzVVhYc2FvVWROUzlkRmxZNjVGcWlZNGtjanlpSjlQNlZEbFBNNkRBODY3OU9CZGFZcnYtWHhwOWVsdjhCSkFwc2RLVmRONEhTT0h2OEVMdU5raDJROWZWaDBRaFFzMjlOdUoySmx4NTNFOXllSXpzVndBbEtGUXNHekhwWWxaRE9qMzFVa1E3N0w1bEpqQnBuMF9WR2kzTUhDMGhZeDZ6OGfSAc4BQVVfeXFMTzNmUGx1bnRoM3FwaDMwY2l0N1p4bWRIQ1JVZW1jc19ucWVfZ3c3OEFnR0pQWktRS1ozMDUwSXdnWlpsbXc4OEM5NEZqMFFSek5rY0NfUGoyX3dpbGVaV0NTTUdoOUotRlcxYlU2QmJqUExZUEMySllkMHhJRVlYeTZvNXNELTJVLTQ0WVZPcjBpT0c2T1doNFVYX2hSSTcxdTMtWWFuRW5aT2w4dWhxYmRoZjRiR3hyYjF2dlZkb1ZfZXFoRHo4MGs2bHdKRmc?oc=5",
-        "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1725772387482-12261dbaa091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw1fHxqb3JuYWRhJTIwbGlnYSUyMGhvcmFyaW9zJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTE5MzIxNnww&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 07:30:00 GMT"
+        "title": "Cruz Azul tiene un plan; este es el objetivo del club para superar en TODO a Chivas y América",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYkJIN2ZfRVVEeGZuU013NlRxZlZFR242cHA0NHMtRUsyQ19ldWVrZ3lHbDlpY05SS1BFQ2x4UUlmZE4yNVRYMDFhWTB3SFk4TDBKLUFUSURNVHUwZzdkaGU3NmNqWXRxQzFENFpKVS1HM1lNWU5ab2FrQ21MQnRHV1BPcmhZbXcxQjg1akJHR2w0MmlJY0lxdm40NEx2ZS1yUm55VktaalRoandzUmNoRmJ0czJ2UFJWcWpNQXkwTU51cTU3c01zdHdwSlRnUQ?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=480&q=70",
+        "_pub_raw": "Sat, 21 Nov 2026 14:40:28 GMT"
       },
       {
-        "title": "A qué hora y dónde ver el Tijuana vs. Atlante de la Jornada 17",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdkNnbFhEdWxKUzNRUUJ3WXc2a0U1ZU9TM0h3cUp1eThqRVI3TGw4Q25PQlN4TFRKQ2ZLeHdmNlZQRldyX3BZdWZDVk1DOVBxQUNzaG1iTzlYbDhIZ09GMmcyNVZxUm1wT3ZCazZXZnZJSFF4M3g4Vm56UllpUmJHcE9fNEJadWpEOGV6S0c3akVPYkg5WklGdE9NRGVFNWk4ZWgxeUZfRGhqY3JqM0pfY21PUkhfM3VNWk1HcnlXNko1cEE5a1VSZUQxTFVTZw?oc=5",
+        "title": "Cruz Azul defiende un récord de la Liga MX que no tienen América, Toluca ni Chivas",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajNQcWo0aWhWcXhZT1J3SFNzWVY4NnVCeUhRdWF0QkhZbU5waU83MXVwMEEzQ2tCWTBic3Z1QXZyRTBzZ3U1a2R6NDk5NGlrVFRQUUNoLXhUSGtHY2RSbVJxZjFockdKRTBOMzUzNlRWbGtiQWp1VksxMjdqNDJ6OENUQ1VZWUNQTFUtQlNmdC1MbEowMHpMX3ppWVNVeHh2eDdlYmhVZHZ3S2lUYW1uT9IBsAFBVV95cUxQU0lqV1dtLVhvbFAyNDVmRG9BeUJyV1RBaEV3QjE4Zk5EWHhzaHBPQ25fZ19lckZFY09iQXYyekVxWUxjX180LTZWMmRyUUZCbWowQmpZU2dXMXV4QkRHbEFmckxqS0MwM2V2VFFMWUxVcWJrX2F5b1dqaFdmMjZDSkR5cC1vODhHekQ5NFZ4NGU1OE11b2RJMlpKZGF0TGJvcVFESlBWRHNSOVN0M1pKaA?oc=5",
         "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1695076994814-98d9598c8d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxob3JhJTIwZCVDMyVCM25kZSUyMHRpanVhbmElMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk1MjQwOTE1fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 12:55:13 GMT"
+        "image": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=480&q=70",
+        "_pub_raw": "Fri, 20 Nov 2026 19:51:00 GMT"
       },
       {
-        "title": "Jornada 17 de la Liga MX: Dónde ver los partidos EN VIVO, Liguilla al momento y qué necesitan los equipos",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWG9UVTM0ejAwRm1ObHI2R1J0bEprQ1ZFMnZ3YngyeG1jcmhoVlpYX081dGRXb3BxaWZjMFZBNy1XNlY5dm5CSUhVSVFUMHl3NTVQdW5IWTdYQUF5RmFQV05QdzY3aWtGY3UtOVNsTlJuTVNGQ3g5VXpfVHBzS0JFNEZvdUQwTENnZ0ZMZVJ0ZzY3MzR6OTJCRTVHaFZldmVPUnpObG9qY0ZBNVVPcjlrUjh3alZvTjQtNXBOQnFLTTlqc3BQSXJwUldpMExfb0NQd3h4cHNNTlNSNFdhby02SWg5ek42aWg1SzNpcQ?oc=5",
-        "date": "20 nov 2026",
-        "image": "https://images.unsplash.com/photo-1520621547148-caeb79466a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHw0fHxqb3JuYWRhJTIwbGlnYSUyMGQlQzMlQjNuZGUlMjBzb2NjZXIlMjBmb290YmFsbCUyME1leGljb3xlbnwxfDB8fHwxNzk1MjQwOTE2fDA&ixlib=rb-4.1.0&q=80&w=600",
-        "_pub_raw": "Fri, 20 Nov 2026 04:51:00 GMT"
+        "title": "La Selección Mexicana de Futbol Sub 17 busca su primer triunfo en Qatar 2026",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzFHYzJMY1RtMTlNVHNzYkRIaDR5ZW8td0o1TFZoRk5rbEVWcXhTZFh0d0tqRFM3T1NLTm5lVnpVdnB0R2pMVmlURWhNeVgySW5nd2dEUk95TWJNeTNVUkxMNFNYQWlCU05ZM3YtR1l3QlBuZmtYYjhWdDJteDBCWWV3MHhRZjJBcXNSTVZVZkNaQVJ4UklKS2RiREJ2cUtLS1VjcUNqYUlKWEViU2pzSVcwbEJxdldWdnc?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1631926284417-b25875bdea31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTA5Mjl8MHwxfHNlYXJjaHwyfHxzZWxlY2NpJUMzJUIzbiUyMG1leGljYW5hJTIwZnV0Ym9sJTIwc29jY2VyJTIwZm9vdGJhbGwlMjBNZXhpY298ZW58MXwwfHx8MTc5NTI3NjY0NXww&ixlib=rb-4.1.0&q=80&w=600",
+        "_pub_raw": "Sat, 21 Nov 2026 04:43:05 GMT"
+      },
+      {
+        "title": "Dónde ver México vs Rumania: Hora y canal TV para el debut del Tri en el Mundial Sub-17 Catar 2026",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0UwNVJUVFNCVkFMTVdMWlVfV2ZvbzRZMmJIV1NJYkJfX0NlQnFrOGpYYnRrVC1QUFlVcGttRTlrM0lPN0VvOU96TURvdkQ2WlFSQWlXVWNhcU81ci1Da2xtYWFhSjZpLTNMNDVmMThiZmJUcGMwY3Z0b1hfY1R5RkdTVG9abGY5eVB1ZFZsNmlNQ00xN003cVRJdTl4TDhjb3VMS0FSNDNMYWNFU0NyOTZhV1oyS2FjRU9HUzB2NHN0RndsM05MWDRDdlrSAcwBQVVfeXFMT01kQ2pSVUhGVlB2bzFBdldlZWdMSVd4VE5kNlVBT1d0MWdrWWhCNVJDeTRBaHdKR1RYM1VFV1BDblNXZkhBOVQ4NVBtNFU4azhTTzhVWW1yOEpkVkhuTVJBZGgwb0EwVEZZQ2RyUlFwck5MdnVkeXdxc0NzT1ZqNEpoS2t5T1ZNMVVmMkFCS0dDVjlNMkxaQlh5RFAyU2dfUWpDQ1NNVGp6dDJsdmxkdkVIcVhyZlBtOWkyak9hMkEtbVNxSUNYdHdhY0dV?oc=5",
+        "date": "21 nov 2026",
+        "image": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=480&q=70",
+        "_pub_raw": "Sat, 21 Nov 2026 14:15:58 GMT"
       }
     ]
   }
