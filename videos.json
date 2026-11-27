@@ -1,5 +1,5 @@
 {
-  "updated": "27/11/2026 07:14 UTC",
+  "updated": "27/11/2026 17:54 UTC",
   "sports": {
     "bk": [
       {
@@ -61,6 +61,20 @@
     ],
     "pd": [
       {
+        "vid": "Wb6sapJFJhI",
+        "title": "Mexico Premier Padel Major 🇲🇽🎾: Day 4 - Men&#39;s Highlights",
+        "thumb": "https://i.ytimg.com/vi/Wb6sapJFJhI/mqdefault.jpg",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=Wb6sapJFJhI"
+      },
+      {
+        "vid": "K_sLDET1xjU",
+        "title": "Mexico Premier Padel Major 🇲🇽🎾: Day 4 - Women&#39;s Highlights",
+        "thumb": "https://i.ytimg.com/vi/K_sLDET1xjU/mqdefault.jpg",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=K_sLDET1xjU"
+      },
+      {
         "vid": "ovQwOLllyiE",
         "title": "Mexico Premier Padel Major 🇲🇽🎾:  Cancha Estadio (🇪🇸)",
         "thumb": "https://i.ytimg.com/vi/ovQwOLllyiE/mqdefault.jpg",
@@ -80,78 +94,64 @@
         "thumb": "https://i.ytimg.com/vi/tswNNOVHWzY/mqdefault.jpg",
         "date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=tswNNOVHWzY"
-      },
-      {
-        "vid": "U0WXM-SRQtk",
-        "title": "Insane return by Tapia during the Mexico Major",
-        "thumb": "https://i.ytimg.com/vi/U0WXM-SRQtk/mqdefault.jpg",
-        "date": "2026-11-27",
-        "url": "https://www.youtube.com/watch?v=U0WXM-SRQtk"
-      },
-      {
-        "vid": "GyQN8Zhd2ig",
-        "title": "Mexico Premier Padel Major 🇲🇽🎾: Cancha Mifel",
-        "thumb": "https://i.ytimg.com/vi/GyQN8Zhd2ig/mqdefault.jpg",
-        "date": "2026-11-27",
-        "url": "https://www.youtube.com/watch?v=GyQN8Zhd2ig"
       }
     ],
     "fx": [
       {
-        "vid": "7JGrml5GxXc",
-        "title": "Vázquez ✨",
-        "thumb": "https://i.ytimg.com/vi/7JGrml5GxXc/mqdefault.jpg",
+        "vid": "p4-gXy4DnaM",
+        "title": "REFCAM FC Barcelona vs Villarreal CF",
+        "thumb": "https://i.ytimg.com/vi/p4-gXy4DnaM/mqdefault.jpg",
         "date": "2026-11-27",
-        "url": "https://www.youtube.com/watch?v=7JGrml5GxXc"
+        "url": "https://www.youtube.com/watch?v=p4-gXy4DnaM"
       },
       {
-        "vid": "vlWKivS7kJw",
-        "title": "¡Vaya dupla la de IKER LUQUE y YASSIR ZABIRI!",
-        "thumb": "https://i.ytimg.com/vi/vlWKivS7kJw/mqdefault.jpg",
-        "date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=vlWKivS7kJw"
+        "vid": "wLsKZ3esrP4",
+        "title": "Real Madrid 4 - 0 Deportivo Alavés 2017/18 PARTIDO COMPLETO",
+        "thumb": "https://i.ytimg.com/vi/wLsKZ3esrP4/mqdefault.jpg",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=wLsKZ3esrP4"
       },
       {
-        "vid": "JsMxD2gSM2Y",
-        "title": "ZABIRI es COMPRA FANTASY: ¿puja ideal? | LALIGA FANTASY SHOW #12",
-        "thumb": "https://i.ytimg.com/vi/JsMxD2gSM2Y/mqdefault.jpg",
-        "date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=JsMxD2gSM2Y"
+        "vid": "ehfSmM1j3V8",
+        "title": "La impresionante carrera de RAPHINHA",
+        "thumb": "https://i.ytimg.com/vi/ehfSmM1j3V8/mqdefault.jpg",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=ehfSmM1j3V8"
       },
       {
-        "vid": "YjEHZsBVTQc",
-        "title": "Javi Guerra: TOP 1 asistencias del Valencia",
-        "thumb": "https://i.ytimg.com/vi/YjEHZsBVTQc/mqdefault.jpg",
-        "date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=YjEHZsBVTQc"
+        "vid": "cXhQ8wK7ECE",
+        "title": "RC DEPORTIVO 2-4 FC BARCELONA 2017/18 | Resumen ampliado",
+        "thumb": "https://i.ytimg.com/vi/cXhQ8wK7ECE/mqdefault.jpg",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=cXhQ8wK7ECE"
       },
       {
-        "vid": "O35TIqrFrCY",
-        "title": "El descaro de LAMINE…",
-        "thumb": "https://i.ytimg.com/vi/O35TIqrFrCY/mqdefault.jpg",
-        "date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=O35TIqrFrCY"
+        "vid": "HxW3Mv39fHw",
+        "title": "Héroes de El Plantío Burgos CF – 42 LEGADOS | Capitulo 6",
+        "thumb": "https://i.ytimg.com/vi/HxW3Mv39fHw/mqdefault.jpg",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=HxW3Mv39fHw"
       },
       {
-        "vid": "uJUN2WCrxuU",
-        "title": "EVERY Champions League Goal From Matchday 5 | Highlights",
-        "thumb": "https://i.ytimg.com/vi/uJUN2WCrxuU/mqdefault.jpg",
-        "date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=uJUN2WCrxuU"
+        "vid": "mPCwwpQB-oM",
+        "title": "Skills, selfies and more 👀",
+        "thumb": "https://i.ytimg.com/vi/mPCwwpQB-oM/mqdefault.jpg",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=mPCwwpQB-oM"
       },
       {
-        "vid": "LiV5XMv1FT8",
-        "title": "Magic feet from Nico Paz",
-        "thumb": "https://i.ytimg.com/vi/LiV5XMv1FT8/mqdefault.jpg",
-        "date": "2026-11-25",
-        "url": "https://www.youtube.com/watch?v=LiV5XMv1FT8"
+        "vid": "EejGAMIAP9Y",
+        "title": "Nuno Mendes back-heel nutmeg",
+        "thumb": "https://i.ytimg.com/vi/EejGAMIAP9Y/mqdefault.jpg",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=EejGAMIAP9Y"
       },
       {
-        "vid": "a_OroDBZD_8",
-        "title": "Jude Bellingham madness",
-        "thumb": "https://i.ytimg.com/vi/a_OroDBZD_8/mqdefault.jpg",
-        "date": "2026-11-25",
-        "url": "https://www.youtube.com/watch?v=a_OroDBZD_8"
+        "vid": "VixVsb_LW_Y",
+        "title": "Your latest Fresh Picks have arrived 🛒",
+        "thumb": "https://i.ytimg.com/vi/VixVsb_LW_Y/mqdefault.jpg",
+        "date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=VixVsb_LW_Y"
       }
     ]
   }
